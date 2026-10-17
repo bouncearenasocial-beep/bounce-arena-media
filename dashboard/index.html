@@ -45,6 +45,10 @@
           min-width: 0; }
   .card h2 { margin: 0 0 10px; font-size: 13px; font-weight: 600; color: var(--text-secondary);
              text-transform: uppercase; letter-spacing: .08em; }
+  .tile { transition: background-color .6s, border-color .6s; }
+  .growth-key { font-size: 12px; color: var(--text-muted); }
+  .growth-key i { display: inline-block; width: 46px; height: 8px; border-radius: 4px; vertical-align: 1px; margin: 0 4px;
+                  background: linear-gradient(90deg, var(--surface-1), #1f8a4f); border: 1px solid var(--border); }
   .tile .label { font-size: 13px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: .08em; }
   .tile .value { font-size: 44px; font-weight: 800; line-height: 1.1; margin: 4px 0 2px; font-variant-numeric: tabular-nums; }
   .tile .sub { font-size: 13px; color: var(--text-muted); }
@@ -79,6 +83,7 @@
 <header>
   <h1>BOUNCE ARENA</h1>
   <span class="updated" id="updated">loading…</span>
+  <span class="growth-key">flat<i></i>growing fast</span>
   <div class="chips" id="chips"></div>
 </header>
 <div class="alert" id="alert"></div>
@@ -141,8 +146,20 @@ function table(id, head, rows) {
     t.appendChild(r);
   });
 }
+// tile color = growth over the last 24 h, relative to where it started: ~0% stays gray, 10%+ is full green.
+// The square root makes small growth already show a visible tint.
+const FULL_GREEN_AT = 0.10;
+function growthTint(value, delta) {
+  if (value == null || delta == null || delta <= 0) return 0;
+  const before = Math.max(1, value - delta);
+  return Math.sqrt(Math.min(1, (delta / before) / FULL_GREEN_AT));
+}
 function tile(key, value, sub, delta) {
   $("t-" + key).textContent = fmt(value);
+  const k = growthTint(value, delta), card = $("t-" + key).parentElement;
+  card.style.backgroundColor = `color-mix(in oklab, var(--surface-1), #1f8a4f ${Math.round(k * 72)}%)`;
+  card.style.borderColor = `color-mix(in oklab, var(--border), #3ccf7e ${Math.round(k * 80)}%)`;
+  card.title = delta == null ? "not enough history yet" : `${delta >= 0 ? "+" : ""}${fmt(delta)} in 24 h (${(100 * delta / Math.max(1, value - delta)).toFixed(1)}%)`;
   const s = $("s-" + key); s.replaceChildren();
   if (delta != null) { s.appendChild(el("span", (delta >= 0 ? "+" : "") + fmt(delta) + " in 24 h", "delta" + (delta > 0 ? " up" : ""))); s.appendChild(document.createTextNode("  ")); }
   if (sub) s.appendChild(document.createTextNode(sub));
