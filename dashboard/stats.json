@@ -1,16 +1,25 @@
 {
- "updated": "2026-10-17T13:05:01-07:00",
+ "updated": "2026-10-17T14:05:02-07:00",
  "youtube": {
   "subs": 8,
   "views": 16369,
-  "videos": 19,
+  "videos": 20,
   "recent": [
+   {
+    "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-10-17T21:00:10Z",
+    "views": 54,
+    "likes": 1,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Ah_yZHyajto"
+   },
    {
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 385,
-    "likes": 2,
+    "views": 506,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
    },
@@ -36,7 +45,7 @@
     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
     "game": "gravity_race",
     "published": "2026-10-16T17:00:07Z",
-    "views": 927,
+    "views": 929,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
@@ -45,7 +54,7 @@
     "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-16T02:00:35Z",
-    "views": 1217,
+    "views": 1218,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NFGOjoUW1pA"
@@ -99,27 +108,13 @@
     "title": "SPIKES or SHIELD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-14T02:00:26Z",
-    "views": 1204,
+    "views": 1208,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yAIqDCeNenA"
-   },
-   {
-    "title": "Squish, Multiply, Escape \u23f1\ufe0f",
-    "game": "squish_split",
-    "published": "2026-10-13T21:00:09Z",
-    "views": 1244,
-    "likes": 14,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=pHUvU1kqafI"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-17T21:00:00Z",
-    "game": "glass_break",
-    "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5"
-   },
    {
     "time": "2026-10-18T02:00:00Z",
     "game": "tournament",
@@ -135,16 +130,9 @@
    {
     "game": "ball_battle",
     "videos": 3,
-    "views": 3755,
+    "views": 3759,
     "likes": 47,
-    "avg_views": 1252
-   },
-   {
-    "game": "glass_break",
-    "videos": 2,
-    "views": 2437,
-    "likes": 20,
-    "avg_views": 1218
+    "avg_views": 1253
    },
    {
     "game": "maze_race",
@@ -170,23 +158,30 @@
    {
     "game": "paint_war",
     "videos": 4,
-    "views": 3643,
-    "likes": 27,
-    "avg_views": 911
+    "views": 3764,
+    "likes": 28,
+    "avg_views": 941
+   },
+   {
+    "game": "glass_break",
+    "videos": 3,
+    "views": 2491,
+    "likes": 21,
+    "avg_views": 830
    },
    {
     "game": "tournament",
     "videos": 2,
-    "views": 1609,
+    "views": 1610,
     "likes": 5,
-    "avg_views": 804
+    "avg_views": 805
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1458,
+    "views": 1460,
     "likes": 3,
-    "avg_views": 729
+    "avg_views": 730
    }
   ],
   "daily": [
@@ -321,7 +316,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4874
+  "last_48h": 4050
  },
  "social": {
   "tiktok": {
