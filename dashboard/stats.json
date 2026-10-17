@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:05:02-07:00",
+ "updated": "2026-10-17T15:50:40-07:00",
  "youtube": {
   "subs": 8,
   "views": 16369,
@@ -9,7 +9,7 @@
     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-17T21:00:10Z",
-    "views": 614,
+    "views": 717,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Ah_yZHyajto"
@@ -18,7 +18,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 562,
+    "views": 666,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -63,7 +63,7 @@
     "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-15T21:00:24Z",
-    "views": 1002,
+    "views": 1001,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fqwzpTY8nMs"
@@ -144,9 +144,9 @@
    {
     "game": "squish_split",
     "videos": 2,
-    "views": 2246,
+    "views": 2245,
     "likes": 19,
-    "avg_views": 1123
+    "avg_views": 1122
    },
    {
     "game": "ring_battle",
@@ -158,16 +158,16 @@
    {
     "game": "glass_break",
     "videos": 3,
-    "views": 3051,
+    "views": 3154,
     "likes": 22,
-    "avg_views": 1017
+    "avg_views": 1051
    },
    {
     "game": "paint_war",
     "videos": 4,
-    "views": 3820,
+    "views": 3924,
     "likes": 29,
-    "avg_views": 955
+    "avg_views": 981
    },
    {
     "game": "tournament",
@@ -316,89 +316,99 @@
     "subs": 2
    }
   ],
-  "last_48h": 4604
+  "last_48h": 4811
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
    "posts": 15,
-   "views": 4806,
-   "likes": 115,
-   "comments": 7,
+   "views": 5452,
+   "likes": 135,
+   "comments": 9,
+   "follows": 0,
    "queued": 5,
    "recent": [
     {
      "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
      "sent": "2026-10-17T22:01:35.819Z",
-     "views": 0,
+     "views": 95,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
      "sent": "2026-10-17T18:03:09.571Z",
-     "views": 0,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0
+     "views": 295,
+     "likes": 8,
+     "comments": 2,
+     "shares": 1,
+     "follows": 0
     },
     {
      "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5 Comment your pick \ud83d\udc47 Follow for a new one",
      "sent": "2026-10-17T02:01:20.912Z",
-     "views": 108,
-     "likes": 0,
+     "views": 315,
+     "likes": 10,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8 Comment your pick \ud83d\udc47 Follow for a new one every day! #sat",
      "sent": "2026-10-16T22:01:37.233Z",
-     "views": 303,
+     "views": 306,
      "likes": 6,
      "comments": 1,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8 Comment your pick \ud83d\udc47 Follow for a new on",
      "sent": "2026-10-16T18:02:58.901Z",
-     "views": 303,
+     "views": 309,
      "likes": 11,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Multipliers vs a Wall of Glass \ud83d\udca5 Comment your pick \ud83d\udc47 Follow for a new one every day! #sati",
      "sent": "2026-10-16T02:02:37.306Z",
-     "views": 207,
+     "views": 212,
      "likes": 7,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "SPIKES vs SHURIKEN \u2694\ufe0f Who Wins? Comment your pick \ud83d\udc47 Follow for a new one every day! #satis",
      "sent": "2026-10-15T22:01:38.771Z",
-     "views": 405,
+     "views": 411,
      "likes": 12,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Squish, Multiply, Escape \u23f1\ufe0f Comment your pick \ud83d\udc47 Follow for a new one every day! #satisfyin",
      "sent": "2026-10-15T18:03:29.002Z",
-     "views": 1007,
-     "likes": 34,
+     "views": 1011,
+     "likes": 35,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
    "posts": 14,
-   "views": 1630,
+   "views": 1895,
    "likes": 2,
    "comments": 0,
+   "follows": 0,
    "queued": 6,
    "recent": [
     {
@@ -407,23 +417,26 @@
      "views": 0,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5",
      "sent": "2026-10-17T18:03:59.246Z",
-     "views": 0,
+     "views": 124,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
      "sent": "2026-10-17T02:01:58.036Z",
-     "views": 0,
+     "views": 139,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
@@ -431,7 +444,8 @@
      "views": 142,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
@@ -439,7 +453,8 @@
      "views": 151,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "SPIKES vs SHURIKEN \u2694\ufe0f Who Wins?",
@@ -447,23 +462,26 @@
      "views": 139,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Squish, Multiply, Escape \u23f1\ufe0f",
      "sent": "2026-10-15T22:03:41.456Z",
-     "views": 192,
+     "views": 193,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     },
     {
      "title": "Who Escapes the Lava Maze First? \ud83d\udd25",
      "sent": "2026-10-15T18:04:18.895Z",
-     "views": 140,
+     "views": 141,
      "likes": 0,
      "comments": 0,
-     "shares": 0
+     "shares": 0,
+     "follows": 0
     }
    ]
   }
@@ -561,7 +579,7 @@
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 1673,
-  "tt_views": 0,
-  "ig_views": 0
+  "tt_views": 646,
+  "ig_views": 265
  }
 }
