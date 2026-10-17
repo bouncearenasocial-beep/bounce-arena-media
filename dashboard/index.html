@@ -204,7 +204,7 @@ function render(d) {
   tile("subs", yt.subs, "", dl.yt_subs);
   tile("ytv", yt.views, yt.videos ? `${yt.videos} videos` : "", dl.yt_views);
   tile("ttv", tt.views, tt.posts != null ? `${tt.posts} posts · ${tt.queued} queued` : "", dl.tt_views);
-  tile("igv", ig.views, ig.posts != null ? `${ig.posts} posts · ${ig.queued} queued` : "", dl.ig_views);
+  tile("igv", ig.views, ig.posts != null ? `${ig.posts} posts · ${ig.queued} queued · ${fmt(ig.follows || 0)} follows from posts` : "", dl.ig_views);
 
   const chips = $("chips"); chips.replaceChildren();
   const run = (label, r) => {
