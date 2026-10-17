@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:50:40-07:00",
+ "updated": "2026-10-17T16:05:02-07:00",
  "youtube": {
   "subs": 8,
   "views": 16369,
@@ -18,7 +18,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 666,
+    "views": 704,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -90,7 +90,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-14T21:00:14Z",
-    "views": 914,
+    "views": 912,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=tfe9Bheu7rs"
@@ -99,7 +99,7 @@
     "title": "SPIKES vs SHURIKEN \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-14T17:00:03Z",
-    "views": 1217,
+    "views": 1220,
     "likes": 8,
     "comments": 2,
     "url": "https://youtube.com/watch?v=aB1TYApnXgo"
@@ -130,9 +130,9 @@
    {
     "game": "ball_battle",
     "videos": 3,
-    "views": 3759,
+    "views": 3762,
     "likes": 47,
-    "avg_views": 1253
+    "avg_views": 1254
    },
    {
     "game": "maze_race",
@@ -158,16 +158,16 @@
    {
     "game": "glass_break",
     "videos": 3,
-    "views": 3154,
+    "views": 3153,
     "likes": 22,
     "avg_views": 1051
    },
    {
     "game": "paint_war",
     "videos": 4,
-    "views": 3924,
+    "views": 3960,
     "likes": 29,
-    "avg_views": 981
+    "avg_views": 990
    },
    {
     "game": "tournament",
@@ -316,7 +316,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4811
+  "last_48h": 4849
  },
  "social": {
   "tiktok": {
