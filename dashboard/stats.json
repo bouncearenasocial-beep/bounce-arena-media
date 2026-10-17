@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T12:05:11-07:00",
+ "updated": "2026-10-17T12:08:15-07:00",
  "youtube": {
-  "subs": 7,
+  "subs": 8,
   "views": 16369,
   "videos": 19,
   "recent": [
@@ -10,7 +10,7 @@
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
     "views": 361,
-    "likes": 1,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
    },
@@ -36,7 +36,7 @@
     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
     "game": "gravity_race",
     "published": "2026-10-16T17:00:07Z",
-    "views": 927,
+    "views": 926,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
@@ -166,7 +166,7 @@
     "game": "paint_war",
     "videos": 4,
     "views": 3619,
-    "likes": 26,
+    "likes": 27,
     "avg_views": 905
    },
    {
@@ -179,9 +179,9 @@
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1458,
+    "views": 1457,
     "likes": 3,
-    "avg_views": 729
+    "avg_views": 728
    }
   ],
   "daily": [
@@ -316,7 +316,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4850
+  "last_48h": 4849
  },
  "social": {
   "tiktok": {
@@ -559,7 +559,7 @@
   "champions": []
  },
  "delta_24h": {
-  "yt_subs": 0,
+  "yt_subs": 1,
   "yt_views": 1673,
   "tt_views": 0,
   "ig_views": 0
