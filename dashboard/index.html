@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bounce Arena Progress</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0e0e12;
+    --surface-1: #1a1a19;
+    --surface-2: #232321;
+    --border: #2e2e2b;
+    --text-primary: #f0efec;
+    --text-secondary: #c3c2b7;
+    --text-muted: #8d8c84;
+    --series-1: #3987e5;
+    --series-1-soft: #184f95;
+    --good: #2fb36b;
+    --warning: #e0a100;
+    --critical: #e66767;
+    --accent: #ffd95a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text-primary);
+    font: 15px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    padding: 20px 24px 28px;
+  }
+  header { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 14px; }
+  h1 { margin: 0; font-size: 28px; letter-spacing: .04em; color: var(--accent); font-weight: 800; }
+  .updated { color: var(--text-muted); font-size: 14px; }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-left: auto; }
+  .chip { background: var(--surface-1); border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px;
+          font-size: 13px; color: var(--text-secondary); white-space: nowrap; }
+  .chip b { color: var(--text-primary); font-weight: 600; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
+  .alert { display: none; background: #3a2a0c; border: 1px solid var(--warning); color: var(--text-primary);
+           border-radius: 10px; padding: 10px 14px; margin-bottom: 14px; font-size: 14px; }
+  .alert.show { display: block; }
+  .grid { display: grid; gap: 14px; }
+  .tiles { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-bottom: 14px; }
+  .main { grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); }
+  .card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px; padding: 14px 16px;
+          min-width: 0; }
+  .card h2 { margin: 0 0 10px; font-size: 13px; font-weight: 600; color: var(--text-secondary);
+             text-transform: uppercase; letter-spacing: .08em; }
+  .tile .label { font-size: 13px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: .08em; }
+  .tile .value { font-size: 44px; font-weight: 800; line-height: 1.1; margin: 4px 0 2px; font-variant-numeric: tabular-nums; }
+  .tile .sub { font-size: 13px; color: var(--text-muted); }
+  .delta { font-weight: 600; color: var(--text-secondary); }
+  .delta.up::before { content: "▲ "; color: var(--good); }
+  .col { display: grid; gap: 14px; align-content: start; min-width: 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { text-align: left; font-weight: 600; color: var(--text-muted); font-size: 12px; text-transform: uppercase;
+       letter-spacing: .06em; padding: 0 6px 6px; }
+  td { padding: 6px; border-top: 1px solid var(--border); vertical-align: middle; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td.title { max-width: 0; width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .muted { color: var(--text-muted); }
+  .bar-cell { width: 38%; }
+  .hbar { height: 10px; background: var(--series-1); border-radius: 0 4px 4px 0; min-width: 2px; }
+  .chart { position: relative; }
+  .chart svg { display: block; width: 100%; height: 220px; }
+  .tip { position: absolute; pointer-events: none; background: var(--surface-2); border: 1px solid var(--border);
+         border-radius: 8px; padding: 6px 10px; font-size: 13px; white-space: nowrap; display: none; z-index: 2; }
+  .tip strong { display: block; font-size: 15px; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .bracket { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; font-size: 13px; }
+  .match { background: var(--surface-2); border-radius: 8px; padding: 6px 8px; }
+  .match .lbl { color: var(--text-muted); font-size: 11px; text-transform: uppercase; letter-spacing: .06em; }
+  .match .w { color: var(--accent); font-weight: 700; }
+  .match .l { color: var(--text-muted); text-decoration: line-through; }
+  @media (max-width: 1100px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } .main, .two { grid-template-columns: 1fr; } }
+  @media (max-width: 560px) { body { padding: 14px 16px; } .tiles { grid-template-columns: 1fr; } .tile .value { font-size: 36px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>BOUNCE ARENA</h1>
+  <span class="updated" id="updated">loading…</span>
+  <div class="chips" id="chips"></div>
+</header>
+<div class="alert" id="alert"></div>
+
+<div class="grid tiles">
+  <div class="card tile"><div class="label">YouTube subscribers</div><div class="value" id="t-subs">–</div><div class="sub" id="s-subs"></div></div>
+  <div class="card tile"><div class="label">YouTube views</div><div class="value" id="t-ytv">–</div><div class="sub" id="s-ytv"></div></div>
+  <div class="card tile"><div class="label">TikTok views</div><div class="value" id="t-ttv">–</div><div class="sub" id="s-ttv"></div></div>
+  <div class="card tile"><div class="label">Instagram views</div><div class="value" id="t-igv">–</div><div class="sub" id="s-igv"></div></div>
+</div>
+
+<div class="grid main">
+  <div class="col">
+    <div class="card">
+      <h2>YouTube views per day</h2>
+      <div class="chart" id="chart"><svg id="svg" role="img" aria-label="YouTube views per day"></svg><div class="tip" id="tip"></div></div>
+      <div class="muted" style="font-size:12px;margin-top:4px">YouTube's daily numbers run about 2 days behind.</div>
+    </div>
+    <div class="card"><h2>Latest YouTube videos</h2><table id="yt-recent"></table></div>
+    <div class="two">
+      <div class="card"><h2>Latest TikTok posts</h2><table id="tt-recent"></table></div>
+      <div class="card"><h2>Latest Instagram posts</h2><table id="ig-recent"></table></div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card"><h2>Best games (avg YouTube views)</h2><table id="games"></table></div>
+    <div class="card"><h2>Coming up on YouTube</h2><table id="upcoming"></table></div>
+    <div class="card"><h2 id="tour-title">Tournament</h2><div class="bracket" id="bracket"></div><div class="muted" id="champs" style="margin-top:8px;font-size:13px"></div></div>
+    <div class="card"><h2>Automation</h2><table id="tasks"></table></div>
+  </div>
+</div>
+
+<script>
+const NAMES = {ball_battle: "Ball Battle", glass_break: "Glass Break", gravity_race: "Gravity Race", maze_race: "Maze Race",
+  paint_war: "Paint War", ring_battle: "Ring Battle", ring_escape: "Ring Escape", squish_split: "Squish Split",
+  tournament: "Tournament", weekly_compilation: "Weekly Compilation", other: "Other"};
+const $ = id => document.getElementById(id);
+const fmt = n => n == null ? "–" : Number(n).toLocaleString();
+const plain = s => (s || "").replace(/[\u{1F000}-\u{1FFFF}\u{2600}-\u{27BF}\u{FE0F}]/gu, "").replace(/\s+/g, " ").trim();
+
+function el(tag, text, cls) { const e = document.createElement(tag); if (text != null) e.textContent = text; if (cls) e.className = cls; return e; }
+function ago(iso) {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now"; if (m < 60) return m + " min ago";
+  const h = Math.round(m / 60); return h < 48 ? h + " h ago" : Math.round(h / 24) + " days ago";
+}
+function when(iso) {
+  return new Date(iso).toLocaleString([], {weekday: "short", hour: "numeric", minute: "2-digit"});
+}
+function table(id, head, rows) {
+  const t = $(id); t.replaceChildren();
+  const tr = el("tr"); head.forEach(([h, num]) => tr.appendChild(el("th", h, num ? "num" : ""))); t.appendChild(tr);
+  if (!rows.length) { const r = el("tr"); const c = el("td", "nothing yet", "muted"); c.colSpan = head.length; r.appendChild(c); t.appendChild(r); return; }
+  rows.forEach(cells => {
+    const r = el("tr");
+    cells.forEach((c, i) => {
+      if (c instanceof Node) { const td = el("td"); td.appendChild(c); if (head[i][2]) td.className = head[i][2]; r.appendChild(td); }
+      else r.appendChild(el("td", c, head[i][1] ? "num" : (head[i][2] || "")));
+    });
+    t.appendChild(r);
+  });
+}
+function tile(key, value, sub, delta) {
+  $("t-" + key).textContent = fmt(value);
+  const s = $("s-" + key); s.replaceChildren();
+  if (delta != null) { s.appendChild(el("span", (delta >= 0 ? "+" : "") + fmt(delta) + " in 24 h", "delta" + (delta > 0 ? " up" : ""))); s.appendChild(document.createTextNode("  ")); }
+  if (sub) s.appendChild(document.createTextNode(sub));
+}
+
+function chart(daily) {
+  const svg = $("svg"), tip = $("tip"), box = $("chart");
+  svg.replaceChildren();
+  const W = box.clientWidth, H = 220, L = 44, B = 22, T = 8;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  const first = daily.findIndex(d => d.views > 0);  // start where the channel did
+  daily = first > 0 ? daily.slice(Math.max(0, first - 1)) : daily;
+  if (!daily.length) return;
+  const max = Math.max(...daily.map(d => d.views), 1);
+  const step = Math.pow(10, Math.floor(Math.log10(max)));
+  const top = Math.ceil(max / step) * step;
+  const ns = "http://www.w3.org/2000/svg";
+  const mk = (tag, attrs) => { const e = document.createElementNS(ns, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; };
+  for (let i = 0; i <= 4; i++) {  // recessive grid
+    const v = top * i / 4, y = H - B - (H - B - T) * i / 4;
+    svg.appendChild(mk("line", {x1: L, x2: W, y1: y, y2: y, stroke: "var(--border)", "stroke-width": 1}));
+    const lab = mk("text", {x: L - 6, y: y + 4, "text-anchor": "end", fill: "var(--text-muted)", "font-size": 11});
+    lab.textContent = v >= 1000 ? (v / 1000) + "k" : v; svg.appendChild(lab);
+  }
+  const slot = (W - L) / daily.length, bw = Math.max(2, slot - 4);
+  daily.forEach((d, i) => {
+    const h = (H - B - T) * d.views / top, x = L + i * slot + 2, y = H - B - h;
+    const r = Math.min(4, bw / 2, h);
+    const path = h > 0 ? `M${x},${H - B} V${y + r} Q${x},${y} ${x + r},${y} H${x + bw - r} Q${x + bw},${y} ${x + bw},${y + r} V${H - B} Z` : "";
+    if (path) svg.appendChild(mk("path", {d: path, fill: "var(--series-1)"}));
+    const hit = mk("rect", {x: L + i * slot, y: T, width: slot, height: H - B - T, fill: "transparent", tabindex: 0});
+    const show = () => {
+      tip.replaceChildren(el("strong", fmt(d.views) + " views"), document.createTextNode(new Date(d.date + "T12:00").toLocaleDateString([], {month: "short", day: "numeric"}) + (d.subs ? `  ·  +${d.subs} subs` : "")));
+      tip.style.display = "block";
+      const tx = Math.min(Math.max(0, x + bw / 2 - tip.offsetWidth / 2), W - tip.offsetWidth);
+      tip.style.left = tx + "px"; tip.style.top = Math.max(0, y - tip.offsetHeight - 8) + "px";
+    };
+    hit.addEventListener("pointermove", show); hit.addEventListener("focus", show);
+    hit.addEventListener("pointerleave", () => tip.style.display = "none"); hit.addEventListener("blur", () => tip.style.display = "none");
+    svg.appendChild(hit);
+    if (i % 7 === daily.length % 7 || i === daily.length - 1) {
+      const t = mk("text", {x: x + bw / 2, y: H - 6, "text-anchor": "middle", fill: "var(--text-muted)", "font-size": 11});
+      t.textContent = new Date(d.date + "T12:00").toLocaleDateString([], {month: "short", day: "numeric"}); svg.appendChild(t);
+    }
+  });
+}
+
+function render(d) {
+  const stale = (Date.now() - new Date(d.updated)) / 3600000 > 2.5;
+  $("updated").textContent = "updated " + ago(d.updated) + (stale ? "  ⚠ the main PC hasn't reported in a while" : "");
+  $("updated").style.color = stale ? "var(--warning)" : "";
+  const alert = $("alert");
+  if (d.verified === false) {
+    alert.textContent = "⚠ Action needed: verify the YouTube channel with your phone at youtube.com/verify. Until then, videos over 15 minutes (the sleep video) can't be uploaded and custom thumbnails are blocked.";
+    alert.classList.add("show");
+  } else alert.classList.remove("show");
+
+  const yt = d.youtube || {}, so = d.social || {}, tt = so.tiktok || {}, ig = so.instagram || {}, dl = d.delta_24h || {};
+  tile("subs", yt.subs, "", dl.yt_subs);
+  tile("ytv", yt.views, yt.videos ? `${yt.videos} videos` : "", dl.yt_views);
+  tile("ttv", tt.views, tt.posts != null ? `${tt.posts} posts · ${tt.queued} queued` : "", dl.tt_views);
+  tile("igv", ig.views, ig.posts != null ? `${ig.posts} posts · ${ig.queued} queued` : "", dl.ig_views);
+
+  const chips = $("chips"); chips.replaceChildren();
+  const run = (label, r) => {
+    const c = el("span", null, "chip");
+    let col = "var(--text-muted)", txt = "no runs yet";
+    if (r) { const ok = r.done && !r.failures; col = ok ? "var(--good)" : r.done ? "var(--warning)" : "var(--critical)";
+             txt = (ok ? "OK " : r.done ? r.failures + " problem(s) " : "didn't finish ") + ago(r.start.replace(" ", "T")); }
+    const dot = el("span", null, "dot"); dot.style.background = col;
+    c.append(dot, el("b", label + ": "), document.createTextNode(txt)); chips.appendChild(c);
+  };
+  const runs = d.runs || {};
+  run("Daily", runs.daily); run("Sleep video", runs.sleep); run("Compilation", runs.compilation);
+
+  chart(yt.daily || []);
+  table("yt-recent", [["Video"], ["Game"], ["Views", 1], ["Likes", 1], ["Posted", 1]],
+    (yt.recent || []).slice(0, 8).map(v => [plain(v.title), NAMES[v.game] || v.game, fmt(v.views), fmt(v.likes), ago(v.published)]).map(r => r));
+  document.querySelectorAll("#yt-recent td:first-child").forEach(td => td.className = "title");
+  const social = rows => (rows || []).slice(0, 6).map(p => [plain(p.title), fmt(p.views), fmt(p.likes), fmt(p.comments)]);
+  table("tt-recent", [["Post"], ["Views", 1], ["Likes", 1], ["Cmts", 1]], social(tt.recent));
+  table("ig-recent", [["Post"], ["Views", 1], ["Likes", 1], ["Cmts", 1]], social(ig.recent));
+  document.querySelectorAll("#tt-recent td:first-child, #ig-recent td:first-child").forEach(td => td.className = "title");
+
+  const games = yt.by_game || [], gmax = Math.max(1, ...games.map(g => g.avg_views));
+  table("games", [["Game"], ["Videos", 1], ["", 0, "bar-cell"], ["Avg views", 1]], games.map(g => {
+    const b = el("div", null, "hbar"); b.style.width = (100 * g.avg_views / gmax) + "%";
+    b.title = `${fmt(g.avg_views)} avg views`; return [NAMES[g.game] || g.game, g.videos, b, fmt(g.avg_views)];
+  }));
+  table("upcoming", [["When"], ["Video"]], (yt.upcoming || []).map(u => [when(u.time), plain(u.title)]));
+  document.querySelectorAll("#upcoming td:last-child").forEach(td => td.className = "title");
+
+  const tour = d.tournament, br = $("bracket"); br.replaceChildren();
+  if (tour) {
+    $("tour-title").textContent = `Tournament · Season ${tour.season}`;
+    tour.matches.forEach(m => {
+      const box = el("div", null, "match"); box.appendChild(el("div", m.label, "lbl"));
+      const line = el("div");
+      [m.a, m.b].forEach((n, i) => {
+        if (i) line.appendChild(document.createTextNode(" vs "));
+        line.appendChild(el("span", n || "?", m.winner ? (n === m.winner ? "w" : "l") : ""));
+      });
+      box.appendChild(line); br.appendChild(box);
+    });
+    $("champs").textContent = (tour.champions || []).map(c => `Season ${c.season} champion: ${c.champion}`).join(" · ");
+  }
+  const tasks = d.tasks || {};
+  table("tasks", [["Job"], ["Next run", 1]], Object.entries(tasks).map(([k, v]) => [k.replace("Bounce Arena ", ""), v.next || "?"]));
+}
+
+let last = null;
+async function refresh() {
+  try {
+    const r = await fetch("stats.json?ts=" + Date.now(), {cache: "no-store"});
+    last = await r.json(); render(last);
+  } catch (e) { $("updated").textContent = "couldn't load stats (will retry)"; }
+}
+refresh();
+setInterval(refresh, 2 * 60 * 1000);
+setInterval(() => last && render(last), 30 * 1000);  // keeps "x min ago" fresh
+addEventListener("resize", () => last && chart((last.youtube || {}).daily || []));
+</script>
+</body>
+</html>
