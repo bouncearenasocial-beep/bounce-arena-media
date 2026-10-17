@@ -146,9 +146,9 @@ function table(id, head, rows) {
     t.appendChild(r);
   });
 }
-// tile color = growth over the last 24 h, relative to where it started: ~0% stays gray, 10%+ is full green.
+// tile color = growth over the last 24 h, relative to where it started: ~0% stays gray, 25%+ is full green.
 // The square root makes small growth already show a visible tint.
-const FULL_GREEN_AT = 0.10;
+const FULL_GREEN_AT = 0.25;
 function growthTint(value, delta) {
   if (value == null || delta == null || delta <= 0) return 0;
   const before = Math.max(1, value - delta);
