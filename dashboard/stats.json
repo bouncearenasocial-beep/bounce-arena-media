@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:45:08-07:00",
+ "updated": "2026-10-18T15:05:01-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 428,
+    "views": 558,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -27,7 +27,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 784,
+    "views": 790,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -153,16 +153,16 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3032,
+    "views": 3038,
     "likes": 21,
-    "avg_views": 1011
+    "avg_views": 1013
    },
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 2882,
+    "views": 3012,
     "likes": 42,
-    "avg_views": 961
+    "avg_views": 1004
    },
    {
     "game": "gravity_race",
@@ -318,18 +318,27 @@
     "subs": 0
    }
   ],
-  "last_48h": 3495
+  "last_48h": 3631
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 17,
+   "posts": 18,
    "views": 6049,
    "likes": 149,
    "comments": 9,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
+     "sent": "2026-10-18T22:02:30.800Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
      "sent": "2026-10-18T18:02:52.303Z",
@@ -392,27 +401,27 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Multipliers vs a Wall of Glass \ud83d\udca5 Comment your pick \ud83d\udc47 Follow for a new one every day! #sati",
-     "sent": "2026-10-16T02:02:37.306Z",
-     "views": 212,
-     "likes": 7,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 16,
+   "posts": 17,
    "views": 4662,
    "likes": 8,
    "comments": 0,
    "follows": 0,
-   "queued": 7,
+   "queued": 6,
    "recent": [
+    {
+     "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
+     "sent": "2026-10-18T22:02:34.421Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Last Ball Standing Wins \ud83c\udfc6",
      "sent": "2026-10-18T18:02:27.369Z",
@@ -471,15 +480,6 @@
      "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
      "sent": "2026-10-16T18:05:01.233Z",
      "views": 152,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "SPIKES vs SHURIKEN \u2694\ufe0f Who Wins?",
-     "sent": "2026-10-16T02:01:56.791Z",
-     "views": 141,
      "likes": 0,
      "comments": 0,
      "shares": 0,
