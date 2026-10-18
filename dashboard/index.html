@@ -212,7 +212,10 @@ function render(d) {
   $("updated").textContent = "updated " + ago(d.updated) + (stale ? "  ⚠ the main PC hasn't reported in a while" : "");
   $("updated").style.color = stale ? "var(--warning)" : "";
   const alert = $("alert");
-  if (d.verified === false) {
+  if (d.youtube == null) {
+    alert.textContent = "⚠ YouTube isn't connected: the sign-in probably expired. Uploads stop until you sign in again on the main PC (python pipeline/youtube_api.py auth).";
+    alert.classList.add("show");
+  } else if (d.verified === false) {
     alert.textContent = "⚠ Action needed: verify the YouTube channel with your phone at youtube.com/verify. Until then, videos over 15 minutes (the sleep video) can't be uploaded and custom thumbnails are blocked.";
     alert.classList.add("show");
   } else alert.classList.remove("show");
