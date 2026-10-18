@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-18T12:05:01-07:00",
+ "updated": "2026-10-18T14:45:08-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
-  "videos": 24,
+  "videos": 25,
   "recent": [
+   {
+    "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
+    "game": "ring_battle",
+    "published": "2026-10-18T21:00:11Z",
+    "views": 428,
+    "likes": 2,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=yy19oAFZeB8"
+   },
    {
     "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
@@ -18,7 +27,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 709,
+    "views": 784,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -36,7 +45,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 385,
+    "views": 386,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -103,23 +112,9 @@
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fqwzpTY8nMs"
-   },
-   {
-    "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-10-15T17:00:04Z",
-    "views": 1168,
-    "likes": 4,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=0xd07VU-Xew"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-18T21:00:00Z",
-    "game": "ring_battle",
-    "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6"
-   },
    {
     "time": "2026-10-19T02:00:00Z",
     "game": "tournament",
@@ -133,13 +128,6 @@
     "views": 3773,
     "likes": 47,
     "avg_views": 1258
-   },
-   {
-    "game": "ring_battle",
-    "videos": 2,
-    "views": 2454,
-    "likes": 40,
-    "avg_views": 1227
    },
    {
     "game": "maze_race",
@@ -165,9 +153,16 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 2957,
+    "views": 3032,
     "likes": 21,
-    "avg_views": 986
+    "avg_views": 1011
+   },
+   {
+    "game": "ring_battle",
+    "videos": 3,
+    "views": 2882,
+    "likes": 42,
+    "avg_views": 961
    },
    {
     "game": "gravity_race",
@@ -179,9 +174,9 @@
    {
     "game": "tournament",
     "videos": 3,
-    "views": 1954,
+    "views": 1955,
     "likes": 6,
-    "avg_views": 651
+    "avg_views": 652
    },
    {
     "game": "weekly_compilation",
@@ -323,14 +318,14 @@
     "subs": 0
    }
   ],
-  "last_48h": 4227
+  "last_48h": 3495
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
    "posts": 17,
-   "views": 5452,
-   "likes": 135,
+   "views": 6049,
+   "likes": 149,
    "comments": 9,
    "follows": 0,
    "queued": 6,
@@ -338,7 +333,7 @@
     {
      "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
      "sent": "2026-10-18T18:02:52.303Z",
-     "views": 0,
+     "views": 135,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -347,8 +342,8 @@
     {
      "title": "Last Ball Standing Wins \ud83c\udfc6",
      "sent": "2026-10-18T02:01:09.222Z",
-     "views": 0,
-     "likes": 0,
+     "views": 316,
+     "likes": 7,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -356,8 +351,8 @@
     {
      "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
      "sent": "2026-10-17T22:01:35.819Z",
-     "views": 95,
-     "likes": 0,
+     "views": 221,
+     "likes": 6,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -365,7 +360,7 @@
     {
      "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
      "sent": "2026-10-17T18:03:09.571Z",
-     "views": 295,
+     "views": 301,
      "likes": 8,
      "comments": 2,
      "shares": 1,
@@ -374,7 +369,7 @@
     {
      "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5 Comment your pick \ud83d\udc47 Follow for a new one",
      "sent": "2026-10-17T02:01:20.912Z",
-     "views": 315,
+     "views": 316,
      "likes": 10,
      "comments": 0,
      "shares": 0,
@@ -383,7 +378,7 @@
     {
      "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8 Comment your pick \ud83d\udc47 Follow for a new one every day! #sat",
      "sent": "2026-10-16T22:01:37.233Z",
-     "views": 306,
+     "views": 307,
      "likes": 6,
      "comments": 1,
      "shares": 0,
@@ -412,8 +407,8 @@
   "instagram": {
    "name": "bouncearena2",
    "posts": 16,
-   "views": 3250,
-   "likes": 7,
+   "views": 4662,
+   "likes": 8,
    "comments": 0,
    "follows": 0,
    "queued": 7,
@@ -421,7 +416,7 @@
     {
      "title": "Last Ball Standing Wins \ud83c\udfc6",
      "sent": "2026-10-18T18:02:27.369Z",
-     "views": 0,
+     "views": 136,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -430,8 +425,8 @@
     {
      "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
      "sent": "2026-10-18T02:01:30.722Z",
-     "views": 0,
-     "likes": 0,
+     "views": 1203,
+     "likes": 1,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -439,7 +434,7 @@
     {
      "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
      "sent": "2026-10-17T22:01:55.542Z",
-     "views": 1333,
+     "views": 1405,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -448,7 +443,7 @@
     {
      "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5",
      "sent": "2026-10-17T18:03:59.246Z",
-     "views": 127,
+     "views": 128,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -505,7 +500,7 @@
    "failures": 0
   },
   "compilation": {
-   "start": "2026-10-18 08:07:06",
+   "start": "2026-10-18 12:17:38",
    "done": true,
    "failures": 0
   }
@@ -585,9 +580,9 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 2772,
-  "tt_views": 646,
-  "ig_views": 1620
+  "tt_views": 1243,
+  "ig_views": 3032
  }
 }
