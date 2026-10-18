@@ -1,6 +1,307 @@
 {
- "updated": "2026-10-18T08:05:01-07:00",
- "youtube": null,
+ "updated": "2026-10-18T08:06:53-07:00",
+ "youtube": {
+  "subs": 9,
+  "views": 16369,
+  "videos": 22,
+  "recent": [
+   {
+    "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
+    "game": "other",
+    "published": "2026-10-18T03:00:16Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=aZBcnWlVRSE"
+   },
+   {
+    "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-10-18T02:00:11Z",
+    "views": 424,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
+   },
+   {
+    "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-10-17T21:00:10Z",
+    "views": 749,
+    "likes": 2,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Ah_yZHyajto"
+   },
+   {
+    "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-10-17T17:00:14Z",
+    "views": 807,
+    "likes": 3,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=RGo5a26aqpg"
+   },
+   {
+    "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
+    "game": "tournament",
+    "published": "2026-10-17T02:00:29Z",
+    "views": 350,
+    "likes": 1,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=61PvSFcx9R4"
+   },
+   {
+    "title": "Last Ball Standing Wins \ud83c\udfc6",
+    "game": "ring_battle",
+    "published": "2026-10-16T21:00:08Z",
+    "views": 1232,
+    "likes": 11,
+    "comments": 1,
+    "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
+   },
+   {
+    "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
+    "game": "gravity_race",
+    "published": "2026-10-16T17:00:07Z",
+    "views": 926,
+    "likes": 2,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
+   },
+   {
+    "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
+    "game": "tournament",
+    "published": "2026-10-16T02:00:35Z",
+    "views": 1219,
+    "likes": 5,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=NFGOjoUW1pA"
+   },
+   {
+    "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5",
+    "game": "squish_split",
+    "published": "2026-10-15T21:00:24Z",
+    "views": 1003,
+    "likes": 4,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=fqwzpTY8nMs"
+   },
+   {
+    "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-10-15T17:00:04Z",
+    "views": 1167,
+    "likes": 4,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=0xd07VU-Xew"
+   },
+   {
+    "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-10-15T02:00:22Z",
+    "views": 1296,
+    "likes": 7,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=e1r2bL7Z_vg"
+   },
+   {
+    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-10-14T21:00:14Z",
+    "views": 913,
+    "likes": 5,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=tfe9Bheu7rs"
+   }
+  ],
+  "upcoming": [],
+  "by_game": [
+   {
+    "game": "ball_battle",
+    "videos": 3,
+    "views": 3772,
+    "likes": 47,
+    "avg_views": 1257
+   },
+   {
+    "game": "ring_battle",
+    "videos": 2,
+    "views": 2450,
+    "likes": 40,
+    "avg_views": 1225
+   },
+   {
+    "game": "maze_race",
+    "videos": 1,
+    "views": 1128,
+    "likes": 8,
+    "avg_views": 1128
+   },
+   {
+    "game": "squish_split",
+    "videos": 2,
+    "views": 2248,
+    "likes": 19,
+    "avg_views": 1124
+   },
+   {
+    "game": "glass_break",
+    "videos": 3,
+    "views": 3184,
+    "likes": 22,
+    "avg_views": 1061
+   },
+   {
+    "game": "paint_war",
+    "videos": 4,
+    "views": 4066,
+    "likes": 29,
+    "avg_views": 1016
+   },
+   {
+    "game": "gravity_race",
+    "videos": 2,
+    "views": 1459,
+    "likes": 5,
+    "avg_views": 730
+   },
+   {
+    "game": "tournament",
+    "videos": 3,
+    "views": 1993,
+    "likes": 6,
+    "avg_views": 664
+   }
+  ],
+  "daily": [
+   {
+    "date": "2026-09-21",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-22",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-23",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-24",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-25",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-26",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-27",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-28",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-29",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-09-30",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-01",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-02",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-03",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-04",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-05",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-06",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-07",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-08",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-09",
+    "views": 0,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-10",
+    "views": 238,
+    "subs": 0
+   },
+   {
+    "date": "2026-10-11",
+    "views": 2644,
+    "subs": 2
+   },
+   {
+    "date": "2026-10-12",
+    "views": 2086,
+    "subs": 1
+   },
+   {
+    "date": "2026-10-13",
+    "views": 2707,
+    "subs": 1
+   },
+   {
+    "date": "2026-10-14",
+    "views": 4169,
+    "subs": 5
+   },
+   {
+    "date": "2026-10-15",
+    "views": 3497,
+    "subs": 2
+   }
+  ],
+  "last_48h": 4488
+ },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
@@ -203,7 +504,7 @@
    "result": "1"
   }
  },
- "verified": null,
+ "verified": true,
  "tournament": {
   "season": 1,
   "matches": [
@@ -260,8 +561,8 @@
   "champions": []
  },
  "delta_24h": {
-  "yt_subs": null,
-  "yt_views": null,
+  "yt_subs": 2,
+  "yt_views": 1673,
   "tt_views": 646,
   "ig_views": 1620
  }
