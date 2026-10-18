@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-18T11:05:01-07:00",
+ "updated": "2026-10-18T12:05:01-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
-  "videos": 23,
+  "videos": 24,
   "recent": [
+   {
+    "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6",
+    "game": "weekly_compilation",
+    "published": "2026-10-18T19:00:35Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=OvMt7uzm5bs"
+   },
    {
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 539,
+    "views": 709,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -45,7 +54,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 807,
+    "views": 802,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -63,7 +72,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-16T21:00:08Z",
-    "views": 1232,
+    "views": 1236,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
@@ -72,7 +81,7 @@
     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
     "game": "gravity_race",
     "published": "2026-10-16T17:00:07Z",
-    "views": 1027,
+    "views": 1254,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
@@ -99,27 +108,13 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-15T17:00:04Z",
-    "views": 1167,
+    "views": 1168,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=0xd07VU-Xew"
-   },
-   {
-    "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
-    "game": "glass_break",
-    "published": "2026-10-15T02:00:22Z",
-    "views": 1296,
-    "likes": 7,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=e1r2bL7Z_vg"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-18T19:00:00Z",
-    "game": "weekly_compilation",
-    "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6"
-   },
    {
     "time": "2026-10-18T21:00:00Z",
     "game": "ring_battle",
@@ -142,9 +137,9 @@
    {
     "game": "ring_battle",
     "videos": 2,
-    "views": 2450,
+    "views": 2454,
     "likes": 40,
-    "avg_views": 1225
+    "avg_views": 1227
    },
    {
     "game": "maze_race",
@@ -156,30 +151,30 @@
    {
     "game": "glass_break",
     "videos": 3,
-    "views": 3180,
+    "views": 3179,
     "likes": 22,
     "avg_views": 1060
    },
    {
     "game": "paint_war",
     "videos": 4,
-    "views": 4066,
+    "views": 4062,
     "likes": 29,
     "avg_views": 1016
    },
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 2787,
+    "views": 2957,
     "likes": 21,
-    "avg_views": 929
+    "avg_views": 986
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1560,
+    "views": 1787,
     "likes": 5,
-    "avg_views": 780
+    "avg_views": 894
    },
    {
     "game": "tournament",
@@ -187,6 +182,13 @@
     "views": 1954,
     "likes": 6,
     "avg_views": 651
+   },
+   {
+    "game": "weekly_compilation",
+    "videos": 1,
+    "views": 0,
+    "likes": 0,
+    "avg_views": 0
    }
   ],
   "daily": [
@@ -314,9 +316,14 @@
     "date": "2026-10-15",
     "views": 3497,
     "subs": 2
+   },
+   {
+    "date": "2026-10-16",
+    "views": 3332,
+    "subs": 0
    }
   ],
-  "last_48h": 4058
+  "last_48h": 4227
  },
  "social": {
   "tiktok": {
@@ -579,7 +586,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 4445,
+  "yt_views": 2772,
   "tt_views": 646,
   "ig_views": 1620
  }
