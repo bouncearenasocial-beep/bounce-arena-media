@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T20:05:01-07:00",
+ "updated": "2026-10-17T21:05:01-07:00",
  "youtube": {
-  "subs": 8,
+  "subs": 9,
   "views": 16369,
   "videos": 22,
   "recent": [
@@ -27,7 +27,7 @@
     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-17T21:00:10Z",
-    "views": 734,
+    "views": 744,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Ah_yZHyajto"
@@ -36,7 +36,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 799,
+    "views": 805,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -45,7 +45,7 @@
     "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-17T02:00:29Z",
-    "views": 343,
+    "views": 344,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=61PvSFcx9R4"
@@ -55,7 +55,7 @@
     "game": "ring_battle",
     "published": "2026-10-16T21:00:08Z",
     "views": 950,
-    "likes": 9,
+    "likes": 10,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
    },
@@ -72,7 +72,7 @@
     "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-16T02:00:35Z",
-    "views": 1217,
+    "views": 1218,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NFGOjoUW1pA"
@@ -99,7 +99,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-15T02:00:22Z",
-    "views": 1298,
+    "views": 1295,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e1r2bL7Z_vg"
@@ -119,16 +119,16 @@
    {
     "game": "ball_battle",
     "videos": 3,
-    "views": 3764,
+    "views": 3768,
     "likes": 47,
-    "avg_views": 1255
+    "avg_views": 1256
    },
    {
     "game": "maze_race",
     "videos": 1,
-    "views": 1129,
+    "views": 1128,
     "likes": 8,
-    "avg_views": 1129
+    "avg_views": 1128
    },
    {
     "game": "squish_split",
@@ -141,22 +141,22 @@
     "game": "ring_battle",
     "videos": 2,
     "views": 2168,
-    "likes": 38,
+    "likes": 39,
     "avg_views": 1084
    },
    {
     "game": "glass_break",
     "videos": 3,
-    "views": 3171,
+    "views": 3178,
     "likes": 22,
-    "avg_views": 1057
+    "avg_views": 1059
    },
    {
     "game": "paint_war",
     "videos": 4,
-    "views": 4056,
+    "views": 4062,
     "likes": 29,
-    "avg_views": 1014
+    "avg_views": 1016
    },
    {
     "game": "gravity_race",
@@ -168,9 +168,9 @@
    {
     "game": "tournament",
     "videos": 3,
-    "views": 1984,
+    "views": 1986,
     "likes": 6,
-    "avg_views": 661
+    "avg_views": 662
    }
   ],
   "daily": [
@@ -305,7 +305,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4173
+  "last_48h": 4190
  },
  "social": {
   "tiktok": {
@@ -566,7 +566,7 @@
   "champions": []
  },
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 1673,
   "tt_views": 646,
   "ig_views": 1620
