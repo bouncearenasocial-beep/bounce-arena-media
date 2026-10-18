@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-17T18:05:02-07:00",
+ "updated": "2026-10-17T19:05:02-07:00",
  "youtube": {
   "subs": 8,
   "views": 16369,
-  "videos": 20,
+  "videos": 21,
   "recent": [
+   {
+    "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-10-18T02:00:11Z",
+    "views": 44,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
+   },
    {
     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-17T21:00:10Z",
-    "views": 733,
+    "views": 734,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Ah_yZHyajto"
@@ -36,7 +45,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-16T21:00:08Z",
-    "views": 949,
+    "views": 950,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
@@ -45,7 +54,7 @@
     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
     "game": "gravity_race",
     "published": "2026-10-16T17:00:07Z",
-    "views": 922,
+    "views": 923,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
@@ -54,7 +63,7 @@
     "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-16T02:00:35Z",
-    "views": 1216,
+    "views": 1217,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NFGOjoUW1pA"
@@ -103,23 +112,9 @@
     "likes": 8,
     "comments": 2,
     "url": "https://youtube.com/watch?v=aB1TYApnXgo"
-   },
-   {
-    "title": "SPIKES or SHIELD? \u2694\ufe0f",
-    "game": "ball_battle",
-    "published": "2026-10-14T02:00:26Z",
-    "views": 1210,
-    "likes": 16,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=yAIqDCeNenA"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-18T02:00:00Z",
-    "game": "tournament",
-    "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?"
-   },
    {
     "time": "2026-10-18T03:00:00Z",
     "game": "other",
@@ -137,30 +132,30 @@
    {
     "game": "maze_race",
     "videos": 1,
-    "views": 1128,
+    "views": 1129,
     "likes": 8,
-    "avg_views": 1128
+    "avg_views": 1129
    },
    {
     "game": "squish_split",
     "videos": 2,
-    "views": 2245,
+    "views": 2246,
     "likes": 19,
-    "avg_views": 1122
+    "avg_views": 1123
    },
    {
     "game": "ring_battle",
     "videos": 2,
-    "views": 2167,
+    "views": 2168,
     "likes": 38,
     "avg_views": 1084
    },
    {
     "game": "glass_break",
     "videos": 3,
-    "views": 3169,
+    "views": 3170,
     "likes": 22,
-    "avg_views": 1056
+    "avg_views": 1057
    },
    {
     "game": "paint_war",
@@ -170,18 +165,18 @@
     "avg_views": 1014
    },
    {
-    "game": "tournament",
-    "videos": 2,
-    "views": 1559,
-    "likes": 6,
-    "avg_views": 780
-   },
-   {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1453,
+    "views": 1456,
     "likes": 5,
-    "avg_views": 726
+    "avg_views": 728
+   },
+   {
+    "game": "tournament",
+    "videos": 3,
+    "views": 1604,
+    "likes": 6,
+    "avg_views": 535
    }
   ],
   "daily": [
@@ -316,18 +311,27 @@
     "subs": 2
    }
   ],
-  "last_48h": 4962
+  "last_48h": 3793
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 15,
+   "posts": 16,
    "views": 5452,
    "likes": 135,
    "comments": 9,
    "follows": 0,
-   "queued": 5,
+   "queued": 4,
    "recent": [
+    {
+     "title": "Last Ball Standing Wins \ud83c\udfc6",
+     "sent": "2026-10-18T02:01:09.222Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
      "sent": "2026-10-17T22:01:35.819Z",
@@ -390,27 +394,27 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Squish, Multiply, Escape \u23f1\ufe0f Comment your pick \ud83d\udc47 Follow for a new one every day! #satisfyin",
-     "sent": "2026-10-15T18:03:29.002Z",
-     "views": 1011,
-     "likes": 35,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 14,
+   "posts": 15,
    "views": 1895,
    "likes": 2,
    "comments": 0,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
+     "sent": "2026-10-18T02:01:30.722Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Season 1 Quarterfinal 1: VAMPIRE vs SWORD \ud83c\udfc6",
      "sent": "2026-10-17T22:01:55.542Z",
@@ -469,15 +473,6 @@
      "title": "Squish, Multiply, Escape \u23f1\ufe0f",
      "sent": "2026-10-15T22:03:41.456Z",
      "views": 193,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Who Escapes the Lava Maze First? \ud83d\udd25",
-     "sent": "2026-10-15T18:04:18.895Z",
-     "views": 141,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -543,7 +538,7 @@
     "label": "Quarterfinal 3",
     "a": "DAGGER",
     "b": "LASER",
-    "winner": null
+    "winner": "LASER"
    },
    {
     "id": "QF4",
@@ -562,7 +557,7 @@
    {
     "id": "SF2",
     "label": "Semifinal 2",
-    "a": null,
+    "a": "LASER",
     "b": null,
     "winner": null
    },
