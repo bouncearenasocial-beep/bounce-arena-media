@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:05:01-07:00",
+ "updated": "2026-10-18T16:05:01-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -9,8 +9,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 558,
-    "likes": 2,
+    "views": 650,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
    },
@@ -18,7 +18,7 @@
     "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
     "published": "2026-10-18T19:00:35Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=OvMt7uzm5bs"
@@ -27,7 +27,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 790,
+    "views": 796,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -72,7 +72,7 @@
     "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-17T02:00:29Z",
-    "views": 350,
+    "views": 354,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=61PvSFcx9R4"
@@ -90,7 +90,7 @@
     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
     "game": "gravity_race",
     "published": "2026-10-16T17:00:07Z",
-    "views": 1254,
+    "views": 1257,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
@@ -144,6 +144,13 @@
     "avg_views": 1060
    },
    {
+    "game": "ring_battle",
+    "videos": 3,
+    "views": 3104,
+    "likes": 44,
+    "avg_views": 1035
+   },
+   {
     "game": "paint_war",
     "videos": 4,
     "views": 4062,
@@ -153,37 +160,30 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3038,
+    "views": 3044,
     "likes": 21,
-    "avg_views": 1013
-   },
-   {
-    "game": "ring_battle",
-    "videos": 3,
-    "views": 3012,
-    "likes": 42,
-    "avg_views": 1004
+    "avg_views": 1015
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1787,
+    "views": 1790,
     "likes": 5,
-    "avg_views": 894
+    "avg_views": 895
    },
    {
     "game": "tournament",
     "videos": 3,
-    "views": 1955,
+    "views": 1959,
     "likes": 6,
-    "avg_views": 652
+    "avg_views": 653
    },
    {
     "game": "weekly_compilation",
     "videos": 1,
-    "views": 0,
+    "views": 1,
     "likes": 0,
-    "avg_views": 0
+    "avg_views": 1
    }
   ],
   "daily": [
@@ -318,7 +318,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3631
+  "last_48h": 3734
  },
  "social": {
   "tiktok": {
@@ -582,7 +582,7 @@
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 2772,
-  "tt_views": 1243,
-  "ig_views": 3032
+  "tt_views": 597,
+  "ig_views": 2767
  }
 }
