@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:05:01-07:00",
+ "updated": "2026-10-18T09:58:23-07:00",
  "youtube": {
   "subs": 9,
   "views": 16369,
@@ -18,7 +18,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 424,
+    "views": 385,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -27,7 +27,7 @@
     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-17T21:00:10Z",
-    "views": 749,
+    "views": 745,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Ah_yZHyajto"
@@ -54,7 +54,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-16T21:00:08Z",
-    "views": 1232,
+    "views": 1236,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
@@ -117,29 +117,39 @@
   "upcoming": [
    {
     "time": "2026-10-18T17:00:00Z",
-    "game": "other",
+    "game": "squish_split",
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5"
    },
    {
     "time": "2026-10-18T19:00:00Z",
     "game": "weekly_compilation",
     "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6"
+   },
+   {
+    "time": "2026-10-18T21:00:00Z",
+    "game": "ring_battle",
+    "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6"
+   },
+   {
+    "time": "2026-10-19T02:00:00Z",
+    "game": "tournament",
+    "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6"
    }
   ],
   "by_game": [
    {
     "game": "ball_battle",
     "videos": 3,
-    "views": 3772,
+    "views": 3773,
     "likes": 47,
-    "avg_views": 1257
+    "avg_views": 1258
    },
    {
     "game": "ring_battle",
     "videos": 2,
-    "views": 2450,
+    "views": 2454,
     "likes": 40,
-    "avg_views": 1225
+    "avg_views": 1227
    },
    {
     "game": "maze_race",
@@ -158,9 +168,9 @@
    {
     "game": "glass_break",
     "videos": 3,
-    "views": 3184,
+    "views": 3180,
     "likes": 22,
-    "avg_views": 1061
+    "avg_views": 1060
    },
    {
     "game": "paint_war",
@@ -179,9 +189,9 @@
    {
     "game": "tournament",
     "videos": 3,
-    "views": 1993,
+    "views": 1954,
     "likes": 6,
-    "avg_views": 664
+    "avg_views": 651
    }
   ],
   "daily": [
@@ -311,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4589
+  "last_48h": 4550
  },
  "social": {
   "tiktok": {
@@ -321,7 +331,7 @@
    "likes": 135,
    "comments": 9,
    "follows": 0,
-   "queued": 4,
+   "queued": 7,
    "recent": [
     {
      "title": "Last Ball Standing Wins \ud83c\udfc6",
@@ -404,7 +414,7 @@
    "likes": 7,
    "comments": 0,
    "follows": 0,
-   "queued": 5,
+   "queued": 8,
    "recent": [
     {
      "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
@@ -484,7 +494,7 @@
  "runs": {
   "daily": {
    "start": "2026-10-18 09:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -502,7 +512,7 @@
   "Bounce Arena Daily": {
    "next": "10/19/2026 9:00:00 AM",
    "last": "10/18/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
