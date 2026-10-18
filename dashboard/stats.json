@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T08:20:50-07:00",
+ "updated": "2026-10-18T09:05:01-07:00",
  "youtube": {
   "subs": 9,
   "views": 16369,
@@ -63,7 +63,7 @@
     "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
     "game": "gravity_race",
     "published": "2026-10-16T17:00:07Z",
-    "views": 926,
+    "views": 1027,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fdW_wGqWSwQ"
@@ -116,6 +116,11 @@
   ],
   "upcoming": [
    {
+    "time": "2026-10-18T17:00:00Z",
+    "game": "other",
+    "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5"
+   },
+   {
     "time": "2026-10-18T19:00:00Z",
     "game": "weekly_compilation",
     "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6"
@@ -167,9 +172,9 @@
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1459,
+    "views": 1560,
     "likes": 5,
-    "avg_views": 730
+    "avg_views": 780
    },
    {
     "game": "tournament",
@@ -306,7 +311,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4488
+  "last_48h": 4589
  },
  "social": {
   "tiktok": {
@@ -478,8 +483,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-17 09:00:02",
-   "done": true,
+   "start": "2026-10-18 09:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -495,9 +500,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/18/2026 9:00:00 AM",
-   "last": "10/17/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/19/2026 9:00:00 AM",
+   "last": "10/18/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
