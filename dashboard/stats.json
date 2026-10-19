@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:05:02-07:00",
+ "updated": "2026-10-18T22:05:02-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -18,7 +18,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 766,
+    "views": 794,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 802,
+    "views": 803,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -133,9 +133,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3220,
+    "views": 3248,
     "likes": 44,
-    "avg_views": 1073
+    "avg_views": 1083
    },
    {
     "game": "glass_break",
@@ -147,7 +147,7 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3050,
+    "views": 3051,
     "likes": 21,
     "avg_views": 1017
    },
@@ -312,7 +312,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4114
+  "last_48h": 4143
  },
  "social": {
   "tiktok": {
@@ -574,8 +574,8 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 0,
-  "yt_views": 2772,
+  "yt_subs": null,
+  "yt_views": null,
   "tt_views": 597,
   "ig_views": 1556
  }
