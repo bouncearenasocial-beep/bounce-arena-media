@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:05:02-07:00",
+ "updated": "2026-10-19T02:05:02-07:00",
  "youtube": {
   "subs": 9,
   "views": 21700,
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 806,
+    "views": 807,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -72,8 +72,8 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 804,
-    "likes": 3,
+    "views": 997,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
    },
@@ -138,6 +138,13 @@
     "avg_views": 1083
    },
    {
+    "game": "paint_war",
+    "videos": 4,
+    "views": 4256,
+    "likes": 30,
+    "avg_views": 1064
+   },
+   {
     "game": "glass_break",
     "videos": 3,
     "views": 3181,
@@ -147,16 +154,9 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3054,
+    "views": 3055,
     "likes": 21,
     "avg_views": 1018
-   },
-   {
-    "game": "paint_war",
-    "videos": 4,
-    "views": 4063,
-    "likes": 29,
-    "avg_views": 1016
    },
    {
     "game": "gravity_race",
@@ -307,7 +307,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4147
+  "last_48h": 4341
  },
  "social": {
   "tiktok": {
