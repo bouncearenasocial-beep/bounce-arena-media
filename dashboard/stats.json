@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:05:01-07:00",
+ "updated": "2026-10-18T18:05:01-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 659,
+    "views": 766,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -54,7 +54,7 @@
     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-17T21:00:10Z",
-    "views": 745,
+    "views": 747,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Ah_yZHyajto"
@@ -63,8 +63,8 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 802,
-    "likes": 3,
+    "views": 803,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
    },
@@ -137,24 +137,24 @@
     "avg_views": 1128
    },
    {
+    "game": "ring_battle",
+    "videos": 3,
+    "views": 3220,
+    "likes": 44,
+    "avg_views": 1073
+   },
+   {
     "game": "glass_break",
     "videos": 3,
-    "views": 3179,
+    "views": 3181,
     "likes": 22,
     "avg_views": 1060
    },
    {
-    "game": "ring_battle",
-    "videos": 3,
-    "views": 3113,
-    "likes": 44,
-    "avg_views": 1038
-   },
-   {
     "game": "paint_war",
     "videos": 4,
-    "views": 4062,
-    "likes": 29,
+    "views": 4063,
+    "likes": 30,
     "avg_views": 1016
    },
    {
@@ -318,7 +318,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3748
+  "last_48h": 3858
  },
  "social": {
   "tiktok": {
