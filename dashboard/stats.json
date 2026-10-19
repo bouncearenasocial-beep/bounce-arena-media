@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T02:05:02-07:00",
+ "updated": "2026-10-19T03:05:02-07:00",
  "youtube": {
   "subs": 9,
   "views": 21700,
@@ -72,7 +72,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 997,
+    "views": 1013,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -140,9 +140,9 @@
    {
     "game": "paint_war",
     "videos": 4,
-    "views": 4256,
+    "views": 4272,
     "likes": 30,
-    "avg_views": 1064
+    "avg_views": 1068
    },
    {
     "game": "glass_break",
@@ -307,7 +307,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4341
+  "last_48h": 4357
  },
  "social": {
   "tiktok": {
