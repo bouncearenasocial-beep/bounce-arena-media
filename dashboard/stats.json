@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T11:05:02-07:00",
+ "updated": "2026-10-19T12:05:03-07:00",
  "youtube": {
-  "subs": 9,
+  "subs": 10,
   "views": 21700,
   "videos": 27,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 150,
-    "likes": 0,
+    "views": 183,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
    },
@@ -186,9 +186,9 @@
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 150,
-    "likes": 0,
-    "avg_views": 150
+    "views": 183,
+    "likes": 1,
+    "avg_views": 183
    },
    {
     "game": "weekly_compilation",
@@ -323,9 +323,14 @@
     "date": "2026-10-16",
     "views": 3332,
     "subs": 0
+   },
+   {
+    "date": "2026-10-17",
+    "views": 2560,
+    "subs": 3
    }
   ],
-  "last_48h": 3499
+  "last_48h": 3532
  },
  "social": {
   "tiktok": {
@@ -413,13 +418,22 @@
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 18,
+   "posts": 19,
    "views": 4806,
    "likes": 8,
    "comments": 0,
    "follows": 0,
    "queued": 4,
    "recent": [
+    {
+     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
+     "sent": "2026-10-19T18:06:11.515Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
      "sent": "2026-10-19T02:01:54.662Z",
@@ -478,15 +492,6 @@
      "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
      "sent": "2026-10-17T02:01:58.036Z",
      "views": 146,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
-     "sent": "2026-10-16T22:02:37.874Z",
-     "views": 143,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -587,9 +592,9 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 0,
+  "yt_subs": 1,
   "yt_views": 2559,
-  "tt_views": 597,
-  "ig_views": 1556
+  "tt_views": 0,
+  "ig_views": 144
  }
 }
