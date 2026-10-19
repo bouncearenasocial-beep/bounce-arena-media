@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:05:01-07:00",
+ "updated": "2026-10-18T17:05:01-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 650,
+    "views": 659,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -36,7 +36,7 @@
     "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
     "game": "other",
     "published": "2026-10-18T03:00:16Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=aZBcnWlVRSE"
@@ -45,7 +45,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 386,
+    "views": 390,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -146,9 +146,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3104,
+    "views": 3113,
     "likes": 44,
-    "avg_views": 1035
+    "avg_views": 1038
    },
    {
     "game": "paint_war",
@@ -174,9 +174,9 @@
    {
     "game": "tournament",
     "videos": 3,
-    "views": 1959,
+    "views": 1963,
     "likes": 6,
-    "avg_views": 653
+    "avg_views": 654
    },
    {
     "game": "weekly_compilation",
@@ -318,7 +318,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3734
+  "last_48h": 3748
  },
  "social": {
   "tiktok": {
