@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:05:02-07:00",
+ "updated": "2026-10-19T00:05:02-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 803,
+    "views": 807,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -45,7 +45,7 @@
     "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
     "game": "other",
     "published": "2026-10-18T03:00:16Z",
-    "views": 4,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=aZBcnWlVRSE"
@@ -147,9 +147,9 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3051,
+    "views": 3055,
     "likes": 21,
-    "avg_views": 1017
+    "avg_views": 1018
    },
    {
     "game": "paint_war",
@@ -181,11 +181,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-09-21",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-09-22",
     "views": 0,
@@ -312,7 +307,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4143
+  "last_48h": 4148
  },
  "social": {
   "tiktok": {
