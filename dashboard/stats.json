@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T14:05:02-07:00",
+ "updated": "2026-10-19T15:05:02-07:00",
  "youtube": {
   "subs": 10,
   "views": 21700,
@@ -9,7 +9,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 4,
+    "views": 485,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -18,7 +18,7 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 701,
+    "views": 840,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
@@ -99,7 +99,7 @@
     "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-17T02:00:29Z",
-    "views": 358,
+    "views": 357,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=61PvSFcx9R4"
@@ -108,7 +108,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-16T21:00:08Z",
-    "views": 1240,
+    "views": 1239,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
@@ -139,7 +139,7 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3253,
+    "views": 3252,
     "likes": 44,
     "avg_views": 1084
    },
@@ -158,6 +158,13 @@
     "avg_views": 1019
    },
    {
+    "game": "paint_war",
+    "videos": 5,
+    "views": 4764,
+    "likes": 30,
+    "avg_views": 953
+   },
+   {
     "game": "gravity_race",
     "videos": 2,
     "views": 1790,
@@ -165,23 +172,16 @@
     "avg_views": 895
    },
    {
-    "game": "paint_war",
-    "videos": 5,
-    "views": 4283,
-    "likes": 30,
-    "avg_views": 857
-   },
-   {
     "game": "ring_escape",
     "videos": 1,
-    "views": 701,
+    "views": 840,
     "likes": 1,
-    "avg_views": 701
+    "avg_views": 840
    },
    {
     "game": "tournament",
     "videos": 4,
-    "views": 2570,
+    "views": 2569,
     "likes": 7,
     "avg_views": 642
    },
@@ -325,18 +325,27 @@
     "subs": 3
    }
   ],
-  "last_48h": 3310
+  "last_48h": 3930
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 20,
+   "posts": 21,
    "views": 6551,
    "likes": 167,
    "comments": 9,
    "follows": 0,
-   "queued": 3,
+   "queued": 2,
    "recent": [
+    {
+     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
+     "sent": "2026-10-19T22:02:21.833Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
      "sent": "2026-10-19T18:03:46.543Z",
@@ -399,27 +408,27 @@
      "comments": 2,
      "shares": 1,
      "follows": 0
-    },
-    {
-     "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5 Comment your pick \ud83d\udc47 Follow for a new one",
-     "sent": "2026-10-17T02:01:20.912Z",
-     "views": 316,
-     "likes": 10,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 19,
+   "posts": 20,
    "views": 6537,
    "likes": 14,
    "comments": 0,
    "follows": 0,
-   "queued": 4,
+   "queued": 3,
    "recent": [
+    {
+     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
+     "sent": "2026-10-19T22:04:47.518Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
      "sent": "2026-10-19T18:06:11.515Z",
@@ -478,15 +487,6 @@
      "title": "Every Squish Makes It Faster... Until It Breaks \ud83d\udca5",
      "sent": "2026-10-17T18:03:59.246Z",
      "views": 129,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
-     "sent": "2026-10-17T02:01:58.036Z",
-     "views": 146,
      "likes": 0,
      "comments": 0,
      "shares": 0,
