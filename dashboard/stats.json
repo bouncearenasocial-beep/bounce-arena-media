@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T00:05:02-07:00",
+ "updated": "2026-10-19T01:05:02-07:00",
  "youtube": {
   "subs": 9,
-  "views": 19141,
+  "views": 21700,
   "videos": 26,
   "recent": [
    {
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 807,
+    "views": 806,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -147,7 +147,7 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3055,
+    "views": 3054,
     "likes": 21,
     "avg_views": 1018
    },
@@ -307,7 +307,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4148
+  "last_48h": 4147
  },
  "social": {
   "tiktok": {
