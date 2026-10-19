@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:05:02-07:00",
+ "updated": "2026-10-19T09:05:02-07:00",
  "youtube": {
   "subs": 9,
   "views": 21700,
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=NFGOjoUW1pA"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-19T17:00:00Z",
+    "game": "ring_escape",
+    "title": "Every Gap = 1 Point \u2b55 Who Wins?"
+   },
+   {
+    "time": "2026-10-19T21:00:00Z",
+    "game": "other",
+    "title": "Which Color Paints the Most? \ud83c\udfa8"
+   }
+  ],
   "by_game": [
    {
     "game": "ball_battle",
@@ -479,8 +490,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-18 09:00:02",
-   "done": true,
+   "start": "2026-10-19 09:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -496,9 +507,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/19/2026 9:00:00 AM",
-   "last": "10/18/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/20/2026 9:00:00 AM",
+   "last": "10/19/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
