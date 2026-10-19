@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:05:02-07:00",
+ "updated": "2026-10-18T21:05:02-07:00",
  "youtube": {
   "subs": 9,
   "views": 19141,
@@ -9,7 +9,7 @@
     "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-19T02:00:10Z",
-    "views": 544,
+    "views": 597,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7sC8KBOrnzA"
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 803,
+    "views": 802,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -54,7 +54,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 390,
+    "views": 393,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -147,7 +147,7 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3051,
+    "views": 3050,
     "likes": 21,
     "avg_views": 1017
    },
@@ -168,9 +168,9 @@
    {
     "game": "tournament",
     "videos": 4,
-    "views": 2508,
+    "views": 2564,
     "likes": 7,
-    "avg_views": 627
+    "avg_views": 641
    },
    {
     "game": "weekly_compilation",
@@ -298,7 +298,7 @@
    },
    {
     "date": "2026-10-14",
-    "views": 4169,
+    "views": 4129,
     "subs": 5
    },
    {
@@ -312,7 +312,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4059
+  "last_48h": 4114
  },
  "social": {
   "tiktok": {
