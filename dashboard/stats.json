@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T08:05:02-07:00",
+ "updated": "2026-10-20T09:05:02-07:00",
  "youtube": {
   "subs": 11,
   "views": 24157,
@@ -27,7 +27,7 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 876,
+    "views": 874,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
@@ -54,7 +54,7 @@
     "title": "Bounce Arena Weekly #1: 18 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
     "published": "2026-10-18T19:00:35Z",
-    "views": 2,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=OvMt7uzm5bs"
@@ -63,7 +63,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 995,
+    "views": 1000,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=61PvSFcx9R4"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-20T17:00:00Z",
+    "game": "ball_battle",
+    "title": "BOMBER or SHURIKEN? \u2694\ufe0f"
+   }
+  ],
   "by_game": [
    {
     "game": "ball_battle",
@@ -140,9 +146,9 @@
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3242,
+    "views": 3247,
     "likes": 23,
-    "avg_views": 1081
+    "avg_views": 1082
    },
    {
     "game": "glass_break",
@@ -168,9 +174,9 @@
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 876,
+    "views": 874,
     "likes": 1,
-    "avg_views": 876
+    "avg_views": 874
    },
    {
     "game": "tournament",
@@ -182,9 +188,9 @@
    {
     "game": "weekly_compilation",
     "videos": 1,
-    "views": 2,
+    "views": 3,
     "likes": 0,
-    "avg_views": 2
+    "avg_views": 3
    }
   ],
   "daily": [
@@ -314,7 +320,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 4439
+  "last_48h": 4443
  },
  "social": {
   "tiktok": {
@@ -486,8 +492,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-19 09:00:02",
-   "done": true,
+   "start": "2026-10-20 09:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -503,9 +509,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/20/2026 9:00:00 AM",
-   "last": "10/19/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/21/2026 9:00:00 AM",
+   "last": "10/20/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
