@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-19T16:05:02-07:00",
+ "updated": "2026-10-19T17:05:02-07:00",
  "youtube": {
-  "subs": 10,
-  "views": 21700,
+  "subs": 11,
+  "views": 22526,
   "videos": 28,
   "recent": [
    {
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 598,
+    "views": 655,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -63,7 +63,7 @@
     "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
     "game": "other",
     "published": "2026-10-18T03:00:16Z",
-    "views": 8,
+    "views": 9,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=aZBcnWlVRSE"
@@ -108,7 +108,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-16T21:00:08Z",
-    "views": 1239,
+    "views": 1248,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Wet_9hKzrGo"
@@ -139,9 +139,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3252,
+    "views": 3261,
     "likes": 44,
-    "avg_views": 1084
+    "avg_views": 1087
    },
    {
     "game": "glass_break",
@@ -160,9 +160,9 @@
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 4877,
+    "views": 4934,
     "likes": 30,
-    "avg_views": 975
+    "avg_views": 987
    },
    {
     "game": "gravity_race",
@@ -325,7 +325,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 4072
+  "last_48h": 4130
  },
  "social": {
   "tiktok": {
@@ -587,8 +587,8 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
-  "yt_views": 2559,
+  "yt_subs": 2,
+  "yt_views": 3385,
   "tt_views": 502,
   "ig_views": 1875
  }
