@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:05:02-07:00",
+ "updated": "2026-10-20T12:05:02-07:00",
  "youtube": {
   "subs": 12,
   "views": 24157,
@@ -9,7 +9,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 438,
+    "views": 496,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -18,7 +18,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 361,
+    "views": 360,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -54,7 +54,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 796,
+    "views": 794,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -137,9 +137,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3284,
+    "views": 3279,
     "likes": 44,
-    "avg_views": 1095
+    "avg_views": 1093
    },
    {
     "game": "squish_split",
@@ -149,18 +149,18 @@
     "avg_views": 1083
    },
    {
+    "game": "ball_battle",
+    "videos": 4,
+    "views": 4273,
+    "likes": 48,
+    "avg_views": 1068
+   },
+   {
     "game": "glass_break",
     "videos": 3,
     "views": 3184,
     "likes": 22,
     "avg_views": 1061
-   },
-   {
-    "game": "ball_battle",
-    "videos": 4,
-    "views": 4215,
-    "likes": 48,
-    "avg_views": 1054
    },
    {
     "game": "paint_war",
@@ -186,7 +186,7 @@
    {
     "game": "tournament",
     "videos": 5,
-    "views": 2900,
+    "views": 2899,
     "likes": 7,
     "avg_views": 580
    },
@@ -323,9 +323,14 @@
     "date": "2026-10-17",
     "views": 2560,
     "subs": 3
+   },
+   {
+    "date": "2026-10-18",
+    "views": 3029,
+    "subs": 0
    }
   ],
-  "last_48h": 3885
+  "last_48h": 3937
  },
  "social": {
   "tiktok": {
@@ -587,7 +592,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 3,
+  "yt_subs": 2,
   "yt_views": 2457,
   "tt_views": 502,
   "ig_views": 1845
