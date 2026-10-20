@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:05:02-07:00",
+ "updated": "2026-10-20T00:05:01-07:00",
  "youtube": {
   "subs": 11,
   "views": 22526,
@@ -9,7 +9,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 341,
+    "views": 356,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -18,7 +18,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 855,
+    "views": 856,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -36,7 +36,7 @@
     "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-19T02:00:10Z",
-    "views": 554,
+    "views": 551,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7sC8KBOrnzA"
@@ -63,7 +63,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 809,
+    "views": 810,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -81,7 +81,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 397,
+    "views": 403,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -99,7 +99,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 1023,
+    "views": 1025,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -108,7 +108,7 @@
     "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-17T02:00:29Z",
-    "views": 358,
+    "views": 357,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=61PvSFcx9R4"
@@ -119,9 +119,9 @@
    {
     "game": "ball_battle",
     "videos": 3,
-    "views": 3774,
+    "views": 3777,
     "likes": 47,
-    "avg_views": 1258
+    "avg_views": 1259
    },
    {
     "game": "maze_race",
@@ -133,9 +133,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3277,
+    "views": 3278,
     "likes": 44,
-    "avg_views": 1092
+    "avg_views": 1093
    },
    {
     "game": "glass_break",
@@ -147,23 +147,23 @@
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 5137,
+    "views": 5140,
     "likes": 31,
-    "avg_views": 1027
+    "avg_views": 1028
    },
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3057,
+    "views": 3058,
     "likes": 21,
     "avg_views": 1019
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1789,
+    "views": 1786,
     "likes": 5,
-    "avg_views": 894
+    "avg_views": 893
    },
    {
     "game": "ring_escape",
@@ -175,9 +175,9 @@
    {
     "game": "tournament",
     "videos": 5,
-    "views": 2870,
+    "views": 2886,
     "likes": 7,
-    "avg_views": 574
+    "avg_views": 577
    },
    {
     "game": "weekly_compilation",
@@ -188,11 +188,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-09-22",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-09-23",
     "views": 0,
@@ -319,7 +314,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 4228
+  "last_48h": 4242
  },
  "social": {
   "tiktok": {
