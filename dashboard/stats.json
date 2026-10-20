@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:05:02-07:00",
+ "updated": "2026-10-20T08:05:02-07:00",
  "youtube": {
   "subs": 11,
   "views": 24157,
@@ -18,7 +18,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 857,
+    "views": 858,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -63,7 +63,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 842,
+    "views": 995,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -138,6 +138,13 @@
     "avg_views": 1093
    },
    {
+    "game": "squish_split",
+    "videos": 3,
+    "views": 3242,
+    "likes": 23,
+    "avg_views": 1081
+   },
+   {
     "game": "glass_break",
     "videos": 3,
     "views": 3184,
@@ -145,16 +152,9 @@
     "avg_views": 1061
    },
    {
-    "game": "squish_split",
-    "videos": 3,
-    "views": 3089,
-    "likes": 23,
-    "avg_views": 1030
-   },
-   {
     "game": "paint_war",
     "videos": 5,
-    "views": 5141,
+    "views": 5142,
     "likes": 31,
     "avg_views": 1028
    },
@@ -314,7 +314,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 4285
+  "last_48h": 4439
  },
  "social": {
   "tiktok": {
