@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:05:02-07:00",
+ "updated": "2026-10-19T22:05:02-07:00",
  "youtube": {
   "subs": 11,
   "views": 22526,
@@ -18,7 +18,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 819,
+    "views": 855,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -45,7 +45,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 797,
+    "views": 793,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -133,9 +133,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3278,
+    "views": 3277,
     "likes": 44,
-    "avg_views": 1093
+    "avg_views": 1092
    },
    {
     "game": "glass_break",
@@ -147,9 +147,9 @@
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 5101,
+    "views": 5137,
     "likes": 31,
-    "avg_views": 1020
+    "avg_views": 1027
    },
    {
     "game": "squish_split",
@@ -319,7 +319,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 4192
+  "last_48h": 4224
  },
  "social": {
   "tiktok": {
