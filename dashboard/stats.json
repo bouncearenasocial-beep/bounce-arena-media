@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:05:02-07:00",
+ "updated": "2026-10-20T04:05:02-07:00",
  "youtube": {
   "subs": 11,
   "views": 24157,
@@ -9,7 +9,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 356,
+    "views": 359,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -27,7 +27,7 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 874,
+    "views": 876,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
@@ -168,16 +168,16 @@
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 874,
+    "views": 876,
     "likes": 1,
-    "avg_views": 874
+    "avg_views": 876
    },
    {
     "game": "tournament",
     "videos": 5,
-    "views": 2892,
+    "views": 2895,
     "likes": 7,
-    "avg_views": 578
+    "avg_views": 579
    },
    {
     "game": "weekly_compilation",
@@ -314,7 +314,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 4247
+  "last_48h": 4252
  },
  "social": {
   "tiktok": {
