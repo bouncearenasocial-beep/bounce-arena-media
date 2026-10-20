@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:05:02-07:00",
+ "updated": "2026-10-19T20:05:02-07:00",
  "youtube": {
   "subs": 11,
   "views": 22526,
@@ -9,7 +9,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 27,
+    "views": 341,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -27,7 +27,7 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 869,
+    "views": 873,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
@@ -63,7 +63,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 808,
+    "views": 809,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -81,7 +81,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 395,
+    "views": 397,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -99,7 +99,7 @@
     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-17T17:00:14Z",
-    "views": 1021,
+    "views": 1023,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RGo5a26aqpg"
@@ -147,37 +147,37 @@
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 5099,
+    "views": 5101,
     "likes": 31,
     "avg_views": 1020
    },
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3056,
+    "views": 3057,
     "likes": 21,
     "avg_views": 1019
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1790,
+    "views": 1789,
     "likes": 5,
-    "avg_views": 895
+    "avg_views": 894
    },
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 869,
+    "views": 873,
     "likes": 1,
-    "avg_views": 869
+    "avg_views": 873
    },
    {
     "game": "tournament",
     "videos": 5,
-    "views": 2551,
+    "views": 2867,
     "likes": 7,
-    "avg_views": 510
+    "avg_views": 573
    },
    {
     "game": "weekly_compilation",
@@ -319,7 +319,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 3882
+  "last_48h": 4192
  },
  "social": {
   "tiktok": {
@@ -408,7 +408,7 @@
   "instagram": {
    "name": "bouncearena2",
    "posts": 21,
-   "views": 6537,
+   "views": 6651,
    "likes": 14,
    "comments": 0,
    "follows": 0,
@@ -426,7 +426,7 @@
     {
      "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
      "sent": "2026-10-19T22:04:47.518Z",
-     "views": 0,
+     "views": 111,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -435,7 +435,7 @@
     {
      "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
      "sent": "2026-10-19T18:06:11.515Z",
-     "views": 115,
+     "views": 116,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -444,7 +444,7 @@
     {
      "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
      "sent": "2026-10-19T02:01:54.662Z",
-     "views": 1600,
+     "views": 1601,
      "likes": 6,
      "comments": 0,
      "shares": 0,
@@ -471,7 +471,7 @@
     {
      "title": "Gravity Race: Who Survives the Eliminations? \ud83c\udfc1",
      "sent": "2026-10-18T02:01:30.722Z",
-     "views": 1216,
+     "views": 1217,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -584,6 +584,6 @@
   "yt_subs": 2,
   "yt_views": 3385,
   "tt_views": 502,
-  "ig_views": 1731
+  "ig_views": 1845
  }
 }
