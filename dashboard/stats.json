@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-21T09:05:02-07:00",
+ "updated": "2026-10-21T10:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
-  "videos": 32,
+  "videos": 33,
   "recent": [
+   {
+    "title": "Escape the Maze or Get Crushed \ud83d\udd25",
+    "game": "maze_race",
+    "published": "2026-10-21T17:00:39Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=ix9PS6h86h4"
+   },
    {
     "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
@@ -103,27 +112,18 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=aZBcnWlVRSE"
-   },
-   {
-    "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
-    "game": "tournament",
-    "published": "2026-10-18T02:00:11Z",
-    "views": 407,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
    }
   ],
   "upcoming": [
    {
-    "time": "2026-10-21T17:00:00Z",
-    "game": "maze_race",
-    "title": "Escape the Maze or Get Crushed \ud83d\udd25"
+    "time": "2026-10-21T21:00:00Z",
+    "game": "ring_battle",
+    "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34"
    },
    {
-    "time": "2026-10-21T21:00:00Z",
-    "game": "other",
-    "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34"
+    "time": "2026-10-22T02:00:00Z",
+    "game": "tournament",
+    "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?"
    }
   ],
   "by_game": [
@@ -133,13 +133,6 @@
     "views": 4654,
     "likes": 49,
     "avg_views": 1164
-   },
-   {
-    "game": "maze_race",
-    "videos": 1,
-    "views": 1128,
-    "likes": 8,
-    "avg_views": 1128
    },
    {
     "game": "ring_battle",
@@ -182,6 +175,13 @@
     "views": 1789,
     "likes": 5,
     "avg_views": 894
+   },
+   {
+    "game": "maze_race",
+    "videos": 2,
+    "views": 1128,
+    "likes": 8,
+    "avg_views": 564
    },
    {
     "game": "tournament",
@@ -325,7 +325,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4284
+  "last_48h": 3246
  },
  "social": {
   "tiktok": {
@@ -335,7 +335,7 @@
    "likes": 210,
    "comments": 10,
    "follows": 0,
-   "queued": 4,
+   "queued": 7,
    "recent": [
     {
      "title": "Every Gap = 1 Point \u2b55 Who Wins? Comment your pick \ud83d\udc47 Follow for a new one every day! #satis",
@@ -418,7 +418,7 @@
    "likes": 15,
    "comments": 0,
    "follows": 0,
-   "queued": 5,
+   "queued": 8,
    "recent": [
     {
      "title": "Which Color Paints the Most? \ud83c\udfa8",
@@ -498,7 +498,7 @@
  "runs": {
   "daily": {
    "start": "2026-10-21 09:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -516,7 +516,7 @@
   "Bounce Arena Daily": {
    "next": "10/22/2026 9:00:00 AM",
    "last": "10/21/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
@@ -531,59 +531,65 @@
  },
  "verified": true,
  "tournament": {
-  "season": 1,
+  "season": 2,
   "matches": [
    {
     "id": "QF1",
-    "label": "Quarterfinal 1",
-    "a": "VAMPIRE",
-    "b": "SWORD",
-    "winner": "SWORD"
+    "label": "Doubles Quarterfinal 1",
+    "a": "SHIELD & BLINK",
+    "b": "SPEAR & BOW",
+    "winner": null
    },
    {
     "id": "QF2",
-    "label": "Quarterfinal 2",
-    "a": "SHIELD",
-    "b": "HAMMER",
-    "winner": "SHIELD"
+    "label": "Doubles Quarterfinal 2",
+    "a": "THUNDER & VAMPIRE",
+    "b": "GROWER & HAMMER",
+    "winner": null
    },
    {
     "id": "QF3",
-    "label": "Quarterfinal 3",
-    "a": "DAGGER",
-    "b": "LASER",
-    "winner": "LASER"
+    "label": "Doubles Quarterfinal 3",
+    "a": "SWORD & AXE",
+    "b": "SHURIKEN & DAGGER",
+    "winner": null
    },
    {
     "id": "QF4",
-    "label": "Quarterfinal 4",
-    "a": "SHURIKEN",
-    "b": "SPEAR",
-    "winner": "SHURIKEN"
+    "label": "Doubles Quarterfinal 4",
+    "a": "BOOMERANG & FROST",
+    "b": "SPIKES & CLAWS",
+    "winner": null
    },
    {
     "id": "SF1",
-    "label": "Semifinal 1",
-    "a": "SWORD",
-    "b": "SHIELD",
-    "winner": "SWORD"
+    "label": "Doubles Semifinal 1",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "SF2",
-    "label": "Semifinal 2",
-    "a": "LASER",
-    "b": "SHURIKEN",
-    "winner": "LASER"
+    "label": "Doubles Semifinal 2",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "F",
-    "label": "THE FINAL",
-    "a": "SWORD",
-    "b": "LASER",
+    "label": "THE DOUBLES FINAL",
+    "a": null,
+    "b": null,
     "winner": null
    }
   ],
-  "champions": []
+  "champions": [
+   {
+    "season": 1,
+    "mode": "1v1",
+    "champion": "LASER"
+   }
+  ]
  },
  "problems": [],
  "delta_24h": {
