@@ -1,16 +1,25 @@
 {
- "updated": "2026-10-21T13:05:02-07:00",
+ "updated": "2026-10-21T14:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
-  "videos": 33,
+  "videos": 34,
   "recent": [
+   {
+    "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
+    "game": "ring_battle",
+    "published": "2026-10-21T21:00:31Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
+   },
    {
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 572,
-    "likes": 0,
+    "views": 759,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
    },
@@ -36,7 +45,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 879,
+    "views": 880,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -103,23 +112,9 @@
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
-   },
-   {
-    "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
-    "game": "other",
-    "published": "2026-10-18T03:00:16Z",
-    "views": 9,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=aZBcnWlVRSE"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-21T21:00:00Z",
-    "game": "ring_battle",
-    "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34"
-   },
    {
     "time": "2026-10-22T02:00:00Z",
     "game": "tournament",
@@ -130,16 +125,9 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4656,
+    "views": 4657,
     "likes": 49,
     "avg_views": 1164
-   },
-   {
-    "game": "ring_battle",
-    "videos": 3,
-    "views": 3291,
-    "likes": 44,
-    "avg_views": 1097
    },
    {
     "game": "squish_split",
@@ -151,9 +139,9 @@
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 5297,
+    "views": 5298,
     "likes": 31,
-    "avg_views": 1059
+    "avg_views": 1060
    },
    {
     "game": "ring_escape",
@@ -170,6 +158,13 @@
     "avg_views": 1000
    },
    {
+    "game": "maze_race",
+    "videos": 2,
+    "views": 1887,
+    "likes": 9,
+    "avg_views": 944
+   },
+   {
     "game": "gravity_race",
     "videos": 2,
     "views": 1789,
@@ -177,11 +172,11 @@
     "avg_views": 894
    },
    {
-    "game": "maze_race",
-    "videos": 2,
-    "views": 1700,
-    "likes": 8,
-    "avg_views": 850
+    "game": "ring_battle",
+    "videos": 4,
+    "views": 3291,
+    "likes": 44,
+    "avg_views": 823
    },
    {
     "game": "tournament",
@@ -330,7 +325,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3821
+  "last_48h": 3003
  },
  "social": {
   "tiktok": {
