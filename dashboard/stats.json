@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:05:02-07:00",
+ "updated": "2026-10-21T15:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -9,7 +9,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 0,
+    "views": 216,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -174,9 +174,9 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 3291,
+    "views": 3507,
     "likes": 44,
-    "avg_views": 823
+    "avg_views": 877
    },
    {
     "game": "tournament",
@@ -325,18 +325,27 @@
     "subs": 2
    }
   ],
-  "last_48h": 3003
+  "last_48h": 3219
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 26,
+   "posts": 27,
    "views": 7886,
    "likes": 218,
    "comments": 12,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
+     "sent": "2026-10-21T22:02:13.608Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
      "sent": "2026-10-21T18:02:56.335Z",
@@ -399,27 +408,27 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8 Comment your pick \ud83d\udc47 Follow for a new one every day! #sat",
-     "sent": "2026-10-19T02:02:24.377Z",
-     "views": 295,
-     "likes": 17,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 25,
+   "posts": 26,
    "views": 7096,
    "likes": 15,
    "comments": 0,
    "follows": 0,
-   "queued": 7,
+   "queued": 6,
    "recent": [
+    {
+     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
+     "sent": "2026-10-21T22:03:59.702Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Every Gap = 1 Point \u2b55 Who Wins?",
      "sent": "2026-10-21T18:03:52.906Z",
@@ -479,15 +488,6 @@
      "sent": "2026-10-19T18:06:11.515Z",
      "views": 116,
      "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
-     "sent": "2026-10-19T02:01:54.662Z",
-     "views": 1607,
-     "likes": 6,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -593,7 +593,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 0,
   "yt_views": 878,
   "tt_views": 703,
   "ig_views": 214
