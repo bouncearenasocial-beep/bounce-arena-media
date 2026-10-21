@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:05:02-07:00",
+ "updated": "2026-10-21T02:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -18,7 +18,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 795,
+    "views": 798,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -54,7 +54,7 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 874,
+    "views": 898,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
@@ -154,9 +154,16 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 3978,
+    "views": 3981,
     "likes": 23,
-    "avg_views": 994
+    "avg_views": 995
+   },
+   {
+    "game": "ring_escape",
+    "videos": 1,
+    "views": 898,
+    "likes": 2,
+    "avg_views": 898
    },
    {
     "game": "gravity_race",
@@ -164,13 +171,6 @@
     "views": 1786,
     "likes": 5,
     "avg_views": 893
-   },
-   {
-    "game": "ring_escape",
-    "videos": 1,
-    "views": 874,
-    "likes": 2,
-    "avg_views": 874
    },
    {
     "game": "tournament",
@@ -314,7 +314,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3946
+  "last_48h": 3973
  },
  "social": {
   "tiktok": {
