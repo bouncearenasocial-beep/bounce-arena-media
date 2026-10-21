@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-20T23:05:02-07:00",
+ "updated": "2026-10-21T00:05:02-07:00",
  "youtube": {
   "subs": 13,
-  "views": 24157,
+  "views": 25035,
   "videos": 32,
   "recent": [
    {
     "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-21T02:00:35Z",
-    "views": 182,
+    "views": 185,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gLc2sPW6-8Y"
@@ -27,7 +27,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 864,
+    "views": 867,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -119,9 +119,9 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4641,
+    "views": 4644,
     "likes": 49,
-    "avg_views": 1160
+    "avg_views": 1161
    },
    {
     "game": "maze_race",
@@ -175,7 +175,7 @@
    {
     "game": "tournament",
     "videos": 6,
-    "views": 3083,
+    "views": 3086,
     "likes": 7,
     "avg_views": 514
    },
@@ -188,11 +188,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-09-23",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-09-24",
     "views": 0,
@@ -319,7 +314,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3940
+  "last_48h": 3946
  },
  "social": {
   "tiktok": {
@@ -582,7 +577,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1631,
+  "yt_views": 878,
   "tt_views": 1033,
   "ig_views": 334
  }
