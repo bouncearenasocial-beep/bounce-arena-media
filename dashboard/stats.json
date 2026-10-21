@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-20T18:05:02-07:00",
+ "updated": "2026-10-20T19:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 24157,
-  "videos": 31,
+  "videos": 32,
   "recent": [
+   {
+    "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
+    "game": "tournament",
+    "published": "2026-10-21T02:00:35Z",
+    "views": 31,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=gLc2sPW6-8Y"
+   },
    {
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
@@ -18,7 +27,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 854,
+    "views": 858,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -27,7 +36,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 362,
+    "views": 366,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -103,31 +112,16 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
-   },
-   {
-    "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
-    "game": "glass_break",
-    "published": "2026-10-17T21:00:10Z",
-    "views": 747,
-    "likes": 2,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=Ah_yZHyajto"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-21T02:00:00Z",
-    "game": "tournament",
-    "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4631,
+    "views": 4635,
     "likes": 50,
-    "avg_views": 1158
+    "avg_views": 1159
    },
    {
     "game": "maze_race",
@@ -180,10 +174,10 @@
    },
    {
     "game": "tournament",
-    "videos": 5,
-    "views": 2902,
+    "videos": 6,
+    "views": 2937,
     "likes": 7,
-    "avg_views": 580
+    "avg_views": 490
    },
    {
     "game": "weekly_compilation",
@@ -325,9 +319,176 @@
     "subs": 0
    }
   ],
-  "last_48h": 4281
+  "last_48h": 3766
  },
- "social": null,
+ "social": {
+  "tiktok": {
+   "name": "bouncearena2",
+   "posts": 25,
+   "views": 7183,
+   "likes": 191,
+   "comments": 10,
+   "follows": 0,
+   "queued": 4,
+   "recent": [
+    {
+     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
+     "sent": "2026-10-21T02:02:11.891Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Which Color Paints the Most? \ud83c\udfa8",
+     "sent": "2026-10-20T22:01:27.683Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6",
+     "sent": "2026-10-20T18:03:49.895Z",
+     "views": 103,
+     "likes": 1,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
+     "sent": "2026-10-20T02:02:15.601Z",
+     "views": 227,
+     "likes": 7,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
+     "sent": "2026-10-19T22:02:21.833Z",
+     "views": 293,
+     "likes": 16,
+     "comments": 1,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
+     "sent": "2026-10-19T18:03:46.543Z",
+     "views": 89,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
+     "sent": "2026-10-19T02:02:24.377Z",
+     "views": 295,
+     "likes": 17,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
+     "sent": "2026-10-18T22:02:30.800Z",
+     "views": 101,
+     "likes": 1,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    }
+   ]
+  },
+  "instagram": {
+   "name": "bouncearena2",
+   "posts": 24,
+   "views": 6882,
+   "likes": 15,
+   "comments": 0,
+   "follows": 0,
+   "queued": 5,
+   "recent": [
+    {
+     "title": "Which Color Paints the Most? \ud83c\udfa8",
+     "sent": "2026-10-21T02:00:58.719Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6",
+     "sent": "2026-10-20T22:03:03.229Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
+     "sent": "2026-10-20T18:03:58.892Z",
+     "views": 112,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
+     "sent": "2026-10-20T02:01:54.932Z",
+     "views": 111,
+     "likes": 1,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
+     "sent": "2026-10-19T22:04:47.518Z",
+     "views": 113,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
+     "sent": "2026-10-19T18:06:11.515Z",
+     "views": 116,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "Can the Balls Break 1,038 HP of Glass? \ud83d\udca5",
+     "sent": "2026-10-19T02:01:54.662Z",
+     "views": 1607,
+     "likes": 6,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
+    {
+     "title": "SHIELD vs HAMMER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
+     "sent": "2026-10-18T22:02:34.421Z",
+     "views": 141,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    }
+   ]
+  }
+ },
  "runs": {
   "daily": {
    "start": "2026-10-20 09:00:02",
@@ -406,25 +567,23 @@
     "label": "Semifinal 2",
     "a": "LASER",
     "b": "SHURIKEN",
-    "winner": null
+    "winner": "LASER"
    },
    {
     "id": "F",
     "label": "THE FINAL",
     "a": "SWORD",
-    "b": null,
+    "b": "LASER",
     "winner": null
    }
   ],
   "champions": []
  },
- "problems": [
-  "Couldn't read TikTok / Instagram from Buffer (Buffer key or connection problem). Posts may not be getting queued."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 2,
   "yt_views": 1631,
-  "tt_views": null,
-  "ig_views": null
+  "tt_views": 632,
+  "ig_views": 345
  }
 }
