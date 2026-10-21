@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T02:05:02-07:00",
+ "updated": "2026-10-21T03:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -27,7 +27,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 867,
+    "views": 875,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -72,7 +72,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 797,
+    "views": 798,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -119,9 +119,9 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4644,
+    "views": 4652,
     "likes": 49,
-    "avg_views": 1161
+    "avg_views": 1163
    },
    {
     "game": "maze_race",
@@ -133,7 +133,7 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3285,
+    "views": 3286,
     "likes": 44,
     "avg_views": 1095
    },
@@ -314,7 +314,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3973
+  "last_48h": 3981
  },
  "social": {
   "tiktok": {
