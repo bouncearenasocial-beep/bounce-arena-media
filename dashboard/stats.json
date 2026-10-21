@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:05:02-07:00",
+ "updated": "2026-10-21T09:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -18,7 +18,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 808,
+    "views": 812,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -27,7 +27,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 876,
+    "views": 877,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -45,7 +45,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 1005,
+    "views": 1006,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -72,7 +72,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 799,
+    "views": 801,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -114,14 +114,25 @@
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-21T17:00:00Z",
+    "game": "maze_race",
+    "title": "Escape the Maze or Get Crushed \ud83d\udd25"
+   },
+   {
+    "time": "2026-10-21T21:00:00Z",
+    "game": "other",
+    "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34"
+   }
+  ],
   "by_game": [
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4653,
+    "views": 4654,
     "likes": 49,
-    "avg_views": 1163
+    "avg_views": 1164
    },
    {
     "game": "maze_race",
@@ -133,9 +144,9 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3289,
+    "views": 3291,
     "likes": 44,
-    "avg_views": 1096
+    "avg_views": 1097
    },
    {
     "game": "squish_split",
@@ -147,9 +158,9 @@
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 5292,
+    "views": 5294,
     "likes": 31,
-    "avg_views": 1058
+    "avg_views": 1059
    },
    {
     "game": "ring_escape",
@@ -161,14 +172,14 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 3994,
+    "views": 3998,
     "likes": 23,
-    "avg_views": 998
+    "avg_views": 1000
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1788,
+    "views": 1789,
     "likes": 5,
     "avg_views": 894
    },
@@ -314,7 +325,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4278
+  "last_48h": 4284
  },
  "social": {
   "tiktok": {
@@ -486,8 +497,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-20 09:00:02",
-   "done": true,
+   "start": "2026-10-21 09:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -503,9 +514,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/21/2026 9:00:00 AM",
-   "last": "10/20/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/22/2026 9:00:00 AM",
+   "last": "10/21/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
