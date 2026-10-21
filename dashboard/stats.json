@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:05:02-07:00",
+ "updated": "2026-10-21T04:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -18,8 +18,8 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 798,
-    "likes": 1,
+    "views": 803,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
    },
@@ -154,9 +154,9 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 3981,
-    "likes": 23,
-    "avg_views": 995
+    "views": 3986,
+    "likes": 24,
+    "avg_views": 996
    },
    {
     "game": "ring_escape",
@@ -314,7 +314,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3981
+  "last_48h": 3986
  },
  "social": {
   "tiktok": {
