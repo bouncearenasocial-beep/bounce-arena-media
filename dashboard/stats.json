@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:05:02-07:00",
+ "updated": "2026-10-21T13:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -9,7 +9,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 32,
+    "views": 572,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -27,7 +27,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 812,
+    "views": 813,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -165,7 +165,7 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 3998,
+    "views": 3999,
     "likes": 23,
     "avg_views": 1000
    },
@@ -179,9 +179,9 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 1160,
+    "views": 1700,
     "likes": 8,
-    "avg_views": 580
+    "avg_views": 850
    },
    {
     "game": "tournament",
@@ -330,7 +330,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3280
+  "last_48h": 3821
  },
  "social": {
   "tiktok": {
@@ -600,7 +600,7 @@
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 878,
-  "tt_views": 1335,
-  "ig_views": 445
+  "tt_views": 703,
+  "ig_views": 214
  }
 }
