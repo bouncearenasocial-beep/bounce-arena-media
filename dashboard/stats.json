@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:05:02-07:00",
+ "updated": "2026-10-21T05:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
@@ -18,7 +18,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 803,
+    "views": 805,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -27,7 +27,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 875,
+    "views": 876,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -45,7 +45,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-19T21:00:29Z",
-    "views": 859,
+    "views": 1005,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=fKLYKZoQxkM"
@@ -54,7 +54,7 @@
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
     "published": "2026-10-19T17:00:08Z",
-    "views": 898,
+    "views": 1038,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VONHAxdUT7g"
@@ -63,7 +63,7 @@
     "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-19T02:00:10Z",
-    "views": 554,
+    "views": 556,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7sC8KBOrnzA"
@@ -72,7 +72,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 798,
+    "views": 799,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -90,7 +90,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-18T17:00:13Z",
-    "views": 1004,
+    "views": 1007,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
@@ -108,7 +108,7 @@
     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-18T02:00:11Z",
-    "views": 404,
+    "views": 407,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Jk-bIkqq3mY"
@@ -119,7 +119,7 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4652,
+    "views": 4653,
     "likes": 49,
     "avg_views": 1163
    },
@@ -133,51 +133,51 @@
    {
     "game": "ring_battle",
     "videos": 3,
-    "views": 3286,
+    "views": 3289,
     "likes": 44,
-    "avg_views": 1095
+    "avg_views": 1096
    },
    {
     "game": "squish_split",
     "videos": 3,
-    "views": 3251,
+    "views": 3254,
     "likes": 23,
-    "avg_views": 1084
+    "avg_views": 1085
    },
    {
     "game": "paint_war",
     "videos": 5,
-    "views": 5143,
+    "views": 5292,
     "likes": 31,
-    "avg_views": 1029
-   },
-   {
-    "game": "glass_break",
-    "videos": 4,
-    "views": 3986,
-    "likes": 24,
-    "avg_views": 996
+    "avg_views": 1058
    },
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 898,
+    "views": 1038,
     "likes": 2,
-    "avg_views": 898
+    "avg_views": 1038
+   },
+   {
+    "game": "glass_break",
+    "videos": 4,
+    "views": 3991,
+    "likes": 24,
+    "avg_views": 998
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1786,
+    "views": 1788,
     "likes": 5,
-    "avg_views": 893
+    "avg_views": 894
    },
    {
     "game": "tournament",
     "videos": 6,
-    "views": 3086,
+    "views": 3093,
     "likes": 7,
-    "avg_views": 514
+    "avg_views": 516
    },
    {
     "game": "weekly_compilation",
@@ -314,7 +314,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3986
+  "last_48h": 4275
  },
  "social": {
   "tiktok": {
