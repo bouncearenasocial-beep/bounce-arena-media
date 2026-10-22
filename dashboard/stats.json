@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T02:05:02-07:00",
+ "updated": "2026-10-22T03:05:02-07:00",
  "youtube": {
   "subs": 14,
   "views": 28679,
@@ -27,7 +27,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 965,
+    "views": 968,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -99,7 +99,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-18T21:00:11Z",
-    "views": 802,
+    "views": 803,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yy19oAFZeB8"
@@ -119,7 +119,7 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4663,
+    "views": 4664,
     "likes": 49,
     "avg_views": 1166
    },
@@ -140,9 +140,9 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2093,
+    "views": 2096,
     "likes": 9,
-    "avg_views": 1046
+    "avg_views": 1048
    },
    {
     "game": "ring_escape",
@@ -154,16 +154,16 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4095,
+    "views": 4096,
     "likes": 48,
     "avg_views": 1024
    },
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4013,
+    "views": 4014,
     "likes": 24,
-    "avg_views": 1003
+    "avg_views": 1004
    },
    {
     "game": "gravity_race",
@@ -314,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3654
+  "last_48h": 3657
  },
  "social": {
   "tiktok": {
