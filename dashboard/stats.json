@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:05:02-07:00",
+ "updated": "2026-10-22T05:05:01-07:00",
  "youtube": {
   "subs": 14,
   "views": 28679,
@@ -18,8 +18,8 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 801,
-    "likes": 4,
+    "views": 807,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
    },
@@ -45,7 +45,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 825,
+    "views": 827,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -54,7 +54,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 883,
+    "views": 889,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -119,9 +119,9 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4663,
+    "views": 4669,
     "likes": 50,
-    "avg_views": 1166
+    "avg_views": 1167
    },
    {
     "game": "squish_split",
@@ -154,16 +154,16 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4096,
-    "likes": 48,
-    "avg_views": 1024
+    "views": 4102,
+    "likes": 49,
+    "avg_views": 1026
    },
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4013,
+    "views": 4015,
     "likes": 24,
-    "avg_views": 1003
+    "avg_views": 1004
    },
    {
     "game": "gravity_race",
@@ -314,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3655
+  "last_48h": 3669
  },
  "social": {
   "tiktok": {
