@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-21T18:05:02-07:00",
+ "updated": "2026-10-21T19:05:02-07:00",
  "youtube": {
   "subs": 13,
   "views": 25035,
-  "videos": 34,
+  "videos": 35,
   "recent": [
+   {
+    "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?",
+    "game": "tournament",
+    "published": "2026-10-22T02:00:00Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=T4YZuRWN6VI"
+   },
    {
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 602,
+    "views": 730,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -18,7 +27,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 934,
+    "views": 918,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=OvMt7uzm5bs"
-   },
-   {
-    "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
-    "game": "squish_split",
-    "published": "2026-10-18T17:00:13Z",
-    "views": 1007,
-    "likes": 4,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=Xgf7I7CHL_0"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-22T02:00:00Z",
-    "game": "tournament",
-    "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "ball_battle",
@@ -153,9 +147,16 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2062,
+    "views": 2046,
     "likes": 9,
-    "avg_views": 1031
+    "avg_views": 1023
+   },
+   {
+    "game": "ring_battle",
+    "videos": 4,
+    "views": 4021,
+    "likes": 48,
+    "avg_views": 1005
    },
    {
     "game": "glass_break",
@@ -163,13 +164,6 @@
     "views": 3999,
     "likes": 23,
     "avg_views": 1000
-   },
-   {
-    "game": "ring_battle",
-    "videos": 4,
-    "views": 3893,
-    "likes": 48,
-    "avg_views": 973
    },
    {
     "game": "gravity_race",
@@ -180,10 +174,10 @@
    },
    {
     "game": "tournament",
-    "videos": 6,
+    "videos": 7,
     "views": 3093,
     "likes": 7,
-    "avg_views": 516
+    "avg_views": 442
    },
    {
     "game": "weekly_compilation",
@@ -311,7 +305,7 @@
    },
    {
     "date": "2026-10-17",
-    "views": 2560,
+    "views": 2553,
     "subs": 3
    },
    {
@@ -325,18 +319,27 @@
     "subs": 2
    }
   ],
-  "last_48h": 3780
+  "last_48h": 3526
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 27,
+   "posts": 28,
    "views": 7886,
    "likes": 218,
    "comments": 12,
    "follows": 0,
-   "queued": 5,
+   "queued": 4,
    "recent": [
+    {
+     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
+     "sent": "2026-10-22T02:02:26.063Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
      "sent": "2026-10-21T22:02:13.608Z",
@@ -399,27 +402,27 @@
      "comments": 1,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances? Comment your pick \ud83d\udc47 Follow for a new one ",
-     "sent": "2026-10-19T18:03:46.543Z",
-     "views": 89,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 26,
+   "posts": 27,
    "views": 7096,
    "likes": 15,
    "comments": 0,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
+     "sent": "2026-10-22T02:01:31.231Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
      "sent": "2026-10-21T22:03:59.702Z",
@@ -482,15 +485,6 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "3 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
-     "sent": "2026-10-19T18:06:11.515Z",
-     "views": 116,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   }
@@ -519,9 +513,9 @@
    "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
-   "next": "10/24/2026 1:00:00 AM",
-   "last": "10/17/2026 1:00:00 AM",
-   "result": "0"
+   "next": "",
+   "last": "",
+   "result": ""
   },
   "Bounce Arena Weekly Compilation": {
    "next": "10/25/2026 5:00:00 AM",
@@ -595,7 +589,7 @@
  "delta_24h": {
   "yt_subs": 0,
   "yt_views": 878,
-  "tt_views": null,
-  "ig_views": null
+  "tt_views": 703,
+  "ig_views": 214
  }
 }
