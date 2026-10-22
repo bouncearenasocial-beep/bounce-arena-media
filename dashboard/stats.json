@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:05:01-07:00",
+ "updated": "2026-10-22T13:05:01-07:00",
  "youtube": {
   "subs": 14,
   "views": 30474,
@@ -18,8 +18,8 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 316,
-    "likes": 2,
+    "views": 427,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
    },
@@ -172,9 +172,9 @@
    {
     "game": "paint_war",
     "videos": 6,
-    "views": 5612,
-    "likes": 33,
-    "avg_views": 935
+    "views": 5723,
+    "likes": 38,
+    "avg_views": 954
    },
    {
     "game": "gravity_race",
@@ -330,7 +330,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3256
+  "last_48h": 3367
  },
  "social": {
   "tiktok": {
