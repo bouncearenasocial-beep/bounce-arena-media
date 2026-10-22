@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T14:05:01-07:00",
+ "updated": "2026-10-22T15:05:02-07:00",
  "youtube": {
-  "subs": 14,
+  "subs": 15,
   "views": 30474,
   "videos": 38,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 25,
-    "likes": 0,
+    "views": 572,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
    },
@@ -27,7 +27,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 592,
+    "views": 647,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -36,7 +36,7 @@
     "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-10-22T02:00:00Z",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T4YZuRWN6VI"
@@ -160,9 +160,16 @@
    {
     "game": "paint_war",
     "videos": 6,
-    "views": 5888,
+    "views": 5943,
     "likes": 39,
-    "avg_views": 981
+    "avg_views": 990
+   },
+   {
+    "game": "squish_split",
+    "videos": 4,
+    "views": 3826,
+    "likes": 26,
+    "avg_views": 956
    },
    {
     "game": "gravity_race",
@@ -172,16 +179,9 @@
     "avg_views": 896
    },
    {
-    "game": "squish_split",
-    "videos": 4,
-    "views": 3279,
-    "likes": 23,
-    "avg_views": 820
-   },
-   {
     "game": "tournament",
     "videos": 7,
-    "views": 3088,
+    "views": 3089,
     "likes": 7,
     "avg_views": 441
    },
@@ -325,7 +325,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2608
+  "last_48h": 3211
  },
  "social": {
   "tiktok": {
@@ -335,7 +335,7 @@
    "likes": 231,
    "comments": 15,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
     {
      "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
@@ -413,13 +413,22 @@
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 28,
+   "posts": 29,
    "views": 8543,
    "likes": 21,
    "comments": 0,
    "follows": 0,
-   "queued": 7,
+   "queued": 6,
    "recent": [
+    {
+     "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
+     "sent": "2026-10-22T22:02:43.280Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
      "sent": "2026-10-22T18:04:23.349Z",
@@ -479,15 +488,6 @@
      "sent": "2026-10-20T18:03:58.892Z",
      "views": 112,
      "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
-     "sent": "2026-10-20T02:01:54.932Z",
-     "views": 111,
-     "likes": 1,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -593,7 +593,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 5439,
   "tt_views": 361,
   "ig_views": 1447
