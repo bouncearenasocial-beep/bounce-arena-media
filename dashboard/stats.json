@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:05:01-07:00",
+ "updated": "2026-10-22T09:05:01-07:00",
  "youtube": {
   "subs": 14,
   "views": 28679,
@@ -18,7 +18,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 807,
+    "views": 832,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -45,7 +45,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 827,
+    "views": 947,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -54,7 +54,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 974,
+    "views": 1015,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -114,14 +114,20 @@
     "url": "https://youtube.com/watch?v=OvMt7uzm5bs"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-22T17:00:00Z",
+    "game": "paint_war",
+    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8"
+   }
+  ],
   "by_game": [
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4754,
+    "views": 4795,
     "likes": 50,
-    "avg_views": 1188
+    "avg_views": 1199
    },
    {
     "game": "squish_split",
@@ -152,18 +158,18 @@
     "avg_views": 1038
    },
    {
-    "game": "ring_battle",
-    "videos": 4,
-    "views": 4100,
-    "likes": 49,
-    "avg_views": 1025
-   },
-   {
     "game": "glass_break",
     "videos": 4,
-    "views": 4015,
+    "views": 4135,
     "likes": 24,
-    "avg_views": 1004
+    "avg_views": 1034
+   },
+   {
+    "game": "ring_battle",
+    "videos": 4,
+    "views": 4125,
+    "likes": 49,
+    "avg_views": 1031
    },
    {
     "game": "gravity_race",
@@ -314,7 +320,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3756
+  "last_48h": 3942
  },
  "social": {
   "tiktok": {
@@ -486,8 +492,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-21 09:00:02",
-   "done": true,
+   "start": "2026-10-22 09:00:01",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -503,9 +509,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/22/2026 9:00:00 AM",
-   "last": "10/21/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/23/2026 9:00:00 AM",
+   "last": "10/22/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
