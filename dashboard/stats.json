@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:05:02-07:00",
+ "updated": "2026-10-22T04:05:02-07:00",
  "youtube": {
   "subs": 14,
   "views": 28679,
@@ -45,7 +45,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 826,
+    "views": 825,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -54,8 +54,8 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 884,
-    "likes": 2,
+    "views": 883,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
    },
@@ -119,8 +119,8 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4664,
-    "likes": 49,
+    "views": 4663,
+    "likes": 50,
     "avg_views": 1166
    },
    {
@@ -161,9 +161,9 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4014,
+    "views": 4013,
     "likes": 24,
-    "avg_views": 1004
+    "avg_views": 1003
    },
    {
     "game": "gravity_race",
@@ -314,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3657
+  "last_48h": 3655
  },
  "social": {
   "tiktok": {
