@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:05:02-07:00",
+ "updated": "2026-10-21T22:05:02-07:00",
  "youtube": {
   "subs": 14,
   "views": 25035,
@@ -18,7 +18,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 751,
+    "views": 798,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -27,7 +27,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 962,
+    "views": 965,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -45,7 +45,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 815,
+    "views": 825,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -119,7 +119,7 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4662,
+    "views": 4663,
     "likes": 49,
     "avg_views": 1166
    },
@@ -140,9 +140,9 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2090,
+    "views": 2093,
     "likes": 9,
-    "avg_views": 1045
+    "avg_views": 1046
    },
    {
     "game": "ring_escape",
@@ -154,16 +154,16 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4045,
+    "views": 4092,
     "likes": 48,
-    "avg_views": 1011
+    "avg_views": 1023
    },
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4002,
+    "views": 4012,
     "likes": 24,
-    "avg_views": 1000
+    "avg_views": 1003
    },
    {
     "game": "gravity_race",
@@ -319,7 +319,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3597
+  "last_48h": 3657
  },
  "social": {
   "tiktok": {
