@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:05:01-07:00",
+ "updated": "2026-10-22T11:05:02-07:00",
  "youtube": {
   "subs": 14,
   "views": 30474,
@@ -9,8 +9,8 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 9,
-    "likes": 0,
+    "views": 314,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
    },
@@ -27,7 +27,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 832,
+    "views": 835,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -36,7 +36,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 969,
+    "views": 971,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -54,7 +54,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 947,
+    "views": 949,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -149,9 +149,9 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2097,
+    "views": 2099,
     "likes": 9,
-    "avg_views": 1048
+    "avg_views": 1050
    },
    {
     "game": "ring_escape",
@@ -163,16 +163,23 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4135,
+    "views": 4137,
     "likes": 24,
     "avg_views": 1034
    },
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4125,
+    "views": 4128,
     "likes": 49,
-    "avg_views": 1031
+    "avg_views": 1032
+   },
+   {
+    "game": "paint_war",
+    "videos": 6,
+    "views": 5610,
+    "likes": 33,
+    "avg_views": 935
    },
    {
     "game": "gravity_race",
@@ -180,13 +187,6 @@
     "views": 1791,
     "likes": 5,
     "avg_views": 896
-   },
-   {
-    "game": "paint_war",
-    "videos": 6,
-    "views": 5305,
-    "likes": 31,
-    "avg_views": 884
    },
    {
     "game": "tournament",
@@ -330,23 +330,32 @@
     "subs": 2
    }
   ],
-  "last_48h": 2936
+  "last_48h": 3248
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 28,
-   "views": 7886,
-   "likes": 218,
-   "comments": 12,
+   "posts": 29,
+   "views": 8247,
+   "likes": 231,
+   "comments": 15,
    "follows": 0,
-   "queued": 7,
+   "queued": 6,
    "recent": [
+    {
+     "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
+     "sent": "2026-10-22T18:03:26.257Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
      "sent": "2026-10-22T02:02:26.063Z",
-     "views": 0,
-     "likes": 0,
+     "views": 167,
+     "likes": 2,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -354,26 +363,26 @@
     {
      "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
      "sent": "2026-10-21T22:02:13.608Z",
-     "views": 0,
-     "likes": 0,
-     "comments": 0,
+     "views": 49,
+     "likes": 3,
+     "comments": 1,
      "shares": 0,
      "follows": 0
     },
     {
      "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
      "sent": "2026-10-21T18:02:56.335Z",
-     "views": 105,
-     "likes": 1,
-     "comments": 0,
+     "views": 169,
+     "likes": 6,
+     "comments": 2,
      "shares": 0,
      "follows": 0
     },
     {
      "title": "Every Gap = 1 Point \u2b55 Who Wins? Comment your pick \ud83d\udc47 Follow for a new one every day! #satis",
      "sent": "2026-10-21T02:02:11.891Z",
-     "views": 183,
-     "likes": 4,
+     "views": 256,
+     "likes": 7,
      "comments": 2,
      "shares": 0,
      "follows": 0
@@ -381,7 +390,7 @@
     {
      "title": "Which Color Paints the Most? \ud83c\udfa8 Comment your pick \ud83d\udc47 Follow for a new one every day! #satisf",
      "sent": "2026-10-20T22:01:27.683Z",
-     "views": 279,
+     "views": 282,
      "likes": 14,
      "comments": 0,
      "shares": 0,
@@ -390,7 +399,7 @@
     {
      "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6 Comment your pick \ud83d\udc47 Follow for a new one ever",
      "sent": "2026-10-20T18:03:49.895Z",
-     "views": 164,
+     "views": 165,
      "likes": 4,
      "comments": 0,
      "shares": 0,
@@ -404,31 +413,31 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6 Comment your pick \ud83d\udc47 Follow for a new one every ",
-     "sent": "2026-10-19T22:02:21.833Z",
-     "views": 293,
-     "likes": 16,
-     "comments": 1,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 27,
-   "views": 7747,
-   "likes": 18,
+   "posts": 28,
+   "views": 8543,
+   "likes": 21,
    "comments": 0,
    "follows": 0,
-   "queued": 8,
+   "queued": 7,
    "recent": [
+    {
+     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
+     "sent": "2026-10-22T18:04:23.349Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
      "sent": "2026-10-22T02:01:31.231Z",
-     "views": 0,
+     "views": 121,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -437,7 +446,7 @@
     {
      "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
      "sent": "2026-10-21T22:03:59.702Z",
-     "views": 107,
+     "views": 108,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -446,8 +455,8 @@
     {
      "title": "Every Gap = 1 Point \u2b55 Who Wins?",
      "sent": "2026-10-21T18:03:52.906Z",
-     "views": 544,
-     "likes": 3,
+     "views": 1217,
+     "likes": 6,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -455,7 +464,7 @@
     {
      "title": "Which Color Paints the Most? \ud83c\udfa8",
      "sent": "2026-10-21T02:00:58.719Z",
-     "views": 109,
+     "views": 110,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -484,15 +493,6 @@
      "sent": "2026-10-20T02:01:54.932Z",
      "views": 111,
      "likes": 1,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Quarterfinal 3: DAGGER vs LASER \u2694\ufe0f Who Advances?",
-     "sent": "2026-10-19T22:04:47.518Z",
-     "views": 114,
-     "likes": 0,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -600,7 +600,7 @@
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 5439,
-  "tt_views": 302,
-  "ig_views": 762
+  "tt_views": 663,
+  "ig_views": 1558
  }
 }
