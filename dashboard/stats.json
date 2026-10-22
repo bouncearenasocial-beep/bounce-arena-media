@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:05:02-07:00",
+ "updated": "2026-10-22T00:05:03-07:00",
  "youtube": {
   "subs": 14,
   "views": 28679,
@@ -27,7 +27,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 962,
+    "views": 965,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -45,7 +45,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 814,
+    "views": 826,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -140,9 +140,9 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2090,
+    "views": 2093,
     "likes": 9,
-    "avg_views": 1045
+    "avg_views": 1046
    },
    {
     "game": "ring_escape",
@@ -154,16 +154,16 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4090,
+    "views": 4092,
     "likes": 48,
-    "avg_views": 1022
+    "avg_views": 1023
    },
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4001,
+    "views": 4013,
     "likes": 24,
-    "avg_views": 1000
+    "avg_views": 1003
    },
    {
     "game": "gravity_race",
@@ -188,11 +188,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-09-24",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-09-25",
     "views": 0,
@@ -319,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3643
+  "last_48h": 3658
  },
  "social": {
   "tiktok": {
@@ -588,7 +583,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 4522,
+  "yt_views": 3644,
   "tt_views": 302,
   "ig_views": 762
  }
