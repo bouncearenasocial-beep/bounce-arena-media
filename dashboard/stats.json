@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-22T11:05:02-07:00",
+ "updated": "2026-10-22T12:05:01-07:00",
  "youtube": {
   "subs": 14,
   "views": 30474,
-  "videos": 36,
+  "videos": 37,
   "recent": [
+   {
+    "title": "Season 1 Tournament: The Full Bracket \ud83c\udfc6 LASER Wins It All?",
+    "game": "other",
+    "published": "2026-10-22T19:00:17Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=qNJXoJMxXeQ"
+   },
    {
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 314,
+    "views": 316,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -27,7 +36,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 835,
+    "views": 839,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -54,7 +63,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 949,
+    "views": 951,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -103,23 +112,9 @@
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7sC8KBOrnzA"
-   },
-   {
-    "title": "Cross a Line, It Breaks... Who Survives? \ud83c\udfc6",
-    "game": "ring_battle",
-    "published": "2026-10-18T21:00:11Z",
-    "views": 801,
-    "likes": 4,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=yy19oAFZeB8"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-22T19:00:00Z",
-    "game": "other",
-    "title": "Season 1 Tournament: The Full Bracket \ud83c\udfc6 LASER Wins It All?"
-   },
    {
     "time": "2026-10-22T21:00:00Z",
     "game": "squish_split",
@@ -163,21 +158,21 @@
    {
     "game": "glass_break",
     "videos": 4,
-    "views": 4137,
+    "views": 4139,
     "likes": 24,
-    "avg_views": 1034
+    "avg_views": 1035
    },
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4128,
+    "views": 4132,
     "likes": 49,
-    "avg_views": 1032
+    "avg_views": 1033
    },
    {
     "game": "paint_war",
     "videos": 6,
-    "views": 5610,
+    "views": 5612,
     "likes": 33,
     "avg_views": 935
    },
@@ -328,9 +323,14 @@
     "date": "2026-10-19",
     "views": 2189,
     "subs": 2
+   },
+   {
+    "date": "2026-10-20",
+    "views": 2059,
+    "subs": 2
    }
   ],
-  "last_48h": 3248
+  "last_48h": 3256
  },
  "social": {
   "tiktok": {
@@ -600,7 +600,7 @@
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 5439,
-  "tt_views": 663,
-  "ig_views": 1558
+  "tt_views": 361,
+  "ig_views": 1447
  }
 }
