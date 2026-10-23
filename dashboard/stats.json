@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:05:08-07:00",
+ "updated": "2026-10-23T11:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32416,
@@ -9,9 +9,9 @@
     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
     "game": "algo_war",
     "published": "2026-10-23T17:00:33Z",
-    "views": 0,
+    "views": 221,
     "likes": 0,
-    "comments": 0,
+    "comments": 1,
     "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
    },
    {
@@ -27,7 +27,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 744,
+    "views": 743,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -63,7 +63,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 1080,
+    "views": 1087,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -108,7 +108,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 368,
+    "views": 369,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -117,8 +117,13 @@
   "upcoming": [
    {
     "time": "2026-10-23T21:00:00Z",
-    "game": "other",
+    "game": "paint_war",
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8"
+   },
+   {
+    "time": "2026-10-24T02:00:00Z",
+    "game": "tournament",
+    "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?"
    }
   ],
   "by_game": [
@@ -139,9 +144,9 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4375,
+    "views": 4382,
     "likes": 50,
-    "avg_views": 1094
+    "avg_views": 1096
    },
    {
     "game": "ring_escape",
@@ -167,7 +172,7 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4000,
+    "views": 3999,
     "likes": 26,
     "avg_views": 1000
    },
@@ -181,23 +186,23 @@
    {
     "game": "tournament",
     "videos": 8,
-    "views": 3241,
+    "views": 3242,
     "likes": 7,
     "avg_views": 405
    },
    {
-    "game": "weekly_compilation",
-    "videos": 1,
-    "views": 4,
-    "likes": 0,
-    "avg_views": 4
-   },
-   {
     "game": "algo_war",
     "videos": 1,
-    "views": 0,
+    "views": 221,
     "likes": 0,
-    "avg_views": 0
+    "avg_views": 221
+   },
+   {
+    "game": "weekly_compilation",
+    "videos": 1,
+    "views": 5,
+    "likes": 0,
+    "avg_views": 5
    }
   ],
   "daily": [
@@ -327,18 +332,27 @@
     "subs": 2
    }
   ],
-  "last_48h": 2824
+  "last_48h": 3051
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 31,
+   "posts": 32,
    "views": 9158,
    "likes": 263,
    "comments": 15,
    "follows": 0,
-   "queued": 4,
+   "queued": 6,
    "recent": [
+    {
+     "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?",
+     "sent": "2026-10-23T18:03:36.378Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
      "sent": "2026-10-23T02:01:28.962Z",
@@ -401,27 +415,27 @@
      "comments": 2,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Which Color Paints the Most? \ud83c\udfa8 Comment your pick \ud83d\udc47 Follow for a new one every day! #satisf",
-     "sent": "2026-10-20T22:01:27.683Z",
-     "views": 283,
-     "likes": 14,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 30,
+   "posts": 31,
    "views": 10002,
    "likes": 27,
    "comments": 0,
    "follows": 0,
-   "queued": 5,
+   "queued": 7,
    "recent": [
+    {
+     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
+     "sent": "2026-10-23T18:05:03.632Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Escape the Maze or Get Crushed \ud83d\udd25",
      "sent": "2026-10-23T02:01:36.986Z",
@@ -484,15 +498,6 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Season 1 Quarterfinal 4: SHURIKEN vs SPEAR \ud83c\udfc6",
-     "sent": "2026-10-20T22:03:03.229Z",
-     "views": 106,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   }
@@ -500,7 +505,7 @@
  "runs": {
   "daily": {
    "start": "2026-10-23 09:00:13",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -518,7 +523,7 @@
   "Bounce Arena Daily": {
    "next": "10/24/2026 9:00:00 AM",
    "last": "10/23/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
@@ -593,9 +598,7 @@
    }
   ]
  },
- "problems": [
-  "The daily job started but never finished (it crashed or got stuck). Check pipeline/daily.log."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 2,
   "yt_views": 1942,
