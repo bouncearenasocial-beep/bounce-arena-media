@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:05:02-07:00",
+ "updated": "2026-10-22T17:05:02-07:00",
  "youtube": {
   "subs": 15,
   "views": 30474,
@@ -27,8 +27,8 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 831,
-    "likes": 8,
+    "views": 841,
+    "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
    },
@@ -36,7 +36,7 @@
     "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-10-22T02:00:00Z",
-    "views": 2,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T4YZuRWN6VI"
@@ -45,8 +45,8 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 840,
-    "likes": 5,
+    "views": 847,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
    },
@@ -63,7 +63,7 @@
     "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-21T02:00:35Z",
-    "views": 178,
+    "views": 179,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gLc2sPW6-8Y"
@@ -72,7 +72,7 @@
     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-20T21:00:33Z",
-    "views": 952,
+    "views": 956,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
@@ -81,7 +81,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 1025,
+    "views": 1027,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -90,7 +90,7 @@
     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-20T02:00:22Z",
-    "views": 366,
+    "views": 367,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ywe_nde9v80"
@@ -125,9 +125,9 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4805,
+    "views": 4807,
     "likes": 50,
-    "avg_views": 1201
+    "avg_views": 1202
    },
    {
     "game": "maze_race",
@@ -144,30 +144,30 @@
     "avg_views": 1038
    },
    {
-    "game": "glass_break",
-    "videos": 4,
-    "views": 4141,
-    "likes": 24,
-    "avg_views": 1035
-   },
-   {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4133,
-    "likes": 49,
-    "avg_views": 1033
+    "views": 4142,
+    "likes": 50,
+    "avg_views": 1036
+   },
+   {
+    "game": "glass_break",
+    "videos": 4,
+    "views": 4145,
+    "likes": 24,
+    "avg_views": 1036
    },
    {
     "game": "paint_war",
     "videos": 6,
-    "views": 6127,
-    "likes": 39,
-    "avg_views": 1021
+    "views": 6137,
+    "likes": 40,
+    "avg_views": 1023
    },
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 3919,
+    "views": 3921,
     "likes": 26,
     "avg_views": 980
    },
@@ -181,9 +181,9 @@
    {
     "game": "tournament",
     "videos": 7,
-    "views": 3089,
+    "views": 3092,
     "likes": 7,
-    "avg_views": 441
+    "avg_views": 442
    },
    {
     "game": "weekly_compilation",
@@ -325,7 +325,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3488
+  "last_48h": 3507
  },
  "social": {
   "tiktok": {
@@ -524,9 +524,9 @@
    "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
-   "next": "10/25/2026 5:00:00 AM",
-   "last": "10/18/2026 5:00:00 AM",
-   "result": "1"
+   "next": "",
+   "last": "",
+   "result": ""
   }
  },
  "verified": true,
