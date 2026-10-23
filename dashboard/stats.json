@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:05:02-07:00",
+ "updated": "2026-10-23T12:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32416,
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
     "game": "algo_war",
     "published": "2026-10-23T17:00:33Z",
-    "views": 221,
+    "views": 280,
     "likes": 0,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
@@ -27,7 +27,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 743,
+    "views": 745,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -172,7 +172,7 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 3999,
+    "views": 4001,
     "likes": 26,
     "avg_views": 1000
    },
@@ -193,9 +193,9 @@
    {
     "game": "algo_war",
     "videos": 1,
-    "views": 221,
+    "views": 280,
     "likes": 0,
-    "avg_views": 221
+    "avg_views": 280
    },
    {
     "game": "weekly_compilation",
@@ -330,9 +330,14 @@
     "date": "2026-10-20",
     "views": 2059,
     "subs": 2
+   },
+   {
+    "date": "2026-10-21",
+    "views": 2160,
+    "subs": 1
    }
   ],
-  "last_48h": 3051
+  "last_48h": 3112
  },
  "social": {
   "tiktok": {
