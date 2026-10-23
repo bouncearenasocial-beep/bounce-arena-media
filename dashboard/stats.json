@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:05:01-07:00",
+ "updated": "2026-10-23T04:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 30790,
@@ -54,7 +54,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 853,
+    "views": 858,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -63,7 +63,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 984,
+    "views": 982,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -126,9 +126,9 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2112,
+    "views": 2110,
     "likes": 9,
-    "avg_views": 1056
+    "avg_views": 1055
    },
    {
     "game": "ring_escape",
@@ -138,18 +138,18 @@
     "avg_views": 1041
    },
    {
+    "game": "ring_battle",
+    "videos": 4,
+    "views": 4153,
+    "likes": 50,
+    "avg_views": 1038
+   },
+   {
     "game": "glass_break",
     "videos": 4,
     "views": 4150,
     "likes": 24,
     "avg_views": 1038
-   },
-   {
-    "game": "ring_battle",
-    "videos": 4,
-    "views": 4148,
-    "likes": 50,
-    "avg_views": 1037
    },
    {
     "game": "paint_war",
@@ -314,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3576
+  "last_48h": 3579
  },
  "social": {
   "tiktok": {
