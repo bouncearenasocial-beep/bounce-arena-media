@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:05:02-07:00",
+ "updated": "2026-10-23T09:08:17-07:00",
  "youtube": {
   "subs": 16,
   "views": 30790,
@@ -36,7 +36,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 849,
+    "views": 850,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -154,7 +154,7 @@
    {
     "game": "paint_war",
     "videos": 6,
-    "views": 6145,
+    "views": 6146,
     "likes": 40,
     "avg_views": 1024
    },
@@ -314,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3801
+  "last_48h": 3802
  },
  "social": {
   "tiktok": {
@@ -486,8 +486,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-22 09:00:01",
-   "done": true,
+   "start": "2026-10-23 09:00:13",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -503,9 +503,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/23/2026 9:00:00 AM",
-   "last": "10/22/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/24/2026 9:00:00 AM",
+   "last": "10/23/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/24/2026 1:00:00 AM",
@@ -583,7 +583,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 2111,
+  "yt_views": 316,
   "tt_views": 361,
   "ig_views": 1059
  }
