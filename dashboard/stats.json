@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:05:02-07:00",
+ "updated": "2026-10-23T13:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32416,
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
     "game": "algo_war",
     "published": "2026-10-23T17:00:33Z",
-    "views": 280,
+    "views": 509,
     "likes": 0,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
@@ -184,18 +184,18 @@
     "avg_views": 896
    },
    {
+    "game": "algo_war",
+    "videos": 1,
+    "views": 509,
+    "likes": 0,
+    "avg_views": 509
+   },
+   {
     "game": "tournament",
     "videos": 8,
     "views": 3242,
     "likes": 7,
     "avg_views": 405
-   },
-   {
-    "game": "algo_war",
-    "videos": 1,
-    "views": 280,
-    "likes": 0,
-    "avg_views": 280
    },
    {
     "game": "weekly_compilation",
@@ -337,7 +337,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3112
+  "last_48h": 3341
  },
  "social": {
   "tiktok": {
