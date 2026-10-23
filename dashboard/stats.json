@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:05:02-07:00",
+ "updated": "2026-10-23T16:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32416,
@@ -9,8 +9,8 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 577,
-    "likes": 3,
+    "views": 766,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
    },
@@ -18,8 +18,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
     "game": "algo_war",
     "published": "2026-10-23T17:00:33Z",
-    "views": 735,
-    "likes": 1,
+    "views": 823,
+    "likes": 0,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
    },
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 745,
+    "views": 740,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -54,7 +54,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 850,
+    "views": 849,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -72,7 +72,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 1089,
+    "views": 1090,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -81,7 +81,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 1129,
+    "views": 1128,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -108,7 +108,7 @@
     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-20T17:00:21Z",
-    "views": 1029,
+    "views": 1030,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eF7psZGKng0"
@@ -125,30 +125,30 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4809,
+    "views": 4810,
     "likes": 50,
     "avg_views": 1202
    },
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2257,
+    "views": 2256,
     "likes": 9,
     "avg_views": 1128
    },
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4384,
+    "views": 4385,
     "likes": 50,
     "avg_views": 1096
    },
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 1041,
+    "views": 1040,
     "likes": 2,
-    "avg_views": 1041
+    "avg_views": 1040
    },
    {
     "game": "glass_break",
@@ -160,16 +160,16 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4001,
+    "views": 3996,
     "likes": 26,
-    "avg_views": 1000
+    "avg_views": 999
    },
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 6723,
-    "likes": 43,
-    "avg_views": 960
+    "views": 6912,
+    "likes": 42,
+    "avg_views": 987
    },
    {
     "game": "gravity_race",
@@ -181,9 +181,9 @@
    {
     "game": "algo_war",
     "videos": 1,
-    "views": 735,
-    "likes": 1,
-    "avg_views": 735
+    "views": 823,
+    "likes": 0,
+    "avg_views": 823
    },
    {
     "game": "tournament",
@@ -332,7 +332,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3058
+  "last_48h": 3329
  },
  "social": {
   "tiktok": {
@@ -531,9 +531,9 @@
    "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
-   "next": "",
-   "last": "",
-   "result": ""
+   "next": "10/25/2026 5:00:00 AM",
+   "last": "10/18/2026 5:00:00 AM",
+   "result": "1"
   }
  },
  "verified": true,
