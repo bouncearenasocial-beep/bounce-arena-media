@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:05:02-07:00",
+ "updated": "2026-10-22T20:05:02-07:00",
  "youtube": {
   "subs": 15,
   "views": 30474,
@@ -9,7 +9,7 @@
     "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-23T02:00:39Z",
-    "views": 13,
+    "views": 137,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6Ab20FkiKwg"
@@ -54,8 +54,8 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 846,
-    "likes": 5,
+    "views": 852,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
    },
@@ -63,7 +63,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 972,
+    "views": 976,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -126,16 +126,23 @@
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2100,
+    "views": 2104,
     "likes": 9,
-    "avg_views": 1050
+    "avg_views": 1052
    },
    {
     "game": "ring_escape",
     "videos": 1,
-    "views": 1039,
+    "views": 1041,
     "likes": 2,
-    "avg_views": 1039
+    "avg_views": 1041
+   },
+   {
+    "game": "ring_battle",
+    "videos": 4,
+    "views": 4147,
+    "likes": 50,
+    "avg_views": 1037
    },
    {
     "game": "glass_break",
@@ -143,13 +150,6 @@
     "views": 4148,
     "likes": 24,
     "avg_views": 1037
-   },
-   {
-    "game": "ring_battle",
-    "videos": 4,
-    "views": 4141,
-    "likes": 49,
-    "avg_views": 1035
    },
    {
     "game": "paint_war",
@@ -175,9 +175,9 @@
    {
     "game": "tournament",
     "videos": 8,
-    "views": 3107,
+    "views": 3231,
     "likes": 7,
-    "avg_views": 388
+    "avg_views": 404
    },
    {
     "game": "weekly_compilation",
@@ -319,7 +319,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3401
+  "last_48h": 3535
  },
  "social": {
   "tiktok": {
@@ -408,7 +408,7 @@
   "instagram": {
    "name": "bouncearena2",
    "posts": 30,
-   "views": 8543,
+   "views": 8806,
    "likes": 21,
    "comments": 0,
    "follows": 0,
@@ -426,7 +426,7 @@
     {
      "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
      "sent": "2026-10-22T22:02:43.280Z",
-     "views": 0,
+     "views": 114,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -435,7 +435,7 @@
     {
      "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
      "sent": "2026-10-22T18:04:23.349Z",
-     "views": 0,
+     "views": 123,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -453,7 +453,7 @@
     {
      "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
      "sent": "2026-10-21T22:03:59.702Z",
-     "views": 108,
+     "views": 109,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -462,7 +462,7 @@
     {
      "title": "Every Gap = 1 Point \u2b55 Who Wins?",
      "sent": "2026-10-21T18:03:52.906Z",
-     "views": 1217,
+     "views": 1242,
      "likes": 6,
      "comments": 0,
      "shares": 0,
@@ -587,9 +587,9 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 5439,
   "tt_views": 361,
-  "ig_views": 1447
+  "ig_views": 1059
  }
 }
