@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:05:01-07:00",
+ "updated": "2026-10-23T01:05:01-07:00",
  "youtube": {
   "subs": 15,
   "views": 30790,
@@ -18,7 +18,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 736,
+    "views": 741,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -36,7 +36,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 847,
+    "views": 849,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -54,7 +54,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 852,
+    "views": 853,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4147,
+    "views": 4148,
     "likes": 50,
     "avg_views": 1037
    },
@@ -154,16 +154,16 @@
    {
     "game": "paint_war",
     "videos": 6,
-    "views": 6143,
+    "views": 6145,
     "likes": 40,
     "avg_views": 1024
    },
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 3992,
+    "views": 3997,
     "likes": 26,
-    "avg_views": 998
+    "avg_views": 999
    },
    {
     "game": "gravity_race",
@@ -314,7 +314,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3568
+  "last_48h": 3576
  },
  "social": {
   "tiktok": {
