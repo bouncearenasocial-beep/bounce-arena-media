@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T03:05:02-07:00",
+ "updated": "2026-10-24T04:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32957,
@@ -9,7 +9,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-24T02:00:02Z",
-    "views": 803,
+    "views": 929,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rrspEBoomvg"
@@ -18,7 +18,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 879,
+    "views": 882,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -36,7 +36,7 @@
     "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-23T02:00:39Z",
-    "views": 121,
+    "views": 122,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6Ab20FkiKwg"
@@ -45,7 +45,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 742,
+    "views": 743,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -63,7 +63,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 849,
+    "views": 850,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -81,7 +81,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 1098,
+    "views": 1100,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -90,7 +90,7 @@
     "title": "Escape the Maze or Get Crushed \ud83d\udd25",
     "game": "maze_race",
     "published": "2026-10-21T17:00:39Z",
-    "views": 1132,
+    "views": 1133,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ix9PS6h86h4"
@@ -125,23 +125,23 @@
    {
     "game": "ball_battle",
     "videos": 4,
-    "views": 4810,
+    "views": 4809,
     "likes": 50,
     "avg_views": 1202
    },
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2260,
+    "views": 2261,
     "likes": 9,
     "avg_views": 1130
    },
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4393,
+    "views": 4395,
     "likes": 50,
-    "avg_views": 1098
+    "avg_views": 1099
    },
    {
     "game": "ring_escape",
@@ -160,14 +160,14 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7025,
+    "views": 7029,
     "likes": 42,
     "avg_views": 1004
    },
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 3998,
+    "views": 3999,
     "likes": 26,
     "avg_views": 1000
    },
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 9,
-    "views": 4020,
+    "views": 4147,
     "likes": 8,
-    "avg_views": 447
+    "avg_views": 461
    },
    {
     "game": "weekly_compilation",
@@ -327,7 +327,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4329
+  "last_48h": 4461
  },
  "social": {
   "tiktok": {
