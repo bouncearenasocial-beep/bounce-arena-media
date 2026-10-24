@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:05:02-07:00",
+ "updated": "2026-10-24T01:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32957,
@@ -9,7 +9,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-24T02:00:02Z",
-    "views": 803,
+    "views": 888,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rrspEBoomvg"
@@ -18,7 +18,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 877,
+    "views": 880,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -54,7 +54,7 @@
     "title": "Season 1 Tournament: The Full Bracket \ud83c\udfc6 LASER Wins It All?",
     "game": "other",
     "published": "2026-10-22T19:00:17Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=qNJXoJMxXeQ"
@@ -81,7 +81,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 1097,
+    "views": 1098,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -133,7 +133,7 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4392,
+    "views": 4393,
     "likes": 50,
     "avg_views": 1098
    },
@@ -154,9 +154,9 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7023,
+    "views": 7026,
     "likes": 42,
-    "avg_views": 1003
+    "avg_views": 1004
    },
    {
     "game": "squish_split",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 9,
-    "views": 4020,
+    "views": 4106,
     "likes": 8,
-    "avg_views": 447
+    "avg_views": 456
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4324
+  "last_48h": 4413
  },
  "social": {
   "tiktok": {
@@ -498,8 +498,8 @@
    "failures": 0
   },
   "sleep": {
-   "start": "2026-10-17 01:00:03",
-   "done": true,
+   "start": "2026-10-24 01:00:02",
+   "done": false,
    "failures": 0
   },
   "compilation": {
@@ -515,9 +515,9 @@
    "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
-   "next": "10/24/2026 1:00:00 AM",
-   "last": "10/17/2026 1:00:00 AM",
-   "result": "0"
+   "next": "10/31/2026 1:00:00 AM",
+   "last": "10/24/2026 1:00:00 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "10/25/2026 5:00:00 AM",
