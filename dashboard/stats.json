@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:05:02-07:00",
+ "updated": "2026-10-23T22:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32416,
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 9,
-    "views": 3605,
+    "views": 3604,
     "likes": 8,
-    "avg_views": 401
+    "avg_views": 400
    },
    {
     "game": "weekly_compilation",
@@ -595,7 +595,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 1942,
+  "yt_views": 1626,
   "tt_views": 911,
   "ig_views": 2526
  }
