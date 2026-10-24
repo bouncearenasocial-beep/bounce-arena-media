@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:05:03-07:00",
+ "updated": "2026-10-24T15:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
@@ -9,7 +9,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 0,
+    "views": 10,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -18,7 +18,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 0,
+    "views": 16,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -36,7 +36,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 882,
+    "views": 877,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -151,9 +151,9 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7167,
+    "views": 7162,
     "likes": 44,
-    "avg_views": 1024
+    "avg_views": 1023
    },
    {
     "game": "squish_split",
@@ -165,9 +165,9 @@
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4809,
+    "views": 4825,
     "likes": 50,
-    "avg_views": 962
+    "avg_views": 965
    },
    {
     "game": "algo_war",
@@ -186,9 +186,9 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4167,
+    "views": 4178,
     "likes": 24,
-    "avg_views": 833
+    "avg_views": 836
    },
    {
     "game": "tournament",
@@ -337,18 +337,27 @@
     "subs": 1
    }
   ],
-  "last_48h": 2882
+  "last_48h": 2903
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 35,
+   "posts": 36,
    "views": 10175,
    "likes": 293,
    "comments": 16,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
+     "sent": "2026-10-24T22:01:31.456Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
      "sent": "2026-10-24T18:03:03.151Z",
@@ -411,27 +420,27 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
-     "sent": "2026-10-22T02:02:26.063Z",
-     "views": 224,
-     "likes": 5,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 34,
+   "posts": 35,
    "views": 11487,
    "likes": 35,
    "comments": 0,
    "follows": 0,
-   "queued": 7,
+   "queued": 6,
    "recent": [
+    {
+     "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
+     "sent": "2026-10-24T22:02:51.173Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
      "sent": "2026-10-24T18:04:11.362Z",
@@ -490,15 +499,6 @@
      "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
      "sent": "2026-10-22T18:04:23.349Z",
      "views": 126,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
-     "sent": "2026-10-22T02:01:31.231Z",
-     "views": 124,
      "likes": 0,
      "comments": 0,
      "shares": 0,
