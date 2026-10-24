@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-23T18:05:02-07:00",
+ "updated": "2026-10-23T19:05:03-07:00",
  "youtube": {
   "subs": 16,
   "views": 32416,
-  "videos": 41,
+  "videos": 42,
   "recent": [
+   {
+    "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-10-24T02:00:02Z",
+    "views": 11,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=rrspEBoomvg"
+   },
    {
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
@@ -36,7 +45,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 740,
+    "views": 742,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -103,24 +112,9 @@
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
-   },
-   {
-    "title": "BOMBER or SHURIKEN? \u2694\ufe0f",
-    "game": "ball_battle",
-    "published": "2026-10-20T17:00:21Z",
-    "views": 1030,
-    "likes": 3,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=eF7psZGKng0"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-24T02:00:00Z",
-    "game": "tournament",
-    "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "ball_battle",
@@ -160,9 +154,9 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 3996,
+    "views": 3998,
     "likes": 26,
-    "avg_views": 999
+    "avg_views": 1000
    },
    {
     "game": "paint_war",
@@ -187,10 +181,10 @@
    },
    {
     "game": "tournament",
-    "videos": 8,
-    "views": 3218,
+    "videos": 9,
+    "views": 3229,
     "likes": 7,
-    "avg_views": 402
+    "avg_views": 359
    },
    {
     "game": "weekly_compilation",
@@ -332,18 +326,27 @@
     "subs": 1
    }
   ],
-  "last_48h": 3381
+  "last_48h": 3389
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 33,
+   "posts": 34,
    "views": 9158,
    "likes": 263,
    "comments": 15,
    "follows": 0,
-   "queued": 5,
+   "queued": 4,
    "recent": [
+    {
+     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
+     "sent": "2026-10-24T02:02:20.223Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
      "sent": "2026-10-23T22:02:09.134Z",
@@ -406,27 +409,27 @@
      "comments": 1,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "SWORD vs SHIELD \u2694\ufe0f Semifinal 1: Who Moves On?",
-     "sent": "2026-10-21T18:02:56.335Z",
-     "views": 170,
-     "likes": 6,
-     "comments": 2,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 32,
+   "posts": 33,
    "views": 10002,
    "likes": 27,
    "comments": 0,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
+     "sent": "2026-10-24T02:01:52.149Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion?",
      "sent": "2026-10-23T22:03:23.035Z",
@@ -489,15 +492,6 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
-     "sent": "2026-10-21T18:03:52.906Z",
-     "views": 1247,
-     "likes": 6,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   }
@@ -552,7 +546,7 @@
     "label": "Doubles Quarterfinal 2",
     "a": "THUNDER & VAMPIRE",
     "b": "GROWER & HAMMER",
-    "winner": null
+    "winner": "THUNDER & VAMPIRE"
    },
    {
     "id": "QF3",
@@ -572,7 +566,7 @@
     "id": "SF1",
     "label": "Doubles Semifinal 1",
     "a": "SHIELD & BLINK",
-    "b": null,
+    "b": "THUNDER & VAMPIRE",
     "winner": null
    },
    {
@@ -603,6 +597,6 @@
   "yt_subs": 1,
   "yt_views": 1942,
   "tt_views": 911,
-  "ig_views": 1459
+  "ig_views": 1196
  }
 }
