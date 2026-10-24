@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T02:05:04-07:00",
+ "updated": "2026-10-24T03:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32957,
@@ -18,7 +18,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 882,
+    "views": 879,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -63,7 +63,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 850,
+    "views": 849,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=Pdem3RbEkzA"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-25T03:00:00Z",
+    "game": "other",
+    "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads"
+   }
+  ],
   "by_game": [
    {
     "game": "ball_battle",
@@ -154,7 +160,7 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7029,
+    "views": 7025,
     "likes": 42,
     "avg_views": 1004
    },
@@ -321,7 +327,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4333
+  "last_48h": 4329
  },
  "social": {
   "tiktok": {
@@ -499,7 +505,7 @@
   },
   "sleep": {
    "start": "2026-10-24 01:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "compilation": {
@@ -517,7 +523,7 @@
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
    "last": "10/24/2026 1:00:00 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "10/25/2026 5:00:00 AM",
