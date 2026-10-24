@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:05:03-07:00",
+ "updated": "2026-10-24T08:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 32957,
@@ -63,7 +63,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 866,
+    "views": 937,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -81,7 +81,7 @@
     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
     "game": "ring_battle",
     "published": "2026-10-21T21:00:31Z",
-    "views": 1100,
+    "views": 1103,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
@@ -139,9 +139,9 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4395,
+    "views": 4398,
     "likes": 50,
-    "avg_views": 1099
+    "avg_views": 1100
    },
    {
     "game": "ring_escape",
@@ -160,9 +160,9 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7045,
+    "views": 7116,
     "likes": 44,
-    "avg_views": 1006
+    "avg_views": 1017
    },
    {
     "game": "squish_split",
@@ -327,7 +327,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4483
+  "last_48h": 4554
  },
  "social": {
   "tiktok": {
