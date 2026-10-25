@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:05:02-07:00",
+ "updated": "2026-10-25T01:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
@@ -36,7 +36,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 60,
+    "views": 48,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -81,7 +81,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 750,
+    "views": 749,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -126,7 +126,7 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4396,
+    "views": 4395,
     "likes": 50,
     "avg_views": 1099
    },
@@ -147,16 +147,16 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4006,
+    "views": 4005,
     "likes": 26,
-    "avg_views": 1002
+    "avg_views": 1001
    },
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4869,
+    "views": 4857,
     "likes": 50,
-    "avg_views": 974
+    "avg_views": 971
    },
    {
     "game": "algo_war",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3053
+  "last_48h": 3041
  },
  "social": {
   "tiktok": {
