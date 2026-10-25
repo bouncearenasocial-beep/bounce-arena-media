@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:05:02-07:00",
+ "updated": "2026-10-25T05:05:03-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
@@ -126,9 +126,9 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4396,
+    "views": 4409,
     "likes": 50,
-    "avg_views": 1099
+    "avg_views": 1102
    },
    {
     "game": "ring_escape",
@@ -503,8 +503,8 @@
    "failures": 0
   },
   "compilation": {
-   "start": "2026-10-18 12:17:38",
-   "done": true,
+   "start": "2026-10-25 05:00:05",
+   "done": false,
    "failures": 0
   }
  },
@@ -520,9 +520,9 @@
    "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
-   "next": "",
-   "last": "",
-   "result": ""
+   "next": "11/1/2026 4:00:00 AM",
+   "last": "10/25/2026 5:00:00 AM",
+   "result": "267009"
   }
  },
  "verified": true,
