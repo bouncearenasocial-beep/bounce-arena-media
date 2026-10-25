@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-24T18:05:02-07:00",
+ "updated": "2026-10-24T19:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
-  "videos": 44,
+  "videos": 45,
   "recent": [
+   {
+    "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
+    "game": "tournament",
+    "published": "2026-10-25T02:00:15Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
+   },
    {
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 117,
+    "views": 92,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -18,7 +27,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 28,
+    "views": 26,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -103,23 +112,9 @@
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Eb5rZgPR9N0"
-   },
-   {
-    "title": "Escape the Maze or Get Crushed \ud83d\udd25",
-    "game": "maze_race",
-    "published": "2026-10-21T17:00:39Z",
-    "views": 1138,
-    "likes": 1,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=ix9PS6h86h4"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-25T02:00:00Z",
-    "game": "tournament",
-    "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?"
-   },
    {
     "time": "2026-10-25T03:00:00Z",
     "game": "other",
@@ -165,7 +160,7 @@
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4837,
+    "views": 4835,
     "likes": 50,
     "avg_views": 967
    },
@@ -186,16 +181,16 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4287,
+    "views": 4262,
     "likes": 24,
-    "avg_views": 857
+    "avg_views": 852
    },
    {
     "game": "tournament",
-    "videos": 9,
+    "videos": 10,
     "views": 4155,
     "likes": 8,
-    "avg_views": 462
+    "avg_views": 416
    },
    {
     "game": "weekly_compilation",
@@ -337,18 +332,27 @@
     "subs": 1
    }
   ],
-  "last_48h": 3024
+  "last_48h": 2875
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 36,
+   "posts": 37,
    "views": 10175,
    "likes": 293,
    "comments": 16,
    "follows": 0,
-   "queued": 5,
+   "queued": 4,
    "recent": [
+    {
+     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
+     "sent": "2026-10-25T02:02:09.551Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
      "sent": "2026-10-24T22:01:31.456Z",
@@ -411,27 +415,27 @@
      "comments": 0,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
-     "sent": "2026-10-22T18:03:26.257Z",
-     "views": 219,
-     "likes": 3,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 35,
+   "posts": 36,
    "views": 11487,
    "likes": 35,
    "comments": 0,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
+     "sent": "2026-10-25T02:01:31.908Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
      "sent": "2026-10-24T22:02:51.173Z",
@@ -490,15 +494,6 @@
      "title": "Season 1 Semifinal 2: LASER vs SHURIKEN \ud83c\udfc6",
      "sent": "2026-10-22T22:02:43.280Z",
      "views": 117,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Can the Balls Break 1,048 HP of Glass? \ud83d\udca5",
-     "sent": "2026-10-22T18:04:23.349Z",
-     "views": 126,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -564,7 +559,7 @@
     "label": "Doubles Quarterfinal 3",
     "a": "SWORD & AXE",
     "b": "SHURIKEN & DAGGER",
-    "winner": null
+    "winner": "SWORD & AXE"
    },
    {
     "id": "QF4",
@@ -583,7 +578,7 @@
    {
     "id": "SF2",
     "label": "Doubles Semifinal 2",
-    "a": null,
+    "a": "SWORD & AXE",
     "b": null,
     "winner": null
    },
