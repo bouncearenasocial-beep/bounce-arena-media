@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:05:02-07:00",
+ "updated": "2026-10-25T00:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
@@ -18,7 +18,7 @@
     "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-25T02:00:15Z",
-    "views": 19,
+    "views": 43,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
@@ -36,7 +36,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 48,
+    "views": 60,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -81,7 +81,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 749,
+    "views": 750,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -126,7 +126,7 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4395,
+    "views": 4396,
     "likes": 50,
     "avg_views": 1099
    },
@@ -147,16 +147,16 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4005,
+    "views": 4006,
     "likes": 26,
-    "avg_views": 1001
+    "avg_views": 1002
    },
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4857,
+    "views": 4869,
     "likes": 50,
-    "avg_views": 971
+    "avg_views": 974
    },
    {
     "game": "algo_war",
@@ -175,16 +175,16 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4363,
+    "views": 4370,
     "likes": 25,
-    "avg_views": 873
+    "avg_views": 874
    },
    {
     "game": "tournament",
     "videos": 10,
-    "views": 4174,
+    "views": 4198,
     "likes": 8,
-    "avg_views": 417
+    "avg_views": 420
    },
    {
     "game": "weekly_compilation",
@@ -195,11 +195,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-09-27",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-09-28",
     "views": 0,
@@ -326,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3017
+  "last_48h": 3053
  },
  "social": {
   "tiktok": {
