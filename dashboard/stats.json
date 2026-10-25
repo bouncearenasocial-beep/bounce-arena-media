@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-25T11:05:02-07:00",
+ "updated": "2026-10-25T12:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
-  "videos": 47,
+  "videos": 48,
   "recent": [
+   {
+    "title": "Bounce Arena Weekly #2: 21 Battles, Races & Showdowns \ud83c\udfc6",
+    "game": "weekly_compilation",
+    "published": "2026-10-25T19:00:10Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=skO_eklkO_U"
+   },
    {
     "title": "Ring Race: Pick Your Color \u2b55",
     "game": "ring_escape",
     "published": "2026-10-25T17:00:08Z",
-    "views": 36,
+    "views": 41,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-INY6T6V-aE"
@@ -36,7 +45,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 325,
+    "views": 407,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -45,7 +54,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 78,
+    "views": 102,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -63,7 +72,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 923,
+    "views": 929,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -90,7 +99,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-10-22T21:00:17Z",
-    "views": 752,
+    "views": 755,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NEWDfURwAlY"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=qNJXoJMxXeQ"
-   },
-   {
-    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-10-22T17:00:12Z",
-    "views": 990,
-    "likes": 11,
-    "comments": 1,
-    "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-25T19:00:00Z",
-    "game": "weekly_compilation",
-    "title": "Bounce Arena Weekly #2: 21 Battles, Races & Showdowns \ud83c\udfc6"
-   },
    {
     "time": "2026-10-25T21:00:00Z",
     "game": "ring_battle",
@@ -142,16 +137,16 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4420,
+    "views": 4421,
     "likes": 50,
     "avg_views": 1105
    },
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7210,
+    "views": 7216,
     "likes": 44,
-    "avg_views": 1030
+    "avg_views": 1031
    },
    {
     "game": "algo_war",
@@ -163,23 +158,23 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4008,
+    "views": 4011,
     "likes": 26,
-    "avg_views": 1002
+    "avg_views": 1003
    },
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4887,
+    "views": 4911,
     "likes": 50,
-    "avg_views": 977
+    "avg_views": 982
    },
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4502,
+    "views": 4584,
     "likes": 26,
-    "avg_views": 900
+    "avg_views": 917
    },
    {
     "game": "gravity_race",
@@ -191,9 +186,9 @@
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1076,
+    "views": 1081,
     "likes": 2,
-    "avg_views": 538
+    "avg_views": 540
    },
    {
     "game": "tournament",
@@ -204,10 +199,10 @@
    },
    {
     "game": "weekly_compilation",
-    "videos": 1,
+    "videos": 2,
     "views": 6,
     "likes": 0,
-    "avg_views": 6
+    "avg_views": 3
    }
   ],
   "daily": [
@@ -335,9 +330,14 @@
     "date": "2026-10-22",
     "views": 2095,
     "subs": 1
+   },
+   {
+    "date": "2026-10-23",
+    "views": 3166,
+    "subs": 1
    }
   ],
-  "last_48h": 2419
+  "last_48h": 2536
  },
  "social": {
   "tiktok": {
