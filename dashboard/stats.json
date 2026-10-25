@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:05:02-07:00",
+ "updated": "2026-10-25T03:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
@@ -18,7 +18,7 @@
     "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-25T02:00:15Z",
-    "views": 42,
+    "views": 57,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
@@ -27,7 +27,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 233,
+    "views": 219,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -36,7 +36,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 55,
+    "views": 60,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -45,7 +45,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-24T02:00:02Z",
-    "views": 938,
+    "views": 944,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rrspEBoomvg"
@@ -63,7 +63,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
     "game": "algo_war",
     "published": "2026-10-23T17:00:33Z",
-    "views": 1002,
+    "views": 1001,
     "likes": 0,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
@@ -126,7 +126,7 @@
    {
     "game": "ring_battle",
     "videos": 4,
-    "views": 4395,
+    "views": 4396,
     "likes": 50,
     "avg_views": 1099
    },
@@ -145,13 +145,6 @@
     "avg_views": 1024
    },
    {
-    "game": "algo_war",
-    "videos": 1,
-    "views": 1002,
-    "likes": 0,
-    "avg_views": 1002
-   },
-   {
     "game": "squish_split",
     "videos": 4,
     "views": 4006,
@@ -159,11 +152,18 @@
     "avg_views": 1002
    },
    {
+    "game": "algo_war",
+    "videos": 1,
+    "views": 1001,
+    "likes": 0,
+    "avg_views": 1001
+   },
+   {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4864,
+    "views": 4869,
     "likes": 50,
-    "avg_views": 973
+    "avg_views": 974
    },
    {
     "game": "gravity_race",
@@ -175,16 +175,16 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4410,
+    "views": 4396,
     "likes": 25,
-    "avg_views": 882
+    "avg_views": 879
    },
    {
     "game": "tournament",
     "videos": 10,
-    "views": 4198,
+    "views": 4219,
     "likes": 8,
-    "avg_views": 420
+    "avg_views": 422
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3149
+  "last_48h": 3160
  },
  "social": {
   "tiktok": {
