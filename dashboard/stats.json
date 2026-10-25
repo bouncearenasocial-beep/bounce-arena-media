@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:05:02-07:00",
+ "updated": "2026-10-24T22:05:02-07:00",
  "youtube": {
   "subs": 16,
   "views": 35698,
@@ -27,8 +27,8 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 161,
-    "likes": 0,
+    "views": 193,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
    },
@@ -99,7 +99,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-22T17:00:12Z",
-    "views": 988,
+    "views": 989,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jiTg5zkHfc8"
@@ -140,7 +140,7 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7163,
+    "views": 7164,
     "likes": 44,
     "avg_views": 1023
    },
@@ -175,9 +175,9 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4331,
-    "likes": 24,
-    "avg_views": 866
+    "views": 4363,
+    "likes": 25,
+    "avg_views": 873
    },
    {
     "game": "tournament",
@@ -326,7 +326,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2965
+  "last_48h": 2997
  },
  "social": {
   "tiktok": {
