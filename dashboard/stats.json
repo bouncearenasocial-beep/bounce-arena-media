@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-26T09:05:01-07:00",
+ "updated": "2026-10-26T10:05:01-07:00",
  "youtube": {
   "subs": 16,
-  "views": 36410,
-  "videos": 50,
+  "views": 37081,
+  "videos": 51,
   "recent": [
+   {
+    "title": "SPIKES or CLAWS? \u2694\ufe0f",
+    "game": "ball_battle",
+    "published": "2026-10-26T17:00:15Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=ThRypRfhzzE"
+   },
    {
     "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-26T02:00:23Z",
-    "views": 21,
+    "views": 24,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
@@ -54,7 +63,7 @@
     "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-25T02:00:15Z",
-    "views": 104,
+    "views": 112,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
@@ -90,7 +99,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 935,
+    "views": 939,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -103,27 +112,18 @@
     "likes": 0,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
-   },
-   {
-    "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-10-23T02:00:39Z",
-    "views": 123,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=6Ab20FkiKwg"
    }
   ],
   "upcoming": [
    {
-    "time": "2026-10-26T17:00:00Z",
-    "game": "ball_battle",
-    "title": "SPIKES or CLAWS? \u2694\ufe0f"
-   },
-   {
     "time": "2026-10-26T21:00:00Z",
     "game": "paint_war",
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8"
+   },
+   {
+    "time": "2026-10-27T02:00:00Z",
+    "game": "tournament",
+    "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?"
    }
   ],
   "by_game": [
@@ -137,9 +137,9 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7226,
+    "views": 7230,
     "likes": 44,
-    "avg_views": 1032
+    "avg_views": 1033
    },
    {
     "game": "algo_war",
@@ -154,13 +154,6 @@
     "views": 4017,
     "likes": 26,
     "avg_views": 1004
-   },
-   {
-    "game": "ball_battle",
-    "videos": 5,
-    "views": 4936,
-    "likes": 51,
-    "avg_views": 987
    },
    {
     "game": "glass_break",
@@ -184,6 +177,13 @@
     "avg_views": 896
    },
    {
+    "game": "ball_battle",
+    "videos": 6,
+    "views": 4936,
+    "likes": 51,
+    "avg_views": 823
+   },
+   {
     "game": "ring_escape",
     "videos": 2,
     "views": 1260,
@@ -193,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 11,
-    "views": 4330,
+    "views": 4341,
     "likes": 8,
-    "avg_views": 394
+    "avg_views": 395
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +332,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1132
+  "last_48h": 1016
  },
  "social": {
   "tiktok": {
@@ -342,7 +342,7 @@
    "likes": 350,
    "comments": 22,
    "follows": 0,
-   "queued": 4,
+   "queued": 7,
    "recent": [
     {
      "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
@@ -425,7 +425,7 @@
    "likes": 46,
    "comments": 0,
    "follows": 0,
-   "queued": 5,
+   "queued": 8,
    "recent": [
     {
      "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
@@ -505,7 +505,7 @@
  "runs": {
   "daily": {
    "start": "2026-10-26 09:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -523,7 +523,7 @@
   "Bounce Arena Daily": {
    "next": "10/27/2026 9:00:00 AM",
    "last": "10/26/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
@@ -601,7 +601,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 0,
-  "yt_views": 712,
+  "yt_views": 671,
   "tt_views": 917,
   "ig_views": 1759
  }
