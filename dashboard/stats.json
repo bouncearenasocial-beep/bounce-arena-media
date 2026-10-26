@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:05:01-07:00",
+ "updated": "2026-10-26T04:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
@@ -126,9 +126,9 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7220,
+    "views": 7221,
     "likes": 44,
-    "avg_views": 1031
+    "avg_views": 1032
    },
    {
     "game": "algo_war",
@@ -140,7 +140,7 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4006,
+    "views": 4010,
     "likes": 26,
     "avg_views": 1002
    },
