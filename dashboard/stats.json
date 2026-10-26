@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-25T18:05:01-07:00",
+ "updated": "2026-10-25T19:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
-  "videos": 49,
+  "videos": 50,
   "recent": [
+   {
+    "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
+    "game": "tournament",
+    "published": "2026-10-26T02:00:23Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
+   },
    {
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
@@ -27,8 +36,8 @@
     "title": "Ring Race: Pick Your Color \u2b55",
     "game": "ring_escape",
     "published": "2026-10-25T17:00:08Z",
-    "views": 88,
-    "likes": 1,
+    "views": 108,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-INY6T6V-aE"
    },
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6Ab20FkiKwg"
-   },
-   {
-    "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
-    "game": "squish_split",
-    "published": "2026-10-22T21:00:17Z",
-    "views": 755,
-    "likes": 3,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=NEWDfURwAlY"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-26T02:00:00Z",
-    "game": "tournament",
-    "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "maze_race",
@@ -181,16 +175,16 @@
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1128,
-    "likes": 3,
-    "avg_views": 564
+    "views": 1148,
+    "likes": 4,
+    "avg_views": 574
    },
    {
     "game": "tournament",
-    "videos": 10,
+    "videos": 11,
     "views": 4300,
     "likes": 8,
-    "avg_views": 430
+    "avg_views": 391
    },
    {
     "game": "weekly_compilation",
@@ -332,18 +326,27 @@
     "subs": 1
    }
   ],
-  "last_48h": 1766
+  "last_48h": 800
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 39,
+   "posts": 40,
    "views": 11635,
    "likes": 326,
    "comments": 20,
    "follows": 0,
-   "queued": 5,
+   "queued": 4,
    "recent": [
+    {
+     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
+     "sent": "2026-10-26T02:02:26.431Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
      "sent": "2026-10-25T22:01:52.607Z",
@@ -406,27 +409,27 @@
      "comments": 1,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "THE FINAL: SWORD vs LASER \ud83c\udfc6 Who Becomes Champion? Comment your pick \ud83d\udc47 Follow for a new one",
-     "sent": "2026-10-23T18:03:36.378Z",
-     "views": 297,
-     "likes": 4,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 38,
+   "posts": 39,
    "views": 11903,
    "likes": 36,
    "comments": 0,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
+     "sent": "2026-10-26T02:02:16.135Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
      "sent": "2026-10-25T22:03:01.997Z",
@@ -486,15 +489,6 @@
      "sent": "2026-10-23T22:03:23.035Z",
      "views": 113,
      "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Last Ball Standing Wins \ud83d\udfe0 \ud83d\udfe3 \ud83d\udd35 \ud83d\udd34",
-     "sent": "2026-10-23T18:05:03.632Z",
-     "views": 1199,
-     "likes": 9,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -566,7 +560,7 @@
     "label": "Doubles Quarterfinal 4",
     "a": "BOOMERANG & FROST",
     "b": "SPIKES & CLAWS",
-    "winner": null
+    "winner": "BOOMERANG & FROST"
    },
    {
     "id": "SF1",
@@ -579,7 +573,7 @@
     "id": "SF2",
     "label": "Doubles Semifinal 2",
     "a": "SWORD & AXE",
-    "b": null,
+    "b": "BOOMERANG & FROST",
     "winner": null
    },
    {
