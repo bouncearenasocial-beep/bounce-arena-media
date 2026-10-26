@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:05:01-07:00",
+ "updated": "2026-10-26T01:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
@@ -63,7 +63,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 461,
+    "views": 470,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -72,7 +72,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 122,
+    "views": 125,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -140,23 +140,23 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4005,
+    "views": 4006,
     "likes": 26,
-    "avg_views": 1001
+    "avg_views": 1002
    },
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4931,
+    "views": 4934,
     "likes": 51,
-    "avg_views": 986
+    "avg_views": 987
    },
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4636,
+    "views": 4645,
     "likes": 26,
-    "avg_views": 927
+    "avg_views": 929
    },
    {
     "game": "ring_battle",
@@ -189,9 +189,9 @@
    {
     "game": "weekly_compilation",
     "videos": 2,
-    "views": 6,
+    "views": 7,
     "likes": 0,
-    "avg_views": 3
+    "avg_views": 4
    }
   ],
   "daily": [
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 890
+  "last_48h": 902
  },
  "social": {
   "tiktok": {
