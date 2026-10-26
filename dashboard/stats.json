@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:05:01-07:00",
+ "updated": "2026-10-25T20:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
@@ -9,7 +9,7 @@
     "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-26T02:00:23Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
@@ -18,8 +18,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 16,
-    "likes": 1,
+    "views": 46,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
    },
@@ -54,7 +54,7 @@
     "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-25T02:00:15Z",
-    "views": 95,
+    "views": 100,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
@@ -63,7 +63,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 459,
+    "views": 461,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -72,7 +72,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 119,
+    "views": 122,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -140,21 +140,21 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4011,
+    "views": 4005,
     "likes": 26,
-    "avg_views": 1003
+    "avg_views": 1001
    },
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4928,
+    "views": 4931,
     "likes": 51,
     "avg_views": 986
    },
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4634,
+    "views": 4636,
     "likes": 26,
     "avg_views": 927
    },
@@ -168,9 +168,9 @@
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4439,
-    "likes": 51,
-    "avg_views": 888
+    "views": 4469,
+    "likes": 52,
+    "avg_views": 894
    },
    {
     "game": "ring_escape",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 11,
-    "views": 4300,
+    "views": 4306,
     "likes": 8,
     "avg_views": 391
    },
@@ -326,7 +326,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 800
+  "last_48h": 841
  },
  "social": {
   "tiktok": {
@@ -415,8 +415,8 @@
   "instagram": {
    "name": "bouncearena2",
    "posts": 39,
-   "views": 11903,
-   "likes": 36,
+   "views": 12758,
+   "likes": 40,
    "comments": 0,
    "follows": 0,
    "queued": 5,
@@ -433,8 +433,8 @@
     {
      "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
      "sent": "2026-10-25T22:03:01.997Z",
-     "views": 0,
-     "likes": 0,
+     "views": 729,
+     "likes": 3,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -442,8 +442,8 @@
     {
      "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
      "sent": "2026-10-25T18:04:32.868Z",
-     "views": 0,
-     "likes": 0,
+     "views": 124,
+     "likes": 1,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -451,7 +451,7 @@
     {
      "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
      "sent": "2026-10-25T02:01:31.908Z",
-     "views": 147,
+     "views": 148,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -597,6 +597,6 @@
   "yt_subs": 0,
   "yt_views": 712,
   "tt_views": 1460,
-  "ig_views": 416
+  "ig_views": 1023
  }
 }
