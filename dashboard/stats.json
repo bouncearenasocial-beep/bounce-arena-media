@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:05:01-07:00",
+ "updated": "2026-10-25T18:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
@@ -54,7 +54,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 444,
+    "views": 459,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -160,9 +160,9 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4619,
+    "views": 4634,
     "likes": 26,
-    "avg_views": 924
+    "avg_views": 927
    },
    {
     "game": "gravity_race",
@@ -332,7 +332,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1751
+  "last_48h": 1766
  },
  "social": {
   "tiktok": {
