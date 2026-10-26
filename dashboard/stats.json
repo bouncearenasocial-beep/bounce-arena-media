@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-26T13:05:01-07:00",
+ "updated": "2026-10-26T14:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 37081,
-  "videos": 51,
+  "videos": 52,
   "recent": [
+   {
+    "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-10-26T21:00:30Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=BbfVNq_rih0"
+   },
    {
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -27,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 233,
+    "views": 207,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -36,7 +45,7 @@
     "title": "Bounce Arena Weekly #2: 21 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
     "published": "2026-10-25T19:00:10Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=skO_eklkO_U"
@@ -45,7 +54,7 @@
     "title": "Ring Race: Pick Your Color \u2b55",
     "game": "ring_escape",
     "published": "2026-10-25T17:00:08Z",
-    "views": 337,
+    "views": 333,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-INY6T6V-aE"
@@ -63,7 +72,7 @@
     "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-25T02:00:15Z",
-    "views": 112,
+    "views": 114,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
@@ -72,7 +81,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 531,
+    "views": 533,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -81,7 +90,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 133,
+    "views": 131,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -103,23 +112,9 @@
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
-   },
-   {
-    "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY",
-    "game": "algo_war",
-    "published": "2026-10-23T17:00:33Z",
-    "views": 1009,
-    "likes": 0,
-    "comments": 1,
-    "url": "https://youtube.com/watch?v=OrcmCKMzs0w"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-26T21:00:00Z",
-    "game": "paint_war",
-    "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8"
-   },
    {
     "time": "2026-10-27T02:00:00Z",
     "game": "tournament",
@@ -135,13 +130,6 @@
     "avg_views": 1134
    },
    {
-    "game": "paint_war",
-    "videos": 7,
-    "views": 7233,
-    "likes": 44,
-    "avg_views": 1033
-   },
-   {
     "game": "algo_war",
     "videos": 1,
     "views": 1009,
@@ -151,23 +139,30 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4027,
+    "views": 4026,
     "likes": 26,
-    "avg_views": 1007
+    "avg_views": 1006
    },
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4706,
+    "views": 4708,
     "likes": 26,
-    "avg_views": 941
+    "avg_views": 942
    },
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4657,
+    "views": 4631,
     "likes": 54,
-    "avg_views": 931
+    "avg_views": 926
+   },
+   {
+    "game": "paint_war",
+    "videos": 8,
+    "views": 7233,
+    "likes": 44,
+    "avg_views": 904
    },
    {
     "game": "gravity_race",
@@ -179,28 +174,28 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 4942,
+    "views": 4941,
     "likes": 51,
     "avg_views": 824
    },
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1377,
+    "views": 1373,
     "likes": 4,
-    "avg_views": 688
+    "avg_views": 686
    },
    {
     "game": "tournament",
     "videos": 11,
-    "views": 4340,
+    "views": 4342,
     "likes": 8,
     "avg_views": 395
    },
    {
     "game": "weekly_compilation",
     "videos": 2,
-    "views": 7,
+    "views": 8,
     "likes": 0,
     "avg_views": 4
    }
@@ -337,7 +332,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1239
+  "last_48h": 682
  },
  "social": {
   "tiktok": {
@@ -536,9 +531,9 @@
    "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
-   "next": "11/1/2026 4:00:00 AM",
-   "last": "10/25/2026 5:00:00 AM",
-   "result": "0"
+   "next": "",
+   "last": "",
+   "result": ""
   }
  },
  "verified": true,
