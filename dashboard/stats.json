@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:05:01-07:00",
+ "updated": "2026-10-26T08:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 36410,
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 152,
+    "views": 171,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -72,7 +72,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 127,
+    "views": 126,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -147,7 +147,7 @@
    {
     "game": "ball_battle",
     "videos": 5,
-    "views": 4936,
+    "views": 4935,
     "likes": 51,
     "avg_views": 987
    },
@@ -161,9 +161,9 @@
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4576,
+    "views": 4595,
     "likes": 54,
-    "avg_views": 915
+    "avg_views": 919
    },
    {
     "game": "gravity_race",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1113
+  "last_48h": 1131
  },
  "social": {
   "tiktok": {
@@ -591,7 +591,7 @@
  "delta_24h": {
   "yt_subs": 0,
   "yt_views": 712,
-  "tt_views": 998,
-  "ig_views": 1927
+  "tt_views": 917,
+  "ig_views": 1759
  }
 }
