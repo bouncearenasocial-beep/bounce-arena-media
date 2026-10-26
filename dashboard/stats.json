@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:05:01-07:00",
+ "updated": "2026-10-26T13:05:01-07:00",
  "youtube": {
   "subs": 16,
   "views": 37081,
@@ -9,7 +9,7 @@
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 1,
+    "views": 0,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -18,7 +18,7 @@
     "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-26T02:00:23Z",
-    "views": 24,
+    "views": 23,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
@@ -27,7 +27,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 207,
+    "views": 233,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -45,7 +45,7 @@
     "title": "Ring Race: Pick Your Color \u2b55",
     "game": "ring_escape",
     "published": "2026-10-25T17:00:08Z",
-    "views": 333,
+    "views": 337,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-INY6T6V-aE"
@@ -72,7 +72,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 533,
+    "views": 531,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -81,7 +81,7 @@
     "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-24T17:00:00Z",
-    "views": 131,
+    "views": 133,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
@@ -99,7 +99,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 939,
+    "views": 941,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -137,7 +137,7 @@
    {
     "game": "paint_war",
     "videos": 7,
-    "views": 7231,
+    "views": 7233,
     "likes": 44,
     "avg_views": 1033
    },
@@ -151,23 +151,23 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4023,
+    "views": 4027,
     "likes": 26,
-    "avg_views": 1006
+    "avg_views": 1007
    },
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4708,
+    "views": 4706,
     "likes": 26,
-    "avg_views": 942
+    "avg_views": 941
    },
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4631,
+    "views": 4657,
     "likes": 54,
-    "avg_views": 926
+    "avg_views": 931
    },
    {
     "game": "gravity_race",
@@ -179,21 +179,21 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 4941,
+    "views": 4942,
     "likes": 51,
     "avg_views": 824
    },
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1373,
+    "views": 1377,
     "likes": 4,
-    "avg_views": 686
+    "avg_views": 688
    },
    {
     "game": "tournament",
     "videos": 11,
-    "views": 4341,
+    "views": 4340,
     "likes": 8,
     "avg_views": 395
    },
@@ -337,7 +337,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1213
+  "last_48h": 1239
  },
  "social": {
   "tiktok": {
