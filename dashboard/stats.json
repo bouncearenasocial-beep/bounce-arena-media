@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:05:01-07:00",
+ "updated": "2026-10-27T01:05:02-07:00",
  "youtube": {
   "subs": 17,
   "views": 37572,
@@ -18,7 +18,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 91,
+    "views": 90,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -27,7 +27,7 @@
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 62,
+    "views": 59,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -36,7 +36,7 @@
     "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-26T02:00:23Z",
-    "views": 39,
+    "views": 42,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 296,
+    "views": 293,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 1,
-    "views": 1014,
+    "views": 1012,
     "likes": 1,
-    "avg_views": 1014
+    "avg_views": 1012
    },
    {
     "game": "squish_split",
@@ -147,14 +147,14 @@
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4720,
+    "views": 4717,
     "likes": 54,
-    "avg_views": 944
+    "avg_views": 943
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7326,
+    "views": 7325,
     "likes": 44,
     "avg_views": 916
    },
@@ -168,7 +168,7 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 5004,
+    "views": 5001,
     "likes": 52,
     "avg_views": 834
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 12,
-    "views": 4374,
+    "views": 4377,
     "likes": 8,
-    "avg_views": 364
+    "avg_views": 365
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 840
+  "last_48h": 836
  },
  "social": {
   "tiktok": {
