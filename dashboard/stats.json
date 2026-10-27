@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T17:05:02-07:00",
+ "updated": "2026-10-26T18:05:01-07:00",
  "youtube": {
   "subs": 17,
   "views": 37081,
@@ -9,7 +9,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 55,
+    "views": 42,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -18,7 +18,7 @@
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 31,
+    "views": 30,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -36,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 238,
+    "views": 260,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -81,7 +81,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 549,
+    "views": 543,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -108,7 +108,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-23T21:00:36Z",
-    "views": 941,
+    "views": 942,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
@@ -139,30 +139,30 @@
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4028,
+    "views": 4029,
     "likes": 26,
     "avg_views": 1007
    },
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4724,
+    "views": 4718,
     "likes": 26,
-    "avg_views": 945
+    "avg_views": 944
    },
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4662,
+    "views": 4684,
     "likes": 54,
-    "avg_views": 932
+    "avg_views": 937
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7288,
+    "views": 7276,
     "likes": 44,
-    "avg_views": 911
+    "avg_views": 910
    },
    {
     "game": "gravity_race",
@@ -174,7 +174,7 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 4973,
+    "views": 4972,
     "likes": 52,
     "avg_views": 829
    },
@@ -332,7 +332,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 812
+  "last_48h": 820
  },
  "social": {
   "tiktok": {
