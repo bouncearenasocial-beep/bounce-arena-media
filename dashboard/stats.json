@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-27T09:05:01-07:00",
+ "updated": "2026-10-27T10:05:02-07:00",
  "youtube": {
   "subs": 17,
   "views": 37572,
-  "videos": 53,
+  "videos": 54,
   "recent": [
+   {
+    "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
+    "game": "algo_war",
+    "published": "2026-10-27T17:00:02Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
+   },
    {
     "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?",
     "game": "tournament",
@@ -18,7 +27,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 91,
+    "views": 90,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -36,7 +45,7 @@
     "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-26T02:00:23Z",
-    "views": 44,
+    "views": 45,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
@@ -103,22 +112,18 @@
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4T_zPmyzJB8"
-   },
-   {
-    "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
-    "game": "tournament",
-    "published": "2026-10-24T02:00:02Z",
-    "views": 986,
-    "likes": 1,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=rrspEBoomvg"
    }
   ],
   "upcoming": [
    {
-    "time": "2026-10-27T17:00:00Z",
-    "game": "algo_war",
-    "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!"
+    "time": "2026-10-27T21:00:00Z",
+    "game": "ring_battle",
+    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
+   },
+   {
+    "time": "2026-10-28T02:00:00Z",
+    "game": "tournament",
+    "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?"
    }
   ],
   "by_game": [
@@ -128,13 +133,6 @@
     "views": 2268,
     "likes": 9,
     "avg_views": 1134
-   },
-   {
-    "game": "algo_war",
-    "videos": 1,
-    "views": 1014,
-    "likes": 1,
-    "avg_views": 1014
    },
    {
     "game": "squish_split",
@@ -160,9 +158,16 @@
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7326,
+    "views": 7325,
     "likes": 44,
     "avg_views": 916
+   },
+   {
+    "game": "gravity_race",
+    "videos": 2,
+    "views": 1791,
+    "likes": 5,
+    "avg_views": 896
    },
    {
     "game": "ball_battle",
@@ -172,13 +177,6 @@
     "avg_views": 834
    },
    {
-    "game": "gravity_race",
-    "videos": 3,
-    "views": 2324,
-    "likes": 8,
-    "avg_views": 775
-   },
-   {
     "game": "ring_escape",
     "videos": 2,
     "views": 1381,
@@ -186,9 +184,16 @@
     "avg_views": 690
    },
    {
+    "game": "algo_war",
+    "videos": 2,
+    "views": 1014,
+    "likes": 1,
+    "avg_views": 507
+   },
+   {
     "game": "tournament",
     "videos": 12,
-    "views": 4382,
+    "views": 4383,
     "likes": 8,
     "avg_views": 365
    },
@@ -327,7 +332,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 861
+  "last_48h": 520
  },
  "social": {
   "tiktok": {
@@ -337,7 +342,7 @@
    "likes": 380,
    "comments": 27,
    "follows": 0,
-   "queued": 4,
+   "queued": 7,
    "recent": [
     {
      "title": "Ring Race: Pick Your Color \u2b55",
@@ -420,7 +425,7 @@
    "likes": 62,
    "comments": 0,
    "follows": 0,
-   "queued": 5,
+   "queued": 8,
    "recent": [
     {
      "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
@@ -500,7 +505,7 @@
  "runs": {
   "daily": {
    "start": "2026-10-27 09:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -518,7 +523,7 @@
   "Bounce Arena Daily": {
    "next": "10/28/2026 9:00:00 AM",
    "last": "10/27/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
@@ -596,7 +601,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 1162,
+  "yt_views": 491,
   "tt_views": 824,
   "ig_views": 2637
  }
