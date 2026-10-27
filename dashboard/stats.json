@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:05:01-07:00",
+ "updated": "2026-10-26T22:05:01-07:00",
  "youtube": {
   "subs": 17,
   "views": 37081,
@@ -18,7 +18,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 75,
+    "views": 90,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 286,
+    "views": 293,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -147,16 +147,16 @@
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4710,
+    "views": 4717,
     "likes": 54,
-    "avg_views": 942
+    "avg_views": 943
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7309,
+    "views": 7325,
     "likes": 44,
-    "avg_views": 914
+    "avg_views": 916
    },
    {
     "game": "gravity_race",
@@ -282,7 +282,7 @@
    },
    {
     "date": "2026-10-16",
-    "views": 3332,
+    "views": 3219,
     "subs": 0
    },
    {
@@ -297,7 +297,7 @@
    },
    {
     "date": "2026-10-19",
-    "views": 2189,
+    "views": 2184,
     "subs": 2
    },
    {
@@ -312,7 +312,7 @@
    },
    {
     "date": "2026-10-22",
-    "views": 2095,
+    "views": 2068,
     "subs": 1
    },
    {
@@ -326,7 +326,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 782
+  "last_48h": 804
  },
  "social": {
   "tiktok": {
