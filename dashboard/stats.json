@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-26T18:05:01-07:00",
+ "updated": "2026-10-26T19:05:01-07:00",
  "youtube": {
   "subs": 17,
   "views": 37081,
-  "videos": 52,
+  "videos": 53,
   "recent": [
+   {
+    "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?",
+    "game": "tournament",
+    "published": "2026-10-27T02:00:13Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=cECWAZYTbN8"
+   },
    {
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 42,
+    "views": 75,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -18,7 +27,7 @@
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 30,
+    "views": 31,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -27,7 +36,7 @@
     "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-26T02:00:23Z",
-    "views": 29,
+    "views": 36,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ukBxtjQBxf0"
@@ -36,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 260,
+    "views": 268,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -81,7 +90,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-24T21:00:38Z",
-    "views": 543,
+    "views": 549,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ujinVJul9tQ"
@@ -103,24 +112,9 @@
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rrspEBoomvg"
-   },
-   {
-    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-10-23T21:00:36Z",
-    "views": 942,
-    "likes": 2,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=KBWqP0CSQUw"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-27T02:00:00Z",
-    "game": "tournament",
-    "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "maze_race",
@@ -132,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 1,
-    "views": 1009,
+    "views": 1011,
     "likes": 1,
-    "avg_views": 1009
+    "avg_views": 1011
    },
    {
     "game": "squish_split",
@@ -146,23 +140,23 @@
    {
     "game": "glass_break",
     "videos": 5,
-    "views": 4718,
+    "views": 4724,
     "likes": 26,
-    "avg_views": 944
+    "avg_views": 945
    },
    {
     "game": "ring_battle",
     "videos": 5,
-    "views": 4684,
+    "views": 4692,
     "likes": 54,
-    "avg_views": 937
+    "avg_views": 938
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7276,
+    "views": 7309,
     "likes": 44,
-    "avg_views": 910
+    "avg_views": 914
    },
    {
     "game": "gravity_race",
@@ -174,7 +168,7 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 4972,
+    "views": 4973,
     "likes": 52,
     "avg_views": 829
    },
@@ -187,10 +181,10 @@
    },
    {
     "game": "tournament",
-    "videos": 11,
-    "views": 4351,
+    "videos": 12,
+    "views": 4358,
     "likes": 8,
-    "avg_views": 396
+    "avg_views": 363
    },
    {
     "game": "weekly_compilation",
@@ -332,18 +326,27 @@
     "subs": 0
    }
   ],
-  "last_48h": 820
+  "last_48h": 752
  },
  "social": {
   "tiktok": {
    "name": "bouncearena2",
-   "posts": 42,
+   "posts": 43,
    "views": 12552,
    "likes": 350,
    "comments": 22,
    "follows": 0,
-   "queued": 5,
+   "queued": 4,
    "recent": [
+    {
+     "title": "Ring Race: Pick Your Color \u2b55",
+     "sent": "2026-10-27T02:01:46.507Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
      "sent": "2026-10-26T22:03:09.533Z",
@@ -406,27 +409,27 @@
      "comments": 1,
      "shares": 0,
      "follows": 0
-    },
-    {
-     "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6 Comment your pick \ud83d\udc47 Follo",
-     "sent": "2026-10-24T18:03:03.151Z",
-     "views": 272,
-     "likes": 3,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
     }
    ]
   },
   "instagram": {
    "name": "bouncearena2",
-   "posts": 41,
+   "posts": 42,
    "views": 13662,
    "likes": 46,
    "comments": 0,
    "follows": 0,
-   "queued": 6,
+   "queued": 5,
    "recent": [
+    {
+     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
+     "sent": "2026-10-27T02:02:15.416Z",
+     "views": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "follows": 0
+    },
     {
      "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
      "sent": "2026-10-26T22:04:11.262Z",
@@ -485,15 +488,6 @@
      "title": "Season 2 Doubles Quarterfinal 1: SHIELD & BLINK vs SPEAR & BOW \ud83c\udfc6",
      "sent": "2026-10-24T22:02:51.173Z",
      "views": 123,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "follows": 0
-    },
-    {
-     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
-     "sent": "2026-10-24T18:04:11.362Z",
-     "views": 127,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -573,7 +567,7 @@
     "label": "Doubles Semifinal 1",
     "a": "SHIELD & BLINK",
     "b": "THUNDER & VAMPIRE",
-    "winner": null
+    "winner": "THUNDER & VAMPIRE"
    },
    {
     "id": "SF2",
@@ -585,7 +579,7 @@
    {
     "id": "F",
     "label": "THE DOUBLES FINAL",
-    "a": null,
+    "a": "THUNDER & VAMPIRE",
     "b": null,
     "winner": null
    }
