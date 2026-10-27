@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:05:01-07:00",
+ "updated": "2026-10-27T09:05:01-07:00",
  "youtube": {
   "subs": 17,
   "views": 37572,
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=rrspEBoomvg"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-27T17:00:00Z",
+    "game": "algo_war",
+    "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!"
+   }
+  ],
   "by_game": [
    {
     "game": "maze_race",
@@ -159,18 +165,18 @@
     "avg_views": 916
    },
    {
-    "game": "gravity_race",
-    "videos": 2,
-    "views": 1791,
-    "likes": 5,
-    "avg_views": 896
-   },
-   {
     "game": "ball_battle",
     "videos": 6,
     "views": 5006,
     "likes": 52,
     "avg_views": 834
+   },
+   {
+    "game": "gravity_race",
+    "videos": 3,
+    "views": 2324,
+    "likes": 8,
+    "avg_views": 775
    },
    {
     "game": "ring_escape",
@@ -493,8 +499,8 @@
  },
  "runs": {
   "daily": {
-   "start": "2026-10-26 09:00:02",
-   "done": true,
+   "start": "2026-10-27 09:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -510,9 +516,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/27/2026 9:00:00 AM",
-   "last": "10/26/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/28/2026 9:00:00 AM",
+   "last": "10/27/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
