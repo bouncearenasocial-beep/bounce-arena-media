@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:05:01-07:00",
+ "updated": "2026-10-27T00:05:01-07:00",
  "youtube": {
   "subs": 17,
   "views": 37572,
@@ -9,7 +9,7 @@
     "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-27T02:00:13Z",
-    "views": 0,
+    "views": 10,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=cECWAZYTbN8"
@@ -18,7 +18,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 86,
+    "views": 91,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -27,7 +27,7 @@
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 45,
+    "views": 62,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -63,7 +63,7 @@
     "title": "Ring Race: Pick Your Color \u2b55",
     "game": "ring_escape",
     "published": "2026-10-25T17:00:08Z",
-    "views": 339,
+    "views": 341,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-INY6T6V-aE"
@@ -154,9 +154,9 @@
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7321,
+    "views": 7326,
     "likes": 44,
-    "avg_views": 915
+    "avg_views": 916
    },
    {
     "game": "gravity_race",
@@ -168,21 +168,21 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 4987,
+    "views": 5004,
     "likes": 52,
-    "avg_views": 831
+    "avg_views": 834
    },
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1379,
+    "views": 1381,
     "likes": 4,
     "avg_views": 690
    },
    {
     "game": "tournament",
     "videos": 12,
-    "views": 4364,
+    "views": 4374,
     "likes": 8,
     "avg_views": 364
    },
@@ -195,11 +195,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-09-29",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-09-30",
     "views": 0,
@@ -326,7 +321,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 806
+  "last_48h": 840
  },
  "social": {
   "tiktok": {
