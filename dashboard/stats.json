@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:05:01-07:00",
+ "updated": "2026-10-27T06:05:01-07:00",
  "youtube": {
   "subs": 17,
   "views": 37572,
@@ -327,17 +327,17 @@
   "tiktok": {
    "name": "bouncearena2",
    "posts": 43,
-   "views": 12552,
-   "likes": 350,
-   "comments": 22,
+   "views": 13376,
+   "likes": 380,
+   "comments": 27,
    "follows": 0,
    "queued": 4,
    "recent": [
     {
      "title": "Ring Race: Pick Your Color \u2b55",
      "sent": "2026-10-27T02:01:46.507Z",
-     "views": 0,
-     "likes": 0,
+     "views": 213,
+     "likes": 2,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -345,25 +345,25 @@
     {
      "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
      "sent": "2026-10-26T22:03:09.533Z",
-     "views": 0,
-     "likes": 0,
-     "comments": 0,
+     "views": 304,
+     "likes": 18,
+     "comments": 4,
      "shares": 0,
      "follows": 0
     },
     {
      "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
      "sent": "2026-10-26T18:05:45.959Z",
-     "views": 0,
-     "likes": 0,
-     "comments": 0,
+     "views": 284,
+     "likes": 9,
+     "comments": 1,
      "shares": 0,
      "follows": 0
     },
     {
      "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
      "sent": "2026-10-26T02:02:26.431Z",
-     "views": 248,
+     "views": 251,
      "likes": 8,
      "comments": 0,
      "shares": 0,
@@ -372,7 +372,7 @@
     {
      "title": "HAMMER vs BOW \u2694\ufe0f Who Wins?",
      "sent": "2026-10-25T22:01:52.607Z",
-     "views": 264,
+     "views": 265,
      "likes": 6,
      "comments": 2,
      "shares": 0,
@@ -381,7 +381,7 @@
     {
      "title": "Doubles Quarterfinal 2: THUNDER & VAMPIRE vs GROWER & HAMMER \u2694\ufe0f Who Advances?",
      "sent": "2026-10-25T18:03:13.604Z",
-     "views": 316,
+     "views": 325,
      "likes": 11,
      "comments": 0,
      "shares": 0,
@@ -399,7 +399,7 @@
     {
      "title": "Which Strategy Wins? \ud83e\udde0 WORMS vs DFS vs VIRUS vs RICOCHET vs SPIRAL vs GREEDY Comment your ",
      "sent": "2026-10-24T22:01:31.456Z",
-     "views": 895,
+     "views": 900,
      "likes": 21,
      "comments": 1,
      "shares": 0,
@@ -410,8 +410,8 @@
   "instagram": {
    "name": "bouncearena2",
    "posts": 42,
-   "views": 13997,
-   "likes": 47,
+   "views": 16299,
+   "likes": 62,
    "comments": 0,
    "follows": 0,
    "queued": 5,
@@ -419,8 +419,8 @@
     {
      "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
      "sent": "2026-10-27T02:02:15.416Z",
-     "views": 0,
-     "likes": 0,
+     "views": 1189,
+     "likes": 10,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -428,8 +428,8 @@
     {
      "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
      "sent": "2026-10-26T22:04:11.262Z",
-     "views": 208,
-     "likes": 1,
+     "views": 1321,
+     "likes": 6,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -591,7 +591,7 @@
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 1162,
-  "tt_views": 917,
-  "ig_views": 1239
+  "tt_views": 1741,
+  "ig_views": 3541
  }
 }
