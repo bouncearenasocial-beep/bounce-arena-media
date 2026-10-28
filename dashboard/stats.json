@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-28T09:05:02-07:00",
+ "updated": "2026-10-28T10:05:02-07:00",
  "youtube": {
   "subs": 17,
   "views": 37801,
-  "videos": 56,
+  "videos": 57,
   "recent": [
+   {
+    "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-10-28T17:00:13Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=VLHErDAh0wk"
+   },
    {
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 196,
+    "views": 197,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -18,7 +27,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 950,
+    "views": 957,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -27,7 +36,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 880,
+    "views": 980,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -36,7 +45,7 @@
     "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-27T02:00:13Z",
-    "views": 13,
+    "views": 14,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=cECWAZYTbN8"
@@ -45,7 +54,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 95,
+    "views": 98,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -54,7 +63,7 @@
     "title": "SPIKES or CLAWS? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-10-26T17:00:15Z",
-    "views": 66,
+    "views": 67,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ThRypRfhzzE"
@@ -72,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udd34 \ud83d\udfe3 \ud83d\udfe2 \ud83d\udd35",
     "game": "ring_battle",
     "published": "2026-10-25T21:00:39Z",
-    "views": 304,
+    "views": 305,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yn5_1-pluvo"
@@ -103,66 +112,55 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=8tnhd31rtFc"
-   },
-   {
-    "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
-    "game": "tournament",
-    "published": "2026-10-25T02:00:15Z",
-    "views": 120,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=TSh4vYoSsx8"
    }
   ],
   "upcoming": [
    {
-    "time": "2026-10-28T17:00:00Z",
-    "game": "other",
-    "title": "Multipliers vs a Wall of Glass \ud83d\udca5"
+    "time": "2026-10-28T21:00:00Z",
+    "game": "squish_split",
+    "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f"
+   },
+   {
+    "time": "2026-10-29T02:00:00Z",
+    "game": "tournament",
+    "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?"
    }
   ],
   "by_game": [
    {
     "game": "maze_race",
     "videos": 2,
-    "views": 2268,
+    "views": 2269,
     "likes": 9,
     "avg_views": 1134
    },
    {
     "game": "squish_split",
     "videos": 4,
-    "views": 4029,
+    "views": 4031,
     "likes": 26,
-    "avg_views": 1007
+    "avg_views": 1008
    },
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 1895,
+    "views": 1996,
     "likes": 9,
-    "avg_views": 948
+    "avg_views": 998
    },
    {
     "game": "ring_battle",
     "videos": 6,
-    "views": 5679,
+    "views": 5687,
     "likes": 60,
-    "avg_views": 946
-   },
-   {
-    "game": "glass_break",
-    "videos": 5,
-    "views": 4721,
-    "likes": 26,
-    "avg_views": 944
+    "avg_views": 948
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7330,
+    "views": 7334,
     "likes": 44,
-    "avg_views": 916
+    "avg_views": 917
    },
    {
     "game": "gravity_race",
@@ -174,9 +172,16 @@
    {
     "game": "ball_battle",
     "videos": 6,
-    "views": 5007,
+    "views": 5008,
     "likes": 52,
-    "avg_views": 834
+    "avg_views": 835
+   },
+   {
+    "game": "glass_break",
+    "videos": 6,
+    "views": 4722,
+    "likes": 26,
+    "avg_views": 787
    },
    {
     "game": "ring_escape",
@@ -188,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 13,
-    "views": 4578,
+    "views": 4583,
     "likes": 9,
-    "avg_views": 352
+    "avg_views": 353
    },
    {
     "game": "weekly_compilation",
@@ -327,7 +332,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2200
+  "last_48h": 2246
  },
  "social": {
   "tiktok": {
@@ -337,7 +342,7 @@
    "likes": 410,
    "comments": 28,
    "follows": 0,
-   "queued": 4,
+   "queued": 7,
    "recent": [
     {
      "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
@@ -420,7 +425,7 @@
    "likes": 73,
    "comments": 0,
    "follows": 0,
-   "queued": 5,
+   "queued": 8,
    "recent": [
     {
      "title": "SPIKES or CLAWS? \u2694\ufe0f",
@@ -500,7 +505,7 @@
  "runs": {
   "daily": {
    "start": "2026-10-28 09:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -518,7 +523,7 @@
   "Bounce Arena Daily": {
    "next": "10/29/2026 9:00:00 AM",
    "last": "10/28/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
@@ -533,55 +538,55 @@
  },
  "verified": true,
  "tournament": {
-  "season": 2,
+  "season": 3,
   "matches": [
    {
     "id": "QF1",
-    "label": "Doubles Quarterfinal 1",
-    "a": "SHIELD & BLINK",
-    "b": "SPEAR & BOW",
-    "winner": "SHIELD & BLINK"
+    "label": "Quarterfinal 1",
+    "a": "SPEAR",
+    "b": "SHURIKEN",
+    "winner": null
    },
    {
     "id": "QF2",
-    "label": "Doubles Quarterfinal 2",
-    "a": "THUNDER & VAMPIRE",
-    "b": "GROWER & HAMMER",
-    "winner": "THUNDER & VAMPIRE"
+    "label": "Quarterfinal 2",
+    "a": "AXE",
+    "b": "LASER",
+    "winner": null
    },
    {
     "id": "QF3",
-    "label": "Doubles Quarterfinal 3",
-    "a": "SWORD & AXE",
-    "b": "SHURIKEN & DAGGER",
-    "winner": "SWORD & AXE"
+    "label": "Quarterfinal 3",
+    "a": "SCYTHE",
+    "b": "HAMMER",
+    "winner": null
    },
    {
     "id": "QF4",
-    "label": "Doubles Quarterfinal 4",
-    "a": "BOOMERANG & FROST",
-    "b": "SPIKES & CLAWS",
-    "winner": "BOOMERANG & FROST"
+    "label": "Quarterfinal 4",
+    "a": "BLINK",
+    "b": "SPIKES",
+    "winner": null
    },
    {
     "id": "SF1",
-    "label": "Doubles Semifinal 1",
-    "a": "SHIELD & BLINK",
-    "b": "THUNDER & VAMPIRE",
-    "winner": "THUNDER & VAMPIRE"
+    "label": "Semifinal 1",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "SF2",
-    "label": "Doubles Semifinal 2",
-    "a": "SWORD & AXE",
-    "b": "BOOMERANG & FROST",
-    "winner": "BOOMERANG & FROST"
+    "label": "Semifinal 2",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "F",
-    "label": "THE DOUBLES FINAL",
-    "a": "THUNDER & VAMPIRE",
-    "b": "BOOMERANG & FROST",
+    "label": "THE FINAL",
+    "a": null,
+    "b": null,
     "winner": null
    }
   ],
@@ -590,6 +595,11 @@
     "season": 1,
     "mode": "1v1",
     "champion": "LASER"
+   },
+   {
+    "season": 2,
+    "mode": "2v2",
+    "champion": "BOOMERANG & FROST"
    }
   ]
  },
