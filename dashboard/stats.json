@@ -1,16 +1,25 @@
 {
- "updated": "2026-10-28T13:05:02-07:00",
+ "updated": "2026-10-28T14:05:02-07:00",
  "youtube": {
-  "subs": 17,
+  "subs": 18,
   "views": 37801,
-  "videos": 57,
+  "videos": 58,
   "recent": [
+   {
+    "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
+    "game": "squish_split",
+    "published": "2026-10-28T21:00:16Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
+   },
    {
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 357,
-    "likes": 1,
+    "views": 768,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
    },
@@ -27,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 957,
+    "views": 958,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -36,7 +45,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 990,
+    "views": 1007,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -45,7 +54,7 @@
     "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-27T02:00:13Z",
-    "views": 14,
+    "views": 16,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=cECWAZYTbN8"
@@ -54,7 +63,7 @@
     "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-10-26T21:00:30Z",
-    "views": 98,
+    "views": 99,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
@@ -103,23 +112,9 @@
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-INY6T6V-aE"
-   },
-   {
-    "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads",
-    "game": "other",
-    "published": "2026-10-25T03:00:15Z",
-    "views": 3,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=8tnhd31rtFc"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-10-28T21:00:00Z",
-    "game": "squish_split",
-    "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f"
-   },
    {
     "time": "2026-10-29T02:00:00Z",
     "game": "tournament",
@@ -135,32 +130,32 @@
     "avg_views": 1134
    },
    {
-    "game": "squish_split",
-    "videos": 4,
-    "views": 4031,
-    "likes": 26,
-    "avg_views": 1008
-   },
-   {
     "game": "algo_war",
     "videos": 2,
-    "views": 2006,
+    "views": 2023,
     "likes": 9,
-    "avg_views": 1003
+    "avg_views": 1012
    },
    {
     "game": "ring_battle",
     "videos": 6,
-    "views": 5687,
+    "views": 5688,
     "likes": 60,
     "avg_views": 948
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7334,
+    "views": 7335,
     "likes": 44,
     "avg_views": 917
+   },
+   {
+    "game": "glass_break",
+    "videos": 6,
+    "views": 5490,
+    "likes": 30,
+    "avg_views": 915
    },
    {
     "game": "gravity_race",
@@ -170,18 +165,18 @@
     "avg_views": 896
    },
    {
-    "game": "glass_break",
-    "videos": 6,
-    "views": 5079,
-    "likes": 27,
-    "avg_views": 846
-   },
-   {
     "game": "ball_battle",
     "videos": 6,
     "views": 5008,
     "likes": 52,
     "avg_views": 835
+   },
+   {
+    "game": "squish_split",
+    "videos": 5,
+    "views": 4031,
+    "likes": 26,
+    "avg_views": 806
    },
    {
     "game": "ring_escape",
@@ -193,7 +188,7 @@
    {
     "game": "tournament",
     "videos": 13,
-    "views": 4593,
+    "views": 4595,
     "likes": 9,
     "avg_views": 353
    },
@@ -337,7 +332,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2623
+  "last_48h": 2956
  },
  "social": {
   "tiktok": {
@@ -610,7 +605,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 0,
+  "yt_subs": 1,
   "yt_views": 229,
   "tt_views": 971,
   "ig_views": 1438
