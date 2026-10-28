@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:05:02-07:00",
+ "updated": "2026-10-28T02:05:02-07:00",
  "youtube": {
   "subs": 17,
   "views": 37801,
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 702,
+    "views": 898,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -27,8 +27,8 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 194,
-    "likes": 1,
+    "views": 303,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
    },
@@ -138,18 +138,18 @@
     "avg_views": 944
    },
    {
+    "game": "ring_battle",
+    "videos": 6,
+    "views": 5626,
+    "likes": 60,
+    "avg_views": 938
+   },
+   {
     "game": "paint_war",
     "videos": 8,
     "views": 7327,
     "likes": 44,
     "avg_views": 916
-   },
-   {
-    "game": "ring_battle",
-    "videos": 6,
-    "views": 5430,
-    "likes": 60,
-    "avg_views": 905
    },
    {
     "game": "gravity_race",
@@ -175,9 +175,9 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 1209,
-    "likes": 2,
-    "avg_views": 604
+    "views": 1318,
+    "likes": 3,
+    "avg_views": 659
    },
    {
     "game": "tournament",
@@ -321,7 +321,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1115
+  "last_48h": 1420
  },
  "social": {
   "tiktok": {
