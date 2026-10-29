@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:17:36-07:00",
+ "updated": "2026-10-28T22:05:02-07:00",
  "youtube": {
   "subs": 19,
   "views": 39148,
@@ -18,7 +18,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 704,
+    "views": 743,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 952,
+    "views": 955,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -54,7 +54,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1038,
+    "views": 1046,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2054,
+    "views": 2062,
     "likes": 9,
-    "avg_views": 1027
+    "avg_views": 1031
    },
    {
     "game": "glass_break",
@@ -140,16 +140,16 @@
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4736,
+    "views": 4775,
     "likes": 33,
-    "avg_views": 947
+    "avg_views": 955
    },
    {
     "game": "ring_battle",
     "videos": 6,
-    "views": 5684,
+    "views": 5687,
     "likes": 60,
-    "avg_views": 947
+    "avg_views": 948
    },
    {
     "game": "paint_war",
@@ -326,7 +326,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4019
+  "last_48h": 4069
  },
  "social": null,
  "social_age_h": null,
@@ -432,7 +432,7 @@
   ]
  },
  "problems": [
-  "Couldn't read TikTok / Instagram from Buffer for over a day (Buffer key, connection or rate-limit problem). Posts may not be getting queued."
+  "Can't read TikTok / Instagram stats from Buffer right now (usually Buffer's rate limit, which resets on its own). If this lasts past tomorrow's 9 AM run, posts may not be getting queued."
  ],
  "delta_24h": {
   "yt_subs": 2,
