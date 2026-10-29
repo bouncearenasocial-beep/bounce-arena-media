@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:05:02-07:00",
+ "updated": "2026-10-29T03:05:02-07:00",
  "youtube": {
   "subs": 19,
   "views": 40025,
@@ -9,7 +9,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 5,
+    "views": 14,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -18,7 +18,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 751,
+    "views": 796,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -54,7 +54,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1051,
+    "views": 1064,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2067,
+    "views": 2080,
     "likes": 9,
-    "avg_views": 1034
+    "avg_views": 1040
    },
    {
     "game": "glass_break",
@@ -140,9 +140,9 @@
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4783,
+    "views": 4828,
     "likes": 33,
-    "avg_views": 957
+    "avg_views": 966
    },
    {
     "game": "ring_battle",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 14,
-    "views": 4629,
+    "views": 4638,
     "likes": 10,
     "avg_views": 331
    },
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4126
+  "last_48h": 4193
  },
  "social": null,
  "social_age_h": null,
