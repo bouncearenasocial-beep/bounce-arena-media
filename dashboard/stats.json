@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:05:01-07:00",
+ "updated": "2026-10-29T07:05:01-07:00",
  "youtube": {
   "subs": 19,
   "views": 40025,
@@ -9,7 +9,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 14,
+    "views": 29,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -18,7 +18,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 796,
+    "views": 852,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -27,7 +27,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1157,
+    "views": 1146,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -54,7 +54,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1064,
+    "views": 1068,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,23 +126,23 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2080,
+    "views": 2084,
     "likes": 9,
-    "avg_views": 1040
+    "avg_views": 1042
    },
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 5879,
+    "views": 5868,
     "likes": 29,
-    "avg_views": 980
+    "avg_views": 978
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4827,
+    "views": 4883,
     "likes": 33,
-    "avg_views": 965
+    "avg_views": 977
    },
    {
     "game": "ring_battle",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 14,
-    "views": 4645,
+    "views": 4660,
     "likes": 10,
-    "avg_views": 332
+    "avg_views": 333
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4263
+  "last_48h": 4327
  },
  "social": null,
  "social_age_h": null,
