@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:05:02-07:00",
+ "updated": "2026-10-29T02:05:02-07:00",
  "youtube": {
   "subs": 19,
   "views": 40025,
@@ -27,7 +27,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1109,
+    "views": 1130,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -36,7 +36,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 233,
+    "views": 234,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 5831,
+    "views": 5852,
     "likes": 29,
-    "avg_views": 972
+    "avg_views": 975
    },
    {
     "game": "squish_split",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 14,
-    "views": 4628,
+    "views": 4629,
     "likes": 10,
     "avg_views": 331
    },
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4104
+  "last_48h": 4126
  },
  "social": null,
  "social_age_h": null,
