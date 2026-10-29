@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:05:02-07:00",
+ "updated": "2026-10-28T20:05:02-07:00",
  "youtube": {
   "subs": 19,
   "views": 39148,
@@ -9,7 +9,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -18,8 +18,8 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 541,
-    "likes": 6,
+    "views": 617,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
    },
@@ -36,7 +36,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 216,
+    "views": 231,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -54,7 +54,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1035,
+    "views": 1030,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2051,
+    "views": 2046,
     "likes": 9,
-    "avg_views": 1026
+    "avg_views": 1023
    },
    {
     "game": "glass_break",
@@ -145,18 +145,18 @@
     "avg_views": 947
    },
    {
+    "game": "squish_split",
+    "videos": 5,
+    "views": 4649,
+    "likes": 33,
+    "avg_views": 930
+   },
+   {
     "game": "paint_war",
     "videos": 8,
     "views": 7336,
     "likes": 44,
     "avg_views": 917
-   },
-   {
-    "game": "squish_split",
-    "videos": 5,
-    "views": 4573,
-    "likes": 32,
-    "avg_views": 915
    },
    {
     "game": "gravity_race",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 14,
-    "views": 4610,
+    "views": 4626,
     "likes": 10,
-    "avg_views": 329
+    "avg_views": 330
    },
    {
     "game": "weekly_compilation",
@@ -326,7 +326,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3807
+  "last_48h": 3894
  },
  "social": {
   "tiktok": {
@@ -415,8 +415,8 @@
   "instagram": {
    "name": "bouncearena2",
    "posts": 48,
-   "views": 17737,
-   "likes": 73,
+   "views": 17968,
+   "likes": 75,
    "comments": 0,
    "follows": 0,
    "queued": 5,
@@ -433,8 +433,8 @@
     {
      "title": "SHIELD & BLINK vs THUNDER & VAMPIRE \u2694\ufe0f Doubles Semifinal 1: Who Moves On?",
      "sent": "2026-10-28T22:05:15.414Z",
-     "views": 0,
-     "likes": 0,
+     "views": 109,
+     "likes": 2,
      "comments": 0,
      "shares": 0,
      "follows": 0
@@ -442,7 +442,7 @@
     {
      "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
      "sent": "2026-10-28T18:05:43.689Z",
-     "views": 0,
+     "views": 115,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -460,7 +460,7 @@
     {
      "title": "BOOMERANG & FROST vs SPIKES & CLAWS \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
      "sent": "2026-10-27T22:03:35.336Z",
-     "views": 1167,
+     "views": 1173,
      "likes": 11,
      "comments": 0,
      "shares": 0,
@@ -487,7 +487,7 @@
     {
      "title": "SWORD & AXE vs SHURIKEN & DAGGER \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
      "sent": "2026-10-26T22:04:11.262Z",
-     "views": 1329,
+     "views": 1330,
      "likes": 6,
      "comments": 0,
      "shares": 0,
@@ -602,6 +602,6 @@
   "yt_subs": 2,
   "yt_views": 1366,
   "tt_views": 971,
-  "ig_views": 1438
+  "ig_views": 380
  }
 }
