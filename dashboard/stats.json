@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:05:02-07:00",
+ "updated": "2026-10-29T09:46:19-07:00",
  "youtube": {
   "subs": 19,
   "views": 42045,
@@ -36,7 +36,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 242,
+    "views": 248,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -121,9 +121,19 @@
     "title": "Quarterfinal 1: SPEAR vs SHURIKEN \u2694\ufe0f Who Advances?"
    },
    {
-    "time": "2026-10-29T21:00:00Z",
+    "time": "2026-10-29T19:00:00Z",
     "game": "other",
+    "title": "Season 2 Doubles Tournament: The Full Bracket \ud83c\udfc6 BOOMERANG & FROST Wins It All?"
+   },
+   {
+    "time": "2026-10-29T21:00:00Z",
+    "game": "ring_battle",
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
+   },
+   {
+    "time": "2026-10-30T02:00:00Z",
+    "game": "ball_battle",
+    "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?"
    }
   ],
   "by_game": [
@@ -193,7 +203,7 @@
    {
     "game": "tournament",
     "videos": 14,
-    "views": 4660,
+    "views": 4666,
     "likes": 10,
     "avg_views": 333
    },
@@ -332,15 +342,15 @@
     "subs": 1
    }
   ],
-  "last_48h": 4384
+  "last_48h": 4390
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-10-29 09:00:01",
-   "done": false,
-   "failures": 0
+   "done": true,
+   "failures": 1
   },
   "sleep": {
    "start": "2026-10-24 01:00:02",
@@ -357,7 +367,7 @@
   "Bounce Arena Daily": {
    "next": "10/30/2026 9:00:00 AM",
    "last": "10/29/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
@@ -438,7 +448,8 @@
   ]
  },
  "problems": [
-  "Can't read TikTok / Instagram stats from Buffer right now (usually Buffer's rate limit, which resets on its own). If this lasts past tomorrow's 9 AM run, posts may not be getting queued."
+  "Can't read TikTok / Instagram stats from Buffer right now (usually Buffer's rate limit, which resets on its own). If this lasts past tomorrow's 9 AM run, posts may not be getting queued.",
+  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
   "yt_subs": 2,
