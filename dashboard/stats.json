@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T08:05:01-07:00",
+ "updated": "2026-10-29T09:05:02-07:00",
  "youtube": {
   "subs": 19,
-  "views": 40025,
+  "views": 42045,
   "videos": 59,
   "recent": [
    {
@@ -27,7 +27,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1157,
+    "views": 1195,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 990,
+    "views": 991,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=skO_eklkO_U"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-10-29T17:00:00Z",
+    "game": "tournament",
+    "title": "Quarterfinal 1: SPEAR vs SHURIKEN \u2694\ufe0f Who Advances?"
+   },
+   {
+    "time": "2026-10-29T21:00:00Z",
+    "game": "other",
+    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
+   }
+  ],
   "by_game": [
    {
     "game": "maze_race",
@@ -133,9 +144,9 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 5879,
+    "views": 5917,
     "likes": 29,
-    "avg_views": 980
+    "avg_views": 986
    },
    {
     "game": "squish_split",
@@ -147,9 +158,9 @@
    {
     "game": "ring_battle",
     "videos": 6,
-    "views": 5720,
+    "views": 5721,
     "likes": 60,
-    "avg_views": 953
+    "avg_views": 954
    },
    {
     "game": "paint_war",
@@ -321,14 +332,14 @@
     "subs": 1
    }
   ],
-  "last_48h": 4345
+  "last_48h": 4384
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-10-28 09:00:02",
-   "done": true,
+   "start": "2026-10-29 09:00:01",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -344,9 +355,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/29/2026 9:00:00 AM",
-   "last": "10/28/2026 9:00:01 AM",
-   "result": "0"
+   "next": "10/30/2026 9:00:00 AM",
+   "last": "10/29/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
@@ -431,7 +442,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 2224,
+  "yt_views": 4244,
   "tt_views": null,
   "ig_views": null
  }
