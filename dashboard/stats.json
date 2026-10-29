@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:05:02-07:00",
+ "updated": "2026-10-29T00:05:02-07:00",
  "youtube": {
   "subs": 19,
   "views": 39148,
@@ -27,7 +27,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1092,
+    "views": 1109,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 5814,
+    "views": 5831,
     "likes": 29,
-    "avg_views": 969
+    "avg_views": 972
    },
    {
     "game": "squish_split",
@@ -195,11 +195,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-01",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-10-02",
     "views": 0,
@@ -326,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4086
+  "last_48h": 4103
  },
  "social": null,
  "social_age_h": null,
