@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29T00:05:02-07:00",
+ "updated": "2026-10-29T01:05:02-07:00",
  "youtube": {
   "subs": 19,
-  "views": 39148,
+  "views": 40025,
   "videos": 59,
   "recent": [
    {
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 954,
+    "views": 955,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -147,7 +147,7 @@
    {
     "game": "ring_battle",
     "videos": 6,
-    "views": 5686,
+    "views": 5687,
     "likes": 60,
     "avg_views": 948
    },
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4103
+  "last_48h": 4104
  },
  "social": null,
  "social_age_h": null,
@@ -431,7 +431,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1347,
+  "yt_views": 2224,
   "tt_views": null,
   "ig_views": null
  }
