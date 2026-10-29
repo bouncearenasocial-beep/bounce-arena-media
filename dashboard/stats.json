@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:05:02-07:00",
+ "updated": "2026-10-28T23:05:02-07:00",
  "youtube": {
   "subs": 19,
   "views": 39148,
@@ -9,7 +9,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 1,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -18,7 +18,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 743,
+    "views": 751,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -36,7 +36,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 232,
+    "views": 233,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 955,
+    "views": 954,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -54,7 +54,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1046,
+    "views": 1051,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2062,
+    "views": 2067,
     "likes": 9,
-    "avg_views": 1031
+    "avg_views": 1034
    },
    {
     "game": "glass_break",
@@ -140,14 +140,14 @@
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4775,
+    "views": 4783,
     "likes": 33,
-    "avg_views": 955
+    "avg_views": 957
    },
    {
     "game": "ring_battle",
     "videos": 6,
-    "views": 5687,
+    "views": 5686,
     "likes": 60,
     "avg_views": 948
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 14,
-    "views": 4627,
+    "views": 4628,
     "likes": 10,
-    "avg_views": 330
+    "avg_views": 331
    },
    {
     "game": "weekly_compilation",
@@ -326,7 +326,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4069
+  "last_48h": 4086
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1366,
+  "yt_views": 1347,
   "tt_views": null,
   "ig_views": null
  }
