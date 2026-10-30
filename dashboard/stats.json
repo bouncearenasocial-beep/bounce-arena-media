@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-29T18:05:01-07:00",
+ "updated": "2026-10-29T19:05:02-07:00",
  "youtube": {
   "subs": 20,
   "views": 42045,
-  "videos": 62,
+  "videos": 63,
   "recent": [
+   {
+    "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
+    "game": "ball_battle",
+    "published": "2026-10-30T02:00:11Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
+   },
    {
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 49,
+    "views": 75,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -27,7 +36,7 @@
     "title": "Quarterfinal 1: SPEAR vs SHURIKEN \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-29T17:00:22Z",
-    "views": 460,
+    "views": 545,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=LvrisxjAy8o"
@@ -36,7 +45,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 70,
+    "views": 68,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -45,7 +54,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 852,
+    "views": 853,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -54,7 +63,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1236,
+    "views": 1246,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -63,7 +72,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 278,
+    "views": 276,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=BbfVNq_rih0"
-   },
-   {
-    "title": "SPIKES or CLAWS? \u2694\ufe0f",
-    "game": "ball_battle",
-    "published": "2026-10-26T17:00:15Z",
-    "views": 68,
-    "likes": 1,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=ThRypRfhzzE"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-30T02:00:00Z",
-    "game": "ball_battle",
-    "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "maze_race",
@@ -139,14 +133,14 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 5958,
+    "views": 5968,
     "likes": 29,
-    "avg_views": 993
+    "avg_views": 995
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4883,
+    "views": 4884,
     "likes": 33,
     "avg_views": 977
    },
@@ -165,18 +159,18 @@
     "avg_views": 896
    },
    {
-    "game": "ball_battle",
-    "videos": 6,
-    "views": 5009,
-    "likes": 52,
-    "avg_views": 835
-   },
-   {
     "game": "ring_battle",
     "videos": 7,
-    "views": 5770,
+    "views": 5796,
     "likes": 60,
-    "avg_views": 824
+    "avg_views": 828
+   },
+   {
+    "game": "ball_battle",
+    "videos": 7,
+    "views": 5009,
+    "likes": 52,
+    "avg_views": 716
    },
    {
     "game": "ring_escape",
@@ -188,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 15,
-    "views": 5197,
+    "views": 5278,
     "likes": 16,
-    "avg_views": 346
+    "avg_views": 352
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +326,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2945
+  "last_48h": 2787
  },
  "social": null,
  "social_age_h": null,
