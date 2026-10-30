@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:05:01-07:00",
+ "updated": "2026-10-30T00:05:02-07:00",
  "youtube": {
   "subs": 21,
   "views": 42045,
@@ -9,7 +9,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 135,
+    "views": 159,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 95,
+    "views": 103,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -45,7 +45,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 83,
+    "views": 84,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -81,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 992,
+    "views": 994,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -90,7 +90,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1125,
+    "views": 1132,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2141,
+    "views": 2148,
     "likes": 9,
-    "avg_views": 1070
+    "avg_views": 1074
    },
    {
     "game": "glass_break",
@@ -161,16 +161,16 @@
    {
     "game": "ring_battle",
     "videos": 7,
-    "views": 5817,
+    "views": 5827,
     "likes": 60,
-    "avg_views": 831
+    "avg_views": 832
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5144,
+    "views": 5168,
     "likes": 53,
-    "avg_views": 735
+    "avg_views": 738
    },
    {
     "game": "ring_escape",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 15,
-    "views": 5443,
+    "views": 5444,
     "likes": 16,
     "avg_views": 363
    },
@@ -195,11 +195,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-02",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-10-03",
     "views": 0,
@@ -326,7 +321,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3094
+  "last_48h": 3127
  },
  "social": null,
  "social_age_h": null,
