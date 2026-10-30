@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T22:05:01-07:00",
+ "updated": "2026-10-29T23:05:01-07:00",
  "youtube": {
-  "subs": 20,
+  "subs": 21,
   "views": 42045,
   "videos": 63,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 102,
+    "views": 135,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 101,
+    "views": 95,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -45,7 +45,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 91,
+    "views": 83,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -161,16 +161,16 @@
    {
     "game": "ring_battle",
     "videos": 7,
-    "views": 5823,
+    "views": 5817,
     "likes": 60,
-    "avg_views": 832
+    "avg_views": 831
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5111,
+    "views": 5144,
     "likes": 53,
-    "avg_views": 730
+    "avg_views": 735
    },
    {
     "game": "ring_escape",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 15,
-    "views": 5451,
+    "views": 5443,
     "likes": 16,
     "avg_views": 363
    },
@@ -326,7 +326,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3075
+  "last_48h": 3094
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 2897,
   "tt_views": null,
   "ig_views": null
