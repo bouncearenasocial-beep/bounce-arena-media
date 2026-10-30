@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:05:01-07:00",
+ "updated": "2026-10-30T08:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 42606,
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 244,
+    "views": 281,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -54,7 +54,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 870,
+    "views": 895,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -63,7 +63,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1279,
+    "views": 1288,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -133,16 +133,16 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 6002,
+    "views": 6011,
     "likes": 29,
-    "avg_views": 1000
+    "avg_views": 1002
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4901,
+    "views": 4926,
     "likes": 34,
-    "avg_views": 980
+    "avg_views": 985
    },
    {
     "game": "paint_war",
@@ -161,9 +161,9 @@
    {
     "game": "ring_battle",
     "videos": 7,
-    "views": 5971,
+    "views": 6008,
     "likes": 64,
-    "avg_views": 853
+    "avg_views": 858
    },
    {
     "game": "ball_battle",
@@ -321,7 +321,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3707
+  "last_48h": 3778
  },
  "social": null,
  "social_age_h": null,
