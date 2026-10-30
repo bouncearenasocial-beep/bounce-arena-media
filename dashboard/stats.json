@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:05:02-07:00",
+ "updated": "2026-10-30T05:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 42606,
@@ -9,7 +9,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 232,
+    "views": 237,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -18,8 +18,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 143,
-    "likes": 0,
+    "views": 161,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
    },
@@ -45,7 +45,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 99,
+    "views": 112,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -63,7 +63,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1267,
+    "views": 1278,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -72,7 +72,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 301,
+    "views": 302,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -81,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 994,
+    "views": 996,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -90,7 +90,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1134,
+    "views": 1144,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -126,16 +126,16 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2150,
+    "views": 2160,
     "likes": 9,
-    "avg_views": 1075
+    "avg_views": 1080
    },
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 5990,
+    "views": 6001,
     "likes": 29,
-    "avg_views": 998
+    "avg_views": 1000
    },
    {
     "game": "squish_split",
@@ -161,14 +161,14 @@
    {
     "game": "ring_battle",
     "videos": 7,
-    "views": 5867,
-    "likes": 60,
-    "avg_views": 838
+    "views": 5887,
+    "likes": 61,
+    "avg_views": 841
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5241,
+    "views": 5246,
     "likes": 55,
     "avg_views": 749
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 15,
-    "views": 5689,
+    "views": 5703,
     "likes": 16,
-    "avg_views": 379
+    "avg_views": 380
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3495
+  "last_48h": 3542
  },
  "social": null,
  "social_age_h": null,
