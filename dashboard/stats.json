@@ -1,10 +1,19 @@
 {
- "updated": "2026-10-30T09:05:01-07:00",
+ "updated": "2026-10-30T10:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 42606,
-  "videos": 63,
+  "videos": 64,
   "recent": [
+   {
+    "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
+    "game": "tournament",
+    "published": "2026-10-30T17:00:00Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
+   },
    {
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
@@ -18,7 +27,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 279,
+    "views": 281,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -45,7 +54,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 138,
+    "views": 136,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -54,8 +63,8 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 896,
-    "likes": 9,
+    "views": 895,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
    },
@@ -63,7 +72,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1290,
+    "views": 1288,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -81,7 +90,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 998,
+    "views": 997,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -90,7 +99,7 @@
     "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-10-27T17:00:02Z",
-    "views": 1144,
+    "views": 1146,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
@@ -103,27 +112,18 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=cECWAZYTbN8"
-   },
-   {
-    "title": "4 Colors, 25 Seconds: Who Wins? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-10-26T21:00:30Z",
-    "views": 99,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=BbfVNq_rih0"
    }
   ],
   "upcoming": [
    {
-    "time": "2026-10-30T17:00:00Z",
-    "game": "tournament",
-    "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?"
+    "time": "2026-10-30T21:00:00Z",
+    "game": "maze_race",
+    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?"
    },
    {
-    "time": "2026-10-30T21:00:00Z",
-    "game": "other",
-    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?"
+    "time": "2026-10-31T02:00:00Z",
+    "game": "ring_battle",
+    "title": "Last Ball Standing Wins \ud83c\udfc6"
    }
   ],
   "by_game": [
@@ -137,22 +137,22 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2160,
+    "views": 2162,
     "likes": 9,
-    "avg_views": 1080
+    "avg_views": 1081
    },
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 6013,
+    "views": 6011,
     "likes": 29,
     "avg_views": 1002
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4927,
-    "likes": 35,
+    "views": 4926,
+    "likes": 34,
     "avg_views": 985
    },
    {
@@ -172,7 +172,7 @@
    {
     "game": "ring_battle",
     "videos": 7,
-    "views": 6007,
+    "views": 6008,
     "likes": 64,
     "avg_views": 858
    },
@@ -192,10 +192,10 @@
    },
    {
     "game": "tournament",
-    "videos": 15,
-    "views": 5733,
+    "videos": 16,
+    "views": 5731,
     "likes": 16,
-    "avg_views": 382
+    "avg_views": 358
    },
    {
     "game": "weekly_compilation",
@@ -332,15 +332,15 @@
     "subs": 0
    }
   ],
-  "last_48h": 3805
+  "last_48h": 2514
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-10-30 09:00:01",
-   "done": false,
-   "failures": 0
+   "done": true,
+   "failures": 1
   },
   "sleep": {
    "start": "2026-10-24 01:00:02",
@@ -357,7 +357,7 @@
   "Bounce Arena Daily": {
    "next": "10/31/2026 9:00:00 AM",
    "last": "10/30/2026 9:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "10/31/2026 1:00:00 AM",
@@ -386,7 +386,7 @@
     "label": "Quarterfinal 2",
     "a": "AXE",
     "b": "LASER",
-    "winner": null
+    "winner": "LASER"
    },
    {
     "id": "QF3",
@@ -406,7 +406,7 @@
     "id": "SF1",
     "label": "Semifinal 1",
     "a": "SPEAR",
-    "b": null,
+    "b": "LASER",
     "winner": null
    },
    {
@@ -437,7 +437,10 @@
    }
   ]
  },
- "problems": [],
+ "problems": [
+  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
+  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
+ ],
  "delta_24h": {
   "yt_subs": 2,
   "yt_views": 561,
