@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:05:01-07:00",
+ "updated": "2026-10-31T09:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 44354,
@@ -18,8 +18,8 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 459,
-    "likes": 5,
+    "views": 502,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
    },
@@ -27,9 +27,9 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 681,
-    "likes": 3,
-    "comments": 0,
+    "views": 811,
+    "likes": 4,
+    "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
    },
    {
@@ -116,6 +116,11 @@
   ],
   "upcoming": [
    {
+    "time": "2026-10-31T17:00:00Z",
+    "game": "tournament",
+    "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6"
+   },
+   {
     "time": "2026-11-01T03:00:00Z",
     "game": "other",
     "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus"
@@ -144,6 +149,13 @@
     "avg_views": 1003
    },
    {
+    "game": "maze_race",
+    "videos": 3,
+    "views": 2772,
+    "likes": 15,
+    "avg_views": 924
+   },
+   {
     "game": "paint_war",
     "videos": 8,
     "views": 7341,
@@ -155,13 +167,6 @@
     "videos": 8,
     "views": 7279,
     "likes": 79,
-    "avg_views": 910
-   },
-   {
-    "game": "maze_race",
-    "videos": 3,
-    "views": 2729,
-    "likes": 14,
     "avg_views": 910
    },
    {
@@ -188,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 16,
-    "views": 6499,
-    "likes": 21,
-    "avg_views": 406
+    "views": 6629,
+    "likes": 22,
+    "avg_views": 414
    },
    {
     "game": "weekly_compilation",
@@ -327,15 +332,15 @@
     "subs": 4
    }
   ],
-  "last_48h": 4104
+  "last_48h": 4277
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-10-30 09:00:01",
-   "done": true,
-   "failures": 1
+   "start": "2026-10-31 09:00:01",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-10-31 01:00:01",
@@ -350,9 +355,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "10/31/2026 9:00:00 AM",
-   "last": "10/30/2026 9:00:01 AM",
-   "result": "0"
+   "next": "11/1/2026 8:00:00 AM",
+   "last": "10/31/2026 9:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/7/2026 12:00:00 AM",
@@ -432,10 +437,7 @@
    }
   ]
  },
- "problems": [
-  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 0,
   "yt_views": 1748,
