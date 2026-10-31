@@ -1,16 +1,25 @@
 {
- "updated": "2026-10-30T18:05:01-07:00",
+ "updated": "2026-10-30T19:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 43540,
-  "videos": 65,
+  "videos": 66,
   "recent": [
+   {
+    "title": "Last Ball Standing Wins \ud83c\udfc6",
+    "game": "ring_battle",
+    "published": "2026-10-31T02:00:27Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=MPI3u5nK9O4"
+   },
    {
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 83,
-    "likes": 3,
+    "views": 123,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
    },
@@ -18,7 +27,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 152,
+    "views": 192,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -27,7 +36,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 311,
+    "views": 315,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -37,7 +46,7 @@
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
     "views": 377,
-    "likes": 4,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
    },
@@ -54,7 +63,7 @@
     "title": "Quarterfinal 1: SPEAR vs SHURIKEN \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-29T17:00:22Z",
-    "views": 904,
+    "views": 905,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=LvrisxjAy8o"
@@ -63,7 +72,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 149,
+    "views": 158,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -81,7 +90,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1300,
+    "views": 1303,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -103,24 +112,9 @@
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
-   },
-   {
-    "title": "4 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
-    "game": "algo_war",
-    "published": "2026-10-27T17:00:02Z",
-    "views": 1146,
-    "likes": 8,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=jZXUzi5ZIK8"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-10-31T02:00:00Z",
-    "game": "ring_battle",
-    "title": "Last Ball Standing Wins \ud83c\udfc6"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
@@ -132,7 +126,7 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 6022,
+    "views": 6025,
     "likes": 29,
     "avg_views": 1004
    },
@@ -158,25 +152,25 @@
     "avg_views": 896
    },
    {
-    "game": "ring_battle",
-    "videos": 7,
-    "views": 6111,
-    "likes": 65,
-    "avg_views": 873
-   },
-   {
     "game": "maze_race",
     "videos": 3,
-    "views": 2352,
-    "likes": 12,
-    "avg_views": 784
+    "views": 2392,
+    "likes": 11,
+    "avg_views": 797
+   },
+   {
+    "game": "ring_battle",
+    "videos": 8,
+    "views": 6111,
+    "likes": 66,
+    "avg_views": 764
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5320,
+    "views": 5324,
     "likes": 55,
-    "avg_views": 760
+    "avg_views": 761
    },
    {
     "game": "ring_escape",
@@ -188,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 16,
-    "views": 5896,
+    "views": 5946,
     "likes": 18,
-    "avg_views": 368
+    "avg_views": 372
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +326,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 1976
+  "last_48h": 1912
  },
  "social": null,
  "social_age_h": null,
