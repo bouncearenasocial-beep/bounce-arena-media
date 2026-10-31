@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:05:01-07:00",
+ "updated": "2026-10-31T08:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 44354,
@@ -18,7 +18,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 402,
+    "views": 459,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
@@ -63,7 +63,7 @@
     "title": "Quarterfinal 1: SPEAR vs SHURIKEN \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-10-29T17:00:22Z",
-    "views": 909,
+    "views": 935,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=LvrisxjAy8o"
@@ -146,7 +146,7 @@
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7340,
+    "views": 7341,
     "likes": 44,
     "avg_views": 918
    },
@@ -158,18 +158,18 @@
     "avg_views": 910
    },
    {
+    "game": "maze_race",
+    "videos": 3,
+    "views": 2729,
+    "likes": 14,
+    "avg_views": 910
+   },
+   {
     "game": "gravity_race",
     "videos": 2,
     "views": 1792,
     "likes": 5,
     "avg_views": 896
-   },
-   {
-    "game": "maze_race",
-    "videos": 3,
-    "views": 2672,
-    "likes": 14,
-    "avg_views": 891
    },
    {
     "game": "ball_battle",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 16,
-    "views": 6473,
+    "views": 6499,
     "likes": 21,
-    "avg_views": 405
+    "avg_views": 406
    },
    {
     "game": "weekly_compilation",
@@ -327,7 +327,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4021
+  "last_48h": 4104
  },
  "social": null,
  "social_age_h": null,
