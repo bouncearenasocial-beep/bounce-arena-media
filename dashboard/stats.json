@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:05:01-07:00",
+ "updated": "2026-10-31T06:05:02-07:00",
  "youtube": {
   "subs": 21,
   "views": 44354,
@@ -18,7 +18,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 331,
+    "views": 423,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
@@ -27,9 +27,9 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 681,
+    "views": 725,
     "likes": 3,
-    "comments": 0,
+    "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
    },
    {
@@ -45,8 +45,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 569,
-    "likes": 6,
+    "views": 575,
+    "likes": 7,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
    },
@@ -153,9 +153,16 @@
    {
     "game": "ring_battle",
     "videos": 8,
-    "views": 7217,
-    "likes": 78,
-    "avg_views": 902
+    "views": 7223,
+    "likes": 79,
+    "avg_views": 903
+   },
+   {
+    "game": "maze_race",
+    "videos": 3,
+    "views": 2693,
+    "likes": 14,
+    "avg_views": 898
    },
    {
     "game": "gravity_race",
@@ -163,13 +170,6 @@
     "views": 1792,
     "likes": 5,
     "avg_views": 896
-   },
-   {
-    "game": "maze_race",
-    "videos": 3,
-    "views": 2601,
-    "likes": 14,
-    "avg_views": 867
    },
    {
     "game": "ball_battle",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 16,
-    "views": 6495,
+    "views": 6542,
     "likes": 21,
-    "avg_views": 406
+    "avg_views": 409
    },
    {
     "game": "weekly_compilation",
@@ -327,7 +327,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3901
+  "last_48h": 4043
  },
  "social": null,
  "social_age_h": null,
