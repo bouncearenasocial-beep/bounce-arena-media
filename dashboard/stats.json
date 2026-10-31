@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:05:02-07:00",
+ "updated": "2026-10-31T13:05:01-07:00",
  "youtube": {
   "subs": 22,
   "views": 44354,
@@ -18,7 +18,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-31T02:00:27Z",
-    "views": 967,
+    "views": 966,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=MPI3u5nK9O4"
@@ -36,7 +36,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 804,
+    "views": 868,
     "likes": 4,
     "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -45,7 +45,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 524,
+    "views": 534,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -54,7 +54,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 622,
+    "views": 626,
     "likes": 7,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -99,7 +99,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1363,
+    "views": 1354,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -142,9 +142,9 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 6090,
+    "views": 6081,
     "likes": 29,
-    "avg_views": 1015
+    "avg_views": 1014
    },
    {
     "game": "squish_split",
@@ -170,9 +170,9 @@
    {
     "game": "ring_battle",
     "videos": 8,
-    "views": 7331,
+    "views": 7334,
     "likes": 79,
-    "avg_views": 916
+    "avg_views": 917
    },
    {
     "game": "gravity_race",
@@ -184,9 +184,9 @@
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5539,
+    "views": 5549,
     "likes": 57,
-    "avg_views": 791
+    "avg_views": 793
    },
    {
     "game": "ring_escape",
@@ -198,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 17,
-    "views": 6626,
+    "views": 6690,
     "likes": 22,
-    "avg_views": 390
+    "avg_views": 394
    },
    {
     "game": "weekly_compilation",
@@ -342,7 +342,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3472
+  "last_48h": 3549
  },
  "social": null,
  "social_age_h": null,
