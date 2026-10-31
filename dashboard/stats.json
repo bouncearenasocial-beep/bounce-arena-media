@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T03:05:01-07:00",
+ "updated": "2026-10-31T04:05:01-07:00",
  "youtube": {
   "subs": 21,
   "views": 44354,
@@ -18,7 +18,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 331,
+    "views": 402,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
@@ -27,8 +27,8 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 580,
-    "likes": 5,
+    "views": 628,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
    },
@@ -36,7 +36,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 434,
+    "views": 462,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 448,
+    "views": 524,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
@@ -72,7 +72,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 170,
+    "views": 171,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -81,7 +81,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 980,
+    "views": 985,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -90,7 +90,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1320,
+    "views": 1328,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -99,7 +99,7 @@
     "title": "SWORD & AXE vs BOOMERANG & FROST \u2694\ufe0f Doubles Semifinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-28T02:00:29Z",
-    "views": 302,
+    "views": 306,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UujurQTgbsc"
@@ -108,7 +108,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 1004,
+    "views": 1008,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -125,30 +125,30 @@
    {
     "game": "algo_war",
     "videos": 2,
-    "views": 2162,
-    "likes": 9,
-    "avg_views": 1081
+    "views": 2168,
+    "likes": 10,
+    "avg_views": 1084
    },
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 6045,
+    "views": 6055,
     "likes": 29,
-    "avg_views": 1008
+    "avg_views": 1009
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5012,
+    "views": 5017,
     "likes": 35,
-    "avg_views": 1002
+    "avg_views": 1003
    },
    {
     "game": "paint_war",
     "videos": 8,
-    "views": 7337,
+    "views": 7341,
     "likes": 44,
-    "avg_views": 917
+    "avg_views": 918
    },
    {
     "game": "gravity_race",
@@ -160,37 +160,37 @@
    {
     "game": "ring_battle",
     "videos": 8,
-    "views": 7070,
+    "views": 7152,
     "likes": 78,
-    "avg_views": 884
+    "avg_views": 894
    },
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 2600,
+    "views": 2672,
     "likes": 14,
-    "avg_views": 867
+    "avg_views": 891
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5446,
+    "views": 5477,
     "likes": 57,
-    "avg_views": 778
+    "avg_views": 782
    },
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1387,
+    "views": 1388,
     "likes": 4,
     "avg_views": 694
    },
    {
     "game": "tournament",
     "videos": 16,
-    "views": 6355,
-    "likes": 23,
-    "avg_views": 397
+    "views": 6419,
+    "likes": 21,
+    "avg_views": 401
    },
    {
     "game": "weekly_compilation",
@@ -327,7 +327,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3589
+  "last_48h": 3812
  },
  "social": null,
  "social_age_h": null,
