@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:05:01-07:00",
+ "updated": "2026-10-31T16:05:01-07:00",
  "youtube": {
   "subs": 22,
   "views": 45740,
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 20,
+    "views": 29,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
@@ -18,7 +18,7 @@
     "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-31T17:00:32Z",
-    "views": 9,
+    "views": 12,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4ZF3CnZ6GJY"
@@ -36,7 +36,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 551,
+    "views": 558,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
@@ -45,7 +45,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 868,
+    "views": 877,
     "likes": 4,
     "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -144,9 +144,9 @@
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 2821,
+    "views": 2828,
     "likes": 14,
-    "avg_views": 940
+    "avg_views": 943
    },
    {
     "game": "ring_battle",
@@ -179,9 +179,9 @@
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 2190,
+    "views": 2199,
     "likes": 10,
-    "avg_views": 730
+    "avg_views": 733
    },
    {
     "game": "ring_escape",
@@ -193,7 +193,7 @@
    {
     "game": "tournament",
     "videos": 17,
-    "views": 6694,
+    "views": 6706,
     "likes": 22,
     "avg_views": 394
    },
@@ -318,12 +318,12 @@
    },
    {
     "date": "2026-10-26",
-    "views": 775,
+    "views": 768,
     "subs": 1
    },
    {
     "date": "2026-10-27",
-    "views": 1226,
+    "views": 1215,
     "subs": 0
    },
    {
@@ -337,7 +337,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2979
+  "last_48h": 3007
  },
  "social": null,
  "social_age_h": null,
