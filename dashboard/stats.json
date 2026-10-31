@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-30T16:05:02-07:00",
+ "updated": "2026-10-30T17:05:01-07:00",
  "youtube": {
   "subs": 21,
-  "views": 42606,
+  "views": 43540,
   "videos": 65,
   "recent": [
    {
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 4,
-    "likes": 0,
+    "views": 36,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
    },
@@ -18,7 +18,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 98,
+    "views": 120,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -27,7 +27,7 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 299,
+    "views": 311,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
@@ -36,8 +36,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-29T21:00:05Z",
-    "views": 352,
-    "likes": 3,
+    "views": 377,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
    },
@@ -63,7 +63,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & VAMPIRE vs BOOMERANG & FROST \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-10-29T02:00:28Z",
-    "views": 146,
+    "views": 149,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
@@ -72,7 +72,7 @@
     "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
     "game": "squish_split",
     "published": "2026-10-28T21:00:16Z",
-    "views": 955,
+    "views": 979,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
@@ -81,7 +81,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-10-28T17:00:13Z",
-    "views": 1296,
+    "views": 1300,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VLHErDAh0wk"
@@ -99,7 +99,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-27T21:00:07Z",
-    "views": 1001,
+    "views": 1004,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=f7xH9YTvrSo"
@@ -132,16 +132,16 @@
    {
     "game": "glass_break",
     "videos": 6,
-    "views": 6018,
+    "views": 6022,
     "likes": 29,
-    "avg_views": 1003
+    "avg_views": 1004
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 4986,
+    "views": 5010,
     "likes": 35,
-    "avg_views": 997
+    "avg_views": 1002
    },
    {
     "game": "paint_war",
@@ -160,23 +160,23 @@
    {
     "game": "ring_battle",
     "videos": 7,
-    "views": 6083,
-    "likes": 64,
-    "avg_views": 869
+    "views": 6111,
+    "likes": 65,
+    "avg_views": 873
    },
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 2273,
-    "likes": 9,
-    "avg_views": 758
+    "views": 2305,
+    "likes": 10,
+    "avg_views": 768
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5308,
+    "views": 5320,
     "likes": 55,
-    "avg_views": 758
+    "avg_views": 760
    },
    {
     "game": "ring_escape",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 16,
-    "views": 5839,
+    "views": 5864,
     "likes": 18,
-    "avg_views": 365
+    "avg_views": 366
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +332,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 1803
+  "last_48h": 1897
  },
  "social": null,
  "social_age_h": null,
@@ -442,8 +442,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 2,
-  "yt_views": 561,
+  "yt_subs": 1,
+  "yt_views": 1495,
   "tt_views": null,
   "ig_views": null
  }
