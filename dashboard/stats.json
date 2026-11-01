@@ -1,15 +1,24 @@
 {
- "updated": "2026-10-31T19:05:01-07:00",
+ "updated": "2026-10-31T20:05:01-07:00",
  "youtube": {
   "subs": 22,
   "views": 45740,
-  "videos": 69,
+  "videos": 70,
   "recent": [
+   {
+    "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus",
+    "game": "other",
+    "published": "2026-11-01T03:00:28Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=7No9aQNetwo"
+   },
    {
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-01T02:00:32Z",
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
@@ -18,8 +27,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 284,
-    "likes": 6,
+    "views": 356,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
    },
@@ -27,7 +36,7 @@
     "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-31T17:00:32Z",
-    "views": 53,
+    "views": 68,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4ZF3CnZ6GJY"
@@ -45,7 +54,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 615,
+    "views": 617,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
@@ -54,7 +63,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 877,
+    "views": 878,
     "likes": 4,
     "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -103,24 +112,9 @@
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
-   },
-   {
-    "title": "Can They Escape Before Time Runs Out? \u23f1\ufe0f",
-    "game": "squish_split",
-    "published": "2026-10-28T21:00:16Z",
-    "views": 985,
-    "likes": 9,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-01T03:00:00Z",
-    "game": "other",
-    "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "glass_break",
@@ -139,7 +133,7 @@
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 2885,
+    "views": 2887,
     "likes": 15,
     "avg_views": 962
    },
@@ -160,14 +154,14 @@
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 2454,
-    "likes": 16,
-    "avg_views": 818
+    "views": 2526,
+    "likes": 21,
+    "avg_views": 842
    },
    {
     "game": "paint_war",
     "videos": 9,
-    "views": 7341,
+    "views": 7344,
     "likes": 44,
     "avg_views": 816
    },
@@ -188,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 17,
-    "views": 6747,
+    "views": 6763,
     "likes": 24,
-    "avg_views": 397
+    "avg_views": 398
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +326,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2789
+  "last_48h": 2882
  },
  "social": null,
  "social_age_h": null,
