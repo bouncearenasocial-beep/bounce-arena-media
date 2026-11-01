@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:05:02-08:00",
+ "updated": "2026-11-01T06:05:01-08:00",
  "youtube": {
   "subs": 22,
   "views": 47435,
@@ -27,7 +27,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 812,
+    "views": 919,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
@@ -45,7 +45,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-31T02:00:27Z",
-    "views": 973,
+    "views": 975,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=MPI3u5nK9O4"
@@ -63,7 +63,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 882,
+    "views": 963,
     "likes": 5,
     "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=5iIgKV8xn-g"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-01T20:00:00Z",
+    "game": "weekly_compilation",
+    "title": "Bounce Arena Weekly #3: 21 Battles, Races & Showdowns \ud83c\udfc6"
+   }
+  ],
   "by_game": [
    {
     "game": "maze_race",
@@ -122,6 +128,13 @@
     "views": 3106,
     "likes": 18,
     "avg_views": 1035
+   },
+   {
+    "game": "algo_war",
+    "videos": 3,
+    "views": 3091,
+    "likes": 26,
+    "avg_views": 1030
    },
    {
     "game": "glass_break",
@@ -133,21 +146,14 @@
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5017,
+    "views": 5018,
     "likes": 35,
-    "avg_views": 1003
-   },
-   {
-    "game": "algo_war",
-    "videos": 3,
-    "views": 2984,
-    "likes": 26,
-    "avg_views": 995
+    "avg_views": 1004
    },
    {
     "game": "ring_battle",
     "videos": 8,
-    "views": 7390,
+    "views": 7392,
     "likes": 79,
     "avg_views": 924
    },
@@ -182,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 17,
-    "views": 6900,
+    "views": 6981,
     "likes": 28,
-    "avg_views": 406
+    "avg_views": 411
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +327,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3934
+  "last_48h": 4124
  },
  "social": null,
  "social_age_h": null,
@@ -338,7 +344,7 @@
   },
   "compilation": {
    "start": "2026-11-01 05:00:04",
-   "done": false,
+   "done": true,
    "failures": 0
   }
  },
@@ -356,7 +362,7 @@
   "Bounce Arena Weekly Compilation": {
    "next": "11/8/2026 4:00:00 AM",
    "last": "11/1/2026 5:00:00 AM",
-   "result": "267009"
+   "result": "0"
   }
  },
  "verified": true,
