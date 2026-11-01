@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:05:02-07:00",
+ "updated": "2026-11-01T01:05:01-08:00",
  "youtube": {
   "subs": 22,
   "views": 47435,
@@ -27,8 +27,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 713,
-    "likes": 15,
+    "views": 796,
+    "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
    },
@@ -63,8 +63,8 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 879,
-    "likes": 4,
+    "views": 882,
+    "likes": 5,
     "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
    },
@@ -140,9 +140,9 @@
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 2884,
-    "likes": 25,
-    "avg_views": 961
+    "views": 2967,
+    "likes": 26,
+    "avg_views": 989
    },
    {
     "game": "ring_battle",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 17,
-    "views": 6808,
-    "likes": 25,
-    "avg_views": 400
+    "views": 6811,
+    "likes": 26,
+    "avg_views": 401
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3587
+  "last_48h": 3673
  },
  "social": null,
  "social_age_h": null,
