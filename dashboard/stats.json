@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-01T13:05:02-08:00",
+ "updated": "2026-11-01T14:05:02-08:00",
  "youtube": {
   "subs": 22,
   "views": 49249,
-  "videos": 72,
+  "videos": 73,
   "recent": [
+   {
+    "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
+    "game": "ball_battle",
+    "published": "2026-11-01T22:00:09Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=dUFNHWQDs88"
+   },
    {
     "title": "Bounce Arena Weekly #3: 21 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
@@ -18,7 +27,7 @@
     "title": "BLINK vs SPIKES \u2694\ufe0f Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
-    "views": 23,
+    "views": 37,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
@@ -36,7 +45,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-01T02:00:32Z",
-    "views": 244,
+    "views": 248,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
@@ -54,7 +63,7 @@
     "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-31T17:00:32Z",
-    "views": 255,
+    "views": 260,
     "likes": 5,
     "comments": 1,
     "url": "https://youtube.com/watch?v=4ZF3CnZ6GJY"
@@ -63,7 +72,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-31T02:00:27Z",
-    "views": 976,
+    "views": 978,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=MPI3u5nK9O4"
@@ -103,23 +112,9 @@
     "likes": 7,
     "comments": 1,
     "url": "https://youtube.com/watch?v=Qd1M3QPYGmo"
-   },
-   {
-    "title": "Season 2 Doubles Tournament: The Full Bracket \ud83c\udfc6 BOOMERANG & FROST Wins It All?",
-    "game": "other",
-    "published": "2026-10-29T19:00:09Z",
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=kKcy5Pb6SVw"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-01T22:00:00Z",
-    "game": "ball_battle",
-    "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?"
-   },
    {
     "time": "2026-11-02T03:00:00Z",
     "game": "glass_break",
@@ -151,14 +146,14 @@
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5018,
+    "views": 5019,
     "likes": 35,
     "avg_views": 1004
    },
    {
     "game": "ring_battle",
     "videos": 8,
-    "views": 7392,
+    "views": 7394,
     "likes": 79,
     "avg_views": 924
    },
@@ -172,30 +167,30 @@
    {
     "game": "paint_war",
     "videos": 9,
-    "views": 7586,
+    "views": 7590,
     "likes": 45,
     "avg_views": 843
    },
    {
     "game": "ball_battle",
-    "videos": 7,
+    "videos": 8,
     "views": 5630,
     "likes": 59,
-    "avg_views": 804
+    "avg_views": 704
    },
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1389,
+    "views": 1391,
     "likes": 4,
-    "avg_views": 694
+    "avg_views": 696
    },
    {
     "game": "tournament",
     "videos": 18,
-    "views": 7074,
+    "views": 7093,
     "likes": 28,
-    "avg_views": 393
+    "avg_views": 394
    },
    {
     "game": "weekly_compilation",
@@ -337,7 +332,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2415
+  "last_48h": 2440
  },
  "social": null,
  "social_age_h": null,
