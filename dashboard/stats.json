@@ -1,16 +1,25 @@
 {
- "updated": "2026-10-31T18:05:03-07:00",
+ "updated": "2026-10-31T19:05:01-07:00",
  "youtube": {
   "subs": 22,
   "views": 45740,
-  "videos": 68,
+  "videos": 69,
   "recent": [
+   {
+    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-11-01T02:00:32Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=ITg84T97MhA"
+   },
    {
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 248,
-    "likes": 3,
+    "views": 284,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
    },
@@ -18,8 +27,8 @@
     "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-31T17:00:32Z",
-    "views": 12,
-    "likes": 0,
+    "views": 53,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=4ZF3CnZ6GJY"
    },
@@ -36,8 +45,8 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-10-30T21:00:31Z",
-    "views": 586,
-    "likes": 5,
+    "views": 615,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
    },
@@ -54,8 +63,8 @@
     "title": "THUNDER vs MEDIC \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-10-30T02:00:11Z",
-    "views": 576,
-    "likes": 6,
+    "views": 591,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UuVYiqsv5vo"
    },
@@ -103,23 +112,9 @@
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=a4JRFiwatQ8"
-   },
-   {
-    "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
-    "game": "glass_break",
-    "published": "2026-10-28T17:00:13Z",
-    "views": 1375,
-    "likes": 3,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=VLHErDAh0wk"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-01T02:00:00Z",
-    "game": "paint_war",
-    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8"
-   },
    {
     "time": "2026-11-01T03:00:00Z",
     "game": "other",
@@ -144,9 +139,9 @@
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 2856,
-    "likes": 14,
-    "avg_views": 952
+    "views": 2885,
+    "likes": 15,
+    "avg_views": 962
    },
    {
     "game": "ring_battle",
@@ -154,13 +149,6 @@
     "views": 7371,
     "likes": 79,
     "avg_views": 921
-   },
-   {
-    "game": "paint_war",
-    "videos": 8,
-    "views": 7341,
-    "likes": 44,
-    "avg_views": 918
    },
    {
     "game": "gravity_race",
@@ -172,16 +160,23 @@
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 2418,
-    "likes": 13,
-    "avg_views": 806
+    "views": 2454,
+    "likes": 16,
+    "avg_views": 818
+   },
+   {
+    "game": "paint_war",
+    "videos": 9,
+    "views": 7341,
+    "likes": 44,
+    "avg_views": 816
    },
    {
     "game": "ball_battle",
     "videos": 7,
-    "views": 5591,
-    "likes": 58,
-    "avg_views": 799
+    "views": 5606,
+    "likes": 59,
+    "avg_views": 801
    },
    {
     "game": "ring_escape",
@@ -193,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 17,
-    "views": 6706,
-    "likes": 22,
-    "avg_views": 394
+    "views": 6747,
+    "likes": 24,
+    "avg_views": 397
    },
    {
     "game": "weekly_compilation",
@@ -337,7 +332,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3259
+  "last_48h": 2789
  },
  "social": null,
  "social_age_h": null,
