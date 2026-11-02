@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:05:01-08:00",
+ "updated": "2026-11-02T00:05:01-08:00",
  "youtube": {
   "subs": 26,
   "views": 49423,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 371,
+    "views": 437,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -18,7 +18,7 @@
     "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-01T22:00:09Z",
-    "views": 995,
+    "views": 1013,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=dUFNHWQDs88"
@@ -45,7 +45,7 @@
     "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus",
     "game": "other",
     "published": "2026-11-01T03:00:28Z",
-    "views": 3,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7No9aQNetwo"
@@ -54,7 +54,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-01T02:00:32Z",
-    "views": 317,
+    "views": 325,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
@@ -63,7 +63,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 924,
+    "views": 922,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
@@ -72,7 +72,7 @@
     "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-10-31T17:00:32Z",
-    "views": 315,
+    "views": 316,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=4ZF3CnZ6GJY"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 3099,
+    "views": 3097,
     "likes": 26,
-    "avg_views": 1033
+    "avg_views": 1032
    },
    {
     "game": "squish_split",
@@ -140,9 +140,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 6539,
+    "views": 6605,
     "likes": 34,
-    "avg_views": 934
+    "avg_views": 944
    },
    {
     "game": "ring_battle",
@@ -161,28 +161,28 @@
    {
     "game": "paint_war",
     "videos": 9,
-    "views": 7660,
+    "views": 7668,
     "likes": 45,
-    "avg_views": 851
+    "avg_views": 852
    },
    {
     "game": "ball_battle",
     "videos": 8,
-    "views": 6627,
+    "views": 6645,
     "likes": 70,
-    "avg_views": 828
+    "avg_views": 831
    },
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1391,
+    "views": 1394,
     "likes": 4,
-    "avg_views": 696
+    "avg_views": 697
    },
    {
     "game": "tournament",
     "videos": 18,
-    "views": 7213,
+    "views": 7214,
     "likes": 32,
     "avg_views": 401
    },
@@ -195,11 +195,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-05",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-10-06",
     "views": 0,
@@ -326,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3021
+  "last_48h": 3110
  },
  "social": null,
  "social_age_h": null,
@@ -437,7 +432,7 @@
  ],
  "delta_24h": {
   "yt_subs": 4,
-  "yt_views": 3683,
+  "yt_views": 1988,
   "tt_views": null,
   "ig_views": null
  }
