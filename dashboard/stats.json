@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:05:01-08:00",
+ "updated": "2026-11-02T02:05:01-08:00",
  "youtube": {
   "subs": 27,
   "views": 49423,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 485,
+    "views": 563,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -54,7 +54,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-01T02:00:32Z",
-    "views": 325,
+    "views": 347,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
@@ -99,7 +99,7 @@
     "title": "AXE vs LASER \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-10-30T17:00:00Z",
-    "views": 966,
+    "views": 967,
     "likes": 5,
     "comments": 1,
     "url": "https://youtube.com/watch?v=IX6-uk8YYOQ"
@@ -140,9 +140,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 6653,
+    "views": 6731,
     "likes": 34,
-    "avg_views": 950
+    "avg_views": 962
    },
    {
     "game": "ring_battle",
@@ -161,9 +161,9 @@
    {
     "game": "paint_war",
     "videos": 9,
-    "views": 7668,
+    "views": 7690,
     "likes": 45,
-    "avg_views": 852
+    "avg_views": 854
    },
    {
     "game": "ball_battle",
@@ -175,14 +175,14 @@
    {
     "game": "ring_escape",
     "videos": 2,
-    "views": 1394,
+    "views": 1395,
     "likes": 4,
-    "avg_views": 697
+    "avg_views": 698
    },
    {
     "game": "tournament",
     "videos": 18,
-    "views": 7214,
+    "views": 7215,
     "likes": 32,
     "avg_views": 401
    },
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3164
+  "last_48h": 3264
  },
  "social": null,
  "social_age_h": null,
