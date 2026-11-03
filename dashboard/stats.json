@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:05:02-08:00",
+ "updated": "2026-11-03T02:05:03-08:00",
  "youtube": {
   "subs": 28,
   "views": 51815,
@@ -36,7 +36,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 855,
+    "views": 910,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7040,
+    "views": 7095,
     "likes": 37,
-    "avg_views": 1006
+    "avg_views": 1014
    },
    {
     "game": "squish_split",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2382
+  "last_48h": 2437
  },
  "social": null,
  "social_age_h": null,
