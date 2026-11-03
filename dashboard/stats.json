@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:05:02-08:00",
+ "updated": "2026-11-03T07:05:02-08:00",
  "youtube": {
   "subs": 29,
   "views": 51815,
@@ -18,8 +18,8 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 248,
-    "likes": 3,
+    "views": 274,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
    },
@@ -63,7 +63,7 @@
     "title": "BLINK vs SPIKES \u2694\ufe0f Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
-    "views": 219,
+    "views": 239,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
@@ -90,7 +90,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 1066,
+    "views": 1068,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 3245,
+    "views": 3247,
     "likes": 27,
     "avg_views": 1082
    },
@@ -175,16 +175,16 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1644,
-    "likes": 7,
-    "avg_views": 548
+    "views": 1670,
+    "likes": 8,
+    "avg_views": 557
    },
    {
     "game": "tournament",
     "videos": 19,
-    "views": 7549,
+    "views": 7569,
     "likes": 38,
-    "avg_views": 397
+    "avg_views": 398
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2591
+  "last_48h": 2637
  },
  "social": null,
  "social_age_h": null,
