@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:05:03-08:00",
+ "updated": "2026-11-03T03:05:02-08:00",
  "youtube": {
   "subs": 28,
   "views": 51815,
@@ -9,8 +9,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 4,
-    "likes": 0,
+    "views": 13,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
    },
@@ -18,8 +18,8 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 228,
-    "likes": 4,
+    "views": 248,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
    },
@@ -27,8 +27,8 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 67,
-    "likes": 3,
+    "views": 71,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
    },
@@ -63,8 +63,8 @@
     "title": "BLINK vs SPIKES \u2694\ufe0f Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
-    "views": 213,
-    "likes": 6,
+    "views": 219,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
    },
@@ -161,29 +161,29 @@
    {
     "game": "ball_battle",
     "videos": 8,
-    "views": 6661,
+    "views": 6660,
     "likes": 70,
-    "avg_views": 833
+    "avg_views": 832
    },
    {
     "game": "ring_battle",
     "videos": 9,
-    "views": 7425,
-    "likes": 79,
-    "avg_views": 825
+    "views": 7434,
+    "likes": 80,
+    "avg_views": 826
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1624,
-    "likes": 8,
-    "avg_views": 541
+    "views": 1644,
+    "likes": 7,
+    "avg_views": 548
    },
    {
     "game": "tournament",
     "videos": 19,
-    "views": 7497,
-    "likes": 39,
+    "views": 7504,
+    "likes": 37,
     "avg_views": 395
    },
    {
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2437
+  "last_48h": 2476
  },
  "social": null,
  "social_age_h": null,
