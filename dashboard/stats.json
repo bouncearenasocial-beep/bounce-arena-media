@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T05:05:02-08:00",
+ "updated": "2026-11-03T06:05:02-08:00",
  "youtube": {
   "subs": 29,
   "views": 51815,
@@ -9,7 +9,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 12,
+    "views": 13,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -27,8 +27,8 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 71,
-    "likes": 2,
+    "views": 116,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
    },
@@ -36,8 +36,8 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 910,
-    "likes": 7,
+    "views": 979,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
    },
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7095,
-    "likes": 37,
-    "avg_views": 1014
+    "views": 7164,
+    "likes": 38,
+    "avg_views": 1023
    },
    {
     "game": "squish_split",
@@ -168,7 +168,7 @@
    {
     "game": "ring_battle",
     "videos": 9,
-    "views": 7433,
+    "views": 7434,
     "likes": 80,
     "avg_views": 826
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 19,
-    "views": 7504,
-    "likes": 37,
-    "avg_views": 395
+    "views": 7549,
+    "likes": 38,
+    "avg_views": 397
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2476
+  "last_48h": 2591
  },
  "social": null,
  "social_age_h": null,
