@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:05:01-08:00",
+ "updated": "2026-11-02T16:05:01-08:00",
  "youtube": {
   "subs": 27,
   "views": 51020,
@@ -9,8 +9,8 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 68,
-    "likes": 2,
+    "views": 112,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
    },
@@ -18,7 +18,7 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 21,
+    "views": 22,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
@@ -27,8 +27,8 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 643,
-    "likes": 5,
+    "views": 651,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
    },
@@ -55,7 +55,7 @@
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
     "views": 173,
-    "likes": 4,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
    },
@@ -146,9 +146,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 6816,
-    "likes": 35,
-    "avg_views": 974
+    "views": 6824,
+    "likes": 36,
+    "avg_views": 975
    },
    {
     "game": "ring_battle",
@@ -181,15 +181,15 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1464,
-    "likes": 6,
-    "avg_views": 488
+    "views": 1508,
+    "likes": 7,
+    "avg_views": 503
    },
    {
     "game": "tournament",
     "videos": 19,
-    "views": 7405,
-    "likes": 35,
+    "views": 7406,
+    "likes": 37,
     "avg_views": 390
    },
    {
@@ -332,7 +332,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2362
+  "last_48h": 2415
  },
  "social": null,
  "social_age_h": null,
@@ -442,8 +442,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 5,
-  "yt_views": 1771,
+  "yt_subs": 1,
+  "yt_views": 1597,
   "tt_views": null,
   "ig_views": null
  }
