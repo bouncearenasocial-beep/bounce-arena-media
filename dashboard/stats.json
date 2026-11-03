@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-02T17:05:01-08:00",
+ "updated": "2026-11-02T19:05:02-08:00",
  "youtube": {
   "subs": 27,
   "views": 51020,
-  "videos": 76,
+  "videos": 77,
   "recent": [
+   {
+    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
+    "game": "ring_battle",
+    "published": "2026-11-03T03:00:10Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
+   },
    {
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 145,
+    "views": 176,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -18,8 +27,8 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 33,
-    "likes": 1,
+    "views": 44,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
    },
@@ -27,7 +36,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 651,
+    "views": 751,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -72,7 +81,7 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-01T02:00:32Z",
-    "views": 437,
+    "views": 442,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
@@ -81,7 +90,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
     "game": "algo_war",
     "published": "2026-10-31T21:00:35Z",
-    "views": 1064,
+    "views": 1065,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
@@ -99,98 +108,83 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-10-31T02:00:27Z",
-    "views": 982,
+    "views": 984,
     "likes": 11,
     "comments": 1,
     "url": "https://youtube.com/watch?v=MPI3u5nK9O4"
-   },
-   {
-    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
-    "game": "maze_race",
-    "published": "2026-10-30T21:00:31Z",
-    "views": 854,
-    "likes": 9,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=2RoWEdnO9wo"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-03T03:00:00Z",
-    "game": "ring_battle",
-    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 3243,
+    "views": 3244,
     "likes": 27,
     "avg_views": 1081
    },
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 3125,
+    "views": 3131,
     "likes": 18,
-    "avg_views": 1042
+    "avg_views": 1044
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5023,
+    "views": 5025,
     "likes": 35,
     "avg_views": 1005
    },
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 6824,
+    "views": 6936,
     "likes": 36,
-    "avg_views": 975
-   },
-   {
-    "game": "ring_battle",
-    "videos": 8,
-    "views": 7409,
-    "likes": 79,
-    "avg_views": 926
+    "avg_views": 991
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1792,
+    "views": 1799,
     "likes": 5,
-    "avg_views": 896
+    "avg_views": 900
    },
    {
     "game": "paint_war",
     "videos": 9,
-    "views": 7786,
+    "views": 7795,
     "likes": 47,
-    "avg_views": 865
+    "avg_views": 866
    },
    {
     "game": "ball_battle",
     "videos": 8,
-    "views": 6651,
+    "views": 6660,
     "likes": 70,
-    "avg_views": 831
+    "avg_views": 832
+   },
+   {
+    "game": "ring_battle",
+    "videos": 9,
+    "views": 7421,
+    "likes": 79,
+    "avg_views": 825
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1541,
+    "views": 1572,
     "likes": 7,
-    "avg_views": 514
+    "avg_views": 524
    },
    {
     "game": "tournament",
     "videos": 19,
-    "views": 7417,
-    "likes": 37,
-    "avg_views": 390
+    "views": 7433,
+    "likes": 38,
+    "avg_views": 391
    },
    {
     "game": "weekly_compilation",
@@ -253,7 +247,7 @@
    },
    {
     "date": "2026-10-16",
-    "views": 3332,
+    "views": 3219,
     "subs": 0
    },
    {
@@ -268,7 +262,7 @@
    },
    {
     "date": "2026-10-19",
-    "views": 2189,
+    "views": 2184,
     "subs": 2
    },
    {
@@ -293,7 +287,7 @@
    },
    {
     "date": "2026-10-24",
-    "views": 639,
+    "views": 611,
     "subs": 0
    },
    {
@@ -318,7 +312,7 @@
    },
    {
     "date": "2026-10-29",
-    "views": 1709,
+    "views": 1701,
     "subs": 2
    },
    {
@@ -332,7 +326,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2458
+  "last_48h": 2158
  },
  "social": null,
  "social_age_h": null,
@@ -360,12 +354,12 @@
    "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
-   "next": "N/A",
+   "next": "11/7/2026 12:00:00 AM",
    "last": "10/31/2026 1:00:00 AM",
    "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
-   "next": "N/A",
+   "next": "11/8/2026 4:00:00 AM",
    "last": "11/1/2026 5:00:00 AM",
    "result": "0"
   }
