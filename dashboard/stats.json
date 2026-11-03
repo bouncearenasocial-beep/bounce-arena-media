@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:05:02-08:00",
+ "updated": "2026-11-03T04:05:02-08:00",
  "youtube": {
   "subs": 28,
   "views": 51815,
@@ -45,7 +45,7 @@
     "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-01T22:00:09Z",
-    "views": 1014,
+    "views": 1015,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=dUFNHWQDs88"
@@ -161,9 +161,9 @@
    {
     "game": "ball_battle",
     "videos": 8,
-    "views": 6660,
+    "views": 6661,
     "likes": 70,
-    "avg_views": 832
+    "avg_views": 833
    },
    {
     "game": "ring_battle",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2476
+  "last_48h": 2477
  },
  "social": null,
  "social_age_h": null,
