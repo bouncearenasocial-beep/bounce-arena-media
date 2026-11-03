@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:05:02-08:00",
+ "updated": "2026-11-03T08:05:02-08:00",
  "youtube": {
   "subs": 29,
   "views": 51815,
@@ -9,7 +9,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 13,
+    "views": 15,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=MPI3u5nK9O4"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-03T18:00:00Z",
+    "game": "tournament",
+    "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?"
+   },
+   {
+    "time": "2026-11-03T22:00:00Z",
+    "game": "ring_battle",
+    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -168,7 +179,7 @@
    {
     "game": "ring_battle",
     "videos": 9,
-    "views": 7434,
+    "views": 7436,
     "likes": 80,
     "avg_views": 826
    },
@@ -321,15 +332,15 @@
     "subs": 1
    }
   ],
-  "last_48h": 2637
+  "last_48h": 2639
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-02 08:00:01",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-03 08:00:02",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-10-31 01:00:01",
@@ -344,9 +355,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/3/2026 8:00:00 AM",
-   "last": "11/2/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/4/2026 8:00:00 AM",
+   "last": "11/3/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/7/2026 12:00:00 AM",
@@ -426,10 +437,7 @@
    }
   ]
  },
- "problems": [
-  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 2,
   "yt_views": 2392,
