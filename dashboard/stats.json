@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:05:02-08:00",
+ "updated": "2026-11-03T01:05:02-08:00",
  "youtube": {
   "subs": 28,
   "views": 51815,
@@ -18,8 +18,8 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 224,
-    "likes": 3,
+    "views": 228,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
    },
@@ -27,8 +27,8 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 64,
-    "likes": 2,
+    "views": 67,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
    },
@@ -63,8 +63,8 @@
     "title": "BLINK vs SPIKES \u2694\ufe0f Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
-    "views": 206,
-    "likes": 5,
+    "views": 213,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
    },
@@ -175,16 +175,16 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1620,
-    "likes": 7,
-    "avg_views": 540
+    "views": 1624,
+    "likes": 8,
+    "avg_views": 541
    },
    {
     "game": "tournament",
     "videos": 19,
-    "views": 7487,
-    "likes": 37,
-    "avg_views": 394
+    "views": 7497,
+    "likes": 39,
+    "avg_views": 395
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2368
+  "last_48h": 2382
  },
  "social": null,
  "social_age_h": null,
