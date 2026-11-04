@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:05:01-08:00",
+ "updated": "2026-11-04T08:05:01-08:00",
  "youtube": {
   "subs": 32,
   "views": 52958,
@@ -9,7 +9,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 472,
+    "views": 627,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 973,
+    "views": 974,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -27,7 +27,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 919,
+    "views": 927,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -36,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 31,
+    "views": 38,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -54,7 +54,7 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 243,
+    "views": 273,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
@@ -63,7 +63,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1028,
+    "views": 1029,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-04T18:00:00Z",
+    "game": "tournament",
+    "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?"
+   },
+   {
+    "time": "2026-11-04T22:00:00Z",
+    "game": "ball_battle",
+    "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -133,7 +144,7 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7238,
+    "views": 7239,
     "likes": 38,
     "avg_views": 1034
    },
@@ -154,9 +165,16 @@
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8464,
+    "views": 8472,
     "likes": 90,
-    "avg_views": 846
+    "avg_views": 847
+   },
+   {
+    "game": "paint_war",
+    "videos": 10,
+    "views": 8454,
+    "likes": 52,
+    "avg_views": 845
    },
    {
     "game": "ball_battle",
@@ -164,13 +182,6 @@
     "views": 6686,
     "likes": 70,
     "avg_views": 836
-   },
-   {
-    "game": "paint_war",
-    "videos": 10,
-    "views": 8299,
-    "likes": 52,
-    "avg_views": 830
    },
    {
     "game": "ring_escape",
@@ -182,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 20,
-    "views": 8726,
+    "views": 8765,
     "likes": 50,
-    "avg_views": 436
+    "avg_views": 438
    },
    {
     "game": "weekly_compilation",
@@ -237,7 +248,7 @@
    },
    {
     "date": "2026-10-16",
-    "views": 3219,
+    "views": 3332,
     "subs": 0
    },
    {
@@ -252,7 +263,7 @@
    },
    {
     "date": "2026-10-19",
-    "views": 2184,
+    "views": 2189,
     "subs": 2
    },
    {
@@ -277,7 +288,7 @@
    },
    {
     "date": "2026-10-24",
-    "views": 611,
+    "views": 639,
     "subs": 0
    },
    {
@@ -321,15 +332,15 @@
     "subs": 5
    }
   ],
-  "last_48h": 3069
+  "last_48h": 3270
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-03 08:00:02",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-04 08:00:01",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-10-31 01:00:01",
@@ -344,9 +355,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/4/2026 8:00:00 AM",
-   "last": "11/3/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/5/2026 8:00:00 AM",
+   "last": "11/4/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/7/2026 12:00:00 AM",
@@ -361,55 +372,55 @@
  },
  "verified": true,
  "tournament": {
-  "season": 3,
+  "season": 4,
   "matches": [
    {
     "id": "QF1",
-    "label": "Quarterfinal 1",
-    "a": "SPEAR",
-    "b": "SHURIKEN",
-    "winner": "SPEAR"
+    "label": "Doubles Quarterfinal 1",
+    "a": "SPEAR & VAMPIRE",
+    "b": "SCYTHE & DAGGER",
+    "winner": null
    },
    {
     "id": "QF2",
-    "label": "Quarterfinal 2",
-    "a": "AXE",
-    "b": "LASER",
-    "winner": "LASER"
+    "label": "Doubles Quarterfinal 2",
+    "a": "SWORD & GROWER",
+    "b": "BOOMERANG & FROST",
+    "winner": null
    },
    {
     "id": "QF3",
-    "label": "Quarterfinal 3",
-    "a": "SCYTHE",
-    "b": "HAMMER",
-    "winner": "HAMMER"
+    "label": "Doubles Quarterfinal 3",
+    "a": "MEDIC & SPIKES",
+    "b": "PUFFER & MAGNET",
+    "winner": null
    },
    {
     "id": "QF4",
-    "label": "Quarterfinal 4",
-    "a": "BLINK",
-    "b": "SPIKES",
-    "winner": "SPIKES"
+    "label": "Doubles Quarterfinal 4",
+    "a": "BLINK & LASER",
+    "b": "GHOST & BOMBER",
+    "winner": null
    },
    {
     "id": "SF1",
-    "label": "Semifinal 1",
-    "a": "SPEAR",
-    "b": "LASER",
-    "winner": "SPEAR"
+    "label": "Doubles Semifinal 1",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "SF2",
-    "label": "Semifinal 2",
-    "a": "HAMMER",
-    "b": "SPIKES",
-    "winner": "SPIKES"
+    "label": "Doubles Semifinal 2",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "F",
-    "label": "THE FINAL",
-    "a": "SPEAR",
-    "b": "SPIKES",
+    "label": "THE DOUBLES FINAL",
+    "a": null,
+    "b": null,
     "winner": null
    }
   ],
@@ -423,13 +434,15 @@
     "season": 2,
     "mode": "2v2",
     "champion": "BOOMERANG & FROST"
+   },
+   {
+    "season": 3,
+    "mode": "1v1",
+    "champion": "SPIKES"
    }
   ]
  },
- "problems": [
-  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 3,
   "yt_views": 1143,
