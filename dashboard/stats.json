@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:05:02-08:00",
+ "updated": "2026-11-04T07:05:01-08:00",
  "youtube": {
   "subs": 32,
   "views": 52958,
@@ -9,7 +9,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 290,
+    "views": 472,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 974,
+    "views": 973,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -27,7 +27,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 923,
+    "views": 919,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -36,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 34,
+    "views": 31,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -45,7 +45,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 380,
+    "views": 431,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -54,7 +54,7 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 240,
+    "views": 243,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
@@ -154,9 +154,9 @@
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8468,
+    "views": 8464,
     "likes": 90,
-    "avg_views": 847
+    "avg_views": 846
    },
    {
     "game": "ball_battle",
@@ -168,21 +168,21 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8117,
+    "views": 8299,
     "likes": 52,
-    "avg_views": 812
+    "avg_views": 830
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1778,
+    "views": 1829,
     "likes": 10,
-    "avg_views": 593
+    "avg_views": 610
    },
    {
     "game": "tournament",
     "videos": 20,
-    "views": 8728,
+    "views": 8726,
     "likes": 50,
     "avg_views": 436
    },
@@ -321,7 +321,7 @@
     "subs": 5
    }
   ],
-  "last_48h": 2841
+  "last_48h": 3069
  },
  "social": null,
  "social_age_h": null,
