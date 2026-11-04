@@ -1,16 +1,34 @@
 {
- "updated": "2026-11-03T11:05:02-08:00",
+ "updated": "2026-11-03T21:22:34-08:00",
  "youtube": {
-  "subs": 29,
-  "views": 51815,
-  "videos": 78,
+  "subs": 31,
+  "views": 52543,
+  "videos": 80,
   "recent": [
+   {
+    "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-11-04T03:00:12Z",
+    "views": 108,
+    "likes": 1,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=RFceby-cSjY"
+   },
+   {
+    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
+    "game": "ring_battle",
+    "published": "2026-11-03T22:00:24Z",
+    "views": 958,
+    "likes": 9,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=yurdFx8iXwg"
+   },
    {
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 2,
-    "likes": 0,
+    "views": 581,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
    },
@@ -18,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 16,
+    "views": 18,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -27,7 +45,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 271,
+    "views": 324,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -36,8 +54,8 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 148,
-    "likes": 3,
+    "views": 209,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
    },
@@ -45,7 +63,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 992,
+    "views": 1017,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -54,7 +72,7 @@
     "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-01T22:00:09Z",
-    "views": 1016,
+    "views": 1025,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=dUFNHWQDs88"
@@ -72,7 +90,7 @@
     "title": "BLINK vs SPIKES \u2694\ufe0f Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
-    "views": 252,
+    "views": 272,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
@@ -90,112 +108,83 @@
     "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-01T02:00:32Z",
-    "views": 452,
+    "views": 453,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ITg84T97MhA"
-   },
-   {
-    "title": "Which Strategy Wins? \ud83e\udde0 GREEDY vs SPIRAL vs LIGHTNING vs PULSE",
-    "game": "algo_war",
-    "published": "2026-10-31T21:00:35Z",
-    "views": 1068,
-    "likes": 17,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=wvzqZYGX-QU"
-   },
-   {
-    "title": "Season 3 Quarterfinal 3: SCYTHE vs HAMMER \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-10-31T17:00:32Z",
-    "views": 390,
-    "likes": 7,
-    "comments": 1,
-    "url": "https://youtube.com/watch?v=4ZF3CnZ6GJY"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-03T22:00:00Z",
-    "game": "ring_battle",
-    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
-   },
-   {
-    "time": "2026-11-04T03:00:00Z",
-    "game": "paint_war",
-    "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 3,
-    "views": 3247,
+    "views": 3256,
     "likes": 27,
-    "avg_views": 1082
+    "avg_views": 1085
    },
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 3131,
+    "views": 3136,
     "likes": 18,
-    "avg_views": 1044
+    "avg_views": 1045
    },
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7177,
+    "views": 7227,
     "likes": 38,
-    "avg_views": 1025
+    "avg_views": 1032
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5025,
+    "views": 5036,
     "likes": 35,
-    "avg_views": 1005
+    "avg_views": 1007
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1799,
-    "likes": 5,
-    "avg_views": 900
+    "views": 1810,
+    "likes": 6,
+    "avg_views": 905
    },
    {
-    "game": "paint_war",
-    "videos": 9,
-    "views": 7806,
-    "likes": 47,
-    "avg_views": 867
+    "game": "ring_battle",
+    "videos": 10,
+    "views": 8436,
+    "likes": 89,
+    "avg_views": 844
    },
    {
     "game": "ball_battle",
     "videos": 8,
-    "views": 6662,
+    "views": 6685,
     "likes": 70,
-    "avg_views": 833
+    "avg_views": 836
    },
    {
-    "game": "ring_battle",
-    "videos": 9,
-    "views": 7437,
-    "likes": 80,
-    "avg_views": 826
+    "game": "paint_war",
+    "videos": 10,
+    "views": 7935,
+    "likes": 48,
+    "avg_views": 794
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1667,
+    "views": 1722,
     "likes": 8,
-    "avg_views": 556
+    "avg_views": 574
    },
    {
     "game": "tournament",
     "videos": 20,
-    "views": 7616,
-    "likes": 38,
-    "avg_views": 381
+    "views": 8354,
+    "likes": 49,
+    "avg_views": 418
    },
    {
     "game": "weekly_compilation",
@@ -253,7 +242,7 @@
    },
    {
     "date": "2026-10-16",
-    "views": 3332,
+    "views": 3219,
     "subs": 0
    },
    {
@@ -268,7 +257,7 @@
    },
    {
     "date": "2026-10-19",
-    "views": 2189,
+    "views": 2184,
     "subs": 2
    },
    {
@@ -293,7 +282,7 @@
    },
    {
     "date": "2026-10-24",
-    "views": 639,
+    "views": 611,
     "subs": 0
    },
    {
@@ -330,9 +319,14 @@
     "date": "2026-10-31",
     "views": 2863,
     "subs": 1
+   },
+   {
+    "date": "2026-11-01",
+    "views": 2595,
+    "subs": 5
    }
   ],
-  "last_48h": 2446
+  "last_48h": 2198
  },
  "social": null,
  "social_age_h": null,
@@ -442,8 +436,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 2,
-  "yt_views": 2392,
+  "yt_subs": 4,
+  "yt_views": 1523,
   "tt_views": null,
   "ig_views": null
  }
