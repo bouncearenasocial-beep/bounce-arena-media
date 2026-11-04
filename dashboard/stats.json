@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-04T09:05:02-08:00",
+ "updated": "2026-11-04T10:05:01-08:00",
  "youtube": {
   "subs": 32,
   "views": 52958,
-  "videos": 80,
+  "videos": 81,
   "recent": [
+   {
+    "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
+    "game": "tournament",
+    "published": "2026-11-04T18:00:37Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=jboJhTOHSIs"
+   },
    {
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 609,
+    "views": 627,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -36,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 34,
+    "views": 38,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -45,7 +54,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 498,
+    "views": 578,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -54,7 +63,7 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 264,
+    "views": 273,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
@@ -63,7 +72,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1028,
+    "views": 1029,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7No9aQNetwo"
-   },
-   {
-    "title": "Faster on Your Own Paint... Who Covers the Most? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-11-01T02:00:32Z",
-    "views": 453,
-    "likes": 3,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=ITg84T97MhA"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-04T18:00:00Z",
-    "game": "tournament",
-    "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?"
-   },
    {
     "time": "2026-11-04T22:00:00Z",
     "game": "ball_battle",
@@ -149,7 +144,7 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7238,
+    "views": 7239,
     "likes": 38,
     "avg_views": 1034
    },
@@ -170,16 +165,16 @@
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8468,
+    "views": 8472,
     "likes": 90,
     "avg_views": 847
    },
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8436,
+    "views": 8454,
     "likes": 52,
-    "avg_views": 844
+    "avg_views": 845
    },
    {
     "game": "ball_battle",
@@ -191,16 +186,16 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1896,
+    "views": 1976,
     "likes": 11,
-    "avg_views": 632
+    "avg_views": 659
    },
    {
     "game": "tournament",
-    "videos": 20,
-    "views": 8756,
+    "videos": 21,
+    "views": 8765,
     "likes": 50,
-    "avg_views": 438
+    "avg_views": 417
    },
    {
     "game": "weekly_compilation",
@@ -337,7 +332,7 @@
     "subs": 5
    }
   ],
-  "last_48h": 3306
+  "last_48h": 3144
  },
  "social": null,
  "social_age_h": null,
