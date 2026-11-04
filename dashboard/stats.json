@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T10:05:01-08:00",
+ "updated": "2026-11-04T11:05:01-08:00",
  "youtube": {
-  "subs": 32,
+  "subs": 33,
   "views": 52958,
   "videos": 81,
   "recent": [
@@ -36,7 +36,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 927,
+    "views": 928,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -63,7 +63,7 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 273,
+    "views": 292,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
@@ -151,7 +151,7 @@
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5036,
+    "views": 5037,
     "likes": 35,
     "avg_views": 1007
    },
@@ -193,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 21,
-    "views": 8765,
+    "views": 8785,
     "likes": 50,
-    "avg_views": 417
+    "avg_views": 418
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +332,7 @@
     "subs": 5
    }
   ],
-  "last_48h": 3144
+  "last_48h": 3145
  },
  "social": null,
  "social_age_h": null,
@@ -447,7 +447,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 3,
+  "yt_subs": 4,
   "yt_views": 1143,
   "tt_views": null,
   "ig_views": null
