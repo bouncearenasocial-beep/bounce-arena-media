@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:05:03-08:00",
+ "updated": "2026-11-04T01:05:02-08:00",
  "youtube": {
   "subs": 32,
   "views": 52958,
@@ -9,8 +9,8 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 251,
-    "likes": 4,
+    "views": 292,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
    },
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 958,
+    "views": 970,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -27,7 +27,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 599,
+    "views": 776,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -45,7 +45,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 339,
+    "views": 349,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -154,9 +154,9 @@
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8439,
+    "views": 8451,
     "likes": 90,
-    "avg_views": 844
+    "avg_views": 845
    },
    {
     "game": "ball_battle",
@@ -168,23 +168,23 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8078,
-    "likes": 51,
-    "avg_views": 808
+    "views": 8119,
+    "likes": 52,
+    "avg_views": 812
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 1737,
+    "views": 1747,
     "likes": 8,
-    "avg_views": 579
+    "avg_views": 582
    },
    {
     "game": "tournament",
     "videos": 20,
-    "views": 8387,
+    "views": 8564,
     "likes": 49,
-    "avg_views": 419
+    "avg_views": 428
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 5
    }
   ],
-  "last_48h": 2392
+  "last_48h": 2632
  },
  "social": null,
  "social_age_h": null,
