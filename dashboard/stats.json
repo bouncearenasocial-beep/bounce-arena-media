@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:05:01-08:00",
+ "updated": "2026-11-04T12:05:02-08:00",
  "youtube": {
   "subs": 33,
   "views": 52958,
@@ -9,7 +9,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -18,7 +18,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 627,
+    "views": 629,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -36,7 +36,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 928,
+    "views": 919,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 38,
+    "views": 43,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -72,7 +72,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1029,
+    "views": 1046,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -90,7 +90,7 @@
     "title": "Bounce Arena Weekly #3: 21 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
     "published": "2026-11-01T20:00:23Z",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=J5vqsGLnUFo"
@@ -99,7 +99,7 @@
     "title": "BLINK vs SPIKES \u2694\ufe0f Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-01T18:00:08Z",
-    "views": 272,
+    "views": 273,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=iKm6miLltvw"
@@ -144,9 +144,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7239,
+    "views": 7256,
     "likes": 38,
-    "avg_views": 1034
+    "avg_views": 1037
    },
    {
     "game": "squish_split",
@@ -165,16 +165,16 @@
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8472,
+    "views": 8477,
     "likes": 90,
-    "avg_views": 847
+    "avg_views": 848
    },
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8454,
+    "views": 8457,
     "likes": 52,
-    "avg_views": 845
+    "avg_views": 846
    },
    {
     "game": "ball_battle",
@@ -193,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 21,
-    "views": 8785,
+    "views": 8779,
     "likes": 50,
     "avg_views": 418
    },
    {
     "game": "weekly_compilation",
     "videos": 3,
-    "views": 10,
+    "views": 11,
     "likes": 0,
-    "avg_views": 3
+    "avg_views": 4
    }
   ],
   "daily": [
@@ -330,6 +330,11 @@
     "date": "2026-11-01",
     "views": 2595,
     "subs": 5
+   },
+   {
+    "date": "2026-11-02",
+    "views": 1119,
+    "subs": 2
    }
   ],
   "last_48h": 3145
@@ -447,8 +452,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 4,
-  "yt_views": 1143,
+  "yt_subs": 2,
+  "yt_views": 415,
   "tt_views": null,
   "ig_views": null
  }
