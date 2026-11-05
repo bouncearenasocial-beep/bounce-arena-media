@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:05:02-08:00",
+ "updated": "2026-11-05T09:05:03-08:00",
  "youtube": {
   "subs": 38,
   "views": 56468,
@@ -9,8 +9,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 627,
-    "likes": 11,
+    "views": 657,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
    },
@@ -27,7 +27,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 536,
+    "views": 572,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -36,8 +36,8 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 884,
-    "likes": 7,
+    "views": 885,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
    },
@@ -45,8 +45,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 980,
-    "likes": 9,
+    "views": 1031,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
    },
@@ -99,7 +99,7 @@
     "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-01T22:00:09Z",
-    "views": 1031,
+    "views": 1032,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=dUFNHWQDs88"
@@ -119,6 +119,21 @@
     "time": "2026-11-05T18:00:00Z",
     "game": "tournament",
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?"
+   },
+   {
+    "time": "2026-11-05T20:00:00Z",
+    "game": "other",
+    "title": "Season 3 Tournament: The Full Bracket \ud83c\udfc6 SPIKES Wins It All?"
+   },
+   {
+    "time": "2026-11-05T22:00:00Z",
+    "game": "ring_battle",
+    "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3"
+   },
+   {
+    "time": "2026-11-06T03:00:00Z",
+    "game": "glass_break",
+    "title": "Multipliers vs a Wall of Glass \ud83d\udca5"
    }
   ],
   "by_game": [
@@ -137,18 +152,18 @@
     "avg_views": 1039
    },
    {
-    "game": "squish_split",
-    "videos": 5,
-    "views": 5038,
-    "likes": 35,
-    "avg_views": 1008
-   },
-   {
     "game": "algo_war",
     "videos": 4,
-    "views": 3887,
+    "views": 3917,
+    "likes": 39,
+    "avg_views": 979
+   },
+   {
+    "game": "squish_split",
+    "videos": 6,
+    "views": 5815,
     "likes": 38,
-    "avg_views": 972
+    "avg_views": 969
    },
    {
     "game": "gravity_race",
@@ -160,21 +175,21 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8717,
-    "likes": 54,
+    "views": 8718,
+    "likes": 55,
     "avg_views": 872
    },
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8504,
-    "likes": 90,
-    "avg_views": 850
+    "views": 8555,
+    "likes": 91,
+    "avg_views": 856
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7585,
+    "views": 7586,
     "likes": 77,
     "avg_views": 843
    },
@@ -187,10 +202,10 @@
    },
    {
     "game": "tournament",
-    "videos": 22,
-    "views": 9439,
+    "videos": 21,
+    "views": 9434,
     "likes": 61,
-    "avg_views": 429
+    "avg_views": 449
    },
    {
     "game": "weekly_compilation",
@@ -327,15 +342,15 @@
     "subs": 2
    }
   ],
-  "last_48h": 4899
+  "last_48h": 5017
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-05 08:00:02",
-   "done": false,
-   "failures": 0
+   "done": true,
+   "failures": 1
   },
   "sleep": {
    "start": "2026-10-31 01:00:01",
@@ -352,7 +367,7 @@
   "Bounce Arena Daily": {
    "next": "11/6/2026 8:00:00 AM",
    "last": "11/5/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/7/2026 12:00:00 AM",
@@ -437,7 +452,10 @@
    }
   ]
  },
- "problems": [],
+ "problems": [
+  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
+  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
+ ],
  "delta_24h": {
   "yt_subs": 6,
   "yt_views": 3510,
