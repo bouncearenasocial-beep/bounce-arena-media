@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-05T11:05:02-08:00",
+ "updated": "2026-11-05T12:05:02-08:00",
  "youtube": {
   "subs": 39,
   "views": 56468,
-  "videos": 84,
+  "videos": 85,
   "recent": [
+   {
+    "title": "Season 3 Tournament: The Full Bracket \ud83c\udfc6 SPIKES Wins It All?",
+    "game": "other",
+    "published": "2026-11-05T20:00:26Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=_u-4PZFAKEM"
+   },
    {
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 2,
-    "likes": 1,
+    "views": 8,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -36,8 +45,8 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 652,
-    "likes": 11,
+    "views": 682,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
    },
@@ -63,7 +72,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 981,
+    "views": 1000,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -99,27 +108,13 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1061,
+    "views": 1060,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
-   },
-   {
-    "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
-    "game": "ball_battle",
-    "published": "2026-11-01T22:00:09Z",
-    "views": 1032,
-    "likes": 11,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=dUFNHWQDs88"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-05T20:00:00Z",
-    "game": "other",
-    "title": "Season 3 Tournament: The Full Bracket \ud83c\udfc6 SPIKES Wins It All?"
-   },
    {
     "time": "2026-11-05T22:00:00Z",
     "game": "ring_battle",
@@ -142,7 +137,7 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7274,
+    "views": 7273,
     "likes": 38,
     "avg_views": 1039
    },
@@ -191,16 +186,16 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2362,
+    "views": 2363,
     "likes": 11,
-    "avg_views": 787
+    "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9518,
+    "views": 9573,
     "likes": 63,
-    "avg_views": 433
+    "avg_views": 435
    },
    {
     "game": "weekly_compilation",
@@ -335,9 +330,14 @@
     "date": "2026-11-02",
     "views": 1119,
     "subs": 2
+   },
+   {
+    "date": "2026-11-03",
+    "views": 2805,
+    "subs": 4
    }
   ],
-  "last_48h": 4263
+  "last_48h": 4299
  },
  "social": null,
  "social_age_h": null,
