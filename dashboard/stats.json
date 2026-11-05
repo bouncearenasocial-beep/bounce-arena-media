@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:05:02-08:00",
+ "updated": "2026-11-04T23:05:02-08:00",
  "youtube": {
   "subs": 34,
   "views": 56468,
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 180,
+    "views": 241,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -18,7 +18,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 317,
+    "views": 354,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -27,8 +27,8 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 158,
-    "likes": 4,
+    "views": 178,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
    },
@@ -54,7 +54,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 921,
+    "views": 922,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -145,18 +145,18 @@
     "avg_views": 905
    },
    {
+    "game": "algo_war",
+    "videos": 4,
+    "views": 3500,
+    "likes": 31,
+    "avg_views": 875
+   },
+   {
     "game": "paint_war",
     "videos": 10,
     "views": 8681,
     "likes": 54,
     "avg_views": 868
-   },
-   {
-    "game": "algo_war",
-    "videos": 4,
-    "views": 3439,
-    "likes": 31,
-    "avg_views": 860
    },
    {
     "game": "ring_battle",
@@ -175,16 +175,16 @@
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7009,
+    "views": 7046,
     "likes": 71,
-    "avg_views": 779
+    "avg_views": 783
    },
    {
     "game": "tournament",
     "videos": 21,
-    "views": 8956,
-    "likes": 54,
-    "avg_views": 426
+    "views": 8977,
+    "likes": 55,
+    "avg_views": 427
    },
    {
     "game": "weekly_compilation",
@@ -326,7 +326,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3400
+  "last_48h": 3519
  },
  "social": null,
  "social_age_h": null,
