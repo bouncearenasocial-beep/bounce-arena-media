@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-05T09:05:03-08:00",
+ "updated": "2026-11-05T10:05:02-08:00",
  "youtube": {
   "subs": 38,
   "views": 56468,
-  "videos": 83,
+  "videos": 84,
   "recent": [
+   {
+    "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-11-05T18:00:09Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
+   },
    {
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 657,
-    "likes": 12,
+    "views": 701,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
    },
@@ -27,7 +36,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 572,
+    "views": 622,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -46,7 +55,7 @@
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
     "views": 1031,
-    "likes": 10,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
    },
@@ -72,7 +81,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 965,
+    "views": 963,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -90,7 +99,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1059,
+    "views": 1061,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -99,27 +108,13 @@
     "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-01T22:00:09Z",
-    "views": 1032,
+    "views": 1031,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=dUFNHWQDs88"
-   },
-   {
-    "title": "Bounce Arena Weekly #3: 21 Battles, Races & Showdowns \ud83c\udfc6",
-    "game": "weekly_compilation",
-    "published": "2026-11-01T20:00:23Z",
-    "views": 2,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=J5vqsGLnUFo"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-05T18:00:00Z",
-    "game": "tournament",
-    "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?"
-   },
    {
     "time": "2026-11-05T20:00:00Z",
     "game": "other",
@@ -147,16 +142,16 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7272,
+    "views": 7274,
     "likes": 38,
     "avg_views": 1039
    },
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 3917,
-    "likes": 39,
-    "avg_views": 979
+    "views": 3961,
+    "likes": 38,
+    "avg_views": 990
    },
    {
     "game": "squish_split",
@@ -183,29 +178,29 @@
     "game": "ring_battle",
     "videos": 10,
     "views": 8555,
-    "likes": 91,
+    "likes": 90,
     "avg_views": 856
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7586,
+    "views": 7585,
     "likes": 77,
     "avg_views": 843
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2364,
+    "views": 2362,
     "likes": 11,
-    "avg_views": 788
+    "avg_views": 787
    },
    {
     "game": "tournament",
-    "videos": 21,
-    "views": 9434,
+    "videos": 22,
+    "views": 9484,
     "likes": 61,
-    "avg_views": 449
+    "avg_views": 431
    },
    {
     "game": "weekly_compilation",
@@ -342,7 +337,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 5017
+  "last_48h": 4130
  },
  "social": null,
  "social_age_h": null,
@@ -389,7 +384,7 @@
     "label": "Doubles Quarterfinal 1",
     "a": "SPEAR & VAMPIRE",
     "b": "SCYTHE & DAGGER",
-    "winner": null
+    "winner": "SPEAR & VAMPIRE"
    },
    {
     "id": "QF2",
@@ -415,7 +410,7 @@
    {
     "id": "SF1",
     "label": "Doubles Semifinal 1",
-    "a": null,
+    "a": "SPEAR & VAMPIRE",
     "b": null,
     "winner": null
    },
@@ -457,7 +452,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 6,
+  "yt_subs": 5,
   "yt_views": 3510,
   "tt_views": null,
   "ig_views": null
