@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T15:05:01-08:00",
+ "updated": "2026-11-04T16:05:01-08:00",
  "youtube": {
-  "subs": 33,
+  "subs": 34,
   "views": 55578,
   "videos": 82,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 3,
-    "likes": 0,
+    "views": 40,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
    },
@@ -36,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 970,
+    "views": 973,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -54,7 +54,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 43,
+    "views": 45,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -81,7 +81,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1046,
+    "views": 1051,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -139,7 +139,7 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7256,
+    "views": 7262,
     "likes": 38,
     "avg_views": 1037
    },
@@ -160,9 +160,9 @@
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8473,
+    "views": 8478,
     "likes": 90,
-    "avg_views": 847
+    "avg_views": 848
    },
    {
     "game": "paint_war",
@@ -181,9 +181,9 @@
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 6689,
-    "likes": 70,
-    "avg_views": 743
+    "views": 6726,
+    "likes": 71,
+    "avg_views": 747
    },
    {
     "game": "tournament",
@@ -332,7 +332,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2587
+  "last_48h": 2629
  },
  "social": null,
  "social_age_h": null,
@@ -447,7 +447,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 3,
   "yt_views": 3035,
   "tt_views": null,
   "ig_views": null
