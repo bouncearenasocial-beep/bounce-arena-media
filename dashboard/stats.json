@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T03:05:02-08:00",
+ "updated": "2026-11-05T04:05:02-08:00",
  "youtube": {
-  "subs": 35,
+  "subs": 36,
   "views": 56468,
   "videos": 83,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 373,
-    "likes": 6,
+    "views": 422,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
    },
@@ -18,8 +18,8 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 575,
-    "likes": 2,
+    "views": 630,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
    },
@@ -27,7 +27,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 292,
+    "views": 324,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 976,
+    "views": 978,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -63,7 +63,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 58,
+    "views": 59,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -81,7 +81,7 @@
     "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-02T18:00:38Z",
-    "views": 299,
+    "views": 300,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
@@ -90,7 +90,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1054,
+    "views": 1056,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -99,7 +99,7 @@
     "title": "BLINK vs GROWER \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-01T22:00:09Z",
-    "views": 1029,
+    "views": 1031,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=dUFNHWQDs88"
@@ -126,7 +126,7 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7267,
+    "views": 7269,
     "likes": 38,
     "avg_views": 1038
    },
@@ -140,9 +140,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 3632,
-    "likes": 33,
-    "avg_views": 908
+    "views": 3682,
+    "likes": 35,
+    "avg_views": 920
    },
    {
     "game": "gravity_race",
@@ -154,23 +154,23 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8714,
+    "views": 8715,
     "likes": 54,
-    "avg_views": 871
+    "avg_views": 872
    },
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8498,
+    "views": 8501,
     "likes": 90,
     "avg_views": 850
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7267,
-    "likes": 72,
-    "avg_views": 807
+    "views": 7324,
+    "likes": 74,
+    "avg_views": 814
    },
    {
     "game": "ring_escape",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 21,
-    "views": 9093,
+    "views": 9126,
     "likes": 58,
-    "avg_views": 433
+    "avg_views": 435
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4020
+  "last_48h": 4158
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 3,
+  "yt_subs": 4,
   "yt_views": 3510,
   "tt_views": null,
   "ig_views": null
