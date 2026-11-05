@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:05:02-08:00",
+ "updated": "2026-11-05T15:05:01-08:00",
  "youtube": {
   "subs": 40,
   "views": 57630,
@@ -9,8 +9,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 0,
-    "likes": 0,
+    "views": 144,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
    },
@@ -27,8 +27,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 25,
-    "likes": 1,
+    "views": 36,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -36,8 +36,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 760,
-    "likes": 13,
+    "views": 801,
+    "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
    },
@@ -54,7 +54,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 720,
+    "views": 718,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -72,7 +72,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 1031,
+    "views": 1032,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -81,7 +81,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 1000,
+    "views": 1001,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -139,9 +139,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 4020,
-    "likes": 40,
-    "avg_views": 1005
+    "views": 4061,
+    "likes": 42,
+    "avg_views": 1015
    },
    {
     "game": "squish_split",
@@ -160,7 +160,7 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8754,
+    "views": 8753,
     "likes": 55,
     "avg_views": 875
    },
@@ -172,24 +172,24 @@
     "avg_views": 848
    },
    {
-    "game": "ring_escape",
-    "videos": 3,
-    "views": 2362,
-    "likes": 11,
-    "avg_views": 787
-   },
-   {
     "game": "ring_battle",
     "videos": 11,
-    "views": 8555,
-    "likes": 90,
-    "avg_views": 778
+    "views": 8700,
+    "likes": 94,
+    "avg_views": 791
+   },
+   {
+    "game": "ring_escape",
+    "videos": 3,
+    "views": 2363,
+    "likes": 11,
+    "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9628,
-    "likes": 63,
+    "views": 9638,
+    "likes": 64,
     "avg_views": 438
    },
    {
@@ -332,7 +332,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3361
+  "last_48h": 3555
  },
  "social": null,
  "social_age_h": null,
