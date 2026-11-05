@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:05:02-08:00",
+ "updated": "2026-11-05T13:05:02-08:00",
  "youtube": {
   "subs": 39,
   "views": 56468,
@@ -18,8 +18,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 8,
-    "likes": 2,
+    "views": 12,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -27,7 +27,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 722,
+    "views": 748,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -45,8 +45,8 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 682,
-    "likes": 10,
+    "views": 709,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
    },
@@ -108,7 +108,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1060,
+    "views": 1061,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -137,16 +137,16 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7273,
+    "views": 7274,
     "likes": 38,
     "avg_views": 1039
    },
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 3982,
+    "views": 4008,
     "likes": 39,
-    "avg_views": 996
+    "avg_views": 1002
    },
    {
     "game": "squish_split",
@@ -186,16 +186,16 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2363,
+    "views": 2362,
     "likes": 11,
-    "avg_views": 788
+    "avg_views": 787
    },
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9573,
+    "views": 9604,
     "likes": 63,
-    "avg_views": 435
+    "avg_views": 437
    },
    {
     "game": "weekly_compilation",
@@ -337,7 +337,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4299
+  "last_48h": 4356
  },
  "social": null,
  "social_age_h": null,
@@ -453,7 +453,7 @@
  ],
  "delta_24h": {
   "yt_subs": 6,
-  "yt_views": 3510,
+  "yt_views": 890,
   "tt_views": null,
   "ig_views": null
  }
