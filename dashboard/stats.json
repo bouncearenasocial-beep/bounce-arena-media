@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:05:02-08:00",
+ "updated": "2026-11-04T22:05:02-08:00",
  "youtube": {
   "subs": 34,
   "views": 56468,
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 52,
+    "views": 180,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -18,7 +18,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 282,
+    "views": 317,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -27,7 +27,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 144,
+    "views": 158,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -152,18 +152,18 @@
     "avg_views": 868
    },
    {
+    "game": "algo_war",
+    "videos": 4,
+    "views": 3439,
+    "likes": 31,
+    "avg_views": 860
+   },
+   {
     "game": "ring_battle",
     "videos": 10,
     "views": 8493,
     "likes": 90,
     "avg_views": 849
-   },
-   {
-    "game": "algo_war",
-    "videos": 4,
-    "views": 3311,
-    "likes": 31,
-    "avg_views": 828
    },
    {
     "game": "ring_escape",
@@ -175,14 +175,14 @@
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 6974,
+    "views": 7009,
     "likes": 71,
-    "avg_views": 775
+    "avg_views": 779
    },
    {
     "game": "tournament",
     "videos": 21,
-    "views": 8942,
+    "views": 8956,
     "likes": 54,
     "avg_views": 426
    },
@@ -326,7 +326,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3223
+  "last_48h": 3400
  },
  "social": null,
  "social_age_h": null,
@@ -441,8 +441,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 3,
-  "yt_views": 3925,
+  "yt_subs": 2,
+  "yt_views": 3510,
   "tt_views": null,
   "ig_views": null
  }
