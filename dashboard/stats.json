@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T05:05:02-08:00",
+ "updated": "2026-11-05T06:05:02-08:00",
  "youtube": {
-  "subs": 37,
+  "subs": 38,
   "views": 56468,
   "videos": 83,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 466,
+    "views": 480,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -18,8 +18,8 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 735,
-    "likes": 6,
+    "views": 808,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
    },
@@ -27,8 +27,8 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 374,
-    "likes": 8,
+    "views": 414,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
    },
@@ -36,8 +36,8 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 884,
-    "likes": 7,
+    "views": 885,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
    },
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 979,
+    "views": 980,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -54,8 +54,8 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 927,
-    "likes": 9,
+    "views": 928,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
    },
@@ -63,7 +63,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T03:00:10Z",
-    "views": 59,
+    "views": 60,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
@@ -72,7 +72,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 964,
+    "views": 965,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -90,7 +90,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-02T03:00:10Z",
-    "views": 1056,
+    "views": 1059,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HQpnfzX5vtc"
@@ -126,9 +126,9 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7269,
+    "views": 7272,
     "likes": 38,
-    "avg_views": 1038
+    "avg_views": 1039
    },
    {
     "game": "squish_split",
@@ -140,9 +140,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 3726,
+    "views": 3740,
     "likes": 36,
-    "avg_views": 932
+    "avg_views": 935
    },
    {
     "game": "gravity_race",
@@ -154,37 +154,37 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8717,
-    "likes": 54,
+    "views": 8718,
+    "likes": 55,
     "avg_views": 872
    },
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8502,
+    "views": 8504,
     "likes": 90,
     "avg_views": 850
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7429,
-    "likes": 76,
-    "avg_views": 825
+    "views": 7502,
+    "likes": 77,
+    "avg_views": 834
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2363,
+    "views": 2364,
     "likes": 11,
     "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 21,
-    "views": 9182,
-    "likes": 58,
-    "avg_views": 437
+    "views": 9223,
+    "likes": 61,
+    "avg_views": 439
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4365
+  "last_48h": 4495
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 5,
+  "yt_subs": 6,
   "yt_views": 3510,
   "tt_views": null,
   "ig_views": null
