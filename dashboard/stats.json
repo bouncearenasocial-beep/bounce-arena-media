@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:05:02-08:00",
+ "updated": "2026-11-04T20:05:02-08:00",
  "youtube": {
   "subs": 34,
   "views": 56468,
@@ -9,7 +9,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 1,
+    "views": 12,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -18,7 +18,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 192,
+    "views": 238,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -27,7 +27,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 112,
+    "views": 116,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -36,8 +36,8 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 779,
-    "likes": 6,
+    "views": 813,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
    },
@@ -147,9 +147,9 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8611,
-    "likes": 53,
-    "avg_views": 861
+    "views": 8645,
+    "likes": 54,
+    "avg_views": 864
    },
    {
     "game": "ring_battle",
@@ -161,9 +161,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 3260,
+    "views": 3271,
     "likes": 28,
-    "avg_views": 815
+    "avg_views": 818
    },
    {
     "game": "ring_escape",
@@ -175,14 +175,14 @@
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 6884,
+    "views": 6930,
     "likes": 71,
-    "avg_views": 765
+    "avg_views": 770
    },
    {
     "game": "tournament",
     "videos": 21,
-    "views": 8910,
+    "views": 8914,
     "likes": 53,
     "avg_views": 424
    },
@@ -326,7 +326,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2980
+  "last_48h": 3075
  },
  "social": null,
  "social_age_h": null,
