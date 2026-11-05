@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T04:05:02-08:00",
+ "updated": "2026-11-05T05:05:02-08:00",
  "youtube": {
-  "subs": 36,
+  "subs": 37,
   "views": 56468,
   "videos": 83,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 422,
-    "likes": 8,
+    "views": 466,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
    },
@@ -18,8 +18,8 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 630,
-    "likes": 4,
+    "views": 735,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
    },
@@ -27,7 +27,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 324,
+    "views": 374,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -36,7 +36,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 882,
+    "views": 884,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 978,
+    "views": 979,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -54,7 +54,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 922,
+    "views": 927,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -72,7 +72,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 963,
+    "views": 964,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -140,9 +140,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 3682,
-    "likes": 35,
-    "avg_views": 920
+    "views": 3726,
+    "likes": 36,
+    "avg_views": 932
    },
    {
     "game": "gravity_race",
@@ -154,37 +154,37 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8715,
+    "views": 8717,
     "likes": 54,
     "avg_views": 872
    },
    {
     "game": "ring_battle",
     "videos": 10,
-    "views": 8501,
+    "views": 8502,
     "likes": 90,
     "avg_views": 850
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7324,
-    "likes": 74,
-    "avg_views": 814
+    "views": 7429,
+    "likes": 76,
+    "avg_views": 825
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2362,
+    "views": 2363,
     "likes": 11,
-    "avg_views": 787
+    "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 21,
-    "views": 9126,
+    "views": 9182,
     "likes": 58,
-    "avg_views": 435
+    "avg_views": 437
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4158
+  "last_48h": 4365
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 4,
+  "yt_subs": 5,
   "yt_views": 3510,
   "tt_views": null,
   "ig_views": null
