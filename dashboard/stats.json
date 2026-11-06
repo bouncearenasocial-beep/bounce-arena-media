@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:05:01-08:00",
+ "updated": "2026-11-06T06:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 59497,
@@ -9,7 +9,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 256,
+    "views": 264,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -140,9 +140,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 7537,
+    "views": 7545,
     "likes": 39,
-    "avg_views": 942
+    "avg_views": 943
    },
    {
     "game": "gravity_race",
@@ -321,7 +321,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4491
+  "last_48h": 4499
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 4,
+  "yt_subs": 3,
   "yt_views": 3029,
   "tt_views": null,
   "ig_views": null
