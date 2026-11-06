@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:05:01-08:00",
+ "updated": "2026-11-06T05:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 59497,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 5,
+  "yt_subs": 4,
   "yt_views": 3029,
   "tt_views": null,
   "ig_views": null
