@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:05:02-08:00",
+ "updated": "2026-11-06T00:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 59497,
@@ -9,7 +9,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 0,
+    "views": 38,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1012,
+    "views": 1027,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -36,7 +36,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 170,
+    "views": 142,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -54,8 +54,8 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 945,
-    "likes": 11,
+    "views": 993,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
    },
@@ -63,7 +63,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 894,
+    "views": 934,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -140,9 +140,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 7281,
+    "views": 7319,
     "likes": 38,
-    "avg_views": 910
+    "avg_views": 915
    },
    {
     "game": "gravity_race",
@@ -161,16 +161,16 @@
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9577,
+    "views": 9592,
     "likes": 111,
-    "avg_views": 871
+    "avg_views": 872
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7643,
-    "likes": 81,
-    "avg_views": 849
+    "views": 7691,
+    "likes": 80,
+    "avg_views": 855
    },
    {
     "game": "ring_escape",
@@ -182,24 +182,19 @@
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9954,
+    "views": 9966,
     "likes": 70,
-    "avg_views": 452
+    "avg_views": 453
    },
    {
     "game": "weekly_compilation",
     "videos": 3,
-    "views": 11,
+    "views": 12,
     "likes": 0,
     "avg_views": 4
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-09",
-    "views": 0,
-    "subs": 0
-   },
    {
     "date": "2026-10-10",
     "views": 238,
@@ -326,7 +321,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3986
+  "last_48h": 4099
  },
  "social": null,
  "social_age_h": null,
