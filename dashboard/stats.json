@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-06T13:05:01-08:00",
+ "updated": "2026-11-06T14:05:02-08:00",
  "youtube": {
   "subs": 41,
   "views": 61464,
-  "videos": 88,
+  "videos": 89,
   "recent": [
+   {
+    "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
+    "game": "algo_war",
+    "published": "2026-11-06T22:00:15Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=NhSex2m3-yA"
+   },
    {
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 4,
-    "likes": 0,
+    "views": 22,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
    },
@@ -18,8 +27,8 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 351,
-    "likes": 3,
+    "views": 420,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
    },
@@ -27,7 +36,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1035,
+    "views": 1032,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -45,7 +54,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 401,
+    "views": 480,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -54,7 +63,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 967,
+    "views": 968,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -63,7 +72,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 1000,
+    "views": 1002,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -103,23 +112,9 @@
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
-   },
-   {
-    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
-    "game": "ring_battle",
-    "published": "2026-11-03T03:00:10Z",
-    "views": 61,
-    "likes": 3,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-06T22:00:00Z",
-    "game": "algo_war",
-    "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0"
-   },
    {
     "time": "2026-11-07T03:00:00Z",
     "game": "ball_battle",
@@ -127,13 +122,6 @@
    }
   ],
   "by_game": [
-   {
-    "game": "algo_war",
-    "videos": 4,
-    "views": 4230,
-    "likes": 44,
-    "avg_views": 1058
-   },
    {
     "game": "maze_race",
     "videos": 3,
@@ -151,9 +139,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 7632,
-    "likes": 41,
-    "avg_views": 954
+    "views": 7701,
+    "likes": 42,
+    "avg_views": 963
    },
    {
     "game": "gravity_race",
@@ -165,23 +153,30 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8763,
+    "views": 8765,
     "likes": 56,
     "avg_views": 876
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9603,
+    "views": 9600,
     "likes": 111,
     "avg_views": 873
    },
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7698,
+    "views": 7700,
     "likes": 80,
-    "avg_views": 855
+    "avg_views": 856
+   },
+   {
+    "game": "algo_war",
+    "videos": 5,
+    "views": 4231,
+    "likes": 44,
+    "avg_views": 846
    },
    {
     "game": "ring_escape",
@@ -193,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 10250,
-    "likes": 71,
-    "avg_views": 446
+    "views": 10348,
+    "likes": 73,
+    "avg_views": 450
    },
    {
     "game": "weekly_compilation",
     "videos": 3,
-    "views": 13,
+    "views": 14,
     "likes": 0,
-    "avg_views": 4
+    "avg_views": 5
    }
   ],
   "daily": [
@@ -337,7 +332,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3759
+  "last_48h": 2923
  },
  "social": null,
  "social_age_h": null,
@@ -452,8 +447,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 2,
-  "yt_views": 4996,
+  "yt_subs": 1,
+  "yt_views": 3834,
   "tt_views": null,
   "ig_views": null
  }
