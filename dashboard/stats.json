@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:05:01-08:00",
+ "updated": "2026-11-06T01:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 59497,
@@ -9,8 +9,8 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 38,
-    "likes": 0,
+    "views": 142,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
    },
@@ -36,8 +36,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 142,
-    "likes": 4,
+    "views": 222,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -45,7 +45,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 964,
+    "views": 966,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -119,9 +119,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 4226,
+    "views": 4228,
     "likes": 44,
-    "avg_views": 1056
+    "avg_views": 1057
    },
    {
     "game": "maze_race",
@@ -140,9 +140,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 7319,
-    "likes": 38,
-    "avg_views": 915
+    "views": 7423,
+    "likes": 39,
+    "avg_views": 928
    },
    {
     "game": "gravity_race",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9966,
-    "likes": 70,
-    "avg_views": 453
+    "views": 10046,
+    "likes": 72,
+    "avg_views": 457
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4099
+  "last_48h": 4285
  },
  "social": null,
  "social_age_h": null,
