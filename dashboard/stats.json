@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:05:01-08:00",
+ "updated": "2026-11-06T04:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 59497,
@@ -18,7 +18,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1027,
+    "views": 1033,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -36,7 +36,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 276,
+    "views": 300,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -72,7 +72,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 925,
+    "views": 926,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -90,7 +90,7 @@
     "title": "Semifinal 2: HAMMER vs SPIKES \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-03T18:00:04Z",
-    "views": 1003,
+    "views": 1004,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TrJQYFJ8L-o"
@@ -108,7 +108,7 @@
     "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
     "game": "ring_escape",
     "published": "2026-11-02T22:00:34Z",
-    "views": 964,
+    "views": 965,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 4228,
+    "views": 4229,
     "likes": 44,
     "avg_views": 1057
    },
@@ -154,16 +154,16 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8759,
+    "views": 8760,
     "likes": 56,
     "avg_views": 876
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9593,
+    "views": 9599,
     "likes": 111,
-    "avg_views": 872
+    "avg_views": 873
    },
    {
     "game": "ball_battle",
@@ -175,16 +175,16 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2364,
+    "views": 2365,
     "likes": 11,
     "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 22,
-    "views": 10101,
+    "views": 10126,
     "likes": 71,
-    "avg_views": 459
+    "avg_views": 460
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4461
+  "last_48h": 4491
  },
  "social": null,
  "social_age_h": null,
@@ -436,7 +436,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 6,
+  "yt_subs": 5,
   "yt_views": 3029,
   "tt_views": null,
   "ig_views": null
