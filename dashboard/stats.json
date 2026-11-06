@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:05:01-08:00",
+ "updated": "2026-11-06T13:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 61464,
@@ -9,7 +9,7 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 1,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
@@ -18,8 +18,8 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 319,
-    "likes": 2,
+    "views": 351,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
    },
@@ -81,7 +81,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 928,
+    "views": 929,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -151,9 +151,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 7600,
-    "likes": 40,
-    "avg_views": 950
+    "views": 7632,
+    "likes": 41,
+    "avg_views": 954
    },
    {
     "game": "gravity_race",
@@ -165,7 +165,7 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8762,
+    "views": 8763,
     "likes": 56,
     "avg_views": 876
    },
@@ -193,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 10246,
+    "views": 10250,
     "likes": 71,
-    "avg_views": 445
+    "avg_views": 446
    },
    {
     "game": "weekly_compilation",
@@ -337,7 +337,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3724
+  "last_48h": 3759
  },
  "social": null,
  "social_age_h": null,
