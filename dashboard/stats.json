@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-06T09:05:02-08:00",
+ "updated": "2026-11-06T10:05:01-08:00",
  "youtube": {
   "subs": 41,
-  "views": 59497,
-  "videos": 87,
+  "views": 61464,
+  "videos": 88,
   "recent": [
+   {
+    "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
+    "game": "tournament",
+    "published": "2026-11-06T18:00:17Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
+   },
    {
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 264,
+    "views": 318,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -36,8 +45,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 360,
-    "likes": 6,
+    "views": 401,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -45,7 +54,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 966,
+    "views": 967,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -72,7 +81,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 926,
+    "views": 928,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -81,7 +90,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 1039,
+    "views": 1041,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
@@ -103,23 +112,9 @@
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FihJNLAEvWQ"
-   },
-   {
-    "title": "Escape 36 Spinning Rings \u2b55 Will It Make It?",
-    "game": "ring_escape",
-    "published": "2026-11-02T22:00:34Z",
-    "views": 966,
-    "likes": 7,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=P-v55mznHxo"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-06T18:00:00Z",
-    "game": "tournament",
-    "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6"
-   },
    {
     "time": "2026-11-06T22:00:00Z",
     "game": "algo_war",
@@ -135,9 +130,9 @@
    {
     "game": "algo_war",
     "videos": 4,
-    "views": 4229,
+    "views": 4230,
     "likes": 44,
-    "avg_views": 1057
+    "avg_views": 1058
    },
    {
     "game": "maze_race",
@@ -156,9 +151,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 7545,
+    "views": 7599,
     "likes": 39,
-    "avg_views": 943
+    "avg_views": 950
    },
    {
     "game": "gravity_race",
@@ -170,14 +165,14 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8760,
+    "views": 8762,
     "likes": 56,
     "avg_views": 876
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9601,
+    "views": 9603,
     "likes": 111,
     "avg_views": 873
    },
@@ -197,15 +192,15 @@
    },
    {
     "game": "tournament",
-    "videos": 22,
-    "views": 10204,
-    "likes": 72,
-    "avg_views": 464
+    "videos": 23,
+    "views": 10245,
+    "likes": 71,
+    "avg_views": 445
    },
    {
     "game": "weekly_compilation",
     "videos": 3,
-    "views": 12,
+    "views": 13,
     "likes": 0,
     "avg_views": 4
    }
@@ -337,7 +332,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4579
+  "last_48h": 3722
  },
  "social": null,
  "social_age_h": null,
@@ -391,7 +386,7 @@
     "label": "Doubles Quarterfinal 2",
     "a": "SWORD & GROWER",
     "b": "BOOMERANG & FROST",
-    "winner": null
+    "winner": "BOOMERANG & FROST"
    },
    {
     "id": "QF3",
@@ -411,7 +406,7 @@
     "id": "SF1",
     "label": "Doubles Semifinal 1",
     "a": "SPEAR & VAMPIRE",
-    "b": null,
+    "b": "BOOMERANG & FROST",
     "winner": null
    },
    {
@@ -453,7 +448,7 @@
  ],
  "delta_24h": {
   "yt_subs": 3,
-  "yt_views": 3029,
+  "yt_views": 4996,
   "tt_views": null,
   "ig_views": null
  }
