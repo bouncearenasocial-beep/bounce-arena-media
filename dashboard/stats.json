@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-05T18:05:02-08:00",
+ "updated": "2026-11-05T19:05:02-08:00",
  "youtube": {
   "subs": 41,
-  "views": 57630,
-  "videos": 86,
+  "views": 59497,
+  "videos": 87,
   "recent": [
+   {
+    "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-11-06T03:00:14Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
+   },
    {
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 759,
-    "likes": 18,
+    "views": 1006,
+    "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
    },
@@ -27,7 +36,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 97,
+    "views": 120,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -54,8 +63,8 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 744,
-    "likes": 12,
+    "views": 856,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
    },
@@ -103,24 +112,9 @@
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P-v55mznHxo"
-   },
-   {
-    "title": "Season 3 Semifinal 1: SPEAR vs LASER \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-11-02T18:00:38Z",
-    "views": 303,
-    "likes": 6,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=5gYb-5wOdrA"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-06T03:00:00Z",
-    "game": "glass_break",
-    "title": "Multipliers vs a Wall of Glass \ud83d\udca5"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
@@ -137,18 +131,18 @@
     "avg_views": 1046
    },
    {
-    "game": "glass_break",
-    "videos": 7,
-    "views": 7279,
-    "likes": 38,
-    "avg_views": 1040
-   },
-   {
     "game": "squish_split",
     "videos": 6,
     "views": 5815,
     "likes": 38,
     "avg_views": 969
+   },
+   {
+    "game": "glass_break",
+    "videos": 8,
+    "views": 7279,
+    "likes": 38,
+    "avg_views": 910
    },
    {
     "game": "gravity_race",
@@ -165,18 +159,18 @@
     "avg_views": 876
    },
    {
+    "game": "ring_battle",
+    "videos": 11,
+    "views": 9569,
+    "likes": 110,
+    "avg_views": 870
+   },
+   {
     "game": "ball_battle",
     "videos": 9,
     "views": 7640,
     "likes": 79,
     "avg_views": 849
-   },
-   {
-    "game": "ring_battle",
-    "videos": 11,
-    "views": 9322,
-    "likes": 111,
-    "avg_views": 847
    },
    {
     "game": "ring_escape",
@@ -188,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9730,
-    "likes": 69,
-    "avg_views": 442
+    "views": 9865,
+    "likes": 70,
+    "avg_views": 448
    },
    {
     "game": "weekly_compilation",
@@ -332,7 +326,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4412
+  "last_48h": 3870
  },
  "social": null,
  "social_age_h": null,
@@ -448,7 +442,7 @@
  ],
  "delta_24h": {
   "yt_subs": 7,
-  "yt_views": 1162,
+  "yt_views": 3029,
   "tt_views": null,
   "ig_views": null
  }
