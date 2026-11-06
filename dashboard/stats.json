@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:05:01-08:00",
+ "updated": "2026-11-05T22:05:01-08:00",
  "youtube": {
   "subs": 41,
   "views": 59497,
@@ -36,7 +36,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 120,
+    "views": 142,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -54,8 +54,8 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 946,
-    "likes": 11,
+    "views": 993,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
    },
@@ -63,7 +63,7 @@
     "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-04T18:00:37Z",
-    "views": 856,
+    "views": 934,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jboJhTOHSIs"
@@ -168,9 +168,9 @@
    {
     "game": "ball_battle",
     "videos": 9,
-    "views": 7644,
-    "likes": 81,
-    "avg_views": 849
+    "views": 7691,
+    "likes": 80,
+    "avg_views": 855
    },
    {
     "game": "ring_escape",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 22,
-    "views": 9866,
+    "views": 9966,
     "likes": 70,
-    "avg_views": 448
+    "avg_views": 453
    },
    {
     "game": "weekly_compilation",
@@ -326,7 +326,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3902
+  "last_48h": 4049
  },
  "social": null,
  "social_age_h": null,
