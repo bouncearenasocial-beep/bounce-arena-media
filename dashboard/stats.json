@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:05:01-08:00",
+ "updated": "2026-11-07T08:05:01-08:00",
  "youtube": {
   "subs": 42,
   "views": 61923,
@@ -18,7 +18,7 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 924,
+    "views": 931,
     "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
@@ -63,8 +63,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 787,
-    "likes": 13,
+    "views": 824,
+    "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -116,6 +116,16 @@
   ],
   "upcoming": [
    {
+    "time": "2026-11-07T18:00:00Z",
+    "game": "tournament",
+    "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?"
+   },
+   {
+    "time": "2026-11-07T22:00:00Z",
+    "game": "brain_teaser",
+    "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal"
+   },
+   {
     "time": "2026-11-08T04:00:00Z",
     "game": "other",
     "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep"
@@ -132,14 +142,14 @@
    {
     "game": "algo_war",
     "videos": 5,
-    "views": 5166,
+    "views": 5173,
     "likes": 58,
-    "avg_views": 1033
+    "avg_views": 1035
    },
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8233,
+    "views": 8234,
     "likes": 45,
     "avg_views": 1029
    },
@@ -158,6 +168,13 @@
     "avg_views": 905
    },
    {
+    "game": "ball_battle",
+    "videos": 9,
+    "views": 8136,
+    "likes": 90,
+    "avg_views": 904
+   },
+   {
     "game": "paint_war",
     "videos": 10,
     "views": 8776,
@@ -172,13 +189,6 @@
     "avg_views": 874
    },
    {
-    "game": "ball_battle",
-    "videos": 10,
-    "views": 8274,
-    "likes": 91,
-    "avg_views": 827
-   },
-   {
     "game": "ring_escape",
     "videos": 3,
     "views": 2369,
@@ -188,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 11254,
-    "likes": 90,
-    "avg_views": 489
+    "views": 11291,
+    "likes": 91,
+    "avg_views": 491
    },
    {
     "game": "weekly_compilation",
@@ -327,15 +337,15 @@
     "subs": 2
    }
   ],
-  "last_48h": 4867
+  "last_48h": 4911
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-06 08:00:01",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-07 08:00:01",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-11-07 01:00:01",
@@ -350,9 +360,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/7/2026 8:00:00 AM",
-   "last": "11/6/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/8/2026 8:00:00 AM",
+   "last": "11/7/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
@@ -437,10 +447,7 @@
    }
   ]
  },
- "problems": [
-  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 1,
   "yt_views": 2426,
