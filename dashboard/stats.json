@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:05:01-08:00",
+ "updated": "2026-11-07T03:05:01-08:00",
  "youtube": {
   "subs": 42,
   "views": 61923,
@@ -9,8 +9,8 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 334,
-    "likes": 7,
+    "views": 416,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
    },
@@ -27,8 +27,8 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 497,
-    "likes": 10,
+    "views": 554,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
    },
@@ -36,7 +36,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 937,
+    "views": 941,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -63,8 +63,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 633,
-    "likes": 11,
+    "views": 725,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -81,7 +81,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 1017,
+    "views": 1018,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -99,7 +99,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 931,
+    "views": 932,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -108,13 +108,19 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-03T22:00:24Z",
-    "views": 1042,
+    "views": 1043,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yurdFx8iXwg"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-08T04:00:00Z",
+    "game": "other",
+    "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep"
+   }
+  ],
   "by_game": [
    {
     "game": "maze_race",
@@ -133,9 +139,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8218,
+    "views": 8222,
     "likes": 44,
-    "avg_views": 1027
+    "avg_views": 1028
    },
    {
     "game": "squish_split",
@@ -154,23 +160,23 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8767,
+    "views": 8768,
     "likes": 56,
     "avg_views": 877
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9608,
+    "views": 9610,
     "likes": 111,
-    "avg_views": 873
+    "avg_views": 874
    },
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 8049,
-    "likes": 87,
-    "avg_views": 805
+    "views": 8132,
+    "likes": 90,
+    "avg_views": 813
    },
    {
     "game": "ring_escape",
@@ -182,14 +188,14 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 10979,
-    "likes": 87,
-    "avg_views": 477
+    "views": 11128,
+    "likes": 91,
+    "avg_views": 484
    },
    {
     "game": "weekly_compilation",
     "videos": 3,
-    "views": 14,
+    "views": 15,
     "likes": 0,
     "avg_views": 5
    }
@@ -321,7 +327,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4357
+  "last_48h": 4592
  },
  "social": null,
  "social_age_h": null,
@@ -333,7 +339,7 @@
   },
   "sleep": {
    "start": "2026-11-07 01:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "compilation": {
@@ -351,7 +357,7 @@
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
    "last": "11/7/2026 1:00:00 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/8/2026 4:00:00 AM",
