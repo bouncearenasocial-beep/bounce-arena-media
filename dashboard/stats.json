@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:05:02-08:00",
+ "updated": "2026-11-07T01:05:01-08:00",
  "youtube": {
   "subs": 42,
   "views": 61923,
@@ -9,8 +9,8 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 210,
-    "likes": 4,
+    "views": 273,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
    },
@@ -18,8 +18,8 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 892,
-    "likes": 14,
+    "views": 917,
+    "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
    },
@@ -27,7 +27,7 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 417,
+    "views": 452,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1037,
+    "views": 1038,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -72,7 +72,7 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 972,
+    "views": 975,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
@@ -81,7 +81,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 1013,
+    "views": 1018,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -124,18 +124,18 @@
     "avg_views": 1046
    },
    {
+    "game": "algo_war",
+    "videos": 5,
+    "views": 5159,
+    "likes": 59,
+    "avg_views": 1032
+   },
+   {
     "game": "glass_break",
     "videos": 8,
     "views": 8217,
     "likes": 44,
     "avg_views": 1027
-   },
-   {
-    "game": "algo_war",
-    "videos": 5,
-    "views": 5131,
-    "likes": 58,
-    "avg_views": 1026
    },
    {
     "game": "squish_split",
@@ -161,16 +161,16 @@
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9607,
+    "views": 9608,
     "likes": 111,
     "avg_views": 873
    },
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 7921,
-    "likes": 84,
-    "avg_views": 792
+    "views": 7989,
+    "likes": 85,
+    "avg_views": 799
    },
    {
     "game": "ring_escape",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 10897,
+    "views": 10932,
     "likes": 87,
-    "avg_views": 474
+    "avg_views": 475
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4124
+  "last_48h": 4248
  },
  "social": null,
  "social_age_h": null,
@@ -332,8 +332,8 @@
    "failures": 1
   },
   "sleep": {
-   "start": "2026-10-31 01:00:01",
-   "done": true,
+   "start": "2026-11-07 01:00:01",
+   "done": false,
    "failures": 0
   },
   "compilation": {
@@ -350,8 +350,8 @@
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
-   "last": "10/31/2026 1:00:00 AM",
-   "result": "0"
+   "last": "11/7/2026 1:00:00 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/8/2026 4:00:00 AM",
