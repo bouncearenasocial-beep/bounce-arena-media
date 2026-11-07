@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:05:01-08:00",
+ "updated": "2026-11-07T11:05:02-08:00",
  "youtube": {
   "subs": 42,
   "views": 63284,
@@ -9,7 +9,7 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
@@ -18,7 +18,7 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 620,
+    "views": 629,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
@@ -27,7 +27,7 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 931,
+    "views": 935,
     "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
@@ -36,7 +36,7 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 758,
+    "views": 770,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
@@ -45,7 +45,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 960,
+    "views": 961,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -72,7 +72,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 878,
+    "views": 882,
     "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -108,8 +108,8 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 935,
-    "likes": 8,
+    "views": 937,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
    }
@@ -135,7 +135,7 @@
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7686,
+    "views": 7688,
     "likes": 43,
     "avg_views": 1098
    },
@@ -149,7 +149,7 @@
    {
     "game": "algo_war",
     "videos": 5,
-    "views": 5173,
+    "views": 5177,
     "likes": 58,
     "avg_views": 1035
    },
@@ -170,8 +170,8 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8771,
-    "likes": 56,
+    "views": 8773,
+    "likes": 57,
     "avg_views": 877
    },
    {
@@ -184,9 +184,9 @@
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 8357,
+    "views": 8366,
     "likes": 92,
-    "avg_views": 836
+    "avg_views": 837
    },
    {
     "game": "ring_escape",
@@ -198,7 +198,7 @@
    {
     "game": "tournament",
     "videos": 24,
-    "views": 11485,
+    "views": 11503,
     "likes": 93,
     "avg_views": 479
    },
@@ -337,7 +337,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4314
+  "last_48h": 4342
  },
  "social": null,
  "social_age_h": null,
