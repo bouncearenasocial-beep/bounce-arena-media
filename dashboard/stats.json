@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:05:01-08:00",
+ "updated": "2026-11-07T02:05:01-08:00",
  "youtube": {
   "subs": 42,
   "views": 61923,
@@ -9,8 +9,8 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 273,
-    "likes": 5,
+    "views": 334,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
    },
@@ -27,7 +27,7 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 452,
+    "views": 497,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
@@ -36,7 +36,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 936,
+    "views": 937,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -63,7 +63,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 631,
+    "views": 633,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -81,7 +81,7 @@
     "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-04T22:00:07Z",
-    "views": 1018,
+    "views": 1017,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
@@ -133,7 +133,7 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8217,
+    "views": 8218,
     "likes": 44,
     "avg_views": 1027
    },
@@ -168,9 +168,9 @@
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 7989,
-    "likes": 85,
-    "avg_views": 799
+    "views": 8049,
+    "likes": 87,
+    "avg_views": 805
    },
    {
     "game": "ring_escape",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 10932,
+    "views": 10979,
     "likes": 87,
-    "avg_views": 475
+    "avg_views": 477
    },
    {
     "game": "weekly_compilation",
@@ -321,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4248
+  "last_48h": 4357
  },
  "social": null,
  "social_age_h": null,
