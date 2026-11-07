@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:05:02-08:00",
+ "updated": "2026-11-07T00:05:02-08:00",
  "youtube": {
   "subs": 42,
   "views": 61923,
@@ -9,7 +9,7 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 154,
+    "views": 210,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
@@ -27,8 +27,8 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 375,
-    "likes": 9,
+    "views": 417,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
    },
@@ -36,7 +36,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 861,
+    "views": 936,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -63,8 +63,8 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 570,
-    "likes": 9,
+    "views": 631,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    },
@@ -124,18 +124,18 @@
     "avg_views": 1046
    },
    {
+    "game": "glass_break",
+    "videos": 8,
+    "views": 8217,
+    "likes": 44,
+    "avg_views": 1027
+   },
+   {
     "game": "algo_war",
     "videos": 5,
     "views": 5131,
     "likes": 58,
     "avg_views": 1026
-   },
-   {
-    "game": "glass_break",
-    "videos": 8,
-    "views": 8142,
-    "likes": 44,
-    "avg_views": 1018
    },
    {
     "game": "squish_split",
@@ -166,6 +166,13 @@
     "avg_views": 873
    },
    {
+    "game": "ball_battle",
+    "videos": 10,
+    "views": 7921,
+    "likes": 84,
+    "avg_views": 792
+   },
+   {
     "game": "ring_escape",
     "videos": 3,
     "views": 2369,
@@ -173,18 +180,11 @@
     "avg_views": 790
    },
    {
-    "game": "ball_battle",
-    "videos": 10,
-    "views": 7865,
-    "likes": 84,
-    "avg_views": 786
-   },
-   {
     "game": "tournament",
     "videos": 23,
-    "views": 10794,
-    "likes": 84,
-    "avg_views": 469
+    "views": 10897,
+    "likes": 87,
+    "avg_views": 474
    },
    {
     "game": "weekly_compilation",
@@ -195,11 +195,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-10",
-    "views": 238,
-    "subs": 0
-   },
    {
     "date": "2026-10-11",
     "views": 2644,
@@ -227,7 +222,7 @@
    },
    {
     "date": "2026-10-16",
-    "views": 3219,
+    "views": 3332,
     "subs": 0
    },
    {
@@ -242,7 +237,7 @@
    },
    {
     "date": "2026-10-19",
-    "views": 2184,
+    "views": 2189,
     "subs": 2
    },
    {
@@ -267,7 +262,7 @@
    },
    {
     "date": "2026-10-24",
-    "views": 611,
+    "views": 639,
     "subs": 0
    },
    {
@@ -326,7 +321,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3890
+  "last_48h": 4124
  },
  "social": null,
  "social_age_h": null,
@@ -354,7 +349,7 @@
    "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
-   "next": "11/7/2026 12:00:00 AM",
+   "next": "11/14/2026 12:00:00 AM",
    "last": "10/31/2026 1:00:00 AM",
    "result": "0"
   },
