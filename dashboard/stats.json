@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:05:01-08:00",
+ "updated": "2026-11-07T05:05:01-08:00",
  "youtube": {
   "subs": 42,
   "views": 61923,
@@ -9,8 +9,8 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 478,
-    "likes": 11,
+    "views": 545,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
    },
@@ -27,8 +27,8 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 586,
-    "likes": 12,
+    "views": 618,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
    },
@@ -36,7 +36,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 941,
+    "views": 952,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1038,
+    "views": 1040,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -99,7 +99,7 @@
     "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-04T03:00:12Z",
-    "views": 932,
+    "views": 940,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RFceby-cSjY"
@@ -139,9 +139,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8222,
+    "views": 8233,
     "likes": 45,
-    "avg_views": 1028
+    "avg_views": 1029
    },
    {
     "game": "squish_split",
@@ -160,23 +160,23 @@
    {
     "game": "paint_war",
     "videos": 10,
-    "views": 8768,
+    "views": 8776,
     "likes": 56,
-    "avg_views": 877
+    "avg_views": 878
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9610,
+    "views": 9612,
     "likes": 111,
     "avg_views": 874
    },
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 8194,
-    "likes": 92,
-    "avg_views": 819
+    "views": 8261,
+    "likes": 91,
+    "avg_views": 826
    },
    {
     "game": "ring_escape",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 11193,
-    "likes": 90,
-    "avg_views": 487
+    "views": 11225,
+    "likes": 89,
+    "avg_views": 488
    },
    {
     "game": "weekly_compilation",
@@ -327,7 +327,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4726
+  "last_48h": 4838
  },
  "social": null,
  "social_age_h": null,
