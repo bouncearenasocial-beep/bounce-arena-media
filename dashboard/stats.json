@@ -1,15 +1,42 @@
 {
- "updated": "2026-11-07T12:05:01-08:00",
+ "updated": "2026-11-07T20:05:02-08:00",
  "youtube": {
   "subs": 42,
-  "views": 63284,
-  "videos": 91,
+  "views": 65484,
+  "videos": 94,
   "recent": [
+   {
+    "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
+    "game": "other",
+    "published": "2026-11-08T04:00:27Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=U2EEkg_z184"
+   },
+   {
+    "title": "Which Color Paints the Most? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-11-08T03:00:01Z",
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
+   },
+   {
+    "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
+    "game": "brain_teaser",
+    "published": "2026-11-07T22:00:36Z",
+    "views": 136,
+    "likes": 3,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
+   },
    {
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 2,
+    "views": 36,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
@@ -18,7 +45,7 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 676,
+    "views": 889,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
@@ -27,8 +54,8 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 934,
-    "likes": 14,
+    "views": 946,
+    "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
    },
@@ -36,8 +63,8 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 798,
-    "likes": 11,
+    "views": 926,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
    },
@@ -45,8 +72,8 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 960,
-    "likes": 6,
+    "views": 981,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
    },
@@ -54,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1044,
+    "views": 1049,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -72,7 +99,7 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 878,
+    "views": 917,
     "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
@@ -81,77 +108,34 @@
     "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
     "game": "algo_war",
     "published": "2026-11-05T03:00:34Z",
-    "views": 975,
+    "views": 980,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
-   },
-   {
-    "title": "SWORD vs VAMPIRE \u2694\ufe0f Who Wins?",
-    "game": "ball_battle",
-    "published": "2026-11-04T22:00:07Z",
-    "views": 1038,
-    "likes": 10,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=-gxqZJEFzIw"
-   },
-   {
-    "title": "THE FINAL: SPEAR vs SPIKES \ud83c\udfc6 Who Becomes Champion?",
-    "game": "tournament",
-    "published": "2026-11-04T18:00:37Z",
-    "views": 954,
-    "likes": 13,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=jboJhTOHSIs"
-   },
-   {
-    "title": "6 Colors, 35 Seconds: Who Wins? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-11-04T03:00:12Z",
-    "views": 935,
-    "likes": 8,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=RFceby-cSjY"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-07T22:00:00Z",
-    "game": "brain_teaser",
-    "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal"
-   },
-   {
-    "time": "2026-11-08T03:00:00Z",
-    "game": "paint_war",
-    "title": "Which Color Paints the Most? \ud83c\udfa8"
-   },
-   {
-    "time": "2026-11-08T04:00:00Z",
-    "game": "other",
-    "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "glass_break",
     "videos": 7,
-    "views": 7686,
-    "likes": 43,
-    "avg_views": 1098
+    "views": 7708,
+    "likes": 44,
+    "avg_views": 1101
    },
    {
     "game": "maze_race",
     "videos": 3,
-    "views": 3138,
+    "views": 3139,
     "likes": 19,
     "avg_views": 1046
    },
    {
     "game": "algo_war",
     "videos": 5,
-    "views": 5176,
-    "likes": 58,
-    "avg_views": 1035
+    "views": 5197,
+    "likes": 59,
+    "avg_views": 1039
    },
    {
     "game": "squish_split",
@@ -168,39 +152,46 @@
     "avg_views": 905
    },
    {
-    "game": "paint_war",
-    "videos": 10,
-    "views": 8771,
-    "likes": 56,
-    "avg_views": 877
-   },
-   {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9617,
+    "views": 9626,
     "likes": 111,
-    "avg_views": 874
+    "avg_views": 875
    },
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 8413,
+    "views": 8630,
     "likes": 92,
-    "avg_views": 841
+    "avg_views": 863
+   },
+   {
+    "game": "paint_war",
+    "videos": 11,
+    "views": 8797,
+    "likes": 57,
+    "avg_views": 800
    },
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2369,
+    "views": 2370,
     "likes": 11,
     "avg_views": 790
    },
    {
     "game": "tournament",
     "videos": 24,
-    "views": 11527,
-    "likes": 92,
-    "avg_views": 480
+    "views": 11733,
+    "likes": 93,
+    "avg_views": 489
+   },
+   {
+    "game": "brain_teaser",
+    "videos": 1,
+    "views": 136,
+    "likes": 3,
+    "avg_views": 136
    },
    {
     "game": "weekly_compilation",
@@ -323,12 +314,12 @@
    },
    {
     "date": "2026-11-02",
-    "views": 1119,
+    "views": 1105,
     "subs": 2
    },
    {
     "date": "2026-11-03",
-    "views": 2805,
+    "views": 2774,
     "subs": 4
    },
    {
@@ -342,7 +333,7 @@
     "subs": 7
    }
   ],
-  "last_48h": 4414
+  "last_48h": 2935
  },
  "social": null,
  "social_age_h": null,
@@ -457,8 +448,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 1,
-  "yt_views": 1820,
+  "yt_subs": 0,
+  "yt_views": 3561,
   "tt_views": null,
   "ig_views": null
  }
