@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:05:01-08:00",
+ "updated": "2026-11-08T05:05:03-08:00",
  "youtube": {
   "subs": 45,
   "views": 65484,
@@ -27,8 +27,8 @@
     "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-07T22:00:36Z",
-    "views": 641,
-    "likes": 20,
+    "views": 787,
+    "likes": 19,
     "comments": 2,
     "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
    },
@@ -36,8 +36,8 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 281,
-    "likes": 4,
+    "views": 327,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
    },
@@ -182,16 +182,16 @@
    {
     "game": "brain_teaser",
     "videos": 1,
-    "views": 641,
-    "likes": 20,
-    "avg_views": 641
+    "views": 787,
+    "likes": 19,
+    "avg_views": 787
    },
    {
     "game": "tournament",
     "videos": 24,
-    "views": 12036,
-    "likes": 97,
-    "avg_views": 502
+    "views": 12082,
+    "likes": 100,
+    "avg_views": 503
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 7
    }
   ],
-  "last_48h": 4925
+  "last_48h": 5117
  },
  "social": null,
  "social_age_h": null,
@@ -344,8 +344,8 @@
    "failures": 0
   },
   "compilation": {
-   "start": "2026-11-01 05:00:04",
-   "done": true,
+   "start": "2026-11-08 05:00:03",
+   "done": false,
    "failures": 0
   }
  },
@@ -362,8 +362,8 @@
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/15/2026 4:00:00 AM",
-   "last": "11/1/2026 5:00:00 AM",
-   "result": "0"
+   "last": "11/8/2026 5:00:00 AM",
+   "result": "267009"
   }
  },
  "verified": true,
