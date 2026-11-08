@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T08:05:03-08:00",
+ "updated": "2026-11-08T09:05:02-08:00",
  "youtube": {
   "subs": 45,
-  "views": 65484,
+  "views": 67873,
   "videos": 94,
   "recent": [
    {
@@ -27,7 +27,7 @@
     "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-07T22:00:36Z",
-    "views": 941,
+    "views": 947,
     "likes": 18,
     "comments": 2,
     "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
@@ -36,7 +36,7 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 490,
+    "views": 554,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
@@ -54,7 +54,7 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 1165,
+    "views": 1168,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
@@ -81,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1051,
+    "views": 1053,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -125,7 +125,7 @@
    {
     "game": "algo_war",
     "videos": 5,
-    "views": 5419,
+    "views": 5422,
     "likes": 60,
     "avg_views": 1084
    },
@@ -153,9 +153,9 @@
    {
     "game": "brain_teaser",
     "videos": 1,
-    "views": 941,
+    "views": 947,
     "likes": 18,
-    "avg_views": 941
+    "avg_views": 947
    },
    {
     "game": "gravity_race",
@@ -174,7 +174,7 @@
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9628,
+    "views": 9630,
     "likes": 111,
     "avg_views": 875
    },
@@ -195,9 +195,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 12128,
+    "views": 12192,
     "likes": 100,
-    "avg_views": 527
+    "avg_views": 530
    },
    {
     "game": "weekly_compilation",
@@ -334,7 +334,7 @@
     "subs": 7
    }
   ],
-  "last_48h": 5459
+  "last_48h": 5532
  },
  "social": null,
  "social_age_h": null,
@@ -450,7 +450,7 @@
  ],
  "delta_24h": {
   "yt_subs": 3,
-  "yt_views": 3561,
+  "yt_views": 4589,
   "tt_views": null,
   "ig_views": null
  }
