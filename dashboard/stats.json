@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-08T10:05:02-08:00",
+ "updated": "2026-11-08T15:05:01-08:00",
  "youtube": {
   "subs": 45,
   "views": 67873,
-  "videos": 94,
+  "videos": 95,
   "recent": [
+   {
+    "title": "Bounce Arena Weekly #4: 21 Battles, Races & Showdowns \ud83c\udfc6",
+    "game": "weekly_compilation",
+    "published": "2026-11-08T20:00:40Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=7RKjVlbUdDw"
+   },
    {
     "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
     "game": "other",
@@ -27,7 +36,7 @@
     "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-07T22:00:36Z",
-    "views": 947,
+    "views": 951,
     "likes": 18,
     "comments": 2,
     "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
@@ -36,7 +45,7 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 609,
+    "views": 729,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
@@ -45,7 +54,7 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 957,
+    "views": 956,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
@@ -54,7 +63,7 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 1169,
+    "views": 1161,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
@@ -72,7 +81,7 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 1013,
+    "views": 1018,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
@@ -81,8 +90,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1053,
-    "likes": 18,
+    "views": 1056,
+    "likes": 19,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
    },
@@ -99,35 +108,36 @@
     "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-05T18:00:09Z",
-    "views": 929,
+    "views": 927,
     "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
-   },
-   {
-    "title": "Which Strategy Wins? \ud83e\udde0 RANDOM vs FLOOD vs DFS vs WORMS",
-    "game": "algo_war",
-    "published": "2026-11-05T03:00:34Z",
-    "views": 981,
-    "likes": 16,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=jeVMptx3Zv4"
    }
   ],
   "upcoming": [
    {
-    "time": "2026-11-08T20:00:00Z",
-    "game": "weekly_compilation",
-    "title": "Bounce Arena Weekly #4: 21 Battles, Races & Showdowns \ud83c\udfc6"
+    "time": "2026-11-08T23:30:00Z",
+    "game": "tournament",
+    "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?"
+   },
+   {
+    "time": "2026-11-09T01:00:00Z",
+    "game": "algo_war",
+    "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!"
+   },
+   {
+    "time": "2026-11-09T03:00:00Z",
+    "game": "maze_race",
+    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?"
    }
   ],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 5,
-    "views": 5423,
+    "views": 5415,
     "likes": 60,
-    "avg_views": 1085
+    "avg_views": 1083
    },
    {
     "game": "maze_race",
@@ -139,9 +149,9 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8296,
+    "views": 8301,
     "likes": 47,
-    "avg_views": 1037
+    "avg_views": 1038
    },
    {
     "game": "squish_split",
@@ -153,9 +163,9 @@
    {
     "game": "brain_teaser",
     "videos": 1,
-    "views": 947,
+    "views": 951,
     "likes": 18,
-    "avg_views": 947
+    "avg_views": 951
    },
    {
     "game": "gravity_race",
@@ -167,16 +177,16 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9714,
+    "views": 9713,
     "likes": 63,
     "avg_views": 883
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9630,
-    "likes": 111,
-    "avg_views": 875
+    "views": 9632,
+    "likes": 112,
+    "avg_views": 876
    },
    {
     "game": "ball_battle",
@@ -188,23 +198,23 @@
    {
     "game": "ring_escape",
     "videos": 3,
-    "views": 2370,
+    "views": 2371,
     "likes": 11,
     "avg_views": 790
    },
    {
     "game": "tournament",
-    "videos": 23,
-    "views": 12247,
+    "videos": 24,
+    "views": 12492,
     "likes": 100,
-    "avg_views": 532
+    "avg_views": 520
    },
    {
     "game": "weekly_compilation",
-    "videos": 3,
+    "videos": 4,
     "views": 15,
     "likes": 0,
-    "avg_views": 5
+    "avg_views": 4
    }
   ],
   "daily": [
@@ -332,15 +342,20 @@
     "date": "2026-11-05",
     "views": 3445,
     "subs": 7
+   },
+   {
+    "date": "2026-11-06",
+    "views": 3059,
+    "subs": 1
    }
   ],
-  "last_48h": 4605
+  "last_48h": 3559
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-07 08:00:01",
+   "start": "2026-11-08 14:12:36",
    "done": true,
    "failures": 1
   },
@@ -446,11 +461,11 @@
  },
  "problems": [
   "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "Today's daily videos never started (the 9 AM job didn't run). Is the main PC on, and was it asleep or shut down at 9 AM?"
+  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
   "yt_subs": 3,
-  "yt_views": 4589,
+  "yt_views": 2389,
   "tt_views": null,
   "ig_views": null
  }
