@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:05:01-08:00",
+ "updated": "2026-11-08T01:05:01-08:00",
  "youtube": {
   "subs": 43,
   "views": 65484,
@@ -18,7 +18,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-08T03:00:01Z",
-    "views": 456,
+    "views": 550,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
@@ -27,8 +27,8 @@
     "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-07T22:00:36Z",
-    "views": 258,
-    "likes": 7,
+    "views": 323,
+    "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
    },
@@ -36,8 +36,8 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 130,
-    "likes": 0,
+    "views": 168,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
    },
@@ -168,9 +168,9 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9251,
+    "views": 9345,
     "likes": 62,
-    "avg_views": 841
+    "avg_views": 850
    },
    {
     "game": "ring_escape",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 24,
-    "views": 11834,
-    "likes": 93,
-    "avg_views": 493
+    "views": 11872,
+    "likes": 94,
+    "avg_views": 495
    },
    {
     "game": "brain_teaser",
     "videos": 1,
-    "views": 258,
-    "likes": 7,
-    "avg_views": 258
+    "views": 323,
+    "likes": 8,
+    "avg_views": 323
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 7
    }
   ],
-  "last_48h": 3649
+  "last_48h": 3846
  },
  "social": null,
  "social_age_h": null,
