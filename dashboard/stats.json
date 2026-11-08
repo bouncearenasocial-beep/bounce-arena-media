@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T06:05:02-08:00",
+ "updated": "2026-11-08T07:05:01-08:00",
  "youtube": {
   "subs": 45,
   "views": 65484,
@@ -9,7 +9,7 @@
     "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep",
     "game": "other",
     "published": "2026-11-08T04:00:27Z",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=U2EEkg_z184"
@@ -18,8 +18,8 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-08T03:00:01Z",
-    "views": 917,
-    "likes": 6,
+    "views": 898,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
    },
@@ -36,7 +36,7 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 380,
+    "views": 440,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
@@ -54,7 +54,7 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 1166,
+    "views": 1165,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
@@ -81,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-05T22:00:04Z",
-    "views": 1053,
+    "views": 1051,
     "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
@@ -125,7 +125,7 @@
    {
     "game": "algo_war",
     "videos": 5,
-    "views": 5420,
+    "views": 5419,
     "likes": 60,
     "avg_views": 1084
    },
@@ -167,14 +167,14 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9712,
-    "likes": 63,
-    "avg_views": 883
+    "views": 9693,
+    "likes": 64,
+    "avg_views": 881
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9630,
+    "views": 9628,
     "likes": 111,
     "avg_views": 875
    },
@@ -195,9 +195,9 @@
    {
     "game": "tournament",
     "videos": 23,
-    "views": 12018,
+    "views": 12078,
     "likes": 99,
-    "avg_views": 523
+    "avg_views": 525
    },
    {
     "game": "weekly_compilation",
@@ -334,7 +334,7 @@
     "subs": 7
    }
   ],
-  "last_48h": 5347
+  "last_48h": 5388
  },
  "social": null,
  "social_age_h": null,
