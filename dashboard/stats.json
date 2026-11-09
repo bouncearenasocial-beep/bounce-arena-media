@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-09T13:05:02-08:00",
+ "updated": "2026-11-09T14:05:02-08:00",
  "youtube": {
   "subs": 47,
   "views": 70232,
-  "videos": 99,
+  "videos": 100,
   "recent": [
+   {
+    "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
+    "game": "brain_teaser",
+    "published": "2026-11-09T22:00:07Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=keQHD9KhsL4"
+   },
    {
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
@@ -27,7 +36,7 @@
     "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-09T01:00:11Z",
-    "views": 1104,
+    "views": 1110,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
@@ -99,27 +108,13 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 1171,
+    "views": 1172,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
-   },
-   {
-    "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-11-06T18:00:17Z",
-    "views": 981,
-    "likes": 12,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-09T22:00:00Z",
-    "game": "brain_teaser",
-    "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal"
-   },
    {
     "time": "2026-11-10T03:00:00Z",
     "game": "ring_escape",
@@ -130,9 +125,9 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6533,
+    "views": 6540,
     "likes": 67,
-    "avg_views": 1089
+    "avg_views": 1090
    },
    {
     "game": "glass_break",
@@ -147,13 +142,6 @@
     "views": 5038,
     "likes": 35,
     "avg_views": 1008
-   },
-   {
-    "game": "brain_teaser",
-    "videos": 1,
-    "views": 971,
-    "likes": 18,
-    "avg_views": 971
    },
    {
     "game": "gravity_race",
@@ -203,6 +191,13 @@
     "views": 12728,
     "likes": 102,
     "avg_views": 490
+   },
+   {
+    "game": "brain_teaser",
+    "videos": 2,
+    "views": 971,
+    "likes": 18,
+    "avg_views": 486
    },
    {
     "game": "weekly_compilation",
@@ -330,7 +325,7 @@
    },
    {
     "date": "2026-11-05",
-    "views": 3445,
+    "views": 3463,
     "subs": 7
    },
    {
@@ -344,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3126
+  "last_48h": 2161
  },
  "social": null,
  "social_age_h": null,
