@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:05:02-08:00",
+ "updated": "2026-11-09T11:05:02-08:00",
  "youtube": {
   "subs": 46,
   "views": 70232,
@@ -9,7 +9,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -27,7 +27,7 @@
     "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-09T01:00:11Z",
-    "views": 1114,
+    "views": 1104,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
@@ -130,9 +130,9 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6540,
+    "views": 6530,
     "likes": 67,
-    "avg_views": 1090
+    "avg_views": 1088
    },
    {
     "game": "glass_break",
@@ -173,7 +173,7 @@
     "game": "ring_battle",
     "videos": 11,
     "views": 9634,
-    "likes": 112,
+    "likes": 113,
     "avg_views": 876
    },
    {
@@ -200,7 +200,7 @@
    {
     "game": "tournament",
     "videos": 26,
-    "views": 12720,
+    "views": 12721,
     "likes": 101,
     "avg_views": 489
    },
@@ -339,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3126
+  "last_48h": 3117
  },
  "social": null,
  "social_age_h": null,
