@@ -1,10 +1,37 @@
 {
- "updated": "2026-11-08T15:05:01-08:00",
+ "updated": "2026-11-08T19:05:01-08:00",
  "youtube": {
   "subs": 45,
   "views": 67873,
-  "videos": 95,
+  "videos": 98,
   "recent": [
+   {
+    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
+    "game": "maze_race",
+    "published": "2026-11-09T03:00:28Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=ASD6VeRGKMo"
+   },
+   {
+    "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!",
+    "game": "algo_war",
+    "published": "2026-11-09T01:00:11Z",
+    "views": 198,
+    "likes": 2,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
+   },
+   {
+    "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-11-08T23:30:04Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
+   },
    {
     "title": "Bounce Arena Weekly #4: 21 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
@@ -27,7 +54,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-08T03:00:01Z",
-    "views": 919,
+    "views": 893,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
@@ -45,7 +72,7 @@
     "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-07T18:00:16Z",
-    "views": 729,
+    "views": 795,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
@@ -63,7 +90,7 @@
     "title": "Algorithm Teams: BOMBER + DIAMOND + CHECKERS vs STARBURST + MAZE + HUNTER \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-06T22:00:15Z",
-    "views": 1161,
+    "views": 1164,
     "likes": 16,
     "comments": 0,
     "url": "https://youtube.com/watch?v=NhSex2m3-yA"
@@ -72,7 +99,7 @@
     "title": "Season 4 Doubles Quarterfinal 2: SWORD & GROWER vs BOOMERANG & FROST \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-06T18:00:17Z",
-    "views": 983,
+    "views": 980,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
@@ -81,77 +108,20 @@
     "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-06T03:00:14Z",
-    "views": 1018,
+    "views": 1035,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
-   },
-   {
-    "title": "4 Balls Enter, Only 1 Survives \ud83d\udfe1 \ud83d\udd34 \ud83d\udfe0 \ud83d\udfe3",
-    "game": "ring_battle",
-    "published": "2026-11-05T22:00:04Z",
-    "views": 1056,
-    "likes": 19,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=S-bIzTEzDg0"
-   },
-   {
-    "title": "Season 3 Tournament: The Full Bracket \ud83c\udfc6 SPIKES Wins It All?",
-    "game": "other",
-    "published": "2026-11-05T20:00:26Z",
-    "views": 1,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=_u-4PZFAKEM"
-   },
-   {
-    "title": "Doubles Quarterfinal 1: SPEAR & VAMPIRE vs SCYTHE & DAGGER \u2694\ufe0f Who Advances?",
-    "game": "tournament",
-    "published": "2026-11-05T18:00:09Z",
-    "views": 927,
-    "likes": 15,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=q3vT6Zd_8M8"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-08T23:30:00Z",
-    "game": "tournament",
-    "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?"
-   },
-   {
-    "time": "2026-11-09T01:00:00Z",
-    "game": "algo_war",
-    "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!"
-   },
-   {
-    "time": "2026-11-09T03:00:00Z",
-    "game": "maze_race",
-    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
-   {
-    "game": "algo_war",
-    "videos": 5,
-    "views": 5415,
-    "likes": 60,
-    "avg_views": 1083
-   },
-   {
-    "game": "maze_race",
-    "videos": 3,
-    "views": 3139,
-    "likes": 19,
-    "avg_views": 1046
-   },
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8301,
+    "views": 8318,
     "likes": 47,
-    "avg_views": 1038
+    "avg_views": 1040
    },
    {
     "game": "squish_split",
@@ -168,6 +138,13 @@
     "avg_views": 951
    },
    {
+    "game": "algo_war",
+    "videos": 6,
+    "views": 5617,
+    "likes": 62,
+    "avg_views": 936
+   },
+   {
     "game": "gravity_race",
     "videos": 2,
     "views": 1810,
@@ -177,9 +154,9 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9713,
+    "views": 9687,
     "likes": 63,
-    "avg_views": 883
+    "avg_views": 881
    },
    {
     "game": "ring_battle",
@@ -203,11 +180,18 @@
     "avg_views": 790
    },
    {
+    "game": "maze_race",
+    "videos": 4,
+    "views": 3139,
+    "likes": 19,
+    "avg_views": 785
+   },
+   {
     "game": "tournament",
-    "videos": 24,
-    "views": 12492,
+    "videos": 25,
+    "views": 12559,
     "likes": 100,
-    "avg_views": 520
+    "avg_views": 502
    },
    {
     "game": "weekly_compilation",
@@ -349,7 +333,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 3559
+  "last_48h": 2841
  },
  "social": null,
  "social_age_h": null,
@@ -417,7 +401,7 @@
     "label": "Doubles Quarterfinal 4",
     "a": "BLINK & LASER",
     "b": "GHOST & BOMBER",
-    "winner": null
+    "winner": "BLINK & LASER"
    },
    {
     "id": "SF1",
@@ -430,7 +414,7 @@
     "id": "SF2",
     "label": "Doubles Semifinal 2",
     "a": "MEDIC & SPIKES",
-    "b": null,
+    "b": "BLINK & LASER",
     "winner": null
    },
    {
