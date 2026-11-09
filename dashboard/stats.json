@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-09T09:05:02-08:00",
+ "updated": "2026-11-09T10:05:02-08:00",
  "youtube": {
   "subs": 46,
-  "views": 68755,
-  "videos": 98,
+  "views": 70232,
+  "videos": 99,
   "recent": [
+   {
+    "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-11-09T18:00:05Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=W6AabzcWubg"
+   },
    {
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
@@ -103,23 +112,9 @@
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ckNGVWe-0gQ"
-   },
-   {
-    "title": "Multipliers vs a Wall of Glass \ud83d\udca5",
-    "game": "glass_break",
-    "published": "2026-11-06T03:00:14Z",
-    "views": 1053,
-    "likes": 8,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=XJWVaxDU1YA"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-09T18:00:00Z",
-    "game": "tournament",
-    "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?"
-   },
    {
     "time": "2026-11-09T22:00:00Z",
     "game": "brain_teaser",
@@ -178,7 +173,7 @@
     "game": "ring_battle",
     "videos": 11,
     "views": 9634,
-    "likes": 113,
+    "likes": 112,
     "avg_views": 876
    },
    {
@@ -204,10 +199,10 @@
    },
    {
     "game": "tournament",
-    "videos": 25,
+    "videos": 26,
     "views": 12720,
     "likes": 101,
-    "avg_views": 509
+    "avg_views": 489
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 4045
+  "last_48h": 3126
  },
  "social": null,
  "social_age_h": null,
@@ -419,7 +414,7 @@
     "label": "Doubles Semifinal 1",
     "a": "SPEAR & VAMPIRE",
     "b": "BOOMERANG & FROST",
-    "winner": null
+    "winner": "BOOMERANG & FROST"
    },
    {
     "id": "SF2",
@@ -431,7 +426,7 @@
    {
     "id": "F",
     "label": "THE DOUBLES FINAL",
-    "a": null,
+    "a": "BOOMERANG & FROST",
     "b": null,
     "winner": null
    }
@@ -460,7 +455,7 @@
  ],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 882,
+  "yt_views": 2359,
   "tt_views": null,
   "ig_views": null
  }
