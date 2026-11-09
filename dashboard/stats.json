@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:05:02-08:00",
+ "updated": "2026-11-09T09:05:02-08:00",
  "youtube": {
   "subs": 46,
   "views": 68755,
@@ -122,8 +122,13 @@
    },
    {
     "time": "2026-11-09T22:00:00Z",
-    "game": "other",
+    "game": "brain_teaser",
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal"
+   },
+   {
+    "time": "2026-11-10T03:00:00Z",
+    "game": "ring_escape",
+    "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55"
    }
   ],
   "by_game": [
@@ -173,7 +178,7 @@
     "game": "ring_battle",
     "videos": 11,
     "views": 9634,
-    "likes": 112,
+    "likes": 113,
     "avg_views": 876
    },
    {
@@ -346,8 +351,8 @@
  "runs": {
   "daily": {
    "start": "2026-11-09 08:00:02",
-   "done": false,
-   "failures": 0
+   "done": true,
+   "failures": 1
   },
   "sleep": {
    "start": "2026-11-07 01:00:01",
@@ -364,7 +369,7 @@
   "Bounce Arena Daily": {
    "next": "11/10/2026 8:00:00 AM",
    "last": "11/9/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
@@ -449,10 +454,13 @@
    }
   ]
  },
- "problems": [],
+ "problems": [
+  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
+  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
+ ],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 3271,
+  "yt_views": 882,
   "tt_views": null,
   "ig_views": null
  }
