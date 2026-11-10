@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-10T09:05:02-08:00",
+ "updated": "2026-11-10T10:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 70266,
-  "videos": 101,
+  "videos": 102,
   "recent": [
+   {
+    "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
+    "game": "tournament",
+    "published": "2026-11-10T18:00:18Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
+   },
    {
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 944,
+    "views": 955,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -27,7 +36,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 439,
+    "views": 495,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -103,23 +112,9 @@
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
-   },
-   {
-    "title": "MAGNET or MEDIC? \u2694\ufe0f",
-    "game": "ball_battle",
-    "published": "2026-11-07T03:00:26Z",
-    "views": 960,
-    "likes": 12,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-10T18:00:00Z",
-    "game": "tournament",
-    "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6"
-   },
    {
     "time": "2026-11-10T22:00:00Z",
     "game": "algo_war",
@@ -184,9 +179,9 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3316,
+    "views": 3327,
     "likes": 20,
-    "avg_views": 829
+    "avg_views": 832
    },
    {
     "game": "maze_race",
@@ -196,18 +191,18 @@
     "avg_views": 786
    },
    {
-    "game": "tournament",
-    "videos": 26,
-    "views": 13171,
-    "likes": 109,
-    "avg_views": 507
-   },
-   {
     "game": "brain_teaser",
     "videos": 2,
     "views": 987,
     "likes": 19,
     "avg_views": 494
+   },
+   {
+    "game": "tournament",
+    "videos": 27,
+    "views": 13227,
+    "likes": 109,
+    "avg_views": 490
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2567
+  "last_48h": 2634
  },
  "social": null,
  "social_age_h": null,
@@ -426,13 +421,13 @@
     "label": "Doubles Semifinal 2",
     "a": "MEDIC & SPIKES",
     "b": "BLINK & LASER",
-    "winner": null
+    "winner": "MEDIC & SPIKES"
    },
    {
     "id": "F",
     "label": "THE DOUBLES FINAL",
     "a": "BOOMERANG & FROST",
-    "b": null,
+    "b": "MEDIC & SPIKES",
     "winner": null
    }
   ],
@@ -460,7 +455,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1511,
+  "yt_views": 34,
   "tt_views": null,
   "ig_views": null
  }
