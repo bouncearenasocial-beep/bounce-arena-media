@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:05:02-08:00",
+ "updated": "2026-11-09T18:05:02-08:00",
  "youtube": {
   "subs": 47,
   "views": 70232,
@@ -9,7 +9,7 @@
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-09T22:00:07Z",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
@@ -18,7 +18,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 84,
+    "views": 91,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -45,7 +45,7 @@
     "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-08T23:30:04Z",
-    "views": 30,
+    "views": 39,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
@@ -132,8 +132,8 @@
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8342,
-    "likes": 47,
+    "views": 8343,
+    "likes": 48,
     "avg_views": 1043
    },
    {
@@ -188,14 +188,14 @@
    {
     "game": "tournament",
     "videos": 26,
-    "views": 12805,
+    "views": 12821,
     "likes": 104,
-    "avg_views": 492
+    "avg_views": 493
    },
    {
     "game": "brain_teaser",
     "videos": 2,
-    "views": 972,
+    "views": 973,
     "likes": 18,
     "avg_views": 486
    },
@@ -339,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2240
+  "last_48h": 2257
  },
  "social": null,
  "social_age_h": null,
