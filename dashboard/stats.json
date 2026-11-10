@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:05:02-08:00",
+ "updated": "2026-11-10T12:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 70266,
@@ -9,7 +9,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -18,7 +18,7 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 955,
+    "views": 954,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -27,7 +27,7 @@
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-09T22:00:07Z",
-    "views": 15,
+    "views": 17,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
@@ -36,8 +36,8 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 495,
-    "likes": 8,
+    "views": 540,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
    },
@@ -63,7 +63,7 @@
     "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-08T23:30:04Z",
-    "views": 41,
+    "views": 45,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
@@ -130,7 +130,7 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6565,
+    "views": 6567,
     "likes": 68,
     "avg_views": 1094
    },
@@ -179,7 +179,7 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3327,
+    "views": 3326,
     "likes": 20,
     "avg_views": 832
    },
@@ -193,16 +193,16 @@
    {
     "game": "brain_teaser",
     "videos": 2,
-    "views": 987,
+    "views": 989,
     "likes": 19,
     "avg_views": 494
    },
    {
     "game": "tournament",
     "videos": 27,
-    "views": 13227,
-    "likes": 109,
-    "avg_views": 490
+    "views": 13279,
+    "likes": 110,
+    "avg_views": 492
    },
    {
     "game": "weekly_compilation",
@@ -337,9 +337,14 @@
     "date": "2026-11-07",
     "views": 2878,
     "subs": 1
+   },
+   {
+    "date": "2026-11-08",
+    "views": 3074,
+    "subs": 4
    }
   ],
-  "last_48h": 2634
+  "last_48h": 2684
  },
  "social": null,
  "social_age_h": null,
@@ -454,7 +459,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 34,
   "tt_views": null,
   "ig_views": null
