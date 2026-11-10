@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-09T23:05:02-08:00",
+ "updated": "2026-11-10T00:05:02-08:00",
  "youtube": {
   "subs": 48,
-  "views": 70232,
+  "views": 70266,
   "videos": 101,
   "recent": [
    {
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 263,
-    "likes": 3,
+    "views": 333,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
    },
@@ -54,7 +54,7 @@
     "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-08T23:30:04Z",
-    "views": 40,
+    "views": 41,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
@@ -91,7 +91,7 @@
     "game": "brain_teaser",
     "published": "2026-11-07T22:00:36Z",
     "views": 971,
-    "likes": 18,
+    "likes": 19,
     "comments": 2,
     "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
    },
@@ -175,14 +175,14 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 2635,
-    "likes": 14,
-    "avg_views": 659
+    "views": 2705,
+    "likes": 15,
+    "avg_views": 676
    },
    {
     "game": "tournament",
     "videos": 26,
-    "views": 12899,
+    "views": 12900,
     "likes": 105,
     "avg_views": 496
    },
@@ -190,7 +190,7 @@
     "game": "brain_teaser",
     "videos": 2,
     "views": 976,
-    "likes": 18,
+    "likes": 19,
     "avg_views": 488
    },
    {
@@ -202,11 +202,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-13",
-    "views": 2707,
-    "subs": 1
-   },
    {
     "date": "2026-10-14",
     "views": 4129,
@@ -333,7 +328,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1600
+  "last_48h": 1671
  },
  "social": null,
  "social_age_h": null,
@@ -449,7 +444,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1477,
+  "yt_views": 1511,
   "tt_views": null,
   "ig_views": null
  }
