@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-10T13:05:01-08:00",
+ "updated": "2026-11-10T14:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 70266,
-  "videos": 102,
+  "videos": 103,
   "recent": [
+   {
+    "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
+    "game": "algo_war",
+    "published": "2026-11-10T22:00:28Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
+   },
    {
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 27,
+    "views": 36,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -18,7 +27,7 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 957,
+    "views": 958,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -27,7 +36,7 @@
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-09T22:00:07Z",
-    "views": 15,
+    "views": 19,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
@@ -36,8 +45,8 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 540,
-    "likes": 9,
+    "views": 576,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
    },
@@ -63,7 +72,7 @@
     "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-08T23:30:04Z",
-    "views": 41,
+    "views": 45,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
@@ -103,23 +112,9 @@
     "likes": 19,
     "comments": 2,
     "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
-   },
-   {
-    "title": "MEDIC & SPIKES vs PUFFER & MAGNET \u2694\ufe0f Doubles Quarterfinal 3: Who Moves On?",
-    "game": "tournament",
-    "published": "2026-11-07T18:00:16Z",
-    "views": 921,
-    "likes": 8,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=Mycb5OoO_S4"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-10T22:00:00Z",
-    "game": "algo_war",
-    "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0"
-   },
    {
     "time": "2026-11-11T03:00:00Z",
     "game": "glass_break",
@@ -127,13 +122,6 @@
    }
   ],
   "by_game": [
-   {
-    "game": "algo_war",
-    "videos": 6,
-    "views": 6565,
-    "likes": 68,
-    "avg_views": 1094
-   },
    {
     "game": "glass_break",
     "videos": 8,
@@ -147,6 +135,13 @@
     "views": 5039,
     "likes": 35,
     "avg_views": 1008
+   },
+   {
+    "game": "algo_war",
+    "videos": 7,
+    "views": 6567,
+    "likes": 68,
+    "avg_views": 938
    },
    {
     "game": "gravity_race",
@@ -179,7 +174,7 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3329,
+    "views": 3330,
     "likes": 21,
     "avg_views": 832
    },
@@ -193,16 +188,16 @@
    {
     "game": "brain_teaser",
     "videos": 2,
-    "views": 987,
+    "views": 991,
     "likes": 19,
-    "avg_views": 494
+    "avg_views": 496
    },
    {
     "game": "tournament",
     "videos": 27,
-    "views": 13299,
-    "likes": 111,
-    "avg_views": 493
+    "views": 13348,
+    "likes": 112,
+    "avg_views": 494
    },
    {
     "game": "weekly_compilation",
@@ -330,7 +325,7 @@
    },
    {
     "date": "2026-11-06",
-    "views": 3059,
+    "views": 3048,
     "subs": 1
    },
    {
@@ -344,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 2705
+  "last_48h": 2759
  },
  "social": null,
  "social_age_h": null,
