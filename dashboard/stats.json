@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-09T22:05:02-08:00",
+ "updated": "2026-11-09T23:05:02-08:00",
  "youtube": {
   "subs": 48,
-  "views": 70266,
+  "views": 70232,
   "videos": 101,
   "recent": [
    {
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 164,
-    "likes": 2,
+    "views": 263,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
    },
@@ -119,14 +119,14 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6554,
+    "views": 6556,
     "likes": 67,
-    "avg_views": 1092
+    "avg_views": 1093
    },
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8348,
+    "views": 8349,
     "likes": 48,
     "avg_views": 1044
    },
@@ -147,14 +147,14 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9800,
+    "views": 9802,
     "likes": 63,
     "avg_views": 891
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9640,
+    "views": 9641,
     "likes": 113,
     "avg_views": 876
    },
@@ -175,14 +175,14 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 2535,
-    "likes": 13,
-    "avg_views": 634
+    "views": 2635,
+    "likes": 14,
+    "avg_views": 659
    },
    {
     "game": "tournament",
     "videos": 26,
-    "views": 12898,
+    "views": 12899,
     "likes": 105,
     "avg_views": 496
    },
@@ -333,7 +333,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1501
+  "last_48h": 1600
  },
  "social": null,
  "social_age_h": null,
@@ -449,7 +449,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1511,
+  "yt_views": 1477,
   "tt_views": null,
   "ig_views": null
  }
