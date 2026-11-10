@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-09T21:05:02-08:00",
+ "updated": "2026-11-09T22:05:02-08:00",
  "youtube": {
   "subs": 48,
-  "views": 70232,
+  "views": 70266,
   "videos": 101,
   "recent": [
    {
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 16,
-    "likes": 0,
+    "views": 164,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
    },
@@ -18,7 +18,7 @@
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-09T22:00:07Z",
-    "views": 2,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
@@ -36,7 +36,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-11-09T03:00:28Z",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ASD6VeRGKMo"
@@ -45,7 +45,7 @@
     "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-09T01:00:11Z",
-    "views": 1113,
+    "views": 1117,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
@@ -54,7 +54,7 @@
     "title": "Doubles Quarterfinal 4: BLINK & LASER vs GHOST & BOMBER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-08T23:30:04Z",
-    "views": 39,
+    "views": 40,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
@@ -119,21 +119,21 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6550,
+    "views": 6554,
     "likes": 67,
     "avg_views": 1092
    },
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8347,
+    "views": 8348,
     "likes": 48,
-    "avg_views": 1043
+    "avg_views": 1044
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5038,
+    "views": 5039,
     "likes": 35,
     "avg_views": 1008
    },
@@ -154,44 +154,44 @@
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9637,
+    "views": 9640,
     "likes": 113,
     "avg_views": 876
    },
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 8710,
+    "views": 8712,
     "likes": 93,
     "avg_views": 871
    },
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3145,
+    "views": 3146,
     "likes": 19,
     "avg_views": 786
    },
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 2388,
-    "likes": 11,
-    "avg_views": 597
+    "views": 2535,
+    "likes": 13,
+    "avg_views": 634
    },
    {
     "game": "tournament",
     "videos": 26,
-    "views": 12899,
+    "views": 12898,
     "likes": 105,
     "avg_views": 496
    },
    {
     "game": "brain_teaser",
     "videos": 2,
-    "views": 973,
+    "views": 976,
     "likes": 18,
-    "avg_views": 486
+    "avg_views": 488
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1344
+  "last_48h": 1501
  },
  "social": null,
  "social_age_h": null,
@@ -449,7 +449,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1477,
+  "yt_views": 1511,
   "tt_views": null,
   "ig_views": null
  }
