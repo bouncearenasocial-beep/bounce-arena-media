@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:05:02-08:00",
+ "updated": "2026-11-10T05:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 70266,
@@ -9,8 +9,8 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 713,
-    "likes": 10,
+    "views": 819,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
    },
@@ -18,7 +18,7 @@
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-09T22:00:07Z",
-    "views": 7,
+    "views": 12,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
@@ -27,7 +27,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 272,
+    "views": 288,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6561,
+    "views": 6562,
     "likes": 67,
     "avg_views": 1094
    },
@@ -166,6 +166,13 @@
     "avg_views": 871
    },
    {
+    "game": "ring_escape",
+    "videos": 4,
+    "views": 3191,
+    "likes": 20,
+    "avg_views": 798
+   },
+   {
     "game": "maze_race",
     "videos": 4,
     "views": 3146,
@@ -173,25 +180,18 @@
     "avg_views": 786
    },
    {
-    "game": "ring_escape",
-    "videos": 4,
-    "views": 3085,
-    "likes": 21,
-    "avg_views": 771
-   },
-   {
     "game": "tournament",
     "videos": 26,
-    "views": 13004,
+    "views": 13020,
     "likes": 107,
-    "avg_views": 500
+    "avg_views": 501
    },
    {
     "game": "brain_teaser",
     "videos": 2,
-    "views": 979,
+    "views": 984,
     "likes": 19,
-    "avg_views": 490
+    "avg_views": 492
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2159
+  "last_48h": 2286
  },
  "social": null,
  "social_age_h": null,
