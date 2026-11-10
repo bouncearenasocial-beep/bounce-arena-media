@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:05:02-08:00",
+ "updated": "2026-11-09T21:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 70232,
@@ -27,7 +27,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 149,
+    "views": 168,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -108,7 +108,7 @@
     "title": "MAGNET or MEDIC? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-07T03:00:26Z",
-    "views": 962,
+    "views": 960,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=91EFkUvIJ5Q"
@@ -119,21 +119,21 @@
    {
     "game": "algo_war",
     "videos": 6,
-    "views": 6545,
+    "views": 6550,
     "likes": 67,
-    "avg_views": 1091
+    "avg_views": 1092
    },
    {
     "game": "glass_break",
     "videos": 8,
-    "views": 8344,
+    "views": 8347,
     "likes": 48,
     "avg_views": 1043
    },
    {
     "game": "squish_split",
     "videos": 5,
-    "views": 5039,
+    "views": 5038,
     "likes": 35,
     "avg_views": 1008
    },
@@ -154,37 +154,37 @@
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9638,
+    "views": 9637,
     "likes": 113,
     "avg_views": 876
    },
    {
     "game": "ball_battle",
     "videos": 10,
-    "views": 8712,
+    "views": 8710,
     "likes": 93,
     "avg_views": 871
    },
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3144,
+    "views": 3145,
     "likes": 19,
     "avg_views": 786
    },
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 2387,
+    "views": 2388,
     "likes": 11,
     "avg_views": 597
    },
    {
     "game": "tournament",
     "videos": 26,
-    "views": 12880,
+    "views": 12899,
     "likes": 105,
-    "avg_views": 495
+    "avg_views": 496
    },
    {
     "game": "brain_teaser",
@@ -333,7 +333,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1325
+  "last_48h": 1344
  },
  "social": null,
  "social_age_h": null,
