@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-10T18:05:01-08:00",
+ "updated": "2026-11-10T19:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 70266,
-  "videos": 103,
+  "videos": 104,
   "recent": [
+   {
+    "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-11-11T03:00:17Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
+   },
    {
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
@@ -27,7 +36,7 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 961,
+    "views": 957,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -103,32 +112,10 @@
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
-   },
-   {
-    "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
-    "game": "brain_teaser",
-    "published": "2026-11-07T22:00:36Z",
-    "views": 972,
-    "likes": 19,
-    "comments": 2,
-    "url": "https://youtube.com/watch?v=a5a8wAFGJvI"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-11T03:00:00Z",
-    "game": "glass_break",
-    "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
-   {
-    "game": "glass_break",
-    "videos": 8,
-    "views": 8349,
-    "likes": 48,
-    "avg_views": 1044
-   },
    {
     "game": "squish_split",
     "videos": 5,
@@ -142,6 +129,13 @@
     "views": 6667,
     "likes": 68,
     "avg_views": 952
+   },
+   {
+    "game": "glass_break",
+    "videos": 9,
+    "views": 8349,
+    "likes": 48,
+    "avg_views": 928
    },
    {
     "game": "gravity_race",
@@ -174,9 +168,9 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3333,
+    "views": 3329,
     "likes": 21,
-    "avg_views": 833
+    "avg_views": 832
    },
    {
     "game": "maze_race",
@@ -339,7 +333,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 1813
+  "last_48h": 1804
  },
  "social": null,
  "social_age_h": null,
@@ -454,7 +448,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 0,
   "yt_views": 34,
   "tt_views": null,
   "ig_views": null
