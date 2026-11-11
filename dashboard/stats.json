@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:05:01-08:00",
+ "updated": "2026-11-11T00:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 71910,
@@ -54,7 +54,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 689,
+    "views": 677,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 27,
-    "views": 13575,
+    "views": 13563,
     "likes": 111,
-    "avg_views": 503
+    "avg_views": 502
    },
    {
     "game": "brain_teaser",
@@ -202,11 +202,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-14",
-    "views": 4129,
-    "subs": 5
-   },
    {
     "date": "2026-10-15",
     "views": 3472,
@@ -333,7 +328,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 2091
+  "last_48h": 2079
  },
  "social": null,
  "social_age_h": null,
@@ -449,7 +444,7 @@
  ],
  "delta_24h": {
   "yt_subs": 0,
-  "yt_views": 1678,
+  "yt_views": 1644,
   "tt_views": null,
   "ig_views": null
  }
