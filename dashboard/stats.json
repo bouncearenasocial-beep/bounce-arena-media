@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-11T09:05:01-08:00",
+ "updated": "2026-11-11T10:05:01-08:00",
  "youtube": {
   "subs": 48,
-  "views": 71910,
-  "videos": 104,
+  "views": 72526,
+  "videos": 105,
   "recent": [
+   {
+    "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
+    "game": "tournament",
+    "published": "2026-11-11T18:00:12Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
+   },
    {
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 488,
-    "likes": 6,
+    "views": 502,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
    },
@@ -27,7 +36,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 327,
+    "views": 338,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=U2EEkg_z184"
-   },
-   {
-    "title": "Which Color Paints the Most? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-11-08T03:00:01Z",
-    "views": 1004,
-    "likes": 6,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-11T18:00:00Z",
-    "game": "tournament",
-    "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?"
-   },
    {
     "time": "2026-11-11T22:00:00Z",
     "game": "brain_teaser",
@@ -142,16 +137,16 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 6946,
+    "views": 6943,
     "likes": 73,
     "avg_views": 992
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 8836,
-    "likes": 54,
-    "avg_views": 982
+    "views": 8850,
+    "likes": 55,
+    "avg_views": 983
    },
    {
     "game": "gravity_race",
@@ -163,14 +158,14 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9803,
+    "views": 9804,
     "likes": 63,
     "avg_views": 891
    },
    {
     "game": "ring_battle",
     "videos": 11,
-    "views": 9643,
+    "views": 9644,
     "likes": 113,
     "avg_views": 877
    },
@@ -196,18 +191,18 @@
     "avg_views": 787
    },
    {
-    "game": "tournament",
-    "videos": 27,
-    "views": 13829,
-    "likes": 115,
-    "avg_views": 512
-   },
-   {
     "game": "brain_teaser",
     "videos": 2,
     "views": 999,
     "likes": 19,
     "avg_views": 500
+   },
+   {
+    "game": "tournament",
+    "videos": 28,
+    "views": 13843,
+    "likes": 115,
+    "avg_views": 494
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 2940
+  "last_48h": 2200
  },
  "social": null,
  "social_age_h": null,
@@ -465,7 +460,7 @@
  ],
  "delta_24h": {
   "yt_subs": 0,
-  "yt_views": 1644,
+  "yt_views": 2260,
   "tt_views": null,
   "ig_views": null
  }
