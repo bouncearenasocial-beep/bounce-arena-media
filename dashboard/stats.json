@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:05:01-08:00",
+ "updated": "2026-11-10T17:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 70266,
@@ -18,7 +18,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 86,
+    "views": 89,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -36,7 +36,7 @@
     "title": "Find the Odd One Out \ud83e\udde0 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-09T22:00:07Z",
-    "views": 19,
+    "views": 20,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
@@ -54,7 +54,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-11-09T03:00:28Z",
-    "views": 4,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ASD6VeRGKMo"
@@ -181,21 +181,21 @@
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3146,
+    "views": 3147,
     "likes": 19,
-    "avg_views": 786
+    "avg_views": 787
    },
    {
     "game": "tournament",
     "videos": 27,
-    "views": 13398,
+    "views": 13401,
     "likes": 111,
     "avg_views": 496
    },
    {
     "game": "brain_teaser",
     "videos": 2,
-    "views": 991,
+    "views": 992,
     "likes": 19,
     "avg_views": 496
    },
@@ -339,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 2771
+  "last_48h": 1653
  },
  "social": null,
  "social_age_h": null,
