@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:05:02-08:00",
+ "updated": "2026-11-11T02:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 71910,
@@ -9,8 +9,8 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 119,
-    "likes": 1,
+    "views": 141,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
    },
@@ -18,8 +18,8 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 230,
-    "likes": 3,
+    "views": 246,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
    },
@@ -126,16 +126,16 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 6805,
-    "likes": 71,
-    "avg_views": 972
+    "views": 6821,
+    "likes": 72,
+    "avg_views": 974
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 8468,
-    "likes": 49,
-    "avg_views": 941
+    "views": 8490,
+    "likes": 50,
+    "avg_views": 943
    },
    {
     "game": "gravity_race",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 27,
-    "views": 13575,
+    "views": 13576,
     "likes": 111,
     "avg_views": 503
    },
@@ -328,7 +328,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 2168
+  "last_48h": 2206
  },
  "social": null,
  "social_age_h": null,
