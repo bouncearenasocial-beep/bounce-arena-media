@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:05:01-08:00",
+ "updated": "2026-11-11T08:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 71910,
@@ -9,7 +9,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 429,
+    "views": 463,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -18,8 +18,8 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 353,
-    "likes": 4,
+    "views": 370,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
    },
@@ -27,8 +27,8 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 291,
-    "likes": 3,
+    "views": 308,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
    },
@@ -108,13 +108,24 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-08T03:00:01Z",
-    "views": 1003,
+    "views": 1004,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VnVA8RXJVqU"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-11T18:00:00Z",
+    "game": "tournament",
+    "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?"
+   },
+   {
+    "time": "2026-11-11T22:00:00Z",
+    "game": "other",
+    "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels"
+   }
+  ],
   "by_game": [
    {
     "game": "squish_split",
@@ -126,16 +137,16 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 6928,
-    "likes": 72,
-    "avg_views": 990
+    "views": 6945,
+    "likes": 73,
+    "avg_views": 992
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 8777,
+    "views": 8811,
     "likes": 52,
-    "avg_views": 975
+    "avg_views": 979
    },
    {
     "game": "gravity_race",
@@ -147,7 +158,7 @@
    {
     "game": "paint_war",
     "videos": 11,
-    "views": 9802,
+    "views": 9803,
     "likes": 63,
     "avg_views": 891
    },
@@ -182,8 +193,8 @@
    {
     "game": "tournament",
     "videos": 27,
-    "views": 13793,
-    "likes": 115,
+    "views": 13810,
+    "likes": 116,
     "avg_views": 511
    },
    {
@@ -328,15 +339,15 @@
     "subs": 4
    }
   ],
-  "last_48h": 2825
+  "last_48h": 2893
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-10 08:00:02",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-11 08:00:02",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-11-07 01:00:01",
@@ -351,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/11/2026 8:00:00 AM",
-   "last": "11/10/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/12/2026 8:00:00 AM",
+   "last": "11/11/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
@@ -368,55 +379,55 @@
  },
  "verified": true,
  "tournament": {
-  "season": 4,
+  "season": 5,
   "matches": [
    {
     "id": "QF1",
-    "label": "Doubles Quarterfinal 1",
-    "a": "SPEAR & VAMPIRE",
-    "b": "SCYTHE & DAGGER",
-    "winner": "SPEAR & VAMPIRE"
+    "label": "Quarterfinal 1",
+    "a": "MEDIC",
+    "b": "THUNDER",
+    "winner": null
    },
    {
     "id": "QF2",
-    "label": "Doubles Quarterfinal 2",
-    "a": "SWORD & GROWER",
-    "b": "BOOMERANG & FROST",
-    "winner": "BOOMERANG & FROST"
+    "label": "Quarterfinal 2",
+    "a": "SHURIKEN",
+    "b": "SPIKES",
+    "winner": null
    },
    {
     "id": "QF3",
-    "label": "Doubles Quarterfinal 3",
-    "a": "MEDIC & SPIKES",
-    "b": "PUFFER & MAGNET",
-    "winner": "MEDIC & SPIKES"
+    "label": "Quarterfinal 3",
+    "a": "SPEAR",
+    "b": "GROWER",
+    "winner": null
    },
    {
     "id": "QF4",
-    "label": "Doubles Quarterfinal 4",
-    "a": "BLINK & LASER",
-    "b": "GHOST & BOMBER",
-    "winner": "BLINK & LASER"
+    "label": "Quarterfinal 4",
+    "a": "SCYTHE",
+    "b": "PUFFER",
+    "winner": null
    },
    {
     "id": "SF1",
-    "label": "Doubles Semifinal 1",
-    "a": "SPEAR & VAMPIRE",
-    "b": "BOOMERANG & FROST",
-    "winner": "BOOMERANG & FROST"
+    "label": "Semifinal 1",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "SF2",
-    "label": "Doubles Semifinal 2",
-    "a": "MEDIC & SPIKES",
-    "b": "BLINK & LASER",
-    "winner": "MEDIC & SPIKES"
+    "label": "Semifinal 2",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "F",
-    "label": "THE DOUBLES FINAL",
-    "a": "BOOMERANG & FROST",
-    "b": "MEDIC & SPIKES",
+    "label": "THE FINAL",
+    "a": null,
+    "b": null,
     "winner": null
    }
   ],
@@ -435,13 +446,15 @@
     "season": 3,
     "mode": "1v1",
     "champion": "SPIKES"
+   },
+   {
+    "season": 4,
+    "mode": "2v2",
+    "champion": "BOOMERANG & FROST"
    }
   ]
  },
- "problems": [
-  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 0,
   "yt_views": 1644,
