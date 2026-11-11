@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:05:01-08:00",
+ "updated": "2026-11-11T13:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 72526,
@@ -18,8 +18,8 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 708,
-    "likes": 8,
+    "views": 802,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
    },
@@ -36,8 +36,8 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 350,
-    "likes": 2,
+    "views": 472,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
    },
@@ -82,7 +82,7 @@
     "game": "algo_war",
     "published": "2026-11-09T01:00:11Z",
     "views": 1130,
-    "likes": 8,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
    },
@@ -128,6 +128,13 @@
   ],
   "by_game": [
    {
+    "game": "glass_break",
+    "videos": 9,
+    "views": 9150,
+    "likes": 57,
+    "avg_views": 1017
+   },
+   {
     "game": "squish_split",
     "videos": 5,
     "views": 5039,
@@ -135,17 +142,10 @@
     "avg_views": 1008
    },
    {
-    "game": "glass_break",
-    "videos": 9,
-    "views": 9056,
-    "likes": 56,
-    "avg_views": 1006
-   },
-   {
     "game": "algo_war",
     "videos": 7,
     "views": 6959,
-    "likes": 73,
+    "likes": 72,
     "avg_views": 994
    },
    {
@@ -191,18 +191,18 @@
     "avg_views": 787
    },
    {
+    "game": "tournament",
+    "videos": 28,
+    "views": 14032,
+    "likes": 115,
+    "avg_views": 501
+   },
+   {
     "game": "brain_teaser",
     "videos": 2,
     "views": 1002,
     "likes": 19,
     "avg_views": 501
-   },
-   {
-    "game": "tournament",
-    "videos": 28,
-    "views": 13910,
-    "likes": 114,
-    "avg_views": 497
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +344,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2438
+  "last_48h": 2654
  },
  "social": null,
  "social_age_h": null,
