@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-12T13:05:01-08:00",
+ "updated": "2026-11-12T14:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74727,
-  "videos": 109,
+  "videos": 110,
   "recent": [
+   {
+    "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
+    "game": "algo_war",
+    "published": "2026-11-12T22:00:32Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=StqXqgZIcig"
+   },
    {
     "title": "Season 4 Doubles Tournament: The Full Bracket \ud83c\udfc6 BOOMERANG & FROST Wins It All?",
     "game": "other",
@@ -36,7 +45,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 54,
+    "views": 60,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -103,23 +112,9 @@
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
-   },
-   {
-    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
-    "game": "maze_race",
-    "published": "2026-11-09T03:00:28Z",
-    "views": 5,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=ASD6VeRGKMo"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-12T22:00:00Z",
-    "game": "algo_war",
-    "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0"
-   },
    {
     "time": "2026-11-13T03:00:00Z",
     "game": "paint_war",
@@ -128,17 +123,10 @@
   ],
   "by_game": [
    {
-    "game": "algo_war",
-    "videos": 7,
-    "views": 7351,
-    "likes": 76,
-    "avg_views": 1050
-   },
-   {
     "game": "glass_break",
     "videos": 9,
     "views": 9279,
-    "likes": 55,
+    "likes": 57,
     "avg_views": 1031
    },
    {
@@ -147,6 +135,13 @@
     "views": 5039,
     "likes": 35,
     "avg_views": 1008
+   },
+   {
+    "game": "algo_war",
+    "videos": 8,
+    "views": 7351,
+    "likes": 76,
+    "avg_views": 919
    },
    {
     "game": "gravity_race",
@@ -200,9 +195,9 @@
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1059,
+    "views": 1065,
     "likes": 20,
-    "avg_views": 353
+    "avg_views": 355
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2787
+  "last_48h": 2020
  },
  "social": null,
  "social_age_h": null,
