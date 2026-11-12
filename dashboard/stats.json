@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:05:02-08:00",
+ "updated": "2026-11-12T02:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -9,7 +9,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 264,
+    "views": 304,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -18,7 +18,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 40,
+    "views": 35,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -27,7 +27,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 46,
+    "views": 57,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -54,7 +54,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 765,
+    "views": 791,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -168,9 +168,9 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 9908,
+    "views": 9948,
     "likes": 121,
-    "avg_views": 826
+    "avg_views": 829
    },
    {
     "game": "maze_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 28,
-    "views": 14380,
+    "views": 14417,
     "likes": 115,
-    "avg_views": 514
+    "avg_views": 515
    },
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1044,
+    "views": 1039,
     "likes": 20,
-    "avg_views": 348
+    "avg_views": 346
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2623
+  "last_48h": 2695
  },
  "social": null,
  "social_age_h": null,
