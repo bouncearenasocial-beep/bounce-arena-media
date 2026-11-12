@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:05:02-08:00",
+ "updated": "2026-11-12T04:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -9,8 +9,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 385,
-    "likes": 9,
+    "views": 456,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
    },
@@ -20,7 +20,7 @@
     "published": "2026-11-11T22:00:21Z",
     "views": 47,
     "likes": 1,
-    "comments": 0,
+    "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
    },
    {
@@ -63,7 +63,7 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 972,
+    "views": 974,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -161,14 +161,14 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10029,
-    "likes": 122,
-    "avg_views": 836
+    "views": 10100,
+    "likes": 123,
+    "avg_views": 842
    },
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3344,
+    "views": 3346,
     "likes": 21,
     "avg_views": 836
    },
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2788
+  "last_48h": 2859
  },
  "social": null,
  "social_age_h": null,
