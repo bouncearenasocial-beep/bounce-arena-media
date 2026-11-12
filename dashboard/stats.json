@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-11T18:05:02-08:00",
+ "updated": "2026-11-11T19:05:03-08:00",
  "youtube": {
   "subs": 48,
   "views": 72526,
-  "videos": 106,
+  "videos": 107,
   "recent": [
+   {
+    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
+    "game": "ring_battle",
+    "published": "2026-11-12T03:00:11Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=WEea4b2ksr8"
+   },
    {
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 8,
+    "views": 11,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -18,7 +27,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 16,
+    "views": 28,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -36,7 +45,7 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 484,
+    "views": 514,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
@@ -45,7 +54,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 648,
+    "views": 667,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
-   },
-   {
-    "title": "Bounce Arena Weekly #4: 21 Battles, Races & Showdowns \ud83c\udfc6",
-    "game": "weekly_compilation",
-    "published": "2026-11-08T20:00:40Z",
-    "views": 3,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=7RKjVlbUdDw"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-12T03:00:00Z",
-    "game": "ring_battle",
-    "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "glass_break",
@@ -132,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 7060,
+    "views": 7090,
     "likes": 74,
-    "avg_views": 1009
+    "avg_views": 1013
    },
    {
     "game": "squish_split",
@@ -158,13 +152,6 @@
     "avg_views": 891
    },
    {
-    "game": "ring_battle",
-    "videos": 11,
-    "views": 9644,
-    "likes": 113,
-    "avg_views": 877
-   },
-   {
     "game": "ball_battle",
     "videos": 10,
     "views": 8712,
@@ -179,6 +166,13 @@
     "avg_views": 835
    },
    {
+    "game": "ring_battle",
+    "videos": 12,
+    "views": 9644,
+    "likes": 113,
+    "avg_views": 804
+   },
+   {
     "game": "maze_race",
     "videos": 4,
     "views": 3147,
@@ -188,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 28,
-    "views": 14230,
+    "views": 14261,
     "likes": 115,
-    "avg_views": 508
+    "avg_views": 509
    },
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1012,
+    "views": 1015,
     "likes": 20,
-    "avg_views": 337
+    "avg_views": 338
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +333,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3046
+  "last_48h": 2141
  },
  "social": null,
  "social_age_h": null,
