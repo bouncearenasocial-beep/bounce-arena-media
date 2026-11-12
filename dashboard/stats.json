@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:05:01-08:00",
+ "updated": "2026-11-12T15:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74727,
@@ -27,7 +27,7 @@
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-12T18:00:29Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ihJkobJNnrY"
@@ -54,7 +54,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 108,
+    "views": 122,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -72,7 +72,7 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 773,
+    "views": 813,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
@@ -90,7 +90,7 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 976,
+    "views": 977,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -139,9 +139,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7351,
+    "views": 7391,
     "likes": 76,
-    "avg_views": 919
+    "avg_views": 924
    },
    {
     "game": "gravity_race",
@@ -174,7 +174,7 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3348,
+    "views": 3349,
     "likes": 21,
     "avg_views": 837
    },
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14626,
+    "views": 14642,
     "likes": 118,
-    "avg_views": 504
+    "avg_views": 505
    },
    {
     "game": "brain_teaser",
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2020
+  "last_48h": 2036
  },
  "social": null,
  "social_age_h": null,
