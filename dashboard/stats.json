@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:05:01-08:00",
+ "updated": "2026-11-12T08:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -27,8 +27,8 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 64,
-    "likes": 0,
+    "views": 87,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
    },
@@ -54,8 +54,8 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 849,
-    "likes": 3,
+    "views": 904,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
    },
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=gwLmRVQ3cIU"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-12T18:00:00Z",
+    "game": "tournament",
+    "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?"
+   },
+   {
+    "time": "2026-11-12T22:00:00Z",
+    "game": "other",
+    "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -182,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 28,
-    "views": 14484,
-    "likes": 115,
-    "avg_views": 517
+    "views": 14562,
+    "likes": 117,
+    "avg_views": 520
    },
    {
     "game": "brain_teaser",
@@ -328,15 +339,15 @@
     "subs": 2
    }
   ],
-  "last_48h": 3252
+  "last_48h": 3330
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-11 08:00:02",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-12 08:00:02",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-11-07 01:00:01",
@@ -351,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/12/2026 8:00:00 AM",
-   "last": "11/11/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/13/2026 8:00:00 AM",
+   "last": "11/12/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
@@ -443,10 +454,7 @@
    }
   ]
  },
- "problems": [
-  "TikTok / Instagram posts are NOT being queued: Buffer's free plan used up its monthly API allowance. The 9 AM job retries every day and resumes on its own once Buffer allows it; the videos are saved in D:\\BounceArena\\Social. YouTube is unaffected.",
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 0,
   "yt_views": 2202,
