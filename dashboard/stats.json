@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-12T11:05:01-08:00",
+ "updated": "2026-11-12T12:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74727,
-  "videos": 108,
+  "videos": 109,
   "recent": [
+   {
+    "title": "Season 4 Doubles Tournament: The Full Bracket \ud83c\udfc6 BOOMERANG & FROST Wins It All?",
+    "game": "other",
+    "published": "2026-11-12T20:00:33Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=XvQECfX0FK0"
+   },
    {
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
@@ -18,7 +27,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 920,
+    "views": 924,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -36,7 +45,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 87,
+    "views": 101,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ASD6VeRGKMo"
-   },
-   {
-    "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!",
-    "game": "algo_war",
-    "published": "2026-11-09T01:00:11Z",
-    "views": 1133,
-    "likes": 7,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-12T20:00:00Z",
-    "game": "other",
-    "title": "Season 4 Doubles Tournament: The Full Bracket \ud83c\udfc6 BOOMERANG & FROST Wins It All?"
-   },
    {
     "time": "2026-11-12T22:00:00Z",
     "game": "algo_war",
@@ -143,7 +138,7 @@
     "game": "glass_break",
     "videos": 9,
     "views": 9278,
-    "likes": 55,
+    "likes": 57,
     "avg_views": 1031
    },
    {
@@ -177,7 +172,7 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11239,
+    "views": 11243,
     "likes": 132,
     "avg_views": 865
    },
@@ -198,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14563,
+    "views": 14577,
     "likes": 117,
-    "avg_views": 502
+    "avg_views": 503
    },
    {
     "game": "brain_teaser",
@@ -342,9 +337,14 @@
     "date": "2026-11-09",
     "views": 832,
     "subs": 2
+   },
+   {
+    "date": "2026-11-10",
+    "views": 1594,
+    "subs": 0
    }
   ],
-  "last_48h": 2761
+  "last_48h": 2779
  },
  "social": null,
  "social_age_h": null,
