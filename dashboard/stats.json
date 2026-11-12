@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:05:01-08:00",
+ "updated": "2026-11-12T13:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74727,
@@ -45,8 +45,8 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 101,
-    "likes": 1,
+    "views": 108,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
    },
@@ -54,7 +54,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 927,
+    "views": 928,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -72,7 +72,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 904,
+    "views": 945,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -99,7 +99,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 828,
+    "views": 829,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -137,8 +137,8 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9278,
-    "likes": 57,
+    "views": 9279,
+    "likes": 55,
     "avg_views": 1031
    },
    {
@@ -193,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14577,
-    "likes": 117,
-    "avg_views": 503
+    "views": 14626,
+    "likes": 118,
+    "avg_views": 504
    },
    {
     "game": "brain_teaser",
@@ -344,7 +344,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2779
+  "last_48h": 2787
  },
  "social": null,
  "social_age_h": null,
