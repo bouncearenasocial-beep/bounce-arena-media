@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:05:02-08:00",
+ "updated": "2026-11-12T01:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -9,8 +9,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 236,
-    "likes": 7,
+    "views": 264,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
    },
@@ -18,7 +18,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 35,
+    "views": 40,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -27,7 +27,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 47,
+    "views": 46,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -54,7 +54,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 758,
+    "views": 765,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -99,7 +99,7 @@
     "title": "Algorithm Duel: VIRUS vs RADAR \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-09T01:00:11Z",
-    "views": 1131,
+    "views": 1132,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Hz4M6l0wddc"
@@ -126,7 +126,7 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 7161,
+    "views": 7162,
     "likes": 75,
     "avg_views": 1023
    },
@@ -168,9 +168,9 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 9880,
-    "likes": 120,
-    "avg_views": 823
+    "views": 9908,
+    "likes": 121,
+    "avg_views": 826
    },
    {
     "game": "maze_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 28,
-    "views": 14373,
+    "views": 14380,
     "likes": 115,
-    "avg_views": 513
+    "avg_views": 514
    },
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1039,
+    "views": 1044,
     "likes": 20,
-    "avg_views": 346
+    "avg_views": 348
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2584
+  "last_48h": 2623
  },
  "social": null,
  "social_age_h": null,
