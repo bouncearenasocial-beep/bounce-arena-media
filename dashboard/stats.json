@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:05:01-08:00",
+ "updated": "2026-11-12T05:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -9,7 +9,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 456,
+    "views": 533,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -18,7 +18,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 47,
+    "views": 49,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -27,7 +27,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 57,
+    "views": 64,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -36,7 +36,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 923,
+    "views": 924,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -45,7 +45,7 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 585,
+    "views": 655,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
@@ -54,7 +54,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 791,
+    "views": 849,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -81,7 +81,7 @@
     "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-09T18:00:05Z",
-    "views": 825,
+    "views": 827,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=W6AabzcWubg"
@@ -117,18 +117,18 @@
   "upcoming": [],
   "by_game": [
    {
-    "game": "glass_break",
-    "videos": 9,
-    "views": 9274,
-    "likes": 57,
-    "avg_views": 1030
-   },
-   {
     "game": "algo_war",
     "videos": 7,
-    "views": 7162,
+    "views": 7232,
     "likes": 75,
-    "avg_views": 1023
+    "avg_views": 1033
+   },
+   {
+    "game": "glass_break",
+    "videos": 9,
+    "views": 9275,
+    "likes": 57,
+    "avg_views": 1031
    },
    {
     "game": "squish_split",
@@ -161,9 +161,9 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10100,
+    "views": 10177,
     "likes": 123,
-    "avg_views": 842
+    "avg_views": 848
    },
    {
     "game": "ring_escape",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 28,
-    "views": 14417,
+    "views": 14484,
     "likes": 115,
-    "avg_views": 515
+    "avg_views": 517
    },
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1051,
+    "views": 1053,
     "likes": 20,
-    "avg_views": 350
+    "avg_views": 351
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2859
+  "last_48h": 3074
  },
  "social": null,
  "social_age_h": null,
