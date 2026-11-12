@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:05:02-08:00",
+ "updated": "2026-11-12T03:05:02-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -9,8 +9,8 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 304,
-    "likes": 8,
+    "views": 385,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
    },
@@ -18,7 +18,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 35,
+    "views": 47,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -159,18 +159,18 @@
     "avg_views": 871
    },
    {
+    "game": "ring_battle",
+    "videos": 12,
+    "views": 10029,
+    "likes": 122,
+    "avg_views": 836
+   },
+   {
     "game": "ring_escape",
     "videos": 4,
     "views": 3344,
     "likes": 21,
     "avg_views": 836
-   },
-   {
-    "game": "ring_battle",
-    "videos": 12,
-    "views": 9948,
-    "likes": 121,
-    "avg_views": 829
    },
    {
     "game": "maze_race",
@@ -189,9 +189,9 @@
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1039,
+    "views": 1051,
     "likes": 20,
-    "avg_views": 346
+    "avg_views": 350
    },
    {
     "game": "weekly_compilation",
@@ -204,7 +204,7 @@
   "daily": [
    {
     "date": "2026-10-16",
-    "views": 3332,
+    "views": 3219,
     "subs": 0
    },
    {
@@ -219,7 +219,7 @@
    },
    {
     "date": "2026-10-19",
-    "views": 2189,
+    "views": 2184,
     "subs": 2
    },
    {
@@ -244,7 +244,7 @@
    },
    {
     "date": "2026-10-24",
-    "views": 639,
+    "views": 611,
     "subs": 0
    },
    {
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2695
+  "last_48h": 2788
  },
  "social": null,
  "social_age_h": null,
