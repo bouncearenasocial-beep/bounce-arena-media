@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:05:01-08:00",
+ "updated": "2026-11-12T06:05:01-08:00",
  "youtube": {
   "subs": 48,
   "views": 74112,
@@ -9,7 +9,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 533,
+    "views": 646,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -54,7 +54,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 849,
+    "views": 791,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -161,9 +161,9 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10177,
+    "views": 10290,
     "likes": 123,
-    "avg_views": 848
+    "avg_views": 858
    },
    {
     "game": "ring_escape",
@@ -175,16 +175,16 @@
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3147,
+    "views": 3148,
     "likes": 19,
     "avg_views": 787
    },
    {
     "game": "tournament",
     "videos": 28,
-    "views": 14484,
+    "views": 14426,
     "likes": 115,
-    "avg_views": 517
+    "avg_views": 515
    },
    {
     "game": "brain_teaser",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3074
+  "last_48h": 3129
  },
  "social": null,
  "social_age_h": null,
