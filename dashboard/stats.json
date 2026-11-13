@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:05:01-08:00",
+ "updated": "2026-11-12T20:05:01-08:00",
  "youtube": {
   "subs": 49,
   "views": 74727,
@@ -18,8 +18,8 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 150,
-    "likes": 2,
+    "views": 193,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
    },
@@ -36,7 +36,7 @@
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-12T18:00:29Z",
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ihJkobJNnrY"
@@ -54,7 +54,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 63,
+    "views": 66,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -81,7 +81,7 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 834,
+    "views": 835,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7562,
-    "likes": 78,
-    "avg_views": 945
+    "views": 7605,
+    "likes": 79,
+    "avg_views": 951
    },
    {
     "game": "gravity_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14676,
+    "views": 14679,
     "likes": 118,
     "avg_views": 506
    },
    {
     "game": "brain_teaser",
     "videos": 3,
-    "views": 1068,
+    "views": 1071,
     "likes": 20,
-    "avg_views": 356
+    "avg_views": 357
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1298
+  "last_48h": 1346
  },
  "social": null,
  "social_age_h": null,
