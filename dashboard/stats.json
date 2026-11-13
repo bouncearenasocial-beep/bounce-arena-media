@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:05:01-08:00",
+ "updated": "2026-11-13T08:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76027,
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-13T18:00:00Z",
+    "game": "tournament",
+    "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?"
+   },
+   {
+    "time": "2026-11-13T22:00:00Z",
+    "game": "brain_teaser",
+    "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -145,18 +156,18 @@
     "avg_views": 906
    },
    {
+    "game": "ring_battle",
+    "videos": 12,
+    "views": 10590,
+    "likes": 126,
+    "avg_views": 882
+   },
+   {
     "game": "ball_battle",
     "videos": 10,
     "views": 8715,
     "likes": 93,
     "avg_views": 872
-   },
-   {
-    "game": "ring_battle",
-    "videos": 13,
-    "views": 11265,
-    "likes": 133,
-    "avg_views": 867
    },
    {
     "game": "ring_escape",
@@ -334,9 +345,9 @@
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-12 08:00:02",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-13 08:00:01",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-11-07 01:00:01",
@@ -351,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/13/2026 8:00:00 AM",
-   "last": "11/12/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/14/2026 8:00:00 AM",
+   "last": "11/13/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/14/2026 12:00:00 AM",
@@ -443,9 +454,7 @@
    }
   ]
  },
- "problems": [
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 2,
   "yt_views": 1915,
