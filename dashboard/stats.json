@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:05:02-08:00",
+ "updated": "2026-11-12T22:05:02-08:00",
  "youtube": {
   "subs": 50,
   "views": 74727,
@@ -18,7 +18,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 239,
+    "views": 274,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -63,7 +63,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 155,
+    "views": 176,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -119,7 +119,7 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9279,
+    "views": 9278,
     "likes": 57,
     "avg_views": 1031
    },
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7651,
+    "views": 7686,
     "likes": 79,
-    "avg_views": 956
+    "avg_views": 961
    },
    {
     "game": "gravity_race",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14679,
+    "views": 14700,
     "likes": 118,
-    "avg_views": 506
+    "avg_views": 507
    },
    {
     "game": "brain_teaser",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1392
+  "last_48h": 1448
  },
  "social": null,
  "social_age_h": null,
