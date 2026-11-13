@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-12T18:05:02-08:00",
+ "updated": "2026-11-12T19:05:01-08:00",
  "youtube": {
-  "subs": 48,
+  "subs": 49,
   "views": 74727,
-  "videos": 110,
+  "videos": 111,
   "recent": [
+   {
+    "title": "Which Color Paints the Most? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-11-13T03:00:02Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
+   },
    {
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 104,
-    "likes": 1,
+    "views": 150,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
    },
@@ -37,7 +46,7 @@
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
     "views": 928,
-    "likes": 12,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
    },
@@ -54,7 +63,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 122,
+    "views": 155,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=keQHD9KhsL4"
-   },
-   {
-    "title": "Doubles Semifinal 1: SPEAR & VAMPIRE vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
-    "game": "tournament",
-    "published": "2026-11-09T18:00:05Z",
-    "views": 829,
-    "likes": 11,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=W6AabzcWubg"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-13T03:00:00Z",
-    "game": "paint_war",
-    "title": "Which Color Paints the Most? \ud83c\udfa8"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "glass_break",
@@ -139,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7516,
-    "likes": 77,
-    "avg_views": 940
+    "views": 7562,
+    "likes": 78,
+    "avg_views": 945
    },
    {
     "game": "gravity_race",
@@ -149,13 +143,6 @@
     "views": 1811,
     "likes": 6,
     "avg_views": 906
-   },
-   {
-    "game": "paint_war",
-    "videos": 11,
-    "views": 9801,
-    "likes": 63,
-    "avg_views": 891
    },
    {
     "game": "ball_battle",
@@ -168,7 +155,7 @@
     "game": "ring_battle",
     "videos": 13,
     "views": 11248,
-    "likes": 132,
+    "likes": 133,
     "avg_views": 865
    },
    {
@@ -177,6 +164,13 @@
     "views": 3349,
     "likes": 21,
     "avg_views": 837
+   },
+   {
+    "game": "paint_war",
+    "videos": 12,
+    "views": 9801,
+    "likes": 63,
+    "avg_views": 817
    },
    {
     "game": "maze_race",
@@ -188,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14643,
+    "views": 14676,
     "likes": 118,
-    "avg_views": 505
+    "avg_views": 506
    },
    {
     "game": "brain_teaser",
@@ -339,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2147
+  "last_48h": 1298
  },
  "social": null,
  "social_age_h": null,
@@ -458,7 +452,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 0,
+  "yt_subs": 1,
   "yt_views": 2201,
   "tt_views": null,
   "ig_views": null
