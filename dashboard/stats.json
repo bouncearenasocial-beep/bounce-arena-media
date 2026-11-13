@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:05:01-08:00",
+ "updated": "2026-11-13T13:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76849,
@@ -9,8 +9,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 0,
-    "likes": 0,
+    "views": 10,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -72,7 +72,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 281,
+    "views": 288,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -193,8 +193,8 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 14841,
-    "likes": 118,
+    "views": 14861,
+    "likes": 119,
     "avg_views": 495
    },
    {
@@ -344,7 +344,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2024
+  "last_48h": 2034
  },
  "social": null,
  "social_age_h": null,
