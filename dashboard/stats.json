@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:05:02-08:00",
+ "updated": "2026-11-13T02:05:02-08:00",
  "youtube": {
   "subs": 50,
   "views": 76027,
@@ -18,7 +18,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 457,
+    "views": 529,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7870,
+    "views": 7942,
     "likes": 84,
-    "avg_views": 984
+    "avg_views": 993
    },
    {
     "game": "gravity_race",
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1644
+  "last_48h": 1716
  },
  "social": null,
  "social_age_h": null,
