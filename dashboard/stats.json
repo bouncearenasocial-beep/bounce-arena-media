@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:05:02-08:00",
+ "updated": "2026-11-13T03:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76027,
@@ -18,8 +18,8 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 529,
-    "likes": 7,
+    "views": 624,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
    },
@@ -45,7 +45,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 931,
+    "views": 934,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -63,7 +63,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 176,
+    "views": 201,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -90,7 +90,7 @@
     "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-10T18:00:18Z",
-    "views": 946,
+    "views": 947,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7942,
-    "likes": 84,
-    "avg_views": 993
+    "views": 8037,
+    "likes": 85,
+    "avg_views": 1005
    },
    {
     "game": "gravity_race",
@@ -154,9 +154,9 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11251,
+    "views": 11254,
     "likes": 133,
-    "avg_views": 865
+    "avg_views": 866
    },
    {
     "game": "ring_escape",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14703,
+    "views": 14729,
     "likes": 118,
-    "avg_views": 507
+    "avg_views": 508
    },
    {
     "game": "brain_teaser",
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1716
+  "last_48h": 1839
  },
  "social": null,
  "social_age_h": null,
