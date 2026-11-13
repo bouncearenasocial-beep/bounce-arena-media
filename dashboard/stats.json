@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:05:01-08:00",
+ "updated": "2026-11-13T15:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76849,
@@ -9,7 +9,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -18,8 +18,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 10,
-    "likes": 1,
+    "views": 17,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -132,7 +132,7 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9292,
+    "views": 9290,
     "likes": 57,
     "avg_views": 1032
    },
@@ -188,14 +188,14 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 14881,
-    "likes": 119,
+    "views": 14888,
+    "likes": 120,
     "avg_views": 496
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1078,
+    "views": 1079,
     "likes": 20,
     "avg_views": 270
    },
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1968
+  "last_48h": 1976
  },
  "social": null,
  "social_age_h": null,
