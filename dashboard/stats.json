@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-13T13:05:01-08:00",
+ "updated": "2026-11-13T14:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76849,
-  "videos": 112,
+  "videos": 113,
   "recent": [
+   {
+    "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
+    "game": "brain_teaser",
+    "published": "2026-11-13T22:00:20Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=FJTR7iuax_k"
+   },
    {
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
@@ -18,7 +27,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 27,
+    "views": 28,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -45,7 +54,7 @@
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-12T18:00:29Z",
-    "views": 17,
+    "views": 18,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ihJkobJNnrY"
@@ -54,7 +63,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 945,
+    "views": 950,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -63,7 +72,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 73,
+    "views": 74,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -72,7 +81,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 288,
+    "views": 308,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -103,23 +112,9 @@
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
-   },
-   {
-    "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
-    "game": "ring_escape",
-    "published": "2026-11-10T03:00:21Z",
-    "views": 982,
-    "likes": 10,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=or6T5DpYay0"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-13T22:00:00Z",
-    "game": "brain_teaser",
-    "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color"
-   },
    {
     "time": "2026-11-14T03:00:00Z",
     "game": "ball_battle",
@@ -137,7 +132,7 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9290,
+    "views": 9292,
     "likes": 57,
     "avg_views": 1032
    },
@@ -158,9 +153,9 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10599,
+    "views": 10604,
     "likes": 126,
-    "avg_views": 883
+    "avg_views": 884
    },
    {
     "game": "ball_battle",
@@ -179,7 +174,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9831,
+    "views": 9832,
     "likes": 63,
     "avg_views": 819
    },
@@ -193,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 14861,
+    "views": 14881,
     "likes": 119,
-    "avg_views": 495
+    "avg_views": 496
    },
    {
     "game": "brain_teaser",
-    "videos": 3,
-    "views": 1079,
+    "videos": 4,
+    "views": 1078,
     "likes": 20,
-    "avg_views": 360
+    "avg_views": 270
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2034
+  "last_48h": 1968
  },
  "social": null,
  "social_age_h": null,
