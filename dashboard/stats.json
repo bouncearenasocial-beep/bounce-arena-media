@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-13T00:05:02-08:00",
+ "updated": "2026-11-13T01:05:02-08:00",
  "youtube": {
   "subs": 50,
-  "views": 74727,
+  "views": 76027,
   "videos": 111,
   "recent": [
    {
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 0,
+    "views": 6,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -18,8 +18,8 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 378,
-    "likes": 5,
+    "views": 457,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
    },
@@ -36,7 +36,7 @@
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-12T18:00:29Z",
-    "views": 4,
+    "views": 8,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ihJkobJNnrY"
@@ -82,7 +82,7 @@
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
     "views": 836,
-    "likes": 8,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
    },
@@ -99,7 +99,7 @@
     "title": "Can It Escape 28 Rings in 45 Seconds? \u2b55",
     "game": "ring_escape",
     "published": "2026-11-10T03:00:21Z",
-    "views": 977,
+    "views": 979,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=or6T5DpYay0"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7791,
-    "likes": 81,
-    "avg_views": 974
+    "views": 7870,
+    "likes": 84,
+    "avg_views": 984
    },
    {
     "game": "gravity_race",
@@ -161,14 +161,14 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3349,
+    "views": 3351,
     "likes": 21,
-    "avg_views": 837
+    "avg_views": 838
    },
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9801,
+    "views": 9807,
     "likes": 63,
     "avg_views": 817
    },
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 29,
-    "views": 14700,
+    "views": 14703,
     "likes": 118,
     "avg_views": 507
    },
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1555
+  "last_48h": 1644
  },
  "social": null,
  "social_age_h": null,
@@ -448,7 +448,7 @@
  ],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 615,
+  "yt_views": 1915,
   "tt_views": null,
   "ig_views": null
  }
