@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:05:01-08:00",
+ "updated": "2026-11-13T12:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76849,
@@ -72,7 +72,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 288,
+    "views": 281,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -193,7 +193,7 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 14851,
+    "views": 14841,
     "likes": 118,
     "avg_views": 495
    },
@@ -336,6 +336,11 @@
    {
     "date": "2026-11-10",
     "views": 1594,
+    "subs": 0
+   },
+   {
+    "date": "2026-11-11",
+    "views": 2396,
     "subs": 0
    }
   ],
