@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T02:05:02-08:00",
+ "updated": "2026-11-14T03:05:01-08:00",
  "youtube": {
-  "subs": 51,
+  "subs": 52,
   "views": 77400,
   "videos": 114,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 793,
+    "views": 911,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -18,7 +18,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 90,
+    "views": 132,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -27,8 +27,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 713,
-    "likes": 10,
+    "views": 779,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -63,7 +63,7 @@
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-12T18:00:29Z",
-    "views": 28,
+    "views": 31,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ihJkobJNnrY"
@@ -90,7 +90,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 309,
+    "views": 311,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-15T04:00:00Z",
+    "game": "other",
+    "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -154,9 +160,9 @@
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9515,
+    "views": 9633,
     "likes": 102,
-    "avg_views": 865
+    "avg_views": 876
    },
    {
     "game": "ring_escape",
@@ -182,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15589,
-    "likes": 128,
-    "avg_views": 520
+    "views": 15660,
+    "likes": 129,
+    "avg_views": 522
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1170,
+    "views": 1212,
     "likes": 21,
-    "avg_views": 292
+    "avg_views": 303
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +334,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2655
+  "last_48h": 2884
  },
  "social": null,
  "social_age_h": null,
@@ -340,7 +346,7 @@
   },
   "sleep": {
    "start": "2026-11-14 01:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "compilation": {
@@ -358,7 +364,7 @@
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
    "last": "11/14/2026 1:00:00 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/15/2026 4:00:00 AM",
@@ -447,7 +453,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 1373,
   "tt_views": null,
   "ig_views": null
