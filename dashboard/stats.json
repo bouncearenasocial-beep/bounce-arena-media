@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:05:02-08:00",
+ "updated": "2026-11-14T02:05:02-08:00",
  "youtube": {
   "subs": 51,
   "views": 77400,
@@ -9,7 +9,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 697,
+    "views": 793,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -27,7 +27,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 626,
+    "views": 713,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -154,9 +154,9 @@
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9419,
+    "views": 9515,
     "likes": 102,
-    "avg_views": 856
+    "avg_views": 865
    },
    {
     "game": "ring_escape",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15502,
+    "views": 15589,
     "likes": 128,
-    "avg_views": 517
+    "avg_views": 520
    },
    {
     "game": "brain_teaser",
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2472
+  "last_48h": 2655
  },
  "social": null,
  "social_age_h": null,
