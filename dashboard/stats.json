@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:05:01-08:00",
+ "updated": "2026-11-14T04:05:01-08:00",
  "youtube": {
   "subs": 52,
   "views": 77400,
@@ -9,8 +9,8 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 911,
-    "likes": 9,
+    "views": 916,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
    },
@@ -27,8 +27,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 779,
-    "likes": 11,
+    "views": 876,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -36,7 +36,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 65,
+    "views": 77,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -160,8 +160,8 @@
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9633,
-    "likes": 102,
+    "views": 9638,
+    "likes": 103,
     "avg_views": 876
    },
    {
@@ -174,9 +174,9 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9870,
+    "views": 9882,
     "likes": 63,
-    "avg_views": 822
+    "avg_views": 824
    },
    {
     "game": "maze_race",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15660,
-    "likes": 129,
-    "avg_views": 522
+    "views": 15757,
+    "likes": 128,
+    "avg_views": 525
    },
    {
     "game": "brain_teaser",
@@ -334,7 +334,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2884
+  "last_48h": 2998
  },
  "social": null,
  "social_age_h": null,
