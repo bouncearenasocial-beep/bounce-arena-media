@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-14T12:05:02-08:00",
+ "updated": "2026-11-14T13:05:02-08:00",
  "youtube": {
   "subs": 52,
-  "views": 77400,
+  "views": 79344,
   "videos": 115,
   "recent": [
    {
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 6,
+    "views": 29,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -27,7 +27,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 247,
+    "views": 293,
     "likes": 2,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -36,7 +36,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 932,
+    "views": 930,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -45,7 +45,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 97,
+    "views": 100,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -135,7 +135,7 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 7310,
+    "views": 7311,
     "likes": 71,
     "avg_views": 1044
    },
@@ -156,7 +156,7 @@
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1812,
+    "views": 1813,
     "likes": 6,
     "avg_views": 906
    },
@@ -184,9 +184,9 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9903,
+    "views": 9906,
     "likes": 63,
-    "avg_views": 825
+    "avg_views": 826
    },
    {
     "game": "maze_race",
@@ -198,16 +198,16 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 15828,
+    "views": 15849,
     "likes": 128,
     "avg_views": 511
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1327,
+    "views": 1373,
     "likes": 22,
-    "avg_views": 332
+    "avg_views": 343
    },
    {
     "game": "weekly_compilation",
@@ -349,7 +349,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3180
+  "last_48h": 3250
  },
  "social": null,
  "social_age_h": null,
@@ -467,7 +467,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 551,
+  "yt_views": 2495,
   "tt_views": null,
   "ig_views": null
  }
