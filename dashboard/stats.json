@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:05:01-08:00",
+ "updated": "2026-11-13T21:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 77400,
@@ -9,8 +9,8 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 61,
-    "likes": 1,
+    "views": 272,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
    },
@@ -18,7 +18,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 60,
+    "views": 74,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -27,7 +27,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 310,
+    "views": 365,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -36,7 +36,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 38,
+    "views": 54,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -45,7 +45,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 962,
+    "views": 963,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -54,7 +54,7 @@
     "title": "Season 4 Doubles Tournament: The Full Bracket \ud83c\udfc6 BOOMERANG & FROST Wins It All?",
     "game": "other",
     "published": "2026-11-12T20:00:33Z",
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XvQECfX0FK0"
@@ -63,7 +63,7 @@
     "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-12T18:00:29Z",
-    "views": 19,
+    "views": 25,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=ihJkobJNnrY"
@@ -99,7 +99,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 937,
+    "views": 938,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -119,14 +119,14 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 8386,
+    "views": 8387,
     "likes": 87,
     "avg_views": 1048
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9295,
+    "views": 9296,
     "likes": 57,
     "avg_views": 1033
    },
@@ -161,16 +161,16 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9842,
+    "views": 9858,
     "likes": 63,
-    "avg_views": 820
+    "avg_views": 822
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 8783,
-    "likes": 94,
-    "avg_views": 798
+    "views": 8994,
+    "likes": 95,
+    "avg_views": 818
    },
    {
     "game": "maze_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15183,
+    "views": 15244,
     "likes": 126,
-    "avg_views": 506
+    "avg_views": 508
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1138,
+    "views": 1152,
     "likes": 21,
-    "avg_views": 284
+    "avg_views": 288
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1451
+  "last_48h": 1755
  },
  "social": null,
  "social_age_h": null,
@@ -452,7 +452,7 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 0,
   "yt_views": 2673,
   "tt_views": null,
   "ig_views": null
