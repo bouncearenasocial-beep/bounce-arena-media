@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:05:01-08:00",
+ "updated": "2026-11-14T08:05:01-08:00",
  "youtube": {
   "subs": 52,
   "views": 77400,
@@ -18,7 +18,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 201,
+    "views": 220,
     "likes": 2,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -27,7 +27,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 926,
+    "views": 925,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -36,7 +36,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 77,
+    "views": 97,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -90,7 +90,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 311,
+    "views": 312,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -115,6 +115,11 @@
    }
   ],
   "upcoming": [
+   {
+    "time": "2026-11-14T18:00:00Z",
+    "game": "tournament",
+    "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?"
+   },
    {
     "time": "2026-11-15T04:00:00Z",
     "game": "other",
@@ -174,9 +179,9 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9882,
+    "views": 9902,
     "likes": 63,
-    "avg_views": 824
+    "avg_views": 825
    },
    {
     "game": "maze_race",
@@ -188,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15809,
+    "views": 15811,
     "likes": 128,
     "avg_views": 527
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1281,
+    "views": 1300,
     "likes": 22,
-    "avg_views": 320
+    "avg_views": 325
    },
    {
     "game": "weekly_compilation",
@@ -334,15 +339,15 @@
     "subs": 0
    }
   ],
-  "last_48h": 3127
+  "last_48h": 3165
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-13 08:00:01",
-   "done": true,
-   "failures": 1
+   "start": "2026-11-14 08:00:01",
+   "done": false,
+   "failures": 0
   },
   "sleep": {
    "start": "2026-11-14 01:00:01",
@@ -357,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/14/2026 8:00:00 AM",
-   "last": "11/13/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/15/2026 8:00:00 AM",
+   "last": "11/14/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
@@ -449,9 +454,7 @@
    }
   ]
  },
- "problems": [
-  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 2,
   "yt_views": 1373,
