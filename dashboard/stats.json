@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:05:01-08:00",
+ "updated": "2026-11-13T22:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 77400,
@@ -9,8 +9,8 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 272,
-    "likes": 2,
+    "views": 375,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
    },
@@ -18,7 +18,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 74,
+    "views": 60,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -27,8 +27,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 365,
-    "likes": 8,
+    "views": 432,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -159,18 +159,18 @@
     "avg_views": 839
    },
    {
+    "game": "ball_battle",
+    "videos": 11,
+    "views": 9097,
+    "likes": 99,
+    "avg_views": 827
+   },
+   {
     "game": "paint_war",
     "videos": 12,
     "views": 9858,
     "likes": 63,
     "avg_views": 822
-   },
-   {
-    "game": "ball_battle",
-    "videos": 11,
-    "views": 8994,
-    "likes": 95,
-    "avg_views": 818
    },
    {
     "game": "maze_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15244,
-    "likes": 126,
-    "avg_views": 508
+    "views": 15311,
+    "likes": 127,
+    "avg_views": 510
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1152,
+    "views": 1138,
     "likes": 21,
-    "avg_views": 288
+    "avg_views": 284
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1755
+  "last_48h": 1911
  },
  "social": null,
  "social_age_h": null,
