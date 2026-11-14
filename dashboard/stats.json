@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:05:01-08:00",
+ "updated": "2026-11-14T09:05:01-08:00",
  "youtube": {
   "subs": 52,
   "views": 77400,
@@ -18,7 +18,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 220,
+    "views": 247,
     "likes": 2,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -27,7 +27,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 925,
+    "views": 929,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -46,7 +46,7 @@
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
     "views": 964,
-    "likes": 10,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
    },
@@ -72,7 +72,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 959,
+    "views": 960,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -90,7 +90,7 @@
     "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-11T18:00:12Z",
-    "views": 312,
+    "views": 311,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
@@ -99,7 +99,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 932,
+    "views": 933,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -121,6 +121,16 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?"
    },
    {
+    "time": "2026-11-14T22:00:00Z",
+    "game": "algo_war",
+    "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?"
+   },
+   {
+    "time": "2026-11-15T03:00:00Z",
+    "game": "ring_battle",
+    "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0"
+   },
+   {
     "time": "2026-11-15T04:00:00Z",
     "game": "other",
     "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads"
@@ -129,15 +139,15 @@
   "by_game": [
    {
     "game": "algo_war",
-    "videos": 8,
-    "views": 8389,
-    "likes": 87,
-    "avg_views": 1049
+    "videos": 7,
+    "views": 7306,
+    "likes": 70,
+    "avg_views": 1044
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9290,
+    "views": 9292,
     "likes": 57,
     "avg_views": 1032
    },
@@ -158,14 +168,14 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10613,
+    "views": 10614,
     "likes": 126,
     "avg_views": 884
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9645,
+    "views": 9646,
     "likes": 103,
     "avg_views": 877
    },
@@ -179,30 +189,30 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9902,
+    "views": 9903,
     "likes": 63,
     "avg_views": 825
    },
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3151,
+    "views": 3152,
     "likes": 19,
     "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15811,
+    "views": 15814,
     "likes": 128,
     "avg_views": 527
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1300,
+    "views": 1327,
     "likes": 22,
-    "avg_views": 325
+    "avg_views": 332
    },
    {
     "game": "weekly_compilation",
@@ -339,14 +349,14 @@
     "subs": 0
    }
   ],
-  "last_48h": 3165
+  "last_48h": 3196
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-14 08:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -364,7 +374,7 @@
   "Bounce Arena Daily": {
    "next": "11/15/2026 8:00:00 AM",
    "last": "11/14/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
@@ -457,7 +467,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1373,
+  "yt_views": 551,
   "tt_views": null,
   "ig_views": null
  }
