@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T00:05:01-08:00",
+ "updated": "2026-11-14T01:05:02-08:00",
  "youtube": {
-  "subs": 50,
+  "subs": 51,
   "views": 77400,
   "videos": 114,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 574,
+    "views": 697,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -27,7 +27,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 553,
+    "views": 626,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -36,7 +36,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 54,
+    "views": 65,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -45,7 +45,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 963,
+    "views": 964,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -72,7 +72,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 954,
+    "views": 956,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -81,7 +81,7 @@
     "title": "Which Line Reaches the Star? \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-11T22:00:21Z",
-    "views": 74,
+    "views": 76,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
@@ -99,7 +99,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 938,
+    "views": 932,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -108,7 +108,7 @@
     "title": "12 Algorithms Fight. Only One Survives \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-10T22:00:28Z",
-    "views": 842,
+    "views": 841,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
@@ -119,16 +119,16 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 8387,
+    "views": 8388,
     "likes": 87,
     "avg_views": 1048
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9296,
+    "views": 9290,
     "likes": 57,
-    "avg_views": 1033
+    "avg_views": 1032
    },
    {
     "game": "squish_split",
@@ -147,49 +147,49 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10608,
+    "views": 10610,
     "likes": 126,
     "avg_views": 884
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9296,
+    "views": 9419,
     "likes": 102,
-    "avg_views": 845
+    "avg_views": 856
    },
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3357,
+    "views": 3358,
     "likes": 21,
-    "avg_views": 839
+    "avg_views": 840
    },
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9858,
+    "views": 9870,
     "likes": 63,
     "avg_views": 822
    },
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3150,
+    "views": 3151,
     "likes": 19,
     "avg_views": 788
    },
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15435,
+    "views": 15502,
     "likes": 128,
-    "avg_views": 514
+    "avg_views": 517
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1168,
+    "views": 1170,
     "likes": 21,
     "avg_views": 292
    },
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2264
+  "last_48h": 2472
  },
  "social": null,
  "social_age_h": null,
@@ -339,8 +339,8 @@
    "failures": 1
   },
   "sleep": {
-   "start": "2026-11-07 01:00:01",
-   "done": true,
+   "start": "2026-11-14 01:00:01",
+   "done": false,
    "failures": 0
   },
   "compilation": {
@@ -357,8 +357,8 @@
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
-   "last": "11/7/2026 1:00:00 AM",
-   "result": "0"
+   "last": "11/14/2026 1:00:00 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/15/2026 4:00:00 AM",
@@ -447,8 +447,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 0,
-  "yt_views": 2673,
+  "yt_subs": 1,
+  "yt_views": 1373,
   "tt_views": null,
   "ig_views": null
  }
