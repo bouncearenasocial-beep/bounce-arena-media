@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-13T18:05:01-08:00",
+ "updated": "2026-11-13T19:05:02-08:00",
  "youtube": {
   "subs": 50,
-  "views": 76849,
-  "videos": 113,
+  "views": 77400,
+  "videos": 114,
   "recent": [
+   {
+    "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
+    "game": "ball_battle",
+    "published": "2026-11-14T03:00:26Z",
+    "views": 1,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
+   },
    {
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 59,
-    "likes": 0,
+    "views": 60,
+    "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
    },
@@ -18,8 +27,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 156,
-    "likes": 1,
+    "views": 244,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -27,7 +36,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 28,
+    "views": 38,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -90,7 +99,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 934,
+    "views": 937,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -103,24 +112,9 @@
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=b49Q1KGzn6g"
-   },
-   {
-    "title": "Season 4 Doubles Semifinal 2: MEDIC & SPIKES vs BLINK & LASER \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-11-10T18:00:18Z",
-    "views": 950,
-    "likes": 4,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=jU_RtaOUhYs"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-14T03:00:00Z",
-    "game": "ball_battle",
-    "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
@@ -132,9 +126,9 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9292,
+    "views": 9295,
     "likes": 57,
-    "avg_views": 1032
+    "avg_views": 1033
    },
    {
     "game": "squish_split",
@@ -158,25 +152,25 @@
     "avg_views": 884
    },
    {
-    "game": "ball_battle",
-    "videos": 10,
-    "views": 8722,
-    "likes": 93,
-    "avg_views": 872
-   },
-   {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3355,
+    "views": 3357,
     "likes": 21,
     "avg_views": 839
    },
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9832,
+    "views": 9842,
     "likes": 63,
-    "avg_views": 819
+    "avg_views": 820
+   },
+   {
+    "game": "ball_battle",
+    "videos": 11,
+    "views": 8723,
+    "likes": 93,
+    "avg_views": 793
    },
    {
     "game": "maze_race",
@@ -188,15 +182,15 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15029,
-    "likes": 119,
-    "avg_views": 501
+    "views": 15117,
+    "likes": 124,
+    "avg_views": 504
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1137,
-    "likes": 20,
+    "views": 1138,
+    "likes": 21,
     "avg_views": 284
    },
    {
@@ -339,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2179
+  "last_48h": 1325
  },
  "social": null,
  "social_age_h": null,
@@ -458,8 +452,8 @@
   "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
  ],
  "delta_24h": {
-  "yt_subs": 2,
-  "yt_views": 2122,
+  "yt_subs": 1,
+  "yt_views": 2673,
   "tt_views": null,
   "ig_views": null
  }
