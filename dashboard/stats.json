@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:05:01-08:00",
+ "updated": "2026-11-14T00:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 77400,
@@ -9,8 +9,8 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 489,
-    "likes": 8,
+    "views": 574,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
    },
@@ -27,7 +27,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 499,
+    "views": 553,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -152,18 +152,18 @@
     "avg_views": 884
    },
    {
+    "game": "ball_battle",
+    "videos": 11,
+    "views": 9296,
+    "likes": 102,
+    "avg_views": 845
+   },
+   {
     "game": "ring_escape",
     "videos": 4,
     "views": 3357,
     "likes": 21,
     "avg_views": 839
-   },
-   {
-    "game": "ball_battle",
-    "videos": 11,
-    "views": 9211,
-    "likes": 101,
-    "avg_views": 837
    },
    {
     "game": "paint_war",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 15381,
+    "views": 15435,
     "likes": 128,
-    "avg_views": 513
+    "avg_views": 514
    },
    {
     "game": "brain_teaser",
@@ -202,11 +202,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-17",
-    "views": 2553,
-    "subs": 3
-   },
    {
     "date": "2026-10-18",
     "views": 3002,
@@ -333,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2125
+  "last_48h": 2264
  },
  "social": null,
  "social_age_h": null,
@@ -361,7 +356,7 @@
    "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
-   "next": "11/14/2026 12:00:00 AM",
+   "next": "11/21/2026 12:00:00 AM",
    "last": "11/7/2026 1:00:00 AM",
    "result": "0"
   },
