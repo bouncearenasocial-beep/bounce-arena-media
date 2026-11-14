@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:05:02-08:00",
+ "updated": "2026-11-14T12:05:02-08:00",
  "youtube": {
   "subs": 52,
   "views": 77400,
@@ -18,7 +18,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 923,
+    "views": 930,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -36,7 +36,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 929,
+    "views": 932,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -54,8 +54,8 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 964,
-    "likes": 11,
+    "views": 968,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
    },
@@ -81,7 +81,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 960,
+    "views": 961,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -108,7 +108,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 933,
+    "views": 936,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -135,16 +135,16 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 7306,
-    "likes": 70,
+    "views": 7310,
+    "likes": 71,
     "avg_views": 1044
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9292,
+    "views": 9295,
     "likes": 57,
-    "avg_views": 1032
+    "avg_views": 1033
    },
    {
     "game": "squish_split",
@@ -163,16 +163,16 @@
    {
     "game": "ring_battle",
     "videos": 12,
-    "views": 10616,
+    "views": 10617,
     "likes": 126,
     "avg_views": 885
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9646,
+    "views": 9653,
     "likes": 103,
-    "avg_views": 877
+    "avg_views": 878
    },
    {
     "game": "ring_escape",
@@ -198,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 15825,
+    "views": 15828,
     "likes": 128,
-    "avg_views": 510
+    "avg_views": 511
    },
    {
     "game": "brain_teaser",
@@ -342,9 +342,14 @@
     "date": "2026-11-11",
     "views": 2396,
     "subs": 0
+   },
+   {
+    "date": "2026-11-12",
+    "views": 1660,
+    "subs": 2
    }
   ],
-  "last_48h": 3169
+  "last_48h": 3180
  },
  "social": null,
  "social_age_h": null,
