@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:05:02-08:00",
+ "updated": "2026-11-14T11:05:02-08:00",
  "youtube": {
   "subs": 52,
   "views": 77400,
@@ -9,7 +9,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 0,
+    "views": 6,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -27,7 +27,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 238,
+    "views": 247,
     "likes": 2,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -36,7 +36,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 930,
+    "views": 929,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -108,7 +108,7 @@
     "title": "Can the Balls Break 1,238 HP of Glass? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-11T03:00:17Z",
-    "views": 936,
+    "views": 933,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=GjCBx9L8DwY"
@@ -135,16 +135,16 @@
    {
     "game": "algo_war",
     "videos": 7,
-    "views": 7307,
+    "views": 7306,
     "likes": 70,
     "avg_views": 1044
    },
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9295,
+    "views": 9292,
     "likes": 57,
-    "avg_views": 1033
+    "avg_views": 1032
    },
    {
     "game": "squish_split",
@@ -198,16 +198,16 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 15820,
+    "views": 15825,
     "likes": 128,
     "avg_views": 510
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1318,
+    "views": 1327,
     "likes": 22,
-    "avg_views": 330
+    "avg_views": 332
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +344,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3155
+  "last_48h": 3169
  },
  "social": null,
  "social_age_h": null,
