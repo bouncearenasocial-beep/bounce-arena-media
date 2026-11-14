@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:05:01-08:00",
+ "updated": "2026-11-13T16:05:01-08:00",
  "youtube": {
   "subs": 50,
   "views": 76849,
@@ -18,8 +18,8 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 17,
-    "likes": 2,
+    "views": 44,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
    },
@@ -132,7 +132,7 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9290,
+    "views": 9292,
     "likes": 57,
     "avg_views": 1032
    },
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 30,
-    "views": 14888,
-    "likes": 120,
-    "avg_views": 496
+    "views": 14915,
+    "likes": 119,
+    "avg_views": 497
    },
    {
     "game": "brain_teaser",
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 1976
+  "last_48h": 2003
  },
  "social": null,
  "social_age_h": null,
