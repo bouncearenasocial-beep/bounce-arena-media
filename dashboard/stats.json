@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:05:02-08:00",
+ "updated": "2026-11-15T03:05:01-08:00",
  "youtube": {
   "subs": 53,
   "views": 79721,
@@ -9,8 +9,8 @@
     "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads",
     "game": "other",
     "published": "2026-11-15T04:00:09Z",
-    "views": 0,
-    "likes": 0,
+    "views": 3,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gVe5010Dhw4"
    },
@@ -18,8 +18,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 753,
-    "likes": 9,
+    "views": 908,
+    "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    },
@@ -27,8 +27,8 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 376,
-    "likes": 5,
+    "views": 441,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
    },
@@ -54,8 +54,8 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 385,
-    "likes": 4,
+    "views": 423,
+    "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
    },
@@ -81,7 +81,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 990,
+    "views": 998,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -119,7 +119,7 @@
    {
     "game": "glass_break",
     "videos": 9,
-    "views": 9297,
+    "views": 9298,
     "likes": 57,
     "avg_views": 1033
    },
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7712,
-    "likes": 76,
-    "avg_views": 964
+    "views": 7785,
+    "likes": 74,
+    "avg_views": 973
    },
    {
     "game": "gravity_race",
@@ -145,18 +145,18 @@
     "avg_views": 906
    },
    {
+    "game": "ring_battle",
+    "videos": 13,
+    "views": 11525,
+    "likes": 134,
+    "avg_views": 887
+   },
+   {
     "game": "ball_battle",
     "videos": 11,
     "views": 9665,
     "likes": 103,
     "avg_views": 879
-   },
-   {
-    "game": "ring_battle",
-    "videos": 13,
-    "views": 11370,
-    "likes": 135,
-    "avg_views": 875
    },
    {
     "game": "ring_escape",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 16149,
+    "views": 16150,
     "likes": 129,
     "avg_views": 521
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1469,
-    "likes": 24,
-    "avg_views": 367
+    "views": 1508,
+    "likes": 26,
+    "avg_views": 377
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3701
+  "last_48h": 3962
  },
  "social": null,
  "social_age_h": null,
@@ -445,7 +445,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 2321,
   "tt_views": null,
   "ig_views": null
