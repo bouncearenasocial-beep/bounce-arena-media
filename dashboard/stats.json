@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-15T11:05:02-08:00",
+ "updated": "2026-11-15T12:05:02-08:00",
  "youtube": {
   "subs": 54,
-  "views": 79721,
-  "videos": 119,
+  "views": 80714,
+  "videos": 120,
   "recent": [
+   {
+    "title": "Bounce Arena Weekly #5: 21 Battles, Races & Showdowns \ud83c\udfc6",
+    "game": "weekly_compilation",
+    "published": "2026-11-15T20:00:31Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=sj6lirg7fQE"
+   },
    {
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
@@ -18,7 +27,7 @@
     "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads",
     "game": "other",
     "published": "2026-11-15T04:00:09Z",
-    "views": 8,
+    "views": 9,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gVe5010Dhw4"
@@ -36,7 +45,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 897,
+    "views": 901,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -45,7 +54,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 587,
+    "views": 590,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -63,7 +72,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 506,
+    "views": 529,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -81,7 +90,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 128,
+    "views": 129,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XvQECfX0FK0"
-   },
-   {
-    "title": "MEDIC vs THUNDER \u2694\ufe0f Quarterfinal 1: Who Moves On?",
-    "game": "tournament",
-    "published": "2026-11-12T18:00:29Z",
-    "views": 40,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=ihJkobJNnrY"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-15T20:00:00Z",
-    "game": "weekly_compilation",
-    "title": "Bounce Arena Weekly #5: 21 Battles, Races & Showdowns \ud83c\udfc6"
-   },
    {
     "time": "2026-11-15T22:00:00Z",
     "game": "brain_teaser",
@@ -135,9 +130,9 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9324,
+    "views": 9329,
     "likes": 98,
-    "avg_views": 1036
+    "avg_views": 1037
    },
    {
     "game": "glass_break",
@@ -163,9 +158,9 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11537,
+    "views": 11538,
     "likes": 134,
-    "avg_views": 887
+    "avg_views": 888
    },
    {
     "game": "ball_battle",
@@ -177,14 +172,14 @@
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3359,
+    "views": 3360,
     "likes": 21,
     "avg_views": 840
    },
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9937,
+    "views": 9938,
     "likes": 63,
     "avg_views": 828
    },
@@ -198,23 +193,23 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16485,
+    "views": 16491,
     "likes": 132,
     "avg_views": 515
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1591,
+    "views": 1616,
     "likes": 26,
-    "avg_views": 398
+    "avg_views": 404
    },
    {
     "game": "weekly_compilation",
-    "videos": 4,
+    "videos": 5,
     "views": 19,
     "likes": 0,
-    "avg_views": 5
+    "avg_views": 4
    }
   ],
   "daily": [
@@ -342,9 +337,14 @@
     "date": "2026-11-12",
     "views": 1660,
     "subs": 2
+   },
+   {
+    "date": "2026-11-13",
+    "views": 2418,
+    "subs": 0
    }
   ],
-  "last_48h": 3929
+  "last_48h": 3960
  },
  "social": null,
  "social_age_h": null,
@@ -462,7 +462,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 2321,
+  "yt_views": 3314,
   "tt_views": null,
   "ig_views": null
  }
