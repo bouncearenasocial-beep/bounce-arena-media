@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:05:02-08:00",
+ "updated": "2026-11-15T15:05:02-08:00",
  "youtube": {
   "subs": 54,
   "views": 80714,
@@ -27,7 +27,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 72,
+    "views": 80,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -54,7 +54,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 901,
+    "views": 923,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -125,9 +125,9 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9329,
+    "views": 9351,
     "likes": 98,
-    "avg_views": 1037
+    "avg_views": 1039
    },
    {
     "game": "glass_break",
@@ -188,7 +188,7 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16612,
+    "views": 16621,
     "likes": 133,
     "avg_views": 519
    },
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3552
+  "last_48h": 3582
  },
  "social": null,
  "social_age_h": null,
