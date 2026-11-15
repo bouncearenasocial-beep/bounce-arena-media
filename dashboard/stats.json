@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:05:02-08:00",
+ "updated": "2026-11-15T01:05:02-08:00",
  "youtube": {
   "subs": 52,
   "views": 79721,
@@ -18,8 +18,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 537,
-    "likes": 7,
+    "views": 651,
+    "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    },
@@ -27,7 +27,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 280,
+    "views": 324,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -54,7 +54,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 356,
+    "views": 385,
     "likes": 4,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -63,7 +63,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 934,
+    "views": 993,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -72,7 +72,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 126,
+    "views": 128,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7608,
+    "views": 7652,
     "likes": 73,
-    "avg_views": 951
+    "avg_views": 956
    },
    {
     "game": "gravity_race",
@@ -154,9 +154,9 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11151,
-    "likes": 133,
-    "avg_views": 858
+    "views": 11266,
+    "likes": 135,
+    "avg_views": 867
    },
    {
     "game": "ring_escape",
@@ -168,7 +168,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9932,
+    "views": 9934,
     "likes": 63,
     "avg_views": 828
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 15964,
+    "views": 16026,
     "likes": 129,
-    "avg_views": 515
+    "avg_views": 517
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1437,
+    "views": 1466,
     "likes": 24,
-    "avg_views": 359
+    "avg_views": 366
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3184
+  "last_48h": 3430
  },
  "social": null,
  "social_age_h": null,
