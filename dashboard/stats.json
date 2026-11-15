@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:05:02-08:00",
+ "updated": "2026-11-15T08:05:02-08:00",
  "youtube": {
   "subs": 53,
   "views": 79721,
@@ -27,7 +27,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 690,
+    "views": 751,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -116,6 +116,11 @@
   ],
   "upcoming": [
    {
+    "time": "2026-11-15T18:00:00Z",
+    "game": "tournament",
+    "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?"
+   },
+   {
     "time": "2026-11-15T20:00:00Z",
     "game": "weekly_compilation",
     "title": "Bounce Arena Weekly #5: 21 Battles, Races & Showdowns \ud83c\udfc6"
@@ -132,9 +137,9 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9117,
+    "views": 9178,
     "likes": 96,
-    "avg_views": 1013
+    "avg_views": 1020
    },
    {
     "game": "squish_split",
@@ -165,18 +170,18 @@
     "avg_views": 879
    },
    {
-    "game": "paint_war",
-    "videos": 11,
-    "views": 9478,
-    "likes": 59,
-    "avg_views": 862
-   },
-   {
     "game": "ring_escape",
     "videos": 4,
     "views": 3359,
     "likes": 21,
     "avg_views": 840
+   },
+   {
+    "game": "paint_war",
+    "videos": 12,
+    "views": 9937,
+    "likes": 63,
+    "avg_views": 828
    },
    {
     "game": "maze_race",
@@ -334,14 +339,14 @@
     "subs": 2
    }
   ],
-  "last_48h": 4467
+  "last_48h": 4528
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-14 08:00:01",
-   "done": true,
+   "start": "2026-11-15 08:00:01",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -357,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/15/2026 8:00:00 AM",
-   "last": "11/14/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/16/2026 8:00:00 AM",
+   "last": "11/15/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
