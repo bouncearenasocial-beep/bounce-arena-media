@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T03:05:01-08:00",
+ "updated": "2026-11-15T04:05:02-08:00",
  "youtube": {
   "subs": 53,
   "views": 79721,
@@ -18,7 +18,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 908,
+    "views": 903,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -27,7 +27,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 441,
+    "views": 497,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7785,
+    "views": 7841,
     "likes": 74,
-    "avg_views": 973
+    "avg_views": 980
    },
    {
     "game": "gravity_race",
@@ -147,9 +147,9 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11525,
+    "views": 11520,
     "likes": 134,
-    "avg_views": 887
+    "avg_views": 886
    },
    {
     "game": "ball_battle",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3962
+  "last_48h": 4013
  },
  "social": null,
  "social_age_h": null,
@@ -361,7 +361,7 @@
    "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
-   "next": "11/15/2026 4:00:00 AM",
+   "next": "11/22/2026 4:00:00 AM",
    "last": "11/8/2026 5:00:00 AM",
    "result": "0"
   }
