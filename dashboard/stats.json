@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T08:05:02-08:00",
+ "updated": "2026-11-15T09:05:02-08:00",
  "youtube": {
-  "subs": 53,
+  "subs": 54,
   "views": 79721,
   "videos": 118,
   "recent": [
@@ -18,7 +18,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 916,
+    "views": 920,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -27,8 +27,8 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 751,
-    "likes": 7,
+    "views": 791,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
    },
@@ -36,8 +36,8 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 467,
-    "likes": 2,
+    "views": 550,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
    },
@@ -54,7 +54,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 448,
+    "views": 506,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -63,7 +63,7 @@
     "title": "SHURIKEN vs SPIKES \u2694\ufe0f Quarterfinal 2: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-13T18:00:26Z",
-    "views": 993,
+    "views": 994,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
@@ -124,6 +124,16 @@
     "time": "2026-11-15T20:00:00Z",
     "game": "weekly_compilation",
     "title": "Bounce Arena Weekly #5: 21 Battles, Races & Showdowns \ud83c\udfc6"
+   },
+   {
+    "time": "2026-11-15T22:00:00Z",
+    "game": "brain_teaser",
+    "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels"
+   },
+   {
+    "time": "2026-11-16T03:00:00Z",
+    "game": "glass_break",
+    "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5"
    }
   ],
   "by_game": [
@@ -137,9 +147,9 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9178,
-    "likes": 96,
-    "avg_views": 1020
+    "views": 9218,
+    "likes": 98,
+    "avg_views": 1024
    },
    {
     "game": "squish_split",
@@ -158,7 +168,7 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11533,
+    "views": 11537,
     "likes": 134,
     "avg_views": 887
    },
@@ -193,16 +203,16 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 16362,
-    "likes": 130,
-    "avg_views": 528
+    "views": 16446,
+    "likes": 132,
+    "avg_views": 531
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1533,
+    "views": 1591,
     "likes": 26,
-    "avg_views": 383
+    "avg_views": 398
    },
    {
     "game": "weekly_compilation",
@@ -339,14 +349,14 @@
     "subs": 2
    }
   ],
-  "last_48h": 4528
+  "last_48h": 4714
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-15 08:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -364,7 +374,7 @@
   "Bounce Arena Daily": {
    "next": "11/16/2026 8:00:00 AM",
    "last": "11/15/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
@@ -456,7 +466,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 2321,
   "tt_views": null,
   "ig_views": null
