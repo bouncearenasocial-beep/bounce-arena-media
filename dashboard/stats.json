@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:05:02-08:00",
+ "updated": "2026-11-15T11:05:02-08:00",
  "youtube": {
   "subs": 54,
   "views": 79721,
@@ -9,7 +9,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -36,7 +36,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 835,
+    "views": 897,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -54,7 +54,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 945,
+    "views": 1009,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -133,18 +133,18 @@
   ],
   "by_game": [
    {
+    "game": "algo_war",
+    "videos": 9,
+    "views": 9324,
+    "likes": 98,
+    "avg_views": 1036
+   },
+   {
     "game": "glass_break",
     "videos": 9,
     "views": 9298,
     "likes": 57,
     "avg_views": 1033
-   },
-   {
-    "game": "algo_war",
-    "videos": 9,
-    "views": 9262,
-    "likes": 98,
-    "avg_views": 1029
    },
    {
     "game": "squish_split",
@@ -170,9 +170,9 @@
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9671,
+    "views": 9735,
     "likes": 104,
-    "avg_views": 879
+    "avg_views": 885
    },
    {
     "game": "ring_escape",
@@ -198,7 +198,7 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16483,
+    "views": 16485,
     "likes": 132,
     "avg_views": 515
    },
@@ -344,7 +344,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3801
+  "last_48h": 3929
  },
  "social": null,
  "social_age_h": null,
