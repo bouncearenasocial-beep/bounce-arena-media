@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-14T18:05:02-08:00",
+ "updated": "2026-11-14T19:05:02-08:00",
  "youtube": {
   "subs": 52,
-  "views": 79344,
-  "videos": 116,
+  "views": 79721,
+  "videos": 117,
   "recent": [
+   {
+    "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
+    "game": "ring_battle",
+    "published": "2026-11-15T03:00:08Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
+   },
    {
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 101,
-    "likes": 2,
+    "views": 132,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
    },
@@ -18,7 +27,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 60,
+    "views": 61,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -27,7 +36,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 930,
+    "views": 931,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -36,8 +45,8 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 311,
-    "likes": 2,
+    "views": 316,
+    "likes": 3,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
    },
@@ -54,7 +63,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 113,
+    "views": 112,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -63,7 +72,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 972,
+    "views": 981,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -90,7 +99,7 @@
     "title": "4 Balls Enter, Only 1 Survives \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-12T03:00:11Z",
-    "views": 961,
+    "views": 962,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
@@ -103,23 +112,9 @@
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VIW0syvp9w4"
-   },
-   {
-    "title": "THE DOUBLES FINAL: BOOMERANG & FROST vs MEDIC & SPIKES \ud83c\udfc6 Who Become Champions?",
-    "game": "tournament",
-    "published": "2026-11-11T18:00:12Z",
-    "views": 312,
-    "likes": 2,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=RO2v2BXfcKU"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-15T03:00:00Z",
-    "game": "ring_battle",
-    "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0"
-   },
    {
     "time": "2026-11-15T04:00:00Z",
     "game": "other",
@@ -144,9 +139,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7416,
-    "likes": 73,
-    "avg_views": 927
+    "views": 7456,
+    "likes": 74,
+    "avg_views": 932
    },
    {
     "game": "gravity_race",
@@ -156,16 +151,9 @@
     "avg_views": 906
    },
    {
-    "game": "ring_battle",
-    "videos": 12,
-    "views": 10617,
-    "likes": 126,
-    "avg_views": 885
-   },
-   {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9653,
+    "views": 9654,
     "likes": 103,
     "avg_views": 878
    },
@@ -179,9 +167,16 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9919,
+    "views": 9918,
     "likes": 63,
-    "avg_views": 827
+    "avg_views": 826
+   },
+   {
+    "game": "ring_battle",
+    "videos": 13,
+    "views": 10618,
+    "likes": 126,
+    "avg_views": 817
    },
    {
     "game": "maze_race",
@@ -193,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 31,
-    "views": 15883,
+    "views": 15884,
     "likes": 128,
     "avg_views": 512
    },
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1391,
-    "likes": 22,
-    "avg_views": 348
+    "views": 1396,
+    "likes": 23,
+    "avg_views": 349
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2448
+  "last_48h": 2373
  },
  "social": null,
  "social_age_h": null,
@@ -462,7 +457,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 1944,
+  "yt_views": 2321,
   "tt_views": null,
   "ig_views": null
  }
