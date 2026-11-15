@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:05:04-08:00",
+ "updated": "2026-11-15T06:05:02-08:00",
  "youtube": {
   "subs": 53,
   "views": 79721,
@@ -9,7 +9,7 @@
     "title": "2 Hour Sleep Visualizer \ud83c\udf19 Calm Drifting Lights, Soft Chimes & Ambient Pads",
     "game": "other",
     "published": "2026-11-15T04:00:09Z",
-    "views": 3,
+    "views": 8,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gVe5010Dhw4"
@@ -18,7 +18,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 903,
+    "views": 916,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -27,8 +27,8 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 561,
-    "likes": 4,
+    "views": 628,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
    },
@@ -45,7 +45,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 940,
+    "views": 945,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -54,7 +54,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 423,
+    "views": 448,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=WEea4b2ksr8"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-15T20:00:00Z",
+    "game": "weekly_compilation",
+    "title": "Bounce Arena Weekly #5: 21 Battles, Races & Showdowns \ud83c\udfc6"
+   }
+  ],
   "by_game": [
    {
     "game": "glass_break",
@@ -132,10 +138,10 @@
    },
    {
     "game": "algo_war",
-    "videos": 8,
-    "views": 7905,
-    "likes": 75,
-    "avg_views": 988
+    "videos": 9,
+    "views": 9055,
+    "likes": 94,
+    "avg_views": 1006
    },
    {
     "game": "gravity_race",
@@ -147,16 +153,23 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11520,
+    "views": 11533,
     "likes": 134,
-    "avg_views": 886
+    "avg_views": 887
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9666,
+    "views": 9671,
     "likes": 104,
     "avg_views": 879
+   },
+   {
+    "game": "paint_war",
+    "videos": 11,
+    "views": 9478,
+    "likes": 59,
+    "avg_views": 862
    },
    {
     "game": "ring_escape",
@@ -164,13 +177,6 @@
     "views": 3359,
     "likes": 21,
     "avg_views": 840
-   },
-   {
-    "game": "paint_war",
-    "videos": 12,
-    "views": 9937,
-    "likes": 63,
-    "avg_views": 828
    },
    {
     "game": "maze_race",
@@ -189,9 +195,9 @@
    {
     "game": "brain_teaser",
     "videos": 4,
-    "views": 1508,
+    "views": 1533,
     "likes": 26,
-    "avg_views": 377
+    "avg_views": 383
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +334,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4078
+  "last_48h": 4193
  },
  "social": null,
  "social_age_h": null,
@@ -345,7 +351,7 @@
   },
   "compilation": {
    "start": "2026-11-15 05:00:05",
-   "done": false,
+   "done": true,
    "failures": 0
   }
  },
@@ -363,7 +369,7 @@
   "Bounce Arena Weekly Compilation": {
    "next": "11/22/2026 4:00:00 AM",
    "last": "11/15/2026 5:00:00 AM",
-   "result": "267009"
+   "result": "0"
   }
  },
  "verified": true,
