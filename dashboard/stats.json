@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:05:02-08:00",
+ "updated": "2026-11-15T05:05:04-08:00",
  "youtube": {
   "subs": 53,
   "views": 79721,
@@ -27,8 +27,8 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 497,
-    "likes": 3,
+    "views": 561,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
    },
@@ -45,8 +45,8 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 939,
-    "likes": 10,
+    "views": 940,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
    },
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 8,
-    "views": 7841,
-    "likes": 74,
-    "avg_views": 980
+    "views": 7905,
+    "likes": 75,
+    "avg_views": 988
    },
    {
     "game": "gravity_race",
@@ -154,8 +154,8 @@
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9665,
-    "likes": 103,
+    "views": 9666,
+    "likes": 104,
     "avg_views": 879
    },
    {
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4013
+  "last_48h": 4078
  },
  "social": null,
  "social_age_h": null,
@@ -344,8 +344,8 @@
    "failures": 0
   },
   "compilation": {
-   "start": "2026-11-08 05:00:03",
-   "done": true,
+   "start": "2026-11-15 05:00:05",
+   "done": false,
    "failures": 0
   }
  },
@@ -362,8 +362,8 @@
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/22/2026 4:00:00 AM",
-   "last": "11/8/2026 5:00:00 AM",
-   "result": "0"
+   "last": "11/15/2026 5:00:00 AM",
+   "result": "267009"
   }
  },
  "verified": true,
