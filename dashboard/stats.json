@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T05:05:02-08:00",
+ "updated": "2026-11-16T06:05:02-08:00",
  "youtube": {
-  "subs": 58,
+  "subs": 59,
   "views": 82783,
   "videos": 122,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 212,
+    "views": 235,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -18,7 +18,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 167,
+    "views": 185,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -36,7 +36,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 608,
+    "views": 665,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9515,
+    "views": 9538,
     "likes": 58,
-    "avg_views": 952
+    "avg_views": 954
    },
    {
     "game": "gravity_race",
@@ -169,7 +169,7 @@
     "game": "paint_war",
     "videos": 12,
     "views": 9938,
-    "likes": 63,
+    "likes": 62,
     "avg_views": 828
    },
    {
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 17317,
+    "views": 17374,
     "likes": 142,
-    "avg_views": 541
+    "avg_views": 543
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1808,
+    "views": 1826,
     "likes": 27,
-    "avg_views": 362
+    "avg_views": 365
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3797
+  "last_48h": 3895
  },
  "social": null,
  "social_age_h": null,
@@ -445,7 +445,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 5,
+  "yt_subs": 6,
   "yt_views": 3062,
   "tt_views": null,
   "ig_views": null
