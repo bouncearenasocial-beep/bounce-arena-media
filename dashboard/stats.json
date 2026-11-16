@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:05:02-08:00",
+ "updated": "2026-11-15T21:05:02-08:00",
  "youtube": {
   "subs": 55,
   "views": 80714,
@@ -54,8 +54,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 922,
-    "likes": 8,
+    "views": 923,
+    "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    },
@@ -72,8 +72,8 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 721,
-    "likes": 5,
+    "views": 733,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
    },
@@ -147,8 +147,8 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11542,
-    "likes": 134,
+    "views": 11543,
+    "likes": 135,
     "avg_views": 888
    },
    {
@@ -182,8 +182,8 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16794,
-    "likes": 135,
+    "views": 16806,
+    "likes": 134,
     "avg_views": 525
    },
    {
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2810
+  "last_48h": 2823
  },
  "social": null,
  "social_age_h": null,
