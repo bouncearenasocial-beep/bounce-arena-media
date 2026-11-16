@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-15T18:05:02-08:00",
+ "updated": "2026-11-15T19:05:02-08:00",
  "youtube": {
   "subs": 55,
   "views": 80714,
-  "videos": 121,
+  "videos": 122,
   "recent": [
+   {
+    "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
+    "game": "glass_break",
+    "published": "2026-11-16T03:00:10Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=eYvqVofBNF0"
+   },
    {
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
-   },
-   {
-    "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
-    "game": "algo_war",
-    "published": "2026-11-12T22:00:32Z",
-    "views": 999,
-    "likes": 12,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=StqXqgZIcig"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-16T03:00:00Z",
-    "game": "glass_break",
-    "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
@@ -130,18 +124,18 @@
     "avg_views": 1039
    },
    {
-    "game": "glass_break",
-    "videos": 9,
-    "views": 9301,
-    "likes": 57,
-    "avg_views": 1033
-   },
-   {
     "game": "squish_split",
     "videos": 5,
     "views": 5042,
     "likes": 35,
     "avg_views": 1008
+   },
+   {
+    "game": "glass_break",
+    "videos": 10,
+    "views": 9301,
+    "likes": 57,
+    "avg_views": 930
    },
    {
     "game": "gravity_race",
@@ -188,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16746,
+    "views": 16747,
     "likes": 134,
     "avg_views": 523
    },
@@ -339,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3728
+  "last_48h": 2718
  },
  "social": null,
  "social_age_h": null,
@@ -457,7 +451,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 3,
-  "yt_views": 1370,
+  "yt_views": 993,
   "tt_views": null,
   "ig_views": null
  }
