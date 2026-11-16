@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:05:02-08:00",
+ "updated": "2026-11-16T12:05:02-08:00",
  "youtube": {
   "subs": 60,
   "views": 82783,
@@ -9,8 +9,8 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 1,
-    "likes": 0,
+    "views": 10,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
    },
@@ -27,7 +27,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 231,
+    "views": 271,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -63,8 +63,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 1022,
-    "likes": 9,
+    "views": 1030,
+    "likes": 10,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    },
@@ -130,8 +130,8 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9393,
-    "likes": 99,
+    "views": 9394,
+    "likes": 100,
     "avg_views": 1044
    },
    {
@@ -158,8 +158,8 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11642,
-    "likes": 135,
+    "views": 11650,
+    "likes": 136,
     "avg_views": 896
    },
    {
@@ -193,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 17653,
-    "likes": 144,
+    "views": 17662,
+    "likes": 145,
     "avg_views": 535
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1872,
+    "views": 1912,
     "likes": 27,
-    "avg_views": 374
+    "avg_views": 382
    },
    {
     "game": "weekly_compilation",
@@ -337,9 +337,14 @@
     "date": "2026-11-13",
     "views": 2418,
     "subs": 0
+   },
+   {
+    "date": "2026-11-14",
+    "views": 2219,
+    "subs": 2
    }
   ],
-  "last_48h": 3425
+  "last_48h": 3482
  },
  "social": null,
  "social_age_h": null,
@@ -457,7 +462,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 6,
-  "yt_views": 3062,
+  "yt_views": 2069,
   "tt_views": null,
   "ig_views": null
  }
