@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:05:02-08:00",
+ "updated": "2026-11-16T09:05:02-08:00",
  "youtube": {
   "subs": 59,
   "views": 82783,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 317,
+    "views": 340,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -36,8 +36,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 776,
-    "likes": 10,
+    "views": 812,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -108,7 +108,7 @@
     "title": "Which Color Paints the Most? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-13T03:00:02Z",
-    "views": 129,
+    "views": 132,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
@@ -122,8 +122,13 @@
    },
    {
     "time": "2026-11-16T22:00:00Z",
-    "game": "other",
+    "game": "algo_war",
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!"
+   },
+   {
+    "time": "2026-11-17T03:00:00Z",
+    "game": "squish_split",
+    "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5"
    }
   ],
   "by_game": [
@@ -144,9 +149,9 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9620,
+    "views": 9644,
     "likes": 59,
-    "avg_views": 962
+    "avg_views": 964
    },
    {
     "game": "gravity_race",
@@ -179,7 +184,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9938,
+    "views": 9941,
     "likes": 62,
     "avg_views": 828
    },
@@ -193,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 17545,
-    "likes": 143,
-    "avg_views": 548
+    "views": 17581,
+    "likes": 144,
+    "avg_views": 549
    },
    {
     "game": "brain_teaser",
@@ -339,14 +344,14 @@
     "subs": 0
    }
   ],
-  "last_48h": 4159
+  "last_48h": 4218
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-16 08:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -364,7 +369,7 @@
   "Bounce Arena Daily": {
    "next": "11/17/2026 8:00:00 AM",
    "last": "11/16/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
@@ -456,7 +461,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 6,
+  "yt_subs": 5,
   "yt_views": 3062,
   "tt_views": null,
   "ig_views": null
