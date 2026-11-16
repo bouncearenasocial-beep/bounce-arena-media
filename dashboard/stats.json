@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-15T21:05:02-08:00",
+ "updated": "2026-11-15T22:05:02-08:00",
  "youtube": {
-  "subs": 55,
-  "views": 80714,
+  "subs": 56,
+  "views": 82783,
   "videos": 122,
   "recent": [
    {
@@ -18,7 +18,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 57,
+    "views": 65,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -36,8 +36,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 171,
-    "likes": 2,
+    "views": 285,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -54,7 +54,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 923,
+    "views": 937,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -64,7 +64,7 @@
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
     "views": 923,
-    "likes": 9,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
    },
@@ -72,7 +72,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 733,
+    "views": 734,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -81,7 +81,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 1010,
+    "views": 1011,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -119,8 +119,8 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9353,
-    "likes": 98,
+    "views": 9347,
+    "likes": 99,
     "avg_views": 1039
    },
    {
@@ -133,7 +133,7 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9308,
+    "views": 9309,
     "likes": 57,
     "avg_views": 931
    },
@@ -147,14 +147,14 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11543,
+    "views": 11555,
     "likes": 135,
-    "avg_views": 888
+    "avg_views": 889
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9736,
+    "views": 9737,
     "likes": 104,
     "avg_views": 885
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16806,
-    "likes": 134,
-    "avg_views": 525
+    "views": 16920,
+    "likes": 135,
+    "avg_views": 529
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1698,
+    "views": 1706,
     "likes": 26,
-    "avg_views": 340
+    "avg_views": 341
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2823
+  "last_48h": 2960
  },
  "social": null,
  "social_age_h": null,
@@ -450,8 +450,8 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 3,
-  "yt_views": 993,
+  "yt_subs": 4,
+  "yt_views": 3062,
   "tt_views": null,
   "ig_views": null
  }
