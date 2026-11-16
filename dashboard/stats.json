@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:05:02-08:00",
+ "updated": "2026-11-16T03:05:02-08:00",
  "youtube": {
   "subs": 57,
   "views": 82783,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 124,
+    "views": 155,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -36,8 +36,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 411,
-    "likes": 5,
+    "views": 453,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9426,
+    "views": 9457,
     "likes": 58,
-    "avg_views": 943
+    "avg_views": 946
    },
    {
     "game": "gravity_race",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 17086,
-    "likes": 138,
-    "avg_views": 534
+    "views": 17128,
+    "likes": 139,
+    "avg_views": 535
    },
    {
     "game": "brain_teaser",
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3406
+  "last_48h": 3479
  },
  "social": null,
  "social_age_h": null,
