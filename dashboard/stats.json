@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T10:05:02-08:00",
+ "updated": "2026-11-16T11:05:02-08:00",
  "youtube": {
-  "subs": 59,
+  "subs": 60,
   "views": 82783,
   "videos": 123,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -81,7 +81,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 866,
+    "views": 901,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -193,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 17617,
+    "views": 17653,
     "likes": 144,
-    "avg_views": 534
+    "avg_views": 535
    },
    {
     "game": "brain_teaser",
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3424
+  "last_48h": 3425
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 5,
+  "yt_subs": 6,
   "yt_views": 3062,
   "tt_views": null,
   "ig_views": null
