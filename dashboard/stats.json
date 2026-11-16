@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:05:02-08:00",
+ "updated": "2026-11-15T20:05:02-08:00",
  "youtube": {
   "subs": 55,
   "views": 80714,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 0,
+    "views": 7,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -18,7 +18,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 20,
+    "views": 57,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -72,8 +72,8 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 673,
-    "likes": 4,
+    "views": 721,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
    },
@@ -90,7 +90,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 553,
+    "views": 554,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9352,
+    "views": 9353,
     "likes": 98,
     "avg_views": 1039
    },
@@ -133,9 +133,9 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9301,
+    "views": 9308,
     "likes": 57,
-    "avg_views": 930
+    "avg_views": 931
    },
    {
     "game": "gravity_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16747,
-    "likes": 134,
-    "avg_views": 523
+    "views": 16794,
+    "likes": 135,
+    "avg_views": 525
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1660,
+    "views": 1698,
     "likes": 26,
-    "avg_views": 332
+    "avg_views": 340
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2718
+  "last_48h": 2810
  },
  "social": null,
  "social_age_h": null,
