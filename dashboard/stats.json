@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:05:02-08:00",
+ "updated": "2026-11-15T16:05:02-08:00",
  "youtube": {
   "subs": 54,
   "views": 80714,
@@ -27,8 +27,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 80,
-    "likes": 1,
+    "views": 125,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -45,7 +45,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 921,
+    "views": 922,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -81,7 +81,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 538,
+    "views": 553,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -108,7 +108,7 @@
     "title": "Splitter vs Spiral vs... Which Algorithm Takes Over? \ud83e\udde0",
     "game": "algo_war",
     "published": "2026-11-12T22:00:32Z",
-    "views": 998,
+    "views": 999,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=StqXqgZIcig"
@@ -125,7 +125,7 @@
    {
     "game": "algo_war",
     "videos": 9,
-    "views": 9351,
+    "views": 9352,
     "likes": 98,
     "avg_views": 1039
    },
@@ -153,7 +153,7 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11541,
+    "views": 11542,
     "likes": 134,
     "avg_views": 888
    },
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16621,
-    "likes": 133,
-    "avg_views": 519
+    "views": 16666,
+    "likes": 134,
+    "avg_views": 521
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1624,
+    "views": 1640,
     "likes": 26,
-    "avg_views": 325
+    "avg_views": 328
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3582
+  "last_48h": 3628
  },
  "social": null,
  "social_age_h": null,
