@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:05:02-08:00",
+ "updated": "2026-11-16T08:05:02-08:00",
  "youtube": {
   "subs": 59,
   "views": 82783,
@@ -9,8 +9,8 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 275,
-    "likes": 1,
+    "views": 317,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
    },
@@ -36,8 +36,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 729,
-    "likes": 9,
+    "views": 776,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -114,7 +114,18 @@
     "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-16T18:00:00Z",
+    "game": "tournament",
+    "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6"
+   },
+   {
+    "time": "2026-11-16T22:00:00Z",
+    "game": "other",
+    "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -133,9 +144,9 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9578,
-    "likes": 58,
-    "avg_views": 958
+    "views": 9620,
+    "likes": 59,
+    "avg_views": 962
    },
    {
     "game": "gravity_race",
@@ -182,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 17498,
-    "likes": 142,
-    "avg_views": 547
+    "views": 17545,
+    "likes": 143,
+    "avg_views": 548
    },
    {
     "game": "brain_teaser",
@@ -328,14 +339,14 @@
     "subs": 0
    }
   ],
-  "last_48h": 4070
+  "last_48h": 4159
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-15 08:00:01",
-   "done": true,
+   "start": "2026-11-16 08:00:01",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -351,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/16/2026 8:00:00 AM",
-   "last": "11/15/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/17/2026 8:00:00 AM",
+   "last": "11/16/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
