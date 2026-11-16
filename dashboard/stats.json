@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-16T12:05:02-08:00",
+ "updated": "2026-11-16T13:05:02-08:00",
  "youtube": {
   "subs": 60,
-  "views": 82783,
+  "views": 83986,
   "videos": 123,
   "recent": [
    {
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 10,
-    "likes": 1,
+    "views": 32,
+    "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
    },
@@ -18,7 +18,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 340,
+    "views": 457,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -27,7 +27,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 271,
+    "views": 284,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -45,8 +45,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 848,
-    "likes": 11,
+    "views": 890,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -64,7 +64,7 @@
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
     "views": 1030,
-    "likes": 10,
+    "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    },
@@ -81,7 +81,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 901,
+    "views": 902,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -90,7 +90,7 @@
     "title": "SPIKES vs FROST \u2694\ufe0f Who Wins?",
     "game": "ball_battle",
     "published": "2026-11-14T03:00:26Z",
-    "views": 1012,
+    "views": 1013,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=c62f3c6UZ_g"
@@ -99,7 +99,7 @@
     "title": "Only Sharp Eyes See Level 3 \ud83d\udc40 Find the Color",
     "game": "brain_teaser",
     "published": "2026-11-13T22:00:20Z",
-    "views": 554,
+    "views": 555,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=FJTR7iuax_k"
@@ -131,7 +131,7 @@
     "game": "algo_war",
     "videos": 9,
     "views": 9394,
-    "likes": 100,
+    "likes": 99,
     "avg_views": 1044
    },
    {
@@ -144,9 +144,9 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 9644,
+    "views": 9761,
     "likes": 59,
-    "avg_views": 964
+    "avg_views": 976
    },
    {
     "game": "gravity_race",
@@ -159,13 +159,13 @@
     "game": "ring_battle",
     "videos": 13,
     "views": 11650,
-    "likes": 136,
+    "likes": 135,
     "avg_views": 896
    },
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9738,
+    "views": 9739,
     "likes": 104,
     "avg_views": 885
    },
@@ -193,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 17662,
-    "likes": 145,
-    "avg_views": 535
+    "views": 17728,
+    "likes": 146,
+    "avg_views": 537
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1912,
+    "views": 1926,
     "likes": 27,
-    "avg_views": 382
+    "avg_views": 385
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +344,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3482
+  "last_48h": 3676
  },
  "social": null,
  "social_age_h": null,
@@ -462,7 +462,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 6,
-  "yt_views": 2069,
+  "yt_views": 3272,
   "tt_views": null,
   "ig_views": null
  }
