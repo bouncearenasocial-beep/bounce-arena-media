@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-16T09:05:02-08:00",
+ "updated": "2026-11-16T10:05:02-08:00",
  "youtube": {
   "subs": 59,
   "views": 82783,
-  "videos": 122,
+  "videos": 123,
   "recent": [
+   {
+    "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
+    "game": "tournament",
+    "published": "2026-11-16T18:00:30Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
+   },
    {
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
@@ -18,7 +27,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 196,
+    "views": 231,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -27,7 +36,7 @@
     "title": "Bounce Arena Weekly #5: 21 Battles, Races & Showdowns \ud83c\udfc6",
     "game": "weekly_compilation",
     "published": "2026-11-15T20:00:31Z",
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=sj6lirg7fQE"
@@ -36,7 +45,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 812,
+    "views": 848,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -103,23 +112,9 @@
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=wQtQHBDNifk"
-   },
-   {
-    "title": "Which Color Paints the Most? \ud83c\udfa8",
-    "game": "paint_war",
-    "published": "2026-11-13T03:00:02Z",
-    "views": 132,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=R5UL3SCUnOU"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-16T18:00:00Z",
-    "game": "tournament",
-    "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6"
-   },
    {
     "time": "2026-11-16T22:00:00Z",
     "game": "algo_war",
@@ -197,24 +192,24 @@
    },
    {
     "game": "tournament",
-    "videos": 32,
-    "views": 17581,
+    "videos": 33,
+    "views": 17617,
     "likes": 144,
-    "avg_views": 549
+    "avg_views": 534
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1837,
+    "views": 1872,
     "likes": 27,
-    "avg_views": 367
+    "avg_views": 374
    },
    {
     "game": "weekly_compilation",
     "videos": 5,
-    "views": 22,
+    "views": 23,
     "likes": 0,
-    "avg_views": 4
+    "avg_views": 5
    }
   ],
   "daily": [
@@ -344,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4218
+  "last_48h": 3424
  },
  "social": null,
  "social_age_h": null,
@@ -419,7 +414,7 @@
     "label": "Semifinal 1",
     "a": "THUNDER",
     "b": "SHURIKEN",
-    "winner": null
+    "winner": "SHURIKEN"
    },
    {
     "id": "SF2",
@@ -431,7 +426,7 @@
    {
     "id": "F",
     "label": "THE FINAL",
-    "a": null,
+    "a": "SHURIKEN",
     "b": null,
     "winner": null
    }
