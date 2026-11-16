@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:05:02-08:00",
+ "updated": "2026-11-15T18:05:02-08:00",
  "youtube": {
   "subs": 55,
   "views": 80714,
@@ -9,7 +9,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 0,
+    "views": 20,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -27,7 +27,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 152,
+    "views": 171,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 32,
-    "views": 16727,
+    "views": 16746,
     "likes": 134,
     "avg_views": 523
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 1640,
+    "views": 1660,
     "likes": 26,
-    "avg_views": 328
+    "avg_views": 332
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3689
+  "last_48h": 3728
  },
  "social": null,
  "social_age_h": null,
