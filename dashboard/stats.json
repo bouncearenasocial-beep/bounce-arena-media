@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:05:02-08:00",
+ "updated": "2026-11-17T15:05:03-08:00",
  "youtube": {
   "subs": 63,
   "views": 87989,
@@ -9,7 +9,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 0,
+    "views": 20,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -18,8 +18,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 54,
-    "likes": 0,
+    "views": 90,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -27,7 +27,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-11-17T03:00:17Z",
-    "views": 905,
+    "views": 909,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
@@ -139,9 +139,9 @@
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5948,
+    "views": 5952,
     "likes": 41,
-    "avg_views": 991
+    "avg_views": 992
    },
    {
     "game": "gravity_race",
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 18707,
-    "likes": 157,
-    "avg_views": 550
+    "views": 18743,
+    "likes": 158,
+    "avg_views": 551
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 2477,
+    "views": 2497,
     "likes": 28,
-    "avg_views": 413
+    "avg_views": 416
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3798
+  "last_48h": 3858
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 3,
+  "yt_subs": 1,
   "yt_views": 4003,
   "tt_views": null,
   "ig_views": null
