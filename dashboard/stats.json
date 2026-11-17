@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:05:02-08:00",
+ "updated": "2026-11-17T09:05:02-08:00",
  "youtube": {
   "subs": 63,
   "views": 84925,
@@ -18,7 +18,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 969,
+    "views": 983,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -27,8 +27,8 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 846,
-    "likes": 11,
+    "views": 887,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
    },
@@ -63,7 +63,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 904,
+    "views": 906,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -90,7 +90,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 975,
+    "views": 976,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -122,17 +122,22 @@
    },
    {
     "time": "2026-11-17T22:00:00Z",
-    "game": "other",
+    "game": "brain_teaser",
     "title": "Count the Balls \ud83e\udde0 3 Levels"
+   },
+   {
+    "time": "2026-11-18T03:00:00Z",
+    "game": "ring_battle",
+    "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3"
    }
   ],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10372,
+    "views": 10389,
     "likes": 116,
-    "avg_views": 1037
+    "avg_views": 1039
    },
    {
     "game": "glass_break",
@@ -158,7 +163,7 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11710,
+    "views": 11713,
     "likes": 135,
     "avg_views": 901
    },
@@ -193,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 18550,
-    "likes": 156,
-    "avg_views": 562
+    "views": 18600,
+    "likes": 157,
+    "avg_views": 564
    },
    {
     "game": "brain_teaser",
@@ -339,14 +344,14 @@
     "subs": 2
    }
   ],
-  "last_48h": 5360
+  "last_48h": 5417
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-17 08:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -364,7 +369,7 @@
   "Bounce Arena Daily": {
    "next": "11/18/2026 8:00:00 AM",
    "last": "11/17/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
