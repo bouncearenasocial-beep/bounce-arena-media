@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:05:02-08:00",
+ "updated": "2026-11-17T13:05:02-08:00",
  "youtube": {
   "subs": 63,
   "views": 87989,
@@ -9,8 +9,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1,
-    "likes": 0,
+    "views": 35,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -18,7 +18,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-11-17T03:00:17Z",
-    "views": 905,
+    "views": 908,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
@@ -27,7 +27,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 983,
+    "views": 987,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -36,7 +36,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 887,
+    "views": 895,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -54,7 +54,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 832,
+    "views": 842,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -130,7 +130,7 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10390,
+    "views": 10394,
     "likes": 116,
     "avg_views": 1039
    },
@@ -144,9 +144,9 @@
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5948,
+    "views": 5951,
     "likes": 41,
-    "avg_views": 991
+    "avg_views": 992
    },
    {
     "game": "gravity_race",
@@ -193,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 18646,
-    "likes": 157,
-    "avg_views": 548
+    "views": 18688,
+    "likes": 158,
+    "avg_views": 550
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 2477,
+    "views": 2487,
     "likes": 28,
-    "avg_views": 495
+    "avg_views": 497
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +344,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4561
+  "last_48h": 4620
  },
  "social": null,
  "social_age_h": null,
@@ -462,7 +462,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 3,
-  "yt_views": 5206,
+  "yt_views": 4003,
   "tt_views": null,
   "ig_views": null
  }
