@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:05:02-08:00",
+ "updated": "2026-11-17T12:05:02-08:00",
  "youtube": {
   "subs": 63,
   "views": 87989,
@@ -9,7 +9,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 0,
+    "views": 1,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -54,7 +54,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 780,
+    "views": 832,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -193,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 18645,
+    "views": 18646,
     "likes": 157,
     "avg_views": 548
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 2425,
+    "views": 2477,
     "likes": 28,
-    "avg_views": 485
+    "avg_views": 495
    },
    {
     "game": "weekly_compilation",
@@ -337,9 +337,14 @@
     "date": "2026-11-14",
     "views": 2219,
     "subs": 2
+   },
+   {
+    "date": "2026-11-15",
+    "views": 2326,
+    "subs": 4
    }
   ],
-  "last_48h": 4512
+  "last_48h": 4561
  },
  "social": null,
  "social_age_h": null,
