@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:05:02-08:00",
+ "updated": "2026-11-17T05:05:02-08:00",
  "youtube": {
   "subs": 62,
   "views": 84925,
@@ -18,7 +18,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 958,
+    "views": 969,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -27,8 +27,8 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 576,
-    "likes": 9,
+    "views": 643,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
    },
@@ -45,8 +45,8 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 601,
-    "likes": 3,
+    "views": 647,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
    },
@@ -63,7 +63,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 903,
+    "views": 904,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -99,7 +99,7 @@
     "title": "Quarterfinal 3: SPEAR vs GROWER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-14T18:00:02Z",
-    "views": 906,
+    "views": 907,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=T8saDavEK7g"
@@ -119,9 +119,9 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10358,
+    "views": 10370,
     "likes": 116,
-    "avg_views": 1036
+    "avg_views": 1037
    },
    {
     "game": "glass_break",
@@ -168,7 +168,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9941,
+    "views": 9938,
     "likes": 62,
     "avg_views": 828
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 18288,
-    "likes": 154,
-    "avg_views": 554
+    "views": 18345,
+    "likes": 155,
+    "avg_views": 556
    },
    {
     "game": "brain_teaser",
     "videos": 5,
-    "views": 2242,
-    "likes": 29,
-    "avg_views": 448
+    "views": 2288,
+    "likes": 28,
+    "avg_views": 458
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 4832
+  "last_48h": 4957
  },
  "social": null,
  "social_age_h": null,
