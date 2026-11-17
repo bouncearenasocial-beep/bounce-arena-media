@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:05:02-08:00",
+ "updated": "2026-11-16T23:05:02-08:00",
  "youtube": {
   "subs": 62,
   "views": 84925,
@@ -9,8 +9,8 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-11-17T03:00:17Z",
-    "views": 417,
-    "likes": 1,
+    "views": 496,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
    },
@@ -18,8 +18,8 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 914,
-    "likes": 17,
+    "views": 938,
+    "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
    },
@@ -27,7 +27,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 250,
+    "views": 383,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -81,7 +81,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 1050,
+    "views": 1083,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -119,9 +119,9 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10314,
-    "likes": 116,
-    "avg_views": 1031
+    "views": 10338,
+    "likes": 117,
+    "avg_views": 1034
    },
    {
     "game": "glass_break",
@@ -133,9 +133,9 @@
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5460,
-    "likes": 36,
-    "avg_views": 910
+    "views": 5539,
+    "likes": 39,
+    "avg_views": 923
    },
    {
     "game": "gravity_race",
@@ -147,9 +147,9 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11671,
+    "views": 11704,
     "likes": 135,
-    "avg_views": 898
+    "avg_views": 900
    },
    {
     "game": "ball_battle",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 17954,
+    "views": 18087,
     "likes": 148,
-    "avg_views": 544
+    "avg_views": 548
    },
    {
     "game": "brain_teaser",
@@ -333,7 +333,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3819
+  "last_48h": 4055
  },
  "social": null,
  "social_age_h": null,
