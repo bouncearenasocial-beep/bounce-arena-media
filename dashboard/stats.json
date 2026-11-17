@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:05:02-08:00",
+ "updated": "2026-11-16T18:05:03-08:00",
  "youtube": {
   "subs": 62,
   "views": 83986,
@@ -9,8 +9,8 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 471,
-    "likes": 12,
+    "views": 606,
+    "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
    },
@@ -18,7 +18,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 187,
+    "views": 225,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -54,7 +54,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 892,
+    "views": 893,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -132,9 +132,9 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 9865,
-    "likes": 111,
-    "avg_views": 986
+    "views": 10001,
+    "likes": 116,
+    "avg_views": 1000
    },
    {
     "game": "glass_break",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 33,
-    "views": 17885,
+    "views": 17924,
     "likes": 148,
-    "avg_views": 542
+    "avg_views": 543
    },
    {
     "game": "brain_teaser",
@@ -339,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3432
+  "last_48h": 3606
  },
  "social": null,
  "social_age_h": null,
