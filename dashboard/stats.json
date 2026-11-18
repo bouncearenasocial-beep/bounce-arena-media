@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:05:03-08:00",
+ "updated": "2026-11-17T18:05:02-08:00",
  "youtube": {
   "subs": 64,
   "views": 87989,
@@ -9,17 +9,17 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 222,
+    "views": 254,
     "likes": 1,
-    "comments": 0,
+    "comments": 1,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
    },
    {
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 214,
-    "likes": 4,
+    "views": 264,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -108,7 +108,7 @@
     "title": "SPORES + FLOOD + BOMBER vs PULSE + DFS + STARBURST \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-14T22:00:40Z",
-    "views": 977,
+    "views": 979,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HdMaapN6xoU"
@@ -125,7 +125,7 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10407,
+    "views": 10409,
     "likes": 116,
     "avg_views": 1041
    },
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 18875,
-    "likes": 161,
-    "avg_views": 555
+    "views": 18925,
+    "likes": 163,
+    "avg_views": 557
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 2735,
+    "views": 2767,
     "likes": 29,
-    "avg_views": 456
+    "avg_views": 461
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4193
+  "last_48h": 4275
  },
  "social": null,
  "social_age_h": null,
