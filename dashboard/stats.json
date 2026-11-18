@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-18T09:05:03-08:00",
+ "updated": "2026-11-18T10:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
-  "videos": 128,
+  "videos": 129,
   "recent": [
+   {
+    "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
+    "game": "tournament",
+    "published": "2026-11-18T18:00:03Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=HBlg_503YvM"
+   },
    {
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 953,
+    "views": 956,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -18,7 +27,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 783,
+    "views": 864,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -27,7 +36,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1611,
+    "views": 1650,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -45,7 +54,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1011,
+    "views": 1016,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -63,7 +72,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 955,
+    "views": 956,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -103,23 +112,9 @@
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=gVe5010Dhw4"
-   },
-   {
-    "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
-    "game": "ring_battle",
-    "published": "2026-11-15T03:00:08Z",
-    "views": 1090,
-    "likes": 9,
-    "comments": 1,
-    "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-18T18:00:00Z",
-    "game": "tournament",
-    "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?"
-   },
    {
     "time": "2026-11-18T22:00:00Z",
     "game": "algo_war",
@@ -135,14 +130,14 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10411,
+    "views": 10416,
     "likes": 116,
-    "avg_views": 1041
+    "avg_views": 1042
    },
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 10262,
+    "views": 10263,
     "likes": 60,
     "avg_views": 1026
    },
@@ -163,7 +158,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12680,
+    "views": 12683,
     "likes": 144,
     "avg_views": 906
    },
@@ -184,7 +179,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9935,
+    "views": 9936,
     "likes": 62,
     "avg_views": 828
    },
@@ -197,17 +192,17 @@
    },
    {
     "game": "tournament",
-    "videos": 34,
-    "views": 20304,
+    "videos": 35,
+    "views": 20343,
     "likes": 172,
-    "avg_views": 597
+    "avg_views": 581
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3315,
+    "views": 3396,
     "likes": 31,
-    "avg_views": 552
+    "avg_views": 566
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 6176
+  "last_48h": 5399
  },
  "social": null,
  "social_age_h": null,
