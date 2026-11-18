@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:05:02-08:00",
+ "updated": "2026-11-18T04:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
@@ -18,17 +18,17 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 521,
-    "likes": 3,
-    "comments": 1,
+    "views": 671,
+    "likes": 4,
+    "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
    },
    {
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1058,
-    "likes": 12,
+    "views": 1273,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -54,7 +54,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 901,
+    "views": 902,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -168,7 +168,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9940,
+    "views": 9935,
     "likes": 62,
     "avg_views": 828
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 19734,
-    "likes": 169,
-    "avg_views": 580
+    "views": 19952,
+    "likes": 170,
+    "avg_views": 587
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3048,
-    "likes": 31,
-    "avg_views": 508
+    "views": 3198,
+    "likes": 32,
+    "avg_views": 533
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 5338
+  "last_48h": 5704
  },
  "social": null,
  "social_age_h": null,
