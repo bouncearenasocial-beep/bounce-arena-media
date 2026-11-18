@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:05:02-08:00",
+ "updated": "2026-11-18T06:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
@@ -18,8 +18,8 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 671,
-    "likes": 4,
+    "views": 783,
+    "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
    },
@@ -27,8 +27,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1545,
-    "likes": 13,
+    "views": 1611,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -90,8 +90,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 962,
-    "likes": 12,
+    "views": 964,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 20224,
+    "views": 20293,
     "likes": 170,
-    "avg_views": 595
+    "avg_views": 597
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3201,
-    "likes": 32,
-    "avg_views": 534
+    "views": 3313,
+    "likes": 31,
+    "avg_views": 552
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 5992
+  "last_48h": 6170
  },
  "social": null,
  "social_age_h": null,
@@ -445,7 +445,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 3,
+  "yt_subs": 2,
   "yt_views": 3823,
   "tt_views": null,
   "ig_views": null
