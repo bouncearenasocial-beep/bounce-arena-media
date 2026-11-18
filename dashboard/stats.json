@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:05:02-08:00",
+ "updated": "2026-11-18T02:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 648,
+    "views": 743,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -18,7 +18,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 416,
+    "views": 521,
     "likes": 3,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -27,8 +27,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 832,
-    "likes": 8,
+    "views": 992,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -54,7 +54,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 898,
+    "views": 901,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -145,18 +145,18 @@
     "avg_views": 907
    },
    {
+    "game": "ring_battle",
+    "videos": 14,
+    "views": 12480,
+    "likes": 144,
+    "avg_views": 891
+   },
+   {
     "game": "ball_battle",
     "videos": 11,
     "views": 9743,
     "likes": 104,
     "avg_views": 886
-   },
-   {
-    "game": "ring_battle",
-    "videos": 14,
-    "views": 12385,
-    "likes": 144,
-    "avg_views": 885
    },
    {
     "game": "ring_escape",
@@ -168,7 +168,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9940,
+    "views": 9935,
     "likes": 62,
     "avg_views": 828
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 19507,
-    "likes": 165,
-    "avg_views": 574
+    "views": 19668,
+    "likes": 169,
+    "avg_views": 578
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 2943,
+    "views": 3048,
     "likes": 31,
-    "avg_views": 490
+    "avg_views": 508
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4715
+  "last_48h": 5078
  },
  "social": null,
  "social_age_h": null,
