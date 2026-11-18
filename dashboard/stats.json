@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:05:03-08:00",
+ "updated": "2026-11-17T22:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 87989,
@@ -9,8 +9,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 2,
-    "likes": 0,
+    "views": 137,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
    },
@@ -18,7 +18,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 391,
+    "views": 407,
     "likes": 2,
     "comments": 1,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -27,7 +27,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 466,
+    "views": 554,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -36,7 +36,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-11-17T03:00:17Z",
-    "views": 912,
+    "views": 913,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
@@ -45,7 +45,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1003,
+    "views": 1006,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -63,7 +63,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 955,
+    "views": 954,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -72,7 +72,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 877,
+    "views": 876,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -90,7 +90,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 959,
+    "views": 961,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -119,23 +119,23 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10412,
+    "views": 10416,
     "likes": 116,
-    "avg_views": 1041
+    "avg_views": 1042
    },
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 10260,
+    "views": 10259,
     "likes": 60,
     "avg_views": 1026
    },
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5955,
+    "views": 5956,
     "likes": 41,
-    "avg_views": 992
+    "avg_views": 993
    },
    {
     "game": "gravity_race",
@@ -147,9 +147,16 @@
    {
     "game": "ball_battle",
     "videos": 11,
-    "views": 9742,
+    "views": 9743,
     "likes": 104,
     "avg_views": 886
+   },
+   {
+    "game": "ring_battle",
+    "videos": 14,
+    "views": 11871,
+    "likes": 138,
+    "avg_views": 848
    },
    {
     "game": "ring_escape",
@@ -157,13 +164,6 @@
     "views": 3362,
     "likes": 21,
     "avg_views": 840
-   },
-   {
-    "game": "ring_battle",
-    "videos": 14,
-    "views": 11736,
-    "likes": 135,
-    "avg_views": 838
    },
    {
     "game": "paint_war",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 19135,
+    "views": 19227,
     "likes": 164,
-    "avg_views": 563
+    "avg_views": 566
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 2914,
+    "views": 2930,
     "likes": 30,
-    "avg_views": 486
+    "avg_views": 488
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3671
+  "last_48h": 3914
  },
  "social": null,
  "social_age_h": null,
