@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:05:03-08:00",
+ "updated": "2026-11-17T16:05:03-08:00",
  "youtube": {
   "subs": 63,
   "views": 87989,
@@ -9,7 +9,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 20,
+    "views": 140,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -18,8 +18,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 90,
-    "likes": 1,
+    "views": 134,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -36,7 +36,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 991,
+    "views": 1000,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -63,7 +63,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 832,
+    "views": 868,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -81,7 +81,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 950,
+    "views": 951,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -99,7 +99,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 1089,
+    "views": 1090,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
@@ -125,9 +125,9 @@
    {
     "game": "algo_war",
     "videos": 10,
-    "views": 10398,
+    "views": 10407,
     "likes": 116,
-    "avg_views": 1040
+    "avg_views": 1041
    },
    {
     "game": "glass_break",
@@ -153,7 +153,7 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11713,
+    "views": 11718,
     "likes": 135,
     "avg_views": 901
    },
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 18743,
-    "likes": 158,
-    "avg_views": 551
+    "views": 18788,
+    "likes": 159,
+    "avg_views": 553
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 2497,
+    "views": 2653,
     "likes": 28,
-    "avg_views": 416
+    "avg_views": 442
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 3858
+  "last_48h": 4031
  },
  "social": null,
  "social_age_h": null,
