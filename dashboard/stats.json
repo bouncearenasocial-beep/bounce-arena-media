@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T16:05:03-08:00",
+ "updated": "2026-11-17T17:05:03-08:00",
  "youtube": {
-  "subs": 63,
+  "subs": 64,
   "views": 87989,
   "videos": 127,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 140,
-    "likes": 0,
+    "views": 222,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
    },
@@ -18,8 +18,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 134,
-    "likes": 2,
+    "views": 214,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -81,7 +81,7 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 951,
+    "views": 957,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
@@ -153,9 +153,9 @@
    {
     "game": "ring_battle",
     "videos": 13,
-    "views": 11718,
+    "views": 11725,
     "likes": 135,
-    "avg_views": 901
+    "avg_views": 902
    },
    {
     "game": "ball_battle",
@@ -174,7 +174,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9939,
+    "views": 9940,
     "likes": 62,
     "avg_views": 828
    },
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 18788,
-    "likes": 159,
-    "avg_views": 553
+    "views": 18875,
+    "likes": 161,
+    "avg_views": 555
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 2653,
-    "likes": 28,
-    "avg_views": 442
+    "views": 2735,
+    "likes": 29,
+    "avg_views": 456
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 4031
+  "last_48h": 4193
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 4003,
   "tt_views": null,
   "ig_views": null
