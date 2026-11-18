@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:05:02-08:00",
+ "updated": "2026-11-18T03:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 743,
+    "views": 937,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -27,8 +27,8 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 992,
-    "likes": 11,
+    "views": 1058,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    },
@@ -147,9 +147,9 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12480,
+    "views": 12674,
     "likes": 144,
-    "avg_views": 891
+    "avg_views": 905
    },
    {
     "game": "ball_battle",
@@ -168,7 +168,7 @@
    {
     "game": "paint_war",
     "videos": 12,
-    "views": 9935,
+    "views": 9940,
     "likes": 62,
     "avg_views": 828
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 19668,
+    "views": 19734,
     "likes": 169,
-    "avg_views": 578
+    "avg_views": 580
    },
    {
     "game": "brain_teaser",
@@ -328,7 +328,7 @@
     "subs": 4
    }
   ],
-  "last_48h": 5078
+  "last_48h": 5338
  },
  "social": null,
  "social_age_h": null,
