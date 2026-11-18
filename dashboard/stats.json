@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:05:02-08:00",
+ "updated": "2026-11-18T08:05:03-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 953,
+    "views": 956,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -27,7 +27,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1611,
+    "views": 1636,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -54,7 +54,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 902,
+    "views": 905,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -63,7 +63,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 955,
+    "views": 956,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -72,7 +72,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 881,
+    "views": 882,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -90,8 +90,8 @@
     "title": "Quarterfinal 4: SCYTHE vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-15T18:00:10Z",
-    "views": 965,
-    "likes": 14,
+    "views": 967,
+    "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=P8kIJs9qy9k"
    },
@@ -108,13 +108,19 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udd34 \ud83d\udfe0",
     "game": "ring_battle",
     "published": "2026-11-15T03:00:08Z",
-    "views": 1102,
+    "views": 1090,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=jJh1TZnSUoA"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-18T18:00:00Z",
+    "game": "tournament",
+    "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -126,7 +132,7 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 10262,
+    "views": 10263,
     "likes": 60,
     "avg_views": 1026
    },
@@ -138,18 +144,18 @@
     "avg_views": 993
    },
    {
-    "game": "ring_battle",
-    "videos": 14,
-    "views": 12692,
-    "likes": 144,
-    "avg_views": 907
-   },
-   {
     "game": "gravity_race",
     "videos": 2,
     "views": 1814,
     "likes": 6,
     "avg_views": 907
+   },
+   {
+    "game": "ring_battle",
+    "videos": 14,
+    "views": 12683,
+    "likes": 144,
+    "avg_views": 906
    },
    {
     "game": "ball_battle",
@@ -182,14 +188,14 @@
    {
     "game": "tournament",
     "videos": 34,
-    "views": 20295,
-    "likes": 171,
-    "avg_views": 597
+    "views": 20329,
+    "likes": 172,
+    "avg_views": 598
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3314,
+    "views": 3315,
     "likes": 31,
     "avg_views": 552
    },
@@ -328,14 +334,14 @@
     "subs": 4
    }
   ],
-  "last_48h": 6173
+  "last_48h": 6204
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-17 08:00:01",
-   "done": true,
+   "start": "2026-11-18 08:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -351,9 +357,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/18/2026 8:00:00 AM",
-   "last": "11/17/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/19/2026 8:00:00 AM",
+   "last": "11/18/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
@@ -368,55 +374,55 @@
  },
  "verified": true,
  "tournament": {
-  "season": 5,
+  "season": 6,
   "matches": [
    {
     "id": "QF1",
-    "label": "Quarterfinal 1",
-    "a": "MEDIC",
-    "b": "THUNDER",
-    "winner": "THUNDER"
+    "label": "Doubles Quarterfinal 1",
+    "a": "BLINK & PUFFER",
+    "b": "CANNON & SHIELD",
+    "winner": null
    },
    {
     "id": "QF2",
-    "label": "Quarterfinal 2",
-    "a": "SHURIKEN",
-    "b": "SPIKES",
-    "winner": "SHURIKEN"
+    "label": "Doubles Quarterfinal 2",
+    "a": "THUNDER & BOW",
+    "b": "BOOMERANG & FROST",
+    "winner": null
    },
    {
     "id": "QF3",
-    "label": "Quarterfinal 3",
-    "a": "SPEAR",
-    "b": "GROWER",
-    "winner": "SPEAR"
+    "label": "Doubles Quarterfinal 3",
+    "a": "SPIKES & AXE",
+    "b": "GHOST & CLAWS",
+    "winner": null
    },
    {
     "id": "QF4",
-    "label": "Quarterfinal 4",
-    "a": "SCYTHE",
-    "b": "PUFFER",
-    "winner": "PUFFER"
+    "label": "Doubles Quarterfinal 4",
+    "a": "LASER & HAMMER",
+    "b": "SPEAR & SCYTHE",
+    "winner": null
    },
    {
     "id": "SF1",
-    "label": "Semifinal 1",
-    "a": "THUNDER",
-    "b": "SHURIKEN",
-    "winner": "SHURIKEN"
+    "label": "Doubles Semifinal 1",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "SF2",
-    "label": "Semifinal 2",
-    "a": "SPEAR",
-    "b": "PUFFER",
-    "winner": "PUFFER"
+    "label": "Doubles Semifinal 2",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "F",
-    "label": "THE FINAL",
-    "a": "SHURIKEN",
-    "b": "PUFFER",
+    "label": "THE DOUBLES FINAL",
+    "a": null,
+    "b": null,
     "winner": null
    }
   ],
@@ -440,6 +446,11 @@
     "season": 4,
     "mode": "2v2",
     "champion": "BOOMERANG & FROST"
+   },
+   {
+    "season": 5,
+    "mode": "1v1",
+    "champion": "SHURIKEN"
    }
   ]
  },
