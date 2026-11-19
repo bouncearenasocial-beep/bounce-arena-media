@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:05:02-08:00",
+ "updated": "2026-11-19T11:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -27,7 +27,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 778,
+    "views": 819,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -36,7 +36,7 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 942,
+    "views": 943,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
@@ -45,7 +45,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 970,
+    "views": 974,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -54,7 +54,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 882,
+    "views": 910,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -63,7 +63,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1683,
+    "views": 1687,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -72,7 +72,7 @@
     "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
     "game": "squish_split",
     "published": "2026-11-17T03:00:17Z",
-    "views": 914,
+    "views": 899,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
@@ -81,7 +81,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1024,
+    "views": 1018,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -90,7 +90,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 928,
+    "views": 927,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -142,21 +142,21 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11201,
+    "views": 11236,
     "likes": 122,
-    "avg_views": 1018
+    "avg_views": 1021
    },
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5957,
+    "views": 5942,
     "likes": 41,
-    "avg_views": 993
+    "avg_views": 990
    },
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13763,
+    "views": 13767,
     "likes": 164,
     "avg_views": 918
    },
@@ -198,16 +198,16 @@
    {
     "game": "tournament",
     "videos": 36,
-    "views": 21424,
+    "views": 21428,
     "likes": 178,
     "avg_views": 595
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3415,
+    "views": 3443,
     "likes": 31,
-    "avg_views": 569
+    "avg_views": 574
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +344,7 @@
     "subs": 6
    }
   ],
-  "last_48h": 3731
+  "last_48h": 3805
  },
  "social": null,
  "social_age_h": null,
