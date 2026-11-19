@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:05:02-08:00",
+ "updated": "2026-11-19T09:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -9,7 +9,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 155,
+    "views": 158,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -18,8 +18,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 722,
-    "likes": 4,
+    "views": 760,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -27,8 +27,8 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 807,
-    "likes": 9,
+    "views": 942,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
    },
@@ -45,7 +45,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 882,
+    "views": 883,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -81,7 +81,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 923,
+    "views": 928,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -119,6 +119,21 @@
     "time": "2026-11-19T18:00:00Z",
     "game": "tournament",
     "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?"
+   },
+   {
+    "time": "2026-11-19T20:00:00Z",
+    "game": "other",
+    "title": "Season 5 Tournament: The Full Bracket \ud83c\udfc6 SHURIKEN Wins It All?"
+   },
+   {
+    "time": "2026-11-19T22:00:00Z",
+    "game": "brain_teaser",
+    "title": "Spot the Difference \ud83d\udc40 3 Levels"
+   },
+   {
+    "time": "2026-11-20T03:00:00Z",
+    "game": "paint_war",
+    "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8"
    }
   ],
   "by_game": [
@@ -132,9 +147,9 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11145,
-    "likes": 120,
-    "avg_views": 1013
+    "views": 11183,
+    "likes": 121,
+    "avg_views": 1017
    },
    {
     "game": "squish_split",
@@ -145,10 +160,10 @@
    },
    {
     "game": "ring_battle",
-    "videos": 14,
-    "views": 12698,
-    "likes": 144,
-    "avg_views": 907
+    "videos": 15,
+    "views": 13763,
+    "likes": 164,
+    "avg_views": 918
    },
    {
     "game": "gravity_race",
@@ -174,7 +189,7 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9902,
+    "views": 9905,
     "likes": 106,
     "avg_views": 825
    },
@@ -188,14 +203,14 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 21284,
-    "likes": 180,
-    "avg_views": 608
+    "views": 21424,
+    "likes": 178,
+    "avg_views": 612
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3415,
+    "views": 3416,
     "likes": 31,
     "avg_views": 569
    },
@@ -334,14 +349,14 @@
     "subs": 6
    }
   ],
-  "last_48h": 5219
+  "last_48h": 5396
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-19 08:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -359,7 +374,7 @@
   "Bounce Arena Daily": {
    "next": "11/20/2026 8:00:00 AM",
    "last": "11/19/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
