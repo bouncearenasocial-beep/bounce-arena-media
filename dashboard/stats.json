@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:05:02-08:00",
+ "updated": "2026-11-19T13:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -108,7 +108,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 954,
+    "views": 951,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -130,7 +130,7 @@
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 10260,
+    "views": 10258,
     "likes": 60,
     "avg_views": 1026
    },
@@ -193,7 +193,7 @@
    {
     "game": "tournament",
     "videos": 36,
-    "views": 21428,
+    "views": 21429,
     "likes": 178,
     "avg_views": 595
    },
