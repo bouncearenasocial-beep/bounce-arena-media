@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:05:02-08:00",
+ "updated": "2026-11-18T23:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -9,8 +9,8 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 83,
-    "likes": 1,
+    "views": 108,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
    },
@@ -18,7 +18,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 200,
+    "views": 250,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -27,8 +27,8 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 295,
-    "likes": 4,
+    "views": 338,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
    },
@@ -45,7 +45,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 876,
+    "views": 880,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -81,7 +81,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 918,
+    "views": 921,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -99,7 +99,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 884,
+    "views": 883,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 10618,
+    "views": 10668,
     "likes": 117,
-    "avg_views": 965
+    "avg_views": 970
    },
    {
     "game": "gravity_race",
@@ -147,8 +147,8 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12691,
-    "likes": 144,
+    "views": 12690,
+    "likes": 115,
     "avg_views": 906
    },
    {
@@ -168,9 +168,9 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9826,
-    "likes": 105,
-    "avg_views": 819
+    "views": 9851,
+    "likes": 106,
+    "avg_views": 821
    },
    {
     "game": "maze_race",
@@ -182,14 +182,14 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 20757,
-    "likes": 174,
-    "avg_views": 593
+    "views": 20803,
+    "likes": 175,
+    "avg_views": 594
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3408,
+    "views": 3411,
     "likes": 31,
     "avg_views": 568
    },
@@ -333,7 +333,7 @@
     "subs": 6
    }
   ],
-  "last_48h": 4091
+  "last_48h": 4213
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 0,
-  "yt_views": 4441,
+  "yt_views": 3682,
   "tt_views": null,
   "ig_views": null
  }
