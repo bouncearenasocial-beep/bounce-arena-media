@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:05:02-08:00",
+ "updated": "2026-11-18T22:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -9,8 +9,8 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 35,
-    "likes": 0,
+    "views": 83,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
    },
@@ -18,8 +18,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 108,
-    "likes": 0,
+    "views": 200,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -27,8 +27,8 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 258,
-    "likes": 3,
+    "views": 295,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
    },
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 10526,
-    "likes": 116,
-    "avg_views": 957
+    "views": 10618,
+    "likes": 117,
+    "avg_views": 965
    },
    {
     "game": "gravity_race",
@@ -148,7 +148,7 @@
     "game": "ring_battle",
     "videos": 14,
     "views": 12691,
-    "likes": 115,
+    "likes": 144,
     "avg_views": 906
    },
    {
@@ -168,9 +168,9 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9778,
-    "likes": 104,
-    "avg_views": 815
+    "views": 9826,
+    "likes": 105,
+    "avg_views": 819
    },
    {
     "game": "maze_race",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 20720,
-    "likes": 173,
-    "avg_views": 592
+    "views": 20757,
+    "likes": 174,
+    "avg_views": 593
    },
    {
     "game": "brain_teaser",
@@ -333,7 +333,7 @@
     "subs": 6
    }
   ],
-  "last_48h": 3914
+  "last_48h": 4091
  },
  "social": null,
  "social_age_h": null,
