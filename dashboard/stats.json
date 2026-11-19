@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:05:02-08:00",
+ "updated": "2026-11-18T18:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 88748,
@@ -18,7 +18,7 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 145,
+    "views": 170,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
@@ -188,7 +188,7 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 20601,
+    "views": 20626,
     "likes": 171,
     "avg_views": 589
    },
@@ -339,7 +339,7 @@
     "subs": 6
    }
   ],
-  "last_48h": 4610
+  "last_48h": 4635
  },
  "social": null,
  "social_age_h": null,
