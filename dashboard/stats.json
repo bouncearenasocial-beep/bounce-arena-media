@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:05:02-08:00",
+ "updated": "2026-11-19T08:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -9,7 +9,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 138,
+    "views": 155,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -18,7 +18,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 653,
+    "views": 722,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -72,7 +72,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1023,
+    "views": 1024,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -90,7 +90,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-16T03:00:10Z",
-    "views": 952,
+    "views": 954,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eYvqVofBNF0"
@@ -99,7 +99,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 883,
+    "views": 886,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -114,21 +114,27 @@
     "url": "https://youtube.com/watch?v=sj6lirg7fQE"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-19T18:00:00Z",
+    "game": "tournament",
+    "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?"
+   }
+  ],
   "by_game": [
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 10258,
+    "views": 10260,
     "likes": 60,
     "avg_views": 1026
    },
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11074,
+    "views": 11145,
     "likes": 120,
-    "avg_views": 1007
+    "avg_views": 1013
    },
    {
     "game": "squish_split",
@@ -168,9 +174,9 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9885,
+    "views": 9902,
     "likes": 106,
-    "avg_views": 824
+    "avg_views": 825
    },
    {
     "game": "maze_race",
@@ -182,14 +188,14 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 21278,
+    "views": 21284,
     "likes": 180,
     "avg_views": 608
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3412,
+    "views": 3415,
     "likes": 31,
     "avg_views": 569
    },
@@ -328,14 +334,14 @@
     "subs": 6
    }
   ],
-  "last_48h": 5133
+  "last_48h": 5219
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-18 08:00:02",
-   "done": true,
+   "start": "2026-11-19 08:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -351,9 +357,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/19/2026 8:00:00 AM",
-   "last": "11/18/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/20/2026 8:00:00 AM",
+   "last": "11/19/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/21/2026 12:00:00 AM",
