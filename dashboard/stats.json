@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:05:03-08:00",
+ "updated": "2026-11-19T03:05:03-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -18,8 +18,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 376,
-    "likes": 3,
+    "views": 423,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -27,8 +27,8 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 485,
-    "likes": 8,
+    "views": 547,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
    },
@@ -133,9 +133,9 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 10795,
-    "likes": 119,
-    "avg_views": 981
+    "views": 10842,
+    "likes": 118,
+    "avg_views": 986
    },
    {
     "game": "ring_battle",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 20949,
-    "likes": 178,
-    "avg_views": 599
+    "views": 21011,
+    "likes": 177,
+    "avg_views": 600
    },
    {
     "game": "brain_teaser",
@@ -328,7 +328,7 @@
     "subs": 6
    }
   ],
-  "last_48h": 4512
+  "last_48h": 4621
  },
  "social": null,
  "social_age_h": null,
