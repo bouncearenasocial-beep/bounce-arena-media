@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:05:02-08:00",
+ "updated": "2026-11-19T06:05:03-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -9,7 +9,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 138,
+    "views": 143,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -18,8 +18,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 525,
-    "likes": 2,
+    "views": 562,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -27,7 +27,7 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 725,
+    "views": 864,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
@@ -36,7 +36,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 966,
+    "views": 965,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -72,7 +72,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1023,
+    "views": 1024,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -81,7 +81,7 @@
     "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-16T18:00:30Z",
-    "views": 923,
+    "views": 922,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
@@ -99,7 +99,7 @@
     "title": "Keep Your Eye on the Red Ball \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-15T22:00:09Z",
-    "views": 883,
+    "views": 886,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rmkO8OoIBvE"
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 10946,
-    "likes": 118,
-    "avg_views": 995
+    "views": 10984,
+    "likes": 120,
+    "avg_views": 999
    },
    {
     "game": "squish_split",
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12694,
+    "views": 12693,
     "likes": 144,
     "avg_views": 907
    },
@@ -168,7 +168,7 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9885,
+    "views": 9890,
     "likes": 106,
     "avg_views": 824
    },
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 35,
-    "views": 21195,
+    "views": 21333,
     "likes": 180,
-    "avg_views": 606
+    "avg_views": 610
    },
    {
     "game": "brain_teaser",
     "videos": 6,
-    "views": 3410,
+    "views": 3413,
     "likes": 31,
-    "avg_views": 568
+    "avg_views": 569
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 6
    }
   ],
-  "last_48h": 4916
+  "last_48h": 5096
  },
  "social": null,
  "social_age_h": null,
