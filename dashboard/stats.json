@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:05:02-08:00",
+ "updated": "2026-11-20T07:05:02-08:00",
  "youtube": {
   "subs": 66,
   "views": 94553,
@@ -45,7 +45,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 196,
+    "views": 208,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -161,9 +161,9 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9943,
+    "views": 9955,
     "likes": 107,
-    "avg_views": 829
+    "avg_views": 830
    },
    {
     "game": "paint_war",
@@ -328,7 +328,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 2556
+  "last_48h": 2568
  },
  "social": null,
  "social_age_h": null,
