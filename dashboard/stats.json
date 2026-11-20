@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-19T22:05:02-08:00",
+ "updated": "2026-11-19T23:05:02-08:00",
  "youtube": {
   "subs": 66,
-  "views": 92430,
+  "views": 94553,
   "videos": 135,
   "recent": [
    {
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 216,
+    "views": 240,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -45,7 +45,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 161,
+    "views": 168,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -108,7 +108,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1018,
+    "views": 1017,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11344,
+    "views": 11343,
     "likes": 123,
     "avg_views": 1031
    },
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13773,
+    "views": 13772,
     "likes": 164,
     "avg_views": 918
    },
@@ -161,7 +161,7 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9908,
+    "views": 9915,
     "likes": 106,
     "avg_views": 826
    },
@@ -175,9 +175,9 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10155,
+    "views": 10179,
     "likes": 63,
-    "avg_views": 781
+    "avg_views": 783
    },
    {
     "game": "tournament",
@@ -189,7 +189,7 @@
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3499,
+    "views": 3498,
     "likes": 32,
     "avg_views": 500
    },
@@ -333,7 +333,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 2301
+  "last_48h": 2332
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 0,
+  "yt_views": 2123,
   "tt_views": null,
   "ig_views": null
  }
