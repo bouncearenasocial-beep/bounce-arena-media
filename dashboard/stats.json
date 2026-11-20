@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-19T18:05:03-08:00",
+ "updated": "2026-11-19T19:05:02-08:00",
  "youtube": {
   "subs": 66,
   "views": 92430,
-  "videos": 134,
+  "videos": 135,
   "recent": [
+   {
+    "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
+    "game": "paint_war",
+    "published": "2026-11-20T03:00:00Z",
+    "views": 0,
+    "likes": 1,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
+   },
    {
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
@@ -27,7 +36,7 @@
     "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-19T18:00:13Z",
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6D5WT8R0pMQ"
@@ -45,7 +54,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 924,
+    "views": 927,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -63,7 +72,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 979,
+    "views": 975,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -81,7 +90,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1691,
+    "views": 1688,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -103,29 +112,14 @@
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
-   },
-   {
-    "title": "Season 5 Semifinal 1: THUNDER vs SHURIKEN \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-11-16T18:00:30Z",
-    "views": 927,
-    "likes": 12,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=e8_p5Wz9mz0"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-20T03:00:00Z",
-    "game": "paint_war",
-    "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11341,
+    "views": 11344,
     "likes": 123,
     "avg_views": 1031
    },
@@ -146,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13772,
+    "views": 13768,
     "likes": 164,
     "avg_views": 918
    },
@@ -165,13 +159,6 @@
     "avg_views": 840
    },
    {
-    "game": "paint_war",
-    "videos": 12,
-    "views": 9939,
-    "likes": 62,
-    "avg_views": 828
-   },
-   {
     "game": "ball_battle",
     "videos": 12,
     "views": 9908,
@@ -186,9 +173,16 @@
     "avg_views": 788
    },
    {
+    "game": "paint_war",
+    "videos": 13,
+    "views": 9939,
+    "likes": 63,
+    "avg_views": 765
+   },
+   {
     "game": "tournament",
     "videos": 36,
-    "views": 21435,
+    "views": 21433,
     "likes": 178,
     "avg_views": 595
    },
@@ -339,7 +333,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 3038
+  "last_48h": 2064
  },
  "social": null,
  "social_age_h": null,
