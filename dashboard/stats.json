@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:05:02-08:00",
+ "updated": "2026-11-19T16:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -63,8 +63,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 978,
-    "likes": 10,
+    "views": 979,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
    },
@@ -146,8 +146,8 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13771,
-    "likes": 165,
+    "views": 13772,
+    "likes": 164,
     "avg_views": 918
    },
    {
@@ -339,7 +339,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 3008
+  "last_48h": 3009
  },
  "social": null,
  "social_age_h": null,
