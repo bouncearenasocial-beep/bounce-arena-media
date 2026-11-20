@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:05:02-08:00",
+ "updated": "2026-11-19T17:05:02-08:00",
  "youtube": {
   "subs": 65,
   "views": 92430,
@@ -9,8 +9,8 @@
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-19T22:00:05Z",
-    "views": 0,
-    "likes": 0,
+    "views": 16,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
    },
@@ -81,7 +81,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1690,
+    "views": 1691,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -188,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 36,
-    "views": 21434,
+    "views": 21435,
     "likes": 178,
     "avg_views": 595
    },
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3460,
-    "likes": 31,
-    "avg_views": 494
+    "views": 3476,
+    "likes": 32,
+    "avg_views": 497
    },
    {
     "game": "weekly_compilation",
@@ -339,7 +339,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 3009
+  "last_48h": 3025
  },
  "social": null,
  "social_age_h": null,
