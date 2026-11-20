@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:05:02-08:00",
+ "updated": "2026-11-19T20:05:03-08:00",
  "youtube": {
   "subs": 66,
   "views": 92430,
@@ -9,7 +9,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 0,
+    "views": 44,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -36,7 +36,7 @@
     "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-19T18:00:13Z",
-    "views": 4,
+    "views": 8,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6D5WT8R0pMQ"
@@ -63,7 +63,7 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 943,
+    "views": 944,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13768,
+    "views": 13767,
     "likes": 164,
     "avg_views": 918
    },
@@ -175,23 +175,23 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 9939,
+    "views": 9983,
     "likes": 63,
-    "avg_views": 765
+    "avg_views": 768
    },
    {
     "game": "tournament",
     "videos": 36,
-    "views": 21433,
+    "views": 21438,
     "likes": 178,
-    "avg_views": 595
+    "avg_views": 596
    },
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3489,
+    "views": 3490,
     "likes": 32,
-    "avg_views": 498
+    "avg_views": 499
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 2064
+  "last_48h": 2113
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 3682,
+  "yt_views": 0,
   "tt_views": null,
   "ig_views": null
  }
