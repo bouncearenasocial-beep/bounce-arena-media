@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:05:02-08:00",
+ "updated": "2026-11-20T02:05:02-08:00",
  "youtube": {
   "subs": 66,
   "views": 94553,
@@ -9,8 +9,8 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 286,
-    "likes": 4,
+    "views": 318,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
    },
@@ -18,7 +18,7 @@
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-19T22:00:05Z",
-    "views": 52,
+    "views": 62,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
@@ -45,7 +45,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 168,
+    "views": 184,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -108,7 +108,7 @@
     "title": "Algorithm Duel: DIAMOND vs RANDOM \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-16T22:00:14Z",
-    "views": 1017,
+    "views": 1018,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=eOoSomNCVxI"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11362,
+    "views": 11363,
     "likes": 124,
     "avg_views": 1033
    },
@@ -161,9 +161,16 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9915,
+    "views": 9931,
     "likes": 106,
-    "avg_views": 826
+    "avg_views": 828
+   },
+   {
+    "game": "paint_war",
+    "videos": 13,
+    "views": 10257,
+    "likes": 65,
+    "avg_views": 789
    },
    {
     "game": "maze_race",
@@ -171,13 +178,6 @@
     "views": 3154,
     "likes": 19,
     "avg_views": 788
-   },
-   {
-    "game": "paint_war",
-    "videos": 13,
-    "views": 10225,
-    "likes": 66,
-    "avg_views": 787
    },
    {
     "game": "tournament",
@@ -189,9 +189,9 @@
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3511,
+    "views": 3521,
     "likes": 32,
-    "avg_views": 502
+    "avg_views": 503
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 3
    }
   ],
-  "last_48h": 2413
+  "last_48h": 2471
  },
  "social": null,
  "social_age_h": null,
