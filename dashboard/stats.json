@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:05:01-08:00",
+ "updated": "2026-11-21T13:05:01-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
@@ -18,7 +18,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-20T18:00:39Z",
-    "views": 65,
+    "views": 74,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=kmNuiD0XY0g"
@@ -27,8 +27,8 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 634,
-    "likes": 4,
+    "views": 659,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
    },
@@ -72,8 +72,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 987,
-    "likes": 9,
+    "views": 993,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -90,7 +90,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 999,
+    "views": 1000,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -99,7 +99,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 932,
+    "views": 934,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -108,7 +108,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1737,
+    "views": 1749,
     "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -135,79 +135,79 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11408,
-    "likes": 125,
-    "avg_views": 1037
+    "views": 11414,
+    "likes": 126,
+    "avg_views": 1038
    },
    {
     "game": "glass_break",
     "videos": 10,
-    "views": 10259,
+    "views": 10261,
     "likes": 60,
     "avg_views": 1026
    },
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5936,
+    "views": 5939,
     "likes": 41,
-    "avg_views": 989
+    "avg_views": 990
    },
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12726,
+    "views": 12730,
     "likes": 144,
     "avg_views": 909
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1814,
+    "views": 1816,
     "likes": 6,
-    "avg_views": 907
+    "avg_views": 908
    },
    {
     "game": "ring_escape",
     "videos": 4,
-    "views": 3362,
+    "views": 3363,
     "likes": 21,
-    "avg_views": 840
+    "avg_views": 841
    },
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9982,
+    "views": 9986,
     "likes": 108,
     "avg_views": 832
    },
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10573,
-    "likes": 66,
-    "avg_views": 813
+    "views": 10602,
+    "likes": 67,
+    "avg_views": 816
    },
    {
     "game": "maze_race",
     "videos": 4,
-    "views": 3154,
+    "views": 3155,
     "likes": 19,
-    "avg_views": 788
+    "avg_views": 789
    },
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21601,
+    "views": 21632,
     "likes": 179,
-    "avg_views": 568
+    "avg_views": 569
    },
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3706,
+    "views": 3708,
     "likes": 34,
-    "avg_views": 529
+    "avg_views": 530
    },
    {
     "game": "weekly_compilation",
@@ -349,7 +349,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 943
+  "last_48h": 977
  },
  "social": null,
  "social_age_h": null,
