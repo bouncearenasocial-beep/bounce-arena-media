@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:05:02-08:00",
+ "updated": "2026-11-20T20:05:02-08:00",
  "youtube": {
   "subs": 67,
   "views": 94553,
@@ -45,7 +45,7 @@
     "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-19T18:00:13Z",
-    "views": 26,
+    "views": 27,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6D5WT8R0pMQ"
@@ -99,7 +99,7 @@
     "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-17T18:00:38Z",
-    "views": 1707,
+    "views": 1708,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 37,
-    "views": 21542,
+    "views": 21544,
     "likes": 179,
     "avg_views": 582
    },
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 744
+  "last_48h": 745
  },
  "social": null,
  "social_age_h": null,
