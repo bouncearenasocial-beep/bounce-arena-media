@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T02:05:02-08:00",
+ "updated": "2026-11-21T03:05:02-08:00",
  "youtube": {
-  "subs": 68,
+  "subs": 67,
   "views": 94707,
   "videos": 136,
   "recent": [
@@ -114,7 +114,13 @@
     "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-22T04:00:00Z",
+    "game": "other",
+    "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
@@ -125,17 +131,17 @@
    },
    {
     "game": "glass_break",
-    "videos": 11,
-    "views": 11322,
-    "likes": 68,
-    "avg_views": 1029
+    "videos": 10,
+    "views": 10259,
+    "likes": 60,
+    "avg_views": 1026
    },
    {
     "game": "squish_split",
-    "videos": 6,
-    "views": 5936,
-    "likes": 41,
-    "avg_views": 989
+    "videos": 7,
+    "views": 6713,
+    "likes": 44,
+    "avg_views": 959
    },
    {
     "game": "ring_battle",
@@ -340,7 +346,7 @@
   },
   "sleep": {
    "start": "2026-11-21 01:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "compilation": {
@@ -358,7 +364,7 @@
   "Bounce Arena Weekly Sleep": {
    "next": "11/28/2026 12:00:00 AM",
    "last": "11/21/2026 1:00:00 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/22/2026 4:00:00 AM",
@@ -453,7 +459,7 @@
   "Windows task 'Bounce Arena Daily' failed last time (code 267014). Ask Claude to check it."
  ],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 154,
   "tt_views": null,
   "ig_views": null
