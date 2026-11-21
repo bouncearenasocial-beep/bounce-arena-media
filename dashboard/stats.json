@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:05:03-08:00",
+ "updated": "2026-11-21T01:05:02-08:00",
  "youtube": {
   "subs": 68,
   "views": 94707,
@@ -27,8 +27,8 @@
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-19T22:00:05Z",
-    "views": 135,
-    "likes": 1,
+    "views": 158,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
    },
@@ -189,14 +189,14 @@
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3601,
-    "likes": 32,
-    "avg_views": 514
+    "views": 3624,
+    "likes": 33,
+    "avg_views": 518
    },
    {
     "game": "weekly_compilation",
     "videos": 5,
-    "views": 24,
+    "views": 26,
     "likes": 0,
     "avg_views": 5
    }
@@ -314,7 +314,7 @@
    },
    {
     "date": "2026-11-16",
-    "views": 4158,
+    "views": 4150,
     "subs": 6
    },
    {
@@ -328,7 +328,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 868
+  "last_48h": 891
  },
  "social": null,
  "social_age_h": null,
@@ -339,8 +339,8 @@
    "failures": 0
   },
   "sleep": {
-   "start": "2026-11-14 01:00:01",
-   "done": true,
+   "start": "2026-11-21 01:00:02",
+   "done": false,
    "failures": 0
   },
   "compilation": {
@@ -357,8 +357,8 @@
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/28/2026 12:00:00 AM",
-   "last": "11/14/2026 1:00:00 AM",
-   "result": "0"
+   "last": "11/21/2026 1:00:00 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/22/2026 4:00:00 AM",
