@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T17:05:02-08:00",
+ "updated": "2026-11-20T18:05:02-08:00",
  "youtube": {
-  "subs": 66,
+  "subs": 67,
   "views": 94553,
   "videos": 136,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-20T18:00:39Z",
-    "views": 28,
+    "views": 45,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=kmNuiD0XY0g"
@@ -18,7 +18,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 497,
+    "views": 549,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -27,7 +27,7 @@
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-19T22:00:05Z",
-    "views": 100,
+    "views": 117,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
@@ -54,8 +54,8 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 218,
-    "likes": 3,
+    "views": 222,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
    },
@@ -63,7 +63,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 953,
+    "views": 954,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -81,7 +81,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 986,
+    "views": 987,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -90,7 +90,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 931,
+    "views": 932,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11372,
+    "views": 11373,
     "likes": 124,
     "avg_views": 1034
    },
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12713,
+    "views": 12714,
     "likes": 144,
     "avg_views": 908
    },
@@ -161,16 +161,16 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9965,
-    "likes": 107,
-    "avg_views": 830
+    "views": 9969,
+    "likes": 108,
+    "avg_views": 831
    },
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10436,
+    "views": 10488,
     "likes": 65,
-    "avg_views": 803
+    "avg_views": 807
    },
    {
     "game": "maze_race",
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 37,
-    "views": 21525,
+    "views": 21542,
     "likes": 179,
     "avg_views": 582
    },
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3565,
+    "views": 3583,
     "likes": 32,
-    "avg_views": 509
+    "avg_views": 512
    },
    {
     "game": "weekly_compilation",
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 869
+  "last_48h": 959
  },
  "social": null,
  "social_age_h": null,
