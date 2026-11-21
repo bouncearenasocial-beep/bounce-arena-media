@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:05:02-08:00",
+ "updated": "2026-11-20T19:05:02-08:00",
  "youtube": {
   "subs": 67,
   "views": 94553,
@@ -18,7 +18,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 549,
+    "views": 556,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -168,7 +168,7 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10488,
+    "views": 10495,
     "likes": 65,
     "avg_views": 807
    },
@@ -333,7 +333,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 959
+  "last_48h": 744
  },
  "social": null,
  "social_age_h": null,
