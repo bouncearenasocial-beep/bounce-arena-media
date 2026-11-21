@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-21T09:05:03-08:00",
+ "updated": "2026-11-21T10:05:01-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
-  "videos": 136,
+  "videos": 137,
   "recent": [
+   {
+    "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
+    "game": "tournament",
+    "published": "2026-11-21T18:00:31Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=-WY_MCvA82I"
+   },
    {
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
@@ -81,7 +90,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 995,
+    "views": 999,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -103,23 +112,9 @@
     "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
-   },
-   {
-    "title": "Every Squish = 2 Balls... Until the Circle Breaks \ud83d\udca5",
-    "game": "squish_split",
-    "published": "2026-11-17T03:00:17Z",
-    "views": 893,
-    "likes": 6,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=7Drmrdb-oq4"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-21T18:00:00Z",
-    "game": "tournament",
-    "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6"
-   },
    {
     "time": "2026-11-21T22:00:00Z",
     "game": "brain_teaser",
@@ -161,7 +156,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12722,
+    "views": 12726,
     "likes": 144,
     "avg_views": 909
    },
@@ -202,10 +197,10 @@
    },
    {
     "game": "tournament",
-    "videos": 37,
+    "videos": 38,
     "views": 21594,
     "likes": 179,
-    "avg_views": 584
+    "avg_views": 568
    },
    {
     "game": "brain_teaser",
@@ -349,7 +344,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 947
+  "last_48h": 918
  },
  "social": null,
  "social_age_h": null,
@@ -410,7 +405,7 @@
     "label": "Doubles Quarterfinal 3",
     "a": "SPIKES & AXE",
     "b": "GHOST & CLAWS",
-    "winner": null
+    "winner": "GHOST & CLAWS"
    },
    {
     "id": "QF4",
@@ -429,7 +424,7 @@
    {
     "id": "SF2",
     "label": "Doubles Semifinal 2",
-    "a": null,
+    "a": "GHOST & CLAWS",
     "b": null,
     "winner": null
    },
