@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-21T13:05:01-08:00",
+ "updated": "2026-11-21T14:05:01-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
-  "videos": 137,
+  "videos": 138,
   "recent": [
+   {
+    "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
+    "game": "brain_teaser",
+    "published": "2026-11-21T22:00:17Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
+   },
    {
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 4,
+    "views": 31,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -27,8 +36,8 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 659,
-    "likes": 5,
+    "views": 687,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
    },
@@ -63,7 +72,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 235,
+    "views": 236,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -72,8 +81,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 993,
-    "likes": 10,
+    "views": 996,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -103,23 +112,9 @@
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
-   },
-   {
-    "title": "Semifinal 2: SPEAR vs PUFFER \u2694\ufe0f Who Advances?",
-    "game": "tournament",
-    "published": "2026-11-17T18:00:38Z",
-    "views": 1749,
-    "likes": 14,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=6r7_UbIZfJU"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-21T22:00:00Z",
-    "game": "brain_teaser",
-    "title": "Can You Find the Fast Bouncer? \ud83e\udde0"
-   },
    {
     "time": "2026-11-22T03:00:00Z",
     "game": "maze_race",
@@ -135,8 +130,8 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11414,
-    "likes": 126,
+    "views": 11418,
+    "likes": 125,
     "avg_views": 1038
    },
    {
@@ -156,7 +151,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12730,
+    "views": 12732,
     "likes": 144,
     "avg_views": 909
    },
@@ -177,16 +172,16 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9986,
+    "views": 9988,
     "likes": 108,
     "avg_views": 832
    },
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10602,
-    "likes": 67,
-    "avg_views": 816
+    "views": 10630,
+    "likes": 66,
+    "avg_views": 818
    },
    {
     "game": "maze_race",
@@ -198,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21632,
+    "views": 21672,
     "likes": 179,
-    "avg_views": 569
+    "avg_views": 570
    },
    {
     "game": "brain_teaser",
-    "videos": 7,
+    "videos": 8,
     "views": 3708,
     "likes": 34,
-    "avg_views": 530
+    "avg_views": 464
    },
    {
     "game": "weekly_compilation",
@@ -349,7 +344,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 977
+  "last_48h": 792
  },
  "social": null,
  "social_age_h": null,
