@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:05:01-08:00",
+ "updated": "2026-11-21T11:05:01-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
@@ -9,7 +9,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -27,7 +27,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 635,
+    "views": 627,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -63,7 +63,7 @@
     "title": "BOOMERANG or SWORD? \u2694\ufe0f",
     "game": "ball_battle",
     "published": "2026-11-19T03:00:05Z",
-    "views": 236,
+    "views": 235,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=CCH72S5o_g8"
@@ -72,8 +72,8 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 978,
-    "likes": 8,
+    "views": 987,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -135,9 +135,9 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11399,
-    "likes": 124,
-    "avg_views": 1036
+    "views": 11408,
+    "likes": 125,
+    "avg_views": 1037
    },
    {
     "game": "glass_break",
@@ -177,14 +177,14 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9983,
+    "views": 9982,
     "likes": 108,
     "avg_views": 832
    },
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10574,
+    "views": 10566,
     "likes": 65,
     "avg_views": 813
    },
@@ -198,7 +198,7 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21594,
+    "views": 21598,
     "likes": 179,
     "avg_views": 568
    },
@@ -344,7 +344,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 918
+  "last_48h": 914
  },
  "social": null,
  "social_age_h": null,
