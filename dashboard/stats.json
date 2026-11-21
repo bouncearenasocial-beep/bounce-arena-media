@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:05:01-08:00",
+ "updated": "2026-11-21T12:05:01-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
@@ -27,8 +27,8 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 627,
-    "likes": 3,
+    "views": 634,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
    },
@@ -36,7 +36,7 @@
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-19T22:00:05Z",
-    "views": 217,
+    "views": 240,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
@@ -54,7 +54,7 @@
     "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-19T18:00:13Z",
-    "views": 29,
+    "views": 32,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=6D5WT8R0pMQ"
@@ -184,8 +184,8 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10566,
-    "likes": 65,
+    "views": 10573,
+    "likes": 66,
     "avg_views": 813
    },
    {
@@ -198,16 +198,16 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21598,
+    "views": 21601,
     "likes": 179,
     "avg_views": 568
    },
    {
     "game": "brain_teaser",
     "videos": 7,
-    "views": 3683,
+    "views": 3706,
     "likes": 34,
-    "avg_views": 526
+    "avg_views": 529
    },
    {
     "game": "weekly_compilation",
@@ -342,9 +342,14 @@
     "date": "2026-11-18",
     "views": 2461,
     "subs": 0
+   },
+   {
+    "date": "2026-11-19",
+    "views": 1658,
+    "subs": 1
    }
   ],
-  "last_48h": 914
+  "last_48h": 943
  },
  "social": null,
  "social_age_h": null,
