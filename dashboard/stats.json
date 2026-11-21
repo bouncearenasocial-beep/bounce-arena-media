@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T07:05:03-08:00",
+ "updated": "2026-11-21T08:05:02-08:00",
  "youtube": {
   "subs": 68,
-  "views": 94707,
+  "views": 94962,
   "videos": 136,
   "recent": [
    {
@@ -116,6 +116,16 @@
   ],
   "upcoming": [
    {
+    "time": "2026-11-21T18:00:00Z",
+    "game": "tournament",
+    "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6"
+   },
+   {
+    "time": "2026-11-21T22:00:00Z",
+    "game": "brain_teaser",
+    "title": "Can You Find the Fast Bouncer? \ud83e\udde0"
+   },
+   {
     "time": "2026-11-22T04:00:00Z",
     "game": "other",
     "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus"
@@ -138,10 +148,10 @@
    },
    {
     "game": "squish_split",
-    "videos": 7,
-    "views": 6713,
-    "likes": 44,
-    "avg_views": 959
+    "videos": 6,
+    "views": 5936,
+    "likes": 41,
+    "avg_views": 989
    },
    {
     "game": "ring_battle",
@@ -340,7 +350,7 @@
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-20 08:00:02",
+   "start": "2026-11-21 08:00:02",
    "done": false,
    "failures": 0
   },
@@ -357,9 +367,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/21/2026 8:00:00 AM",
-   "last": "11/20/2026 8:00:01 AM",
-   "result": "267014"
+   "next": "11/22/2026 8:00:00 AM",
+   "last": "11/21/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/28/2026 12:00:00 AM",
@@ -454,13 +464,10 @@
    }
   ]
  },
- "problems": [
-  "The daily job started but never finished (it crashed or got stuck). Check pipeline/daily.log.",
-  "Windows task 'Bounce Arena Daily' failed last time (code 267014). Ask Claude to check it."
- ],
+ "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 154,
+  "yt_views": 409,
   "tt_views": null,
   "ig_views": null
  }
