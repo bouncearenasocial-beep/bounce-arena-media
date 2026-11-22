@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:05:01-08:00",
+ "updated": "2026-11-21T18:05:02-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
@@ -9,7 +9,7 @@
     "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
     "game": "brain_teaser",
     "published": "2026-11-21T22:00:17Z",
-    "views": 248,
+    "views": 326,
     "likes": 1,
     "comments": 1,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
@@ -18,8 +18,8 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 31,
-    "likes": 0,
+    "views": 75,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
    },
@@ -45,7 +45,7 @@
     "title": "Spot the Difference \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-19T22:00:05Z",
-    "views": 248,
+    "views": 249,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
@@ -81,7 +81,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 996,
+    "views": 998,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -90,7 +90,7 @@
     "title": "THE FINAL: SHURIKEN vs PUFFER \ud83c\udfc6 Who Becomes Champion?",
     "game": "tournament",
     "published": "2026-11-18T18:00:03Z",
-    "views": 968,
+    "views": 969,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
@@ -99,7 +99,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 1000,
+    "views": 1002,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
@@ -108,7 +108,7 @@
     "title": "Count the Balls \ud83e\udde0 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-17T22:00:28Z",
-    "views": 934,
+    "views": 935,
     "likes": 3,
     "comments": 2,
     "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
@@ -130,7 +130,7 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11424,
+    "views": 11429,
     "likes": 125,
     "avg_views": 1039
    },
@@ -151,7 +151,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12739,
+    "views": 12742,
     "likes": 144,
     "avg_views": 910
    },
@@ -172,7 +172,7 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9994,
+    "views": 9995,
     "likes": 108,
     "avg_views": 833
    },
@@ -193,16 +193,16 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21714,
-    "likes": 180,
-    "avg_views": 571
+    "views": 21766,
+    "likes": 181,
+    "avg_views": 573
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 3965,
+    "views": 4051,
     "likes": 35,
-    "avg_views": 496
+    "avg_views": 506
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +344,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1111
+  "last_48h": 1233
  },
  "social": null,
  "social_age_h": null,
@@ -466,7 +466,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 409,
   "tt_views": null,
   "ig_views": null
