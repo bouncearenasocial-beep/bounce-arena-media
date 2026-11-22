@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:05:02-08:00",
+ "updated": "2026-11-22T08:05:02-08:00",
  "youtube": {
   "subs": 69,
   "views": 95194,
@@ -99,7 +99,7 @@
     "title": "12 Algorithms, 1 Board: Who Takes It All? \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
-    "views": 1012,
+    "views": 1010,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
@@ -116,6 +116,11 @@
   ],
   "upcoming": [
    {
+    "time": "2026-11-22T18:00:00Z",
+    "game": "tournament",
+    "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?"
+   },
+   {
     "time": "2026-11-22T20:00:00Z",
     "game": "weekly_compilation",
     "title": "Bounce Arena Weekly #6: 19 Battles, Races & Showdowns \ud83c\udfc6"
@@ -125,7 +130,7 @@
    {
     "game": "algo_war",
     "videos": 11,
-    "views": 11443,
+    "views": 11441,
     "likes": 125,
     "avg_views": 1040
    },
@@ -187,17 +192,17 @@
    },
    {
     "game": "tournament",
-    "videos": 37,
-    "views": 21848,
-    "likes": 183,
-    "avg_views": 590
+    "videos": 38,
+    "views": 22772,
+    "likes": 191,
+    "avg_views": 599
    },
    {
     "game": "brain_teaser",
-    "videos": 8,
-    "views": 4600,
-    "likes": 36,
-    "avg_views": 575
+    "videos": 7,
+    "views": 3624,
+    "likes": 17,
+    "avg_views": 518
    },
    {
     "game": "weekly_compilation",
@@ -340,8 +345,8 @@
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-21 08:00:02",
-   "done": true,
+   "start": "2026-11-22 08:00:02",
+   "done": false,
    "failures": 0
   },
   "sleep": {
@@ -357,9 +362,9 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/22/2026 8:00:00 AM",
-   "last": "11/21/2026 8:00:01 AM",
-   "result": "0"
+   "next": "11/23/2026 8:00:00 AM",
+   "last": "11/22/2026 8:00:01 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/28/2026 12:00:00 AM",
@@ -457,7 +462,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 487,
+  "yt_views": 232,
   "tt_views": null,
   "ig_views": null
  }
