@@ -1,25 +1,34 @@
 {
- "updated": "2026-11-21T18:05:02-08:00",
+ "updated": "2026-11-21T19:05:02-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
-  "videos": 138,
+  "videos": 139,
   "recent": [
+   {
+    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
+    "game": "maze_race",
+    "published": "2026-11-22T03:00:19Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=hFaYBsIXdfE"
+   },
    {
     "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
     "game": "brain_teaser",
     "published": "2026-11-21T22:00:17Z",
-    "views": 326,
-    "likes": 1,
-    "comments": 1,
+    "views": 376,
+    "likes": 0,
+    "comments": 2,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
    },
    {
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 75,
-    "likes": 1,
+    "views": 96,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
    },
@@ -99,27 +108,13 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
     "game": "ring_battle",
     "published": "2026-11-18T03:00:05Z",
-    "views": 1002,
+    "views": 1003,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=1d6yYb2aruI"
-   },
-   {
-    "title": "Count the Balls \ud83e\udde0 3 Levels",
-    "game": "brain_teaser",
-    "published": "2026-11-17T22:00:28Z",
-    "views": 935,
-    "likes": 3,
-    "comments": 2,
-    "url": "https://youtube.com/watch?v=OYOs8Y1mubs"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-22T03:00:00Z",
-    "game": "maze_race",
-    "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?"
-   },
    {
     "time": "2026-11-22T04:00:00Z",
     "game": "other",
@@ -151,7 +146,7 @@
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12742,
+    "views": 12743,
     "likes": 144,
     "avg_views": 910
    },
@@ -185,24 +180,24 @@
    },
    {
     "game": "maze_race",
-    "videos": 4,
+    "videos": 5,
     "views": 3155,
     "likes": 19,
-    "avg_views": 789
+    "avg_views": 631
    },
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21766,
-    "likes": 181,
+    "views": 21787,
+    "likes": 182,
     "avg_views": 573
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 4051,
-    "likes": 35,
-    "avg_views": 506
+    "views": 4101,
+    "likes": 34,
+    "avg_views": 513
    },
    {
     "game": "weekly_compilation",
@@ -344,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1233
+  "last_48h": 573
  },
  "social": null,
  "social_age_h": null,
