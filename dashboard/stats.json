@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-21T19:05:02-08:00",
+ "updated": "2026-11-21T20:05:02-08:00",
  "youtube": {
   "subs": 68,
   "views": 94962,
-  "videos": 139,
+  "videos": 140,
   "recent": [
+   {
+    "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus",
+    "game": "other",
+    "published": "2026-11-22T04:00:15Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=9dilFpOMjqE"
+   },
    {
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
@@ -18,7 +27,7 @@
     "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
     "game": "brain_teaser",
     "published": "2026-11-21T22:00:17Z",
-    "views": 376,
+    "views": 387,
     "likes": 0,
     "comments": 2,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
@@ -27,8 +36,8 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 96,
-    "likes": 2,
+    "views": 123,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
    },
@@ -36,7 +45,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-20T18:00:39Z",
-    "views": 101,
+    "views": 235,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=kmNuiD0XY0g"
@@ -45,7 +54,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 731,
+    "views": 843,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -103,24 +112,9 @@
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HBlg_503YvM"
-   },
-   {
-    "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe2 \ud83d\udd35 \ud83d\udfe1 \ud83d\udfe3",
-    "game": "ring_battle",
-    "published": "2026-11-18T03:00:05Z",
-    "views": 1003,
-    "likes": 9,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=1d6yYb2aruI"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-22T04:00:00Z",
-    "game": "other",
-    "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "algo_war",
@@ -174,9 +168,9 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10674,
+    "views": 10786,
     "likes": 67,
-    "avg_views": 821
+    "avg_views": 830
    },
    {
     "game": "maze_race",
@@ -188,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21787,
-    "likes": 182,
-    "avg_views": 573
+    "views": 21948,
+    "likes": 183,
+    "avg_views": 578
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 4101,
+    "views": 4112,
     "likes": 34,
-    "avg_views": 513
+    "avg_views": 514
    },
    {
     "game": "weekly_compilation",
@@ -325,7 +319,7 @@
    },
    {
     "date": "2026-11-17",
-    "views": 3321,
+    "views": 3296,
     "subs": 3
    },
    {
@@ -339,7 +333,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 573
+  "last_48h": 745
  },
  "social": null,
  "social_age_h": null,
