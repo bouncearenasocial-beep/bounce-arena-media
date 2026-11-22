@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:05:02-08:00",
+ "updated": "2026-11-22T09:05:02-08:00",
  "youtube": {
   "subs": 69,
   "views": 95194,
@@ -36,7 +36,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 553,
+    "views": 668,
     "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -54,7 +54,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 888,
+    "views": 885,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -100,7 +100,7 @@
     "game": "algo_war",
     "published": "2026-11-18T22:00:33Z",
     "views": 1010,
-    "likes": 9,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_8wic6C9kWU"
    },
@@ -124,22 +124,32 @@
     "time": "2026-11-22T20:00:00Z",
     "game": "weekly_compilation",
     "title": "Bounce Arena Weekly #6: 19 Battles, Races & Showdowns \ud83c\udfc6"
+   },
+   {
+    "time": "2026-11-22T22:00:00Z",
+    "game": "algo_war",
+    "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!"
+   },
+   {
+    "time": "2026-11-23T03:00:00Z",
+    "game": "ring_escape",
+    "title": "Every Gap = 1 Point \u2b55 Who Wins?"
    }
   ],
   "by_game": [
    {
+    "game": "glass_break",
+    "videos": 9,
+    "views": 9705,
+    "likes": 58,
+    "avg_views": 1078
+   },
+   {
     "game": "algo_war",
     "videos": 11,
     "views": 11441,
-    "likes": 125,
+    "likes": 126,
     "avg_views": 1040
-   },
-   {
-    "game": "glass_break",
-    "videos": 10,
-    "views": 10261,
-    "likes": 60,
-    "avg_views": 1026
    },
    {
     "game": "squish_split",
@@ -172,7 +182,7 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10831,
+    "views": 10828,
     "likes": 67,
     "avg_views": 833
    },
@@ -193,16 +203,16 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 22772,
+    "views": 22887,
     "likes": 191,
-    "avg_views": 599
+    "avg_views": 602
    },
    {
     "game": "brain_teaser",
-    "videos": 7,
-    "views": 3624,
-    "likes": 17,
-    "avg_views": 518
+    "videos": 8,
+    "views": 4604,
+    "likes": 36,
+    "avg_views": 576
    },
    {
     "game": "weekly_compilation",
@@ -339,14 +349,14 @@
     "subs": 1
    }
   ],
-  "last_48h": 2053
+  "last_48h": 2168
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-22 08:00:02",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -364,7 +374,7 @@
   "Bounce Arena Daily": {
    "next": "11/23/2026 8:00:00 AM",
    "last": "11/22/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/28/2026 12:00:00 AM",
