@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T20:05:02-08:00",
+ "updated": "2026-11-21T21:05:03-08:00",
  "youtube": {
-  "subs": 68,
+  "subs": 69,
   "views": 94962,
   "videos": 140,
   "recent": [
@@ -36,8 +36,8 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 123,
-    "likes": 3,
+    "views": 160,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 21948,
-    "likes": 183,
-    "avg_views": 578
+    "views": 21985,
+    "likes": 182,
+    "avg_views": 579
    },
    {
     "game": "brain_teaser",
@@ -333,7 +333,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 745
+  "last_48h": 782
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 409,
+  "yt_views": 255,
   "tt_views": null,
   "ig_views": null
  }
