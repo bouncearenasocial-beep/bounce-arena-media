@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:05:02-08:00",
+ "updated": "2026-11-22T02:05:02-08:00",
  "youtube": {
   "subs": 69,
   "views": 95194,
@@ -27,7 +27,7 @@
     "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
     "game": "brain_teaser",
     "published": "2026-11-21T22:00:17Z",
-    "views": 718,
+    "views": 852,
     "likes": 2,
     "comments": 3,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
@@ -36,7 +36,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 359,
+    "views": 365,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -45,7 +45,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-20T18:00:39Z",
-    "views": 441,
+    "views": 453,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=kmNuiD0XY0g"
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 38,
-    "views": 22391,
+    "views": 22411,
     "likes": 187,
-    "avg_views": 589
+    "avg_views": 590
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 4443,
+    "views": 4577,
     "likes": 36,
-    "avg_views": 555
+    "avg_views": 572
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1518
+  "last_48h": 1670
  },
  "social": null,
  "social_age_h": null,
