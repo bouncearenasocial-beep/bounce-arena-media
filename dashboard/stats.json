@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:05:02-08:00",
+ "updated": "2026-11-22T11:05:03-08:00",
  "youtube": {
   "subs": 69,
   "views": 96645,
@@ -9,7 +9,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -54,7 +54,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-20T18:00:39Z",
-    "views": 626,
+    "views": 698,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=kmNuiD0XY0g"
@@ -198,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 39,
-    "views": 22887,
+    "views": 22961,
     "likes": 191,
-    "avg_views": 587
+    "avg_views": 589
    },
    {
     "game": "brain_teaser",
@@ -344,7 +344,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1532
+  "last_48h": 1534
  },
  "social": null,
  "social_age_h": null,
