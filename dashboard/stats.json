@@ -1,16 +1,25 @@
 {
- "updated": "2026-11-22T18:05:02-08:00",
+ "updated": "2026-11-22T19:05:02-08:00",
  "youtube": {
   "subs": 69,
   "views": 96645,
-  "videos": 143,
+  "videos": 144,
   "recent": [
+   {
+    "title": "Every Gap = 1 Point \u2b55 Who Wins?",
+    "game": "ring_escape",
+    "published": "2026-11-23T03:00:21Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=yBxxvssrJpk"
+   },
    {
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 323,
-    "likes": 8,
+    "views": 386,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    },
@@ -27,8 +36,8 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 84,
-    "likes": 0,
+    "views": 153,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
    },
@@ -45,7 +54,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-11-22T03:00:19Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=hFaYBsIXdfE"
@@ -103,24 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=TkdnYnJUbs4"
-   },
-   {
-    "title": "BLINK & PUFFER vs CANNON & SHIELD \u2694\ufe0f Doubles Quarterfinal 1: Who Moves On?",
-    "game": "tournament",
-    "published": "2026-11-19T18:00:13Z",
-    "views": 32,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=6D5WT8R0pMQ"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-23T03:00:00Z",
-    "game": "ring_escape",
-    "title": "Every Gap = 1 Point \u2b55 Who Wins?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "glass_break",
@@ -139,16 +133,16 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 11772,
-    "likes": 137,
-    "avg_views": 981
+    "views": 11836,
+    "likes": 135,
+    "avg_views": 986
    },
    {
     "game": "ring_battle",
     "videos": 14,
-    "views": 12747,
+    "views": 12749,
     "likes": 144,
-    "avg_views": 910
+    "avg_views": 911
    },
    {
     "game": "gravity_race",
@@ -156,13 +150,6 @@
     "views": 1816,
     "likes": 6,
     "avg_views": 908
-   },
-   {
-    "game": "ring_escape",
-    "videos": 4,
-    "views": 3363,
-    "likes": 21,
-    "avg_views": 841
    },
    {
     "game": "paint_war",
@@ -174,23 +161,30 @@
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9993,
+    "views": 9995,
     "likes": 108,
     "avg_views": 833
    },
    {
+    "game": "ring_escape",
+    "videos": 5,
+    "views": 3363,
+    "likes": 21,
+    "avg_views": 673
+   },
+   {
     "game": "maze_race",
     "videos": 5,
-    "views": 3155,
+    "views": 3157,
     "likes": 19,
     "avg_views": 631
    },
    {
     "game": "tournament",
     "videos": 39,
-    "views": 23271,
-    "likes": 192,
-    "avg_views": 597
+    "views": 23341,
+    "likes": 193,
+    "avg_views": 598
    },
    {
     "game": "brain_teaser",
@@ -339,7 +333,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2129
+  "last_48h": 2263
  },
  "social": null,
  "social_age_h": null,
