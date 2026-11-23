@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T01:05:01-08:00",
+ "updated": "2026-11-23T02:05:01-08:00",
  "youtube": {
-  "subs": 69,
+  "subs": 70,
   "views": 96814,
   "videos": 144,
   "recent": [
@@ -36,8 +36,8 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 328,
-    "likes": 4,
+    "views": 367,
+    "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
    },
@@ -63,7 +63,7 @@
     "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
     "game": "brain_teaser",
     "published": "2026-11-21T22:00:17Z",
-    "views": 880,
+    "views": 912,
     "likes": 3,
     "comments": 3,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
@@ -182,16 +182,16 @@
    {
     "game": "tournament",
     "videos": 39,
-    "views": 23555,
-    "likes": 197,
-    "avg_views": 604
+    "views": 23594,
+    "likes": 198,
+    "avg_views": 605
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 4609,
+    "views": 4641,
     "likes": 37,
-    "avg_views": 576
+    "avg_views": 580
    },
    {
     "game": "weekly_compilation",
@@ -314,12 +314,12 @@
    },
    {
     "date": "2026-11-18",
-    "views": 2461,
+    "views": 2446,
     "subs": 0
    },
    {
     "date": "2026-11-19",
-    "views": 1658,
+    "views": 1643,
     "subs": 1
    },
    {
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2738
+  "last_48h": 2809
  },
  "social": null,
  "social_age_h": null,
@@ -450,7 +450,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 0,
+  "yt_subs": 1,
   "yt_views": 1620,
   "tt_views": null,
   "ig_views": null
