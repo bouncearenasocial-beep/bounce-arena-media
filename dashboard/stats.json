@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:05:01-08:00",
+ "updated": "2026-11-23T12:05:02-08:00",
  "youtube": {
   "subs": 70,
   "views": 96814,
@@ -9,7 +9,7 @@
     "title": "Doubles Semifinal 1: CANNON & SHIELD vs THUNDER & BOW \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-23T18:00:13Z",
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=w22Qr2cLAVs"
@@ -45,7 +45,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 531,
+    "views": 527,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -81,7 +81,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 920,
+    "views": 922,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -337,9 +337,14 @@
     "date": "2026-11-20",
     "views": 613,
     "subs": 2
+   },
+   {
+    "date": "2026-11-21",
+    "views": 2138,
+    "subs": 1
    }
   ],
-  "last_48h": 2428
+  "last_48h": 2426
  },
  "social": null,
  "social_age_h": null,
