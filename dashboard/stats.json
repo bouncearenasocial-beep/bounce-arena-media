@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:05:01-08:00",
+ "updated": "2026-11-23T09:05:02-08:00",
  "youtube": {
   "subs": 70,
   "views": 96814,
@@ -36,7 +36,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 530,
+    "views": 531,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -72,7 +72,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 927,
+    "views": 920,
     "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -124,6 +124,11 @@
     "time": "2026-11-23T22:00:00Z",
     "game": "brain_teaser",
     "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal"
+   },
+   {
+    "time": "2026-11-24T03:00:00Z",
+    "game": "glass_break",
+    "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5"
    }
   ],
   "by_game": [
@@ -178,10 +183,10 @@
    },
    {
     "game": "ring_escape",
-    "videos": 5,
-    "views": 3363,
-    "likes": 21,
-    "avg_views": 673
+    "videos": 4,
+    "views": 3005,
+    "likes": 19,
+    "avg_views": 751
    },
    {
     "game": "maze_race",
@@ -193,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 39,
-    "views": 23815,
+    "views": 23806,
     "likes": 198,
-    "avg_views": 611
+    "avg_views": 610
    },
    {
     "game": "brain_teaser",
@@ -206,8 +211,8 @@
    },
    {
     "game": "weekly_compilation",
-    "videos": 6,
-    "views": 28,
+    "videos": 7,
+    "views": 32,
     "likes": 0,
     "avg_views": 5
    }
@@ -339,14 +344,14 @@
     "subs": 2
    }
   ],
-  "last_48h": 3364
+  "last_48h": 3358
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
    "start": "2026-11-23 08:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "sleep": {
@@ -364,7 +369,7 @@
   "Bounce Arena Daily": {
    "next": "11/24/2026 8:00:00 AM",
    "last": "11/23/2026 8:00:01 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
    "next": "11/28/2026 12:00:00 AM",
