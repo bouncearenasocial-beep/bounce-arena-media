@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:05:02-08:00",
+ "updated": "2026-11-22T23:05:02-08:00",
  "youtube": {
   "subs": 69,
   "views": 96814,
@@ -18,8 +18,8 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 635,
-    "likes": 10,
+    "views": 731,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    },
@@ -36,8 +36,8 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 222,
-    "likes": 3,
+    "views": 251,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
    },
@@ -126,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 12101,
-    "likes": 139,
-    "avg_views": 1008
+    "views": 12197,
+    "likes": 140,
+    "avg_views": 1016
    },
    {
     "game": "squish_split",
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 39,
-    "views": 23449,
-    "likes": 196,
-    "avg_views": 601
+    "views": 23478,
+    "likes": 197,
+    "avg_views": 602
    },
    {
     "game": "brain_teaser",
@@ -333,7 +333,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2602
+  "last_48h": 2727
  },
  "social": null,
  "social_age_h": null,
