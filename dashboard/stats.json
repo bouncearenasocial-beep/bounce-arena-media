@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:05:02-08:00",
+ "updated": "2026-11-23T11:05:01-08:00",
  "youtube": {
   "subs": 70,
   "views": 96814,
@@ -9,7 +9,7 @@
     "title": "Doubles Semifinal 1: CANNON & SHIELD vs THUNDER & BOW \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-23T18:00:13Z",
-    "views": 0,
+    "views": 2,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=w22Qr2cLAVs"
@@ -54,7 +54,7 @@
     "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus",
     "game": "other",
     "published": "2026-11-22T04:00:15Z",
-    "views": 1,
+    "views": 0,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=9dilFpOMjqE"
@@ -193,7 +193,7 @@
    {
     "game": "tournament",
     "videos": 40,
-    "views": 23809,
+    "views": 23811,
     "likes": 198,
     "avg_views": 595
    },
@@ -339,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2427
+  "last_48h": 2428
  },
  "social": null,
  "social_age_h": null,
