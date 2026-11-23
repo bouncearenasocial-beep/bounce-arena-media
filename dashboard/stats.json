@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-23T09:05:02-08:00",
+ "updated": "2026-11-23T10:05:02-08:00",
  "youtube": {
   "subs": 70,
   "views": 96814,
-  "videos": 144,
+  "videos": 145,
   "recent": [
+   {
+    "title": "Doubles Semifinal 1: CANNON & SHIELD vs THUNDER & BOW \u2694\ufe0f Who Advances?",
+    "game": "tournament",
+    "published": "2026-11-23T18:00:13Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=w22Qr2cLAVs"
+   },
    {
     "title": "Every Gap = 1 Point \u2b55 Who Wins?",
     "game": "ring_escape",
@@ -18,7 +27,7 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 917,
+    "views": 911,
     "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
@@ -63,7 +72,7 @@
     "title": "Can You Find the Fast Bouncer? \ud83e\udde0",
     "game": "brain_teaser",
     "published": "2026-11-21T22:00:17Z",
-    "views": 987,
+    "views": 982,
     "likes": 3,
     "comments": 3,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
@@ -81,7 +90,7 @@
     "title": "Doubles Quarterfinal 2: THUNDER & BOW vs BOOMERANG & FROST \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-20T18:00:39Z",
-    "views": 737,
+    "views": 736,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=kmNuiD0XY0g"
@@ -90,7 +99,7 @@
     "title": "4 Colors, 30 Seconds: Who Wins? \ud83c\udfa8",
     "game": "paint_war",
     "published": "2026-11-20T03:00:00Z",
-    "views": 875,
+    "views": 879,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=p_JzKzOqBSE"
@@ -103,23 +112,9 @@
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=XTFZPJQO-tQ"
-   },
-   {
-    "title": "Season 5 Tournament: The Full Bracket \ud83c\udfc6 SHURIKEN Wins It All?",
-    "game": "other",
-    "published": "2026-11-19T20:00:14Z",
-    "views": 1,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=TkdnYnJUbs4"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-23T18:00:00Z",
-    "game": "tournament",
-    "title": "Doubles Semifinal 1: CANNON & SHIELD vs THUNDER & BOW \u2694\ufe0f Who Advances?"
-   },
    {
     "time": "2026-11-23T22:00:00Z",
     "game": "brain_teaser",
@@ -135,9 +130,9 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 12383,
+    "views": 12377,
     "likes": 140,
-    "avg_views": 1032
+    "avg_views": 1031
    },
    {
     "game": "glass_break",
@@ -170,7 +165,7 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10825,
+    "views": 10829,
     "likes": 67,
     "avg_views": 833
    },
@@ -197,22 +192,22 @@
    },
    {
     "game": "tournament",
-    "videos": 39,
-    "views": 23806,
+    "videos": 40,
+    "views": 23809,
     "likes": 198,
-    "avg_views": 610
+    "avg_views": 595
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 4716,
+    "views": 4711,
     "likes": 37,
-    "avg_views": 590
+    "avg_views": 589
    },
    {
     "game": "weekly_compilation",
     "videos": 7,
-    "views": 32,
+    "views": 33,
     "likes": 0,
     "avg_views": 5
    }
@@ -344,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3358
+  "last_48h": 2427
  },
  "social": null,
  "social_age_h": null,
@@ -419,7 +414,7 @@
     "label": "Doubles Semifinal 1",
     "a": "CANNON & SHIELD",
     "b": "THUNDER & BOW",
-    "winner": null
+    "winner": "THUNDER & BOW"
    },
    {
     "id": "SF2",
@@ -431,7 +426,7 @@
    {
     "id": "F",
     "label": "THE DOUBLES FINAL",
-    "a": null,
+    "a": "THUNDER & BOW",
     "b": null,
     "winner": null
    }
@@ -467,7 +462,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 1620,
+  "yt_views": 169,
   "tt_views": null,
   "ig_views": null
  }
