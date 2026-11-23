@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T15:05:03-08:00",
+ "updated": "2026-11-22T16:05:02-08:00",
  "youtube": {
-  "subs": 70,
+  "subs": 69,
   "views": 96645,
   "videos": 143,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 4,
-    "likes": 1,
+    "views": 118,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    },
@@ -63,7 +63,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 740,
+    "views": 775,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -139,9 +139,9 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 11445,
-    "likes": 130,
-    "avg_views": 954
+    "views": 11560,
+    "likes": 131,
+    "avg_views": 963
    },
    {
     "game": "ring_battle",
@@ -188,9 +188,9 @@
    {
     "game": "tournament",
     "videos": 39,
-    "views": 23104,
+    "views": 23139,
     "likes": 192,
-    "avg_views": 592
+    "avg_views": 593
    },
    {
     "game": "brain_teaser",
@@ -339,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 1649
+  "last_48h": 1798
  },
  "social": null,
  "social_age_h": null,
@@ -461,7 +461,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 1683,
   "tt_views": null,
   "ig_views": null
