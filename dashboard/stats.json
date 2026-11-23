@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:05:02-08:00",
+ "updated": "2026-11-22T18:05:02-08:00",
  "youtube": {
   "subs": 69,
   "views": 96645,
@@ -9,8 +9,8 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 249,
-    "likes": 6,
+    "views": 323,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    },
@@ -27,7 +27,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 76,
+    "views": 84,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -45,7 +45,7 @@
     "title": "4 Squares, 1 Maze, Rising Lava \ud83d\udd25 Who Wins?",
     "game": "maze_race",
     "published": "2026-11-22T03:00:19Z",
-    "views": 1,
+    "views": 0,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=hFaYBsIXdfE"
@@ -63,7 +63,7 @@
     "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
     "game": "tournament",
     "published": "2026-11-21T18:00:31Z",
-    "views": 818,
+    "views": 855,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=-WY_MCvA82I"
@@ -139,9 +139,9 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 11693,
-    "likes": 135,
-    "avg_views": 974
+    "views": 11772,
+    "likes": 137,
+    "avg_views": 981
    },
    {
     "game": "ring_battle",
@@ -167,35 +167,35 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10829,
+    "views": 10831,
     "likes": 67,
     "avg_views": 833
    },
    {
     "game": "ball_battle",
     "videos": 12,
-    "views": 9992,
+    "views": 9993,
     "likes": 108,
     "avg_views": 833
    },
    {
     "game": "maze_race",
     "videos": 5,
-    "views": 3156,
+    "views": 3155,
     "likes": 19,
     "avg_views": 631
    },
    {
     "game": "tournament",
     "videos": 39,
-    "views": 23219,
+    "views": 23271,
     "likes": 192,
-    "avg_views": 595
+    "avg_views": 597
    },
    {
     "game": "brain_teaser",
     "videos": 8,
-    "views": 4589,
+    "views": 4590,
     "likes": 36,
     "avg_views": 574
    },
@@ -339,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2011
+  "last_48h": 2129
  },
  "social": null,
  "social_age_h": null,
