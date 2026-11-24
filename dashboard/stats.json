@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:05:02-08:00",
+ "updated": "2026-11-24T13:05:03-08:00",
  "youtube": {
   "subs": 71,
   "views": 101458,
@@ -9,8 +9,8 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 34,
-    "likes": 1,
+    "views": 42,
+    "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
    },
@@ -193,8 +193,8 @@
    {
     "game": "tournament",
     "videos": 41,
-    "views": 24007,
-    "likes": 201,
+    "views": 24015,
+    "likes": 200,
     "avg_views": 586
    },
    {
@@ -330,7 +330,7 @@
    },
    {
     "date": "2026-11-20",
-    "views": 613,
+    "views": 612,
     "subs": 2
    },
    {
@@ -344,7 +344,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2031
+  "last_48h": 2039
  },
  "social": null,
  "social_age_h": null,
@@ -467,7 +467,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 4644,
+  "yt_views": 2638,
   "tt_views": null,
   "ig_views": null
  }
