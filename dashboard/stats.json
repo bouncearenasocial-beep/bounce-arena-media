@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:05:03-08:00",
+ "updated": "2026-11-24T07:05:02-08:00",
  "youtube": {
   "subs": 71,
   "views": 100366,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 908,
+    "views": 911,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -45,7 +45,7 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 1033,
+    "views": 1039,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
@@ -63,7 +63,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 643,
+    "views": 647,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -119,14 +119,14 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 12498,
+    "views": 12504,
     "likes": 142,
     "avg_views": 1042
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11172,
+    "views": 11175,
     "likes": 69,
     "avg_views": 1016
    },
@@ -175,23 +175,23 @@
    {
     "game": "maze_race",
     "videos": 5,
-    "views": 3158,
+    "views": 3159,
     "likes": 19,
     "avg_views": 632
    },
    {
     "game": "tournament",
     "videos": 40,
-    "views": 23969,
+    "views": 23973,
     "likes": 200,
     "avg_views": 599
    },
    {
     "game": "brain_teaser",
     "videos": 9,
-    "views": 4711,
+    "views": 4713,
     "likes": 37,
-    "avg_views": 523
+    "avg_views": 524
    },
    {
     "game": "weekly_compilation",
@@ -328,7 +328,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2630
+  "last_48h": 2643
  },
  "social": null,
  "social_age_h": null,
