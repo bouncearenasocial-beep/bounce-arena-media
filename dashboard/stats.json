@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-24T13:05:03-08:00",
+ "updated": "2026-11-24T14:05:02-08:00",
  "youtube": {
   "subs": 71,
   "views": 101458,
-  "videos": 148,
+  "videos": 149,
   "recent": [
+   {
+    "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
+    "game": "algo_war",
+    "published": "2026-11-24T22:00:23Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=pl_dBTakToQ"
+   },
    {
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
@@ -18,8 +27,8 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 906,
-    "likes": 9,
+    "views": 924,
+    "likes": 10,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
    },
@@ -103,23 +112,9 @@
     "likes": 3,
     "comments": 3,
     "url": "https://youtube.com/watch?v=P5TbjhK_zTQ"
-   },
-   {
-    "title": "Season 6 Doubles Quarterfinal 3: SPIKES & AXE vs GHOST & CLAWS \ud83c\udfc6",
-    "game": "tournament",
-    "published": "2026-11-21T18:00:31Z",
-    "views": 922,
-    "likes": 9,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=-WY_MCvA82I"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-24T22:00:00Z",
-    "game": "algo_war",
-    "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?"
-   },
    {
     "time": "2026-11-25T03:00:00Z",
     "game": "ring_battle",
@@ -128,18 +123,11 @@
   ],
   "by_game": [
    {
-    "game": "algo_war",
-    "videos": 12,
-    "views": 12510,
-    "likes": 143,
-    "avg_views": 1042
-   },
-   {
     "game": "glass_break",
     "videos": 11,
-    "views": 11170,
-    "likes": 69,
-    "avg_views": 1015
+    "views": 11188,
+    "likes": 70,
+    "avg_views": 1017
    },
    {
     "game": "squish_split",
@@ -147,6 +135,13 @@
     "views": 5941,
     "likes": 41,
     "avg_views": 990
+   },
+   {
+    "game": "algo_war",
+    "videos": 13,
+    "views": 12510,
+    "likes": 143,
+    "avg_views": 962
    },
    {
     "game": "ring_battle",
@@ -344,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2039
+  "last_48h": 1012
  },
  "social": null,
  "social_age_h": null,
