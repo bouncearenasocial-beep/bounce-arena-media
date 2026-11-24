@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T23:05:03-08:00",
+ "updated": "2026-11-24T00:05:02-08:00",
  "youtube": {
-  "subs": 70,
+  "subs": 71,
   "views": 100366,
   "videos": 147,
   "recent": [
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 615,
+    "views": 775,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -45,8 +45,8 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 917,
-    "likes": 11,
+    "views": 919,
+    "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    },
@@ -63,7 +63,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 639,
+    "views": 643,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -119,9 +119,16 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 12382,
-    "likes": 140,
+    "views": 12384,
+    "likes": 142,
     "avg_views": 1032
+   },
+   {
+    "game": "glass_break",
+    "videos": 11,
+    "views": 11039,
+    "likes": 69,
+    "avg_views": 1004
    },
    {
     "game": "squish_split",
@@ -129,13 +136,6 @@
     "views": 5941,
     "likes": 41,
     "avg_views": 990
-   },
-   {
-    "game": "glass_break",
-    "videos": 11,
-    "views": 10879,
-    "likes": 69,
-    "avg_views": 989
    },
    {
     "game": "ring_battle",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 40,
-    "views": 23964,
+    "views": 23968,
     "likes": 200,
     "avg_views": 599
    },
@@ -202,11 +202,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-27",
-    "views": 1215,
-    "subs": 0
-   },
    {
     "date": "2026-10-28",
     "views": 3023,
@@ -333,7 +328,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2216
+  "last_48h": 2382
  },
  "social": null,
  "social_age_h": null,
@@ -455,7 +450,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 3552,
   "tt_views": null,
   "ig_views": null
