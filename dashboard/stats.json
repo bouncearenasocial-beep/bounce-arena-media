@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:05:02-08:00",
+ "updated": "2026-11-24T01:05:02-08:00",
  "youtube": {
   "subs": 71,
   "views": 100366,
@@ -9,7 +9,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 775,
+    "views": 898,
     "likes": 9,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -45,7 +45,7 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 919,
+    "views": 955,
     "likes": 13,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
@@ -119,16 +119,16 @@
    {
     "game": "algo_war",
     "videos": 12,
-    "views": 12384,
+    "views": 12420,
     "likes": 142,
-    "avg_views": 1032
+    "avg_views": 1035
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11039,
+    "views": 11162,
     "likes": 69,
-    "avg_views": 1004
+    "avg_views": 1015
    },
    {
     "game": "squish_split",
@@ -328,7 +328,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 2382
+  "last_48h": 2541
  },
  "social": null,
  "social_age_h": null,
@@ -450,7 +450,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
+  "yt_subs": 1,
   "yt_views": 3552,
   "tt_views": null,
   "ig_views": null
