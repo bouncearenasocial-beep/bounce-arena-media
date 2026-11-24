@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:05:01-08:00",
+ "updated": "2026-11-23T17:05:01-08:00",
  "youtube": {
   "subs": 70,
   "views": 98820,
@@ -18,7 +18,7 @@
     "title": "Doubles Semifinal 1: CANNON & SHIELD vs THUNDER & BOW \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-23T18:00:13Z",
-    "views": 43,
+    "views": 45,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=w22Qr2cLAVs"
@@ -188,7 +188,7 @@
    {
     "game": "tournament",
     "videos": 40,
-    "views": 23952,
+    "views": 23954,
     "likes": 200,
     "avg_views": 599
    },
@@ -339,7 +339,7 @@
     "subs": 1
    }
   ],
-  "last_48h": 1588
+  "last_48h": 1590
  },
  "social": null,
  "social_age_h": null,
