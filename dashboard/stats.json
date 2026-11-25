@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:05:02-08:00",
+ "updated": "2026-11-25T12:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 103629,
@@ -27,7 +27,7 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 985,
+    "views": 988,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
@@ -36,7 +36,7 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 231,
+    "views": 256,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
@@ -81,7 +81,7 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 1057,
+    "views": 1059,
     "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
@@ -130,7 +130,7 @@
    {
     "game": "algo_war",
     "videos": 13,
-    "views": 13508,
+    "views": 13513,
     "likes": 153,
     "avg_views": 1039
    },
@@ -193,9 +193,9 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24248,
+    "views": 24273,
     "likes": 206,
-    "avg_views": 577
+    "avg_views": 578
    },
    {
     "game": "brain_teaser",
@@ -337,9 +337,14 @@
     "date": "2026-11-22",
     "views": 2340,
     "subs": 2
+   },
+   {
+    "date": "2026-11-23",
+    "views": 1473,
+    "subs": 2
    }
   ],
-  "last_48h": 3153
+  "last_48h": 3181
  },
  "social": null,
  "social_age_h": null,
