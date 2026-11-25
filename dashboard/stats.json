@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:05:02-08:00",
+ "updated": "2026-11-24T16:05:02-08:00",
  "youtube": {
   "subs": 71,
   "views": 101458,
@@ -9,8 +9,8 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 281,
-    "likes": 2,
+    "views": 581,
+    "likes": 9,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
    },
@@ -18,8 +18,8 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 42,
-    "likes": 0,
+    "views": 72,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
    },
@@ -27,8 +27,8 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 931,
-    "likes": 11,
+    "views": 967,
+    "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
    },
@@ -125,9 +125,16 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11195,
-    "likes": 71,
-    "avg_views": 1018
+    "views": 11231,
+    "likes": 72,
+    "avg_views": 1021
+   },
+   {
+    "game": "algo_war",
+    "videos": 13,
+    "views": 13099,
+    "likes": 152,
+    "avg_views": 1008
    },
    {
     "game": "squish_split",
@@ -135,13 +142,6 @@
     "views": 5941,
     "likes": 41,
     "avg_views": 990
-   },
-   {
-    "game": "algo_war",
-    "videos": 13,
-    "views": 12799,
-    "likes": 145,
-    "avg_views": 985
    },
    {
     "game": "ring_battle",
@@ -188,8 +188,8 @@
    {
     "game": "tournament",
     "videos": 41,
-    "views": 24015,
-    "likes": 200,
+    "views": 24045,
+    "likes": 201,
     "avg_views": 586
    },
    {
@@ -339,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 1300
+  "last_48h": 1666
  },
  "social": null,
  "social_age_h": null,
