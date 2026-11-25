@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-25T13:05:02-08:00",
+ "updated": "2026-11-25T14:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 103629,
-  "videos": 151,
+  "videos": 152,
   "recent": [
+   {
+    "title": "Find the Odd One Out \ud83d\udc40 3 Levels",
+    "game": "brain_teaser",
+    "published": "2026-11-25T22:00:10Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=_99f-pBB_e0"
+   },
    {
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 56,
+    "views": 57,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -103,23 +112,9 @@
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
-   },
-   {
-    "title": "2 Hours of Glowing Calm \ud83c\udf19 Relaxing Simulation for Sleep, Study & Focus",
-    "game": "other",
-    "published": "2026-11-22T04:00:15Z",
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=9dilFpOMjqE"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-25T22:00:00Z",
-    "game": "brain_teaser",
-    "title": "Find the Odd One Out \ud83d\udc40 3 Levels"
-   },
    {
     "time": "2026-11-26T03:00:00Z",
     "game": "turf_war",
@@ -137,7 +132,7 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11278,
+    "views": 11279,
     "likes": 72,
     "avg_views": 1025
    },
@@ -193,16 +188,16 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24294,
+    "views": 24295,
     "likes": 208,
     "avg_views": 578
    },
    {
     "game": "brain_teaser",
-    "videos": 9,
+    "videos": 10,
     "views": 4714,
     "likes": 37,
-    "avg_views": 524
+    "avg_views": 471
    },
    {
     "game": "weekly_compilation",
@@ -330,7 +325,7 @@
    },
    {
     "date": "2026-11-21",
-    "views": 2138,
+    "views": 2095,
     "subs": 1
    },
    {
@@ -344,7 +339,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3203
+  "last_48h": 3202
  },
  "social": null,
  "social_age_h": null,
