@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:05:02-08:00",
+ "updated": "2026-11-24T23:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 101458,
@@ -9,8 +9,8 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 650,
-    "likes": 9,
+    "views": 784,
+    "likes": 5,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
    },
@@ -18,8 +18,8 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 961,
-    "likes": 9,
+    "views": 962,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
    },
@@ -119,14 +119,14 @@
    {
     "game": "algo_war",
     "videos": 13,
-    "views": 13482,
-    "likes": 152,
+    "views": 13483,
+    "likes": 151,
     "avg_views": 1037
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11268,
+    "views": 11269,
     "likes": 72,
     "avg_views": 1024
    },
@@ -147,9 +147,9 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13403,
-    "likes": 153,
-    "avg_views": 894
+    "views": 13537,
+    "likes": 149,
+    "avg_views": 902
    },
    {
     "game": "paint_war",
@@ -333,7 +333,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2798
+  "last_48h": 2933
  },
  "social": null,
  "social_age_h": null,
@@ -456,7 +456,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 2,
-  "yt_views": 2638,
+  "yt_views": 1092,
   "tt_views": null,
   "ig_views": null
  }
