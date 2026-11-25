@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:05:03-08:00",
+ "updated": "2026-11-25T07:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 101599,
@@ -9,7 +9,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 880,
+    "views": 881,
     "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
@@ -27,8 +27,8 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 160,
-    "likes": 2,
+    "views": 192,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
    },
@@ -36,7 +36,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1007,
+    "views": 1009,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -90,7 +90,7 @@
     "title": "LASER & HAMMER vs SPEAR & SCYTHE \u2694\ufe0f Doubles Quarterfinal 4: Who Moves On?",
     "game": "tournament",
     "published": "2026-11-22T18:00:29Z",
-    "views": 648,
+    "views": 649,
     "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=bT5WI2v9oDY"
@@ -126,7 +126,7 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11272,
+    "views": 11274,
     "likes": 72,
     "avg_views": 1025
    },
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13633,
+    "views": 13634,
     "likes": 150,
     "avg_views": 909
    },
@@ -182,8 +182,8 @@
    {
     "game": "tournament",
     "videos": 41,
-    "views": 24135,
-    "likes": 202,
+    "views": 24168,
+    "likes": 204,
     "avg_views": 589
    },
    {
@@ -328,7 +328,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3079
+  "last_48h": 3114
  },
  "social": null,
  "social_age_h": null,
