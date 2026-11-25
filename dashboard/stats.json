@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:05:02-08:00",
+ "updated": "2026-11-25T09:05:03-08:00",
  "youtube": {
   "subs": 72,
   "views": 101599,
@@ -9,8 +9,8 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 881,
-    "likes": 6,
+    "views": 886,
+    "likes": 7,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
    },
@@ -18,7 +18,7 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 982,
+    "views": 990,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
@@ -27,7 +27,7 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 192,
+    "views": 206,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
@@ -36,7 +36,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1009,
+    "views": 1010,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -114,19 +114,35 @@
     "url": "https://youtube.com/watch?v=hFaYBsIXdfE"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-25T18:00:00Z",
+    "game": "tournament",
+    "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?"
+   },
+   {
+    "time": "2026-11-25T22:00:00Z",
+    "game": "brain_teaser",
+    "title": "Find the Odd One Out \ud83d\udc40 3 Levels"
+   },
+   {
+    "time": "2026-11-26T03:00:00Z",
+    "game": "turf_war",
+    "title": "THUNDER vs BOMBER: Who Takes the Whole Board? \ud83c\udfa8"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 13,
-    "views": 13505,
+    "views": 13513,
     "likes": 153,
     "avg_views": 1039
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11274,
+    "views": 11275,
     "likes": 72,
     "avg_views": 1025
    },
@@ -140,8 +156,8 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13634,
-    "likes": 150,
+    "views": 13639,
+    "likes": 151,
     "avg_views": 909
    },
    {
@@ -182,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 41,
-    "views": 24168,
+    "views": 24182,
     "likes": 204,
-    "avg_views": 589
+    "avg_views": 590
    },
    {
     "game": "brain_teaser",
@@ -328,15 +344,15 @@
     "subs": 2
    }
   ],
-  "last_48h": 3114
+  "last_48h": 3142
  },
  "social": null,
  "social_age_h": null,
  "runs": {
   "daily": {
-   "start": "2026-11-24 08:00:02",
+   "start": "2026-11-25 08:00:02",
    "done": true,
-   "failures": 0
+   "failures": 1
   },
   "sleep": {
    "start": "2026-11-21 01:00:02",
@@ -351,8 +367,8 @@
  },
  "tasks": {
   "Bounce Arena Daily": {
-   "next": "11/25/2026 8:00:00 AM",
-   "last": "11/24/2026 8:00:01 AM",
+   "next": "11/26/2026 8:00:00 AM",
+   "last": "11/25/2026 8:00:01 AM",
    "result": "0"
   },
   "Bounce Arena Weekly Sleep": {
@@ -368,55 +384,55 @@
  },
  "verified": true,
  "tournament": {
-  "season": 6,
+  "season": 7,
   "matches": [
    {
     "id": "QF1",
-    "label": "Doubles Quarterfinal 1",
-    "a": "BLINK & PUFFER",
-    "b": "CANNON & SHIELD",
-    "winner": "CANNON & SHIELD"
+    "label": "Quarterfinal 1",
+    "a": "MAGNET",
+    "b": "SHURIKEN",
+    "winner": null
    },
    {
     "id": "QF2",
-    "label": "Doubles Quarterfinal 2",
-    "a": "THUNDER & BOW",
-    "b": "BOOMERANG & FROST",
-    "winner": "THUNDER & BOW"
+    "label": "Quarterfinal 2",
+    "a": "GHOST",
+    "b": "SPEAR",
+    "winner": null
    },
    {
     "id": "QF3",
-    "label": "Doubles Quarterfinal 3",
-    "a": "SPIKES & AXE",
-    "b": "GHOST & CLAWS",
-    "winner": "GHOST & CLAWS"
+    "label": "Quarterfinal 3",
+    "a": "CANNON",
+    "b": "MEDIC",
+    "winner": null
    },
    {
     "id": "QF4",
-    "label": "Doubles Quarterfinal 4",
-    "a": "LASER & HAMMER",
-    "b": "SPEAR & SCYTHE",
-    "winner": "LASER & HAMMER"
+    "label": "Quarterfinal 4",
+    "a": "SHIELD",
+    "b": "BOMBER",
+    "winner": null
    },
    {
     "id": "SF1",
-    "label": "Doubles Semifinal 1",
-    "a": "CANNON & SHIELD",
-    "b": "THUNDER & BOW",
-    "winner": "THUNDER & BOW"
+    "label": "Semifinal 1",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "SF2",
-    "label": "Doubles Semifinal 2",
-    "a": "GHOST & CLAWS",
-    "b": "LASER & HAMMER",
-    "winner": "LASER & HAMMER"
+    "label": "Semifinal 2",
+    "a": null,
+    "b": null,
+    "winner": null
    },
    {
     "id": "F",
-    "label": "THE DOUBLES FINAL",
-    "a": "THUNDER & BOW",
-    "b": "LASER & HAMMER",
+    "label": "THE FINAL",
+    "a": null,
+    "b": null,
     "winner": null
    }
   ],
@@ -445,13 +461,20 @@
     "season": 5,
     "mode": "1v1",
     "champion": "SHURIKEN"
+   },
+   {
+    "season": 6,
+    "mode": "2v2",
+    "champion": "THUNDER & BOW"
    }
   ]
  },
- "problems": [],
+ "problems": [
+  "The last daily run had 1 problem(s) (a render or upload failed). Check pipeline/daily.log or ask Claude."
+ ],
  "delta_24h": {
   "yt_subs": 1,
-  "yt_views": 1233,
+  "yt_views": 141,
   "tt_views": null,
   "ig_views": null
  }
