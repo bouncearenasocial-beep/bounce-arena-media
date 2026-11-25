@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T20:05:02-08:00",
+ "updated": "2026-11-24T21:05:02-08:00",
  "youtube": {
-  "subs": 71,
+  "subs": 72,
   "views": 101458,
   "videos": 150,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 371,
-    "likes": 3,
+    "views": 531,
+    "likes": 6,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
    },
@@ -27,8 +27,8 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 115,
-    "likes": 2,
+    "views": 120,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
    },
@@ -37,7 +37,7 @@
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
     "views": 1004,
-    "likes": 13,
+    "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
    },
@@ -72,7 +72,7 @@
     "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
-    "views": 1055,
+    "views": 1056,
     "likes": 14,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
@@ -119,15 +119,15 @@
    {
     "game": "algo_war",
     "videos": 13,
-    "views": 13473,
+    "views": 13474,
     "likes": 152,
     "avg_views": 1036
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11268,
-    "likes": 73,
+    "views": 11269,
+    "likes": 72,
     "avg_views": 1024
    },
    {
@@ -147,9 +147,9 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13124,
-    "likes": 147,
-    "avg_views": 875
+    "views": 13284,
+    "likes": 150,
+    "avg_views": 886
    },
    {
     "game": "paint_war",
@@ -182,8 +182,8 @@
    {
     "game": "tournament",
     "videos": 41,
-    "views": 24088,
-    "likes": 202,
+    "views": 24093,
+    "likes": 201,
     "avg_views": 588
    },
    {
@@ -333,7 +333,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2491
+  "last_48h": 2656
  },
  "social": null,
  "social_age_h": null,
@@ -455,7 +455,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 1,
+  "yt_subs": 2,
   "yt_views": 2638,
   "tt_views": null,
   "ig_views": null
