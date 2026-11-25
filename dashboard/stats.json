@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:05:02-08:00",
+ "updated": "2026-11-25T13:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 103629,
@@ -9,8 +9,8 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 41,
-    "likes": 0,
+    "views": 56,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
    },
@@ -18,7 +18,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 881,
+    "views": 882,
     "likes": 7,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
@@ -36,8 +36,8 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 256,
-    "likes": 6,
+    "views": 262,
+    "likes": 7,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
    },
@@ -82,7 +82,7 @@
     "game": "algo_war",
     "published": "2026-11-22T22:00:04Z",
     "views": 1059,
-    "likes": 14,
+    "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    },
@@ -131,7 +131,7 @@
     "game": "algo_war",
     "videos": 13,
     "views": 13513,
-    "likes": 153,
+    "likes": 154,
     "avg_views": 1039
    },
    {
@@ -151,7 +151,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13634,
+    "views": 13635,
     "likes": 151,
     "avg_views": 909
    },
@@ -193,8 +193,8 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24273,
-    "likes": 206,
+    "views": 24294,
+    "likes": 208,
     "avg_views": 578
    },
    {
@@ -344,7 +344,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 3181
+  "last_48h": 3203
  },
  "social": null,
  "social_age_h": null,
