@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-25T23:05:03-08:00",
+ "updated": "2026-11-26T00:05:02-08:00",
  "youtube": {
   "subs": 72,
-  "views": 103629,
+  "views": 103845,
   "videos": 153,
   "recent": [
    {
@@ -209,11 +209,6 @@
    }
   ],
   "daily": [
-   {
-    "date": "2026-10-29",
-    "views": 1701,
-    "subs": 2
-   },
    {
     "date": "2026-10-30",
     "views": 2273,
@@ -470,7 +465,7 @@
  ],
  "delta_24h": {
   "yt_subs": 0,
-  "yt_views": 2030,
+  "yt_views": 2246,
   "tt_views": null,
   "ig_views": null
  }
