@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-26T13:05:02-08:00",
+ "updated": "2026-11-26T14:05:01-08:00",
  "youtube": {
   "subs": 72,
   "views": 104083,
-  "videos": 155,
+  "videos": 156,
   "recent": [
+   {
+    "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
+    "game": "algo_war",
+    "published": "2026-11-26T22:00:25Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=Fagh50K9E1M"
+   },
    {
     "title": "Season 6 Doubles Tournament: The Full Bracket \ud83c\udfc6 THUNDER & BOW Wins It All?",
     "game": "other",
@@ -18,8 +27,8 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 22,
-    "likes": 0,
+    "views": 35,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
    },
@@ -27,7 +36,7 @@
     "title": "THUNDER vs BOMBER: Who Takes the Whole Board? \ud83c\udfa8",
     "game": "turf_war",
     "published": "2026-11-26T03:00:24Z",
-    "views": 6,
+    "views": 7,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HeY4tklxVvg"
@@ -45,7 +54,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 169,
+    "views": 178,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -81,7 +90,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1035,
+    "views": 1031,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=w22Qr2cLAVs"
-   },
-   {
-    "title": "Every Gap = 1 Point \u2b55 Who Wins?",
-    "game": "ring_escape",
-    "published": "2026-11-23T03:00:21Z",
-    "views": 2,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=yBxxvssrJpk"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-26T22:00:00Z",
-    "game": "algo_war",
-    "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!"
-   },
    {
     "time": "2026-11-27T03:00:00Z",
     "game": "ball_battle",
@@ -128,16 +123,9 @@
   ],
   "by_game": [
    {
-    "game": "algo_war",
-    "videos": 13,
-    "views": 13596,
-    "likes": 154,
-    "avg_views": 1046
-   },
-   {
     "game": "glass_break",
     "videos": 11,
-    "views": 11302,
+    "views": 11298,
     "likes": 72,
     "avg_views": 1027
    },
@@ -147,6 +135,13 @@
     "views": 5943,
     "likes": 41,
     "avg_views": 990
+   },
+   {
+    "game": "algo_war",
+    "videos": 14,
+    "views": 13594,
+    "likes": 154,
+    "avg_views": 971
    },
    {
     "game": "ring_battle",
@@ -193,7 +188,7 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24523,
+    "views": 24532,
     "likes": 208,
     "avg_views": 584
    },
@@ -207,9 +202,9 @@
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 28,
-    "likes": 0,
-    "avg_views": 14
+    "views": 42,
+    "likes": 1,
+    "avg_views": 21
    },
    {
     "game": "weekly_compilation",
@@ -351,7 +346,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2336
+  "last_48h": 1290
  },
  "social": null,
  "social_age_h": null,
