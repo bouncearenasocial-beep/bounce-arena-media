@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:05:02-08:00",
+ "updated": "2026-11-26T11:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 104083,
@@ -9,7 +9,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 1,
+    "views": 22,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -18,8 +18,8 @@
     "title": "THUNDER vs BOMBER: Who Takes the Whole Board? \ud83c\udfa8",
     "game": "turf_war",
     "published": "2026-11-26T03:00:24Z",
-    "views": 5,
-    "likes": 1,
+    "views": 6,
+    "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HeY4tklxVvg"
    },
@@ -36,7 +36,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 154,
+    "views": 169,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -54,8 +54,8 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 1066,
-    "likes": 11,
+    "views": 1069,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
    },
@@ -72,7 +72,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1025,
+    "views": 1031,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -135,14 +135,14 @@
    {
     "game": "algo_war",
     "videos": 13,
-    "views": 13593,
-    "likes": 155,
+    "views": 13596,
+    "likes": 154,
     "avg_views": 1046
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11292,
+    "views": 11298,
     "likes": 72,
     "avg_views": 1027
    },
@@ -198,9 +198,9 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24498,
+    "views": 24513,
     "likes": 208,
-    "avg_views": 583
+    "avg_views": 584
    },
    {
     "game": "brain_teaser",
@@ -210,18 +210,18 @@
     "avg_views": 471
    },
    {
+    "game": "turf_war",
+    "videos": 2,
+    "views": 28,
+    "likes": 0,
+    "avg_views": 14
+   },
+   {
     "game": "weekly_compilation",
     "videos": 6,
     "views": 29,
     "likes": 0,
     "avg_views": 5
-   },
-   {
-    "game": "turf_war",
-    "videos": 2,
-    "views": 6,
-    "likes": 1,
-    "avg_views": 3
    }
   ],
   "daily": [
@@ -351,7 +351,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2295
+  "last_48h": 2335
  },
  "social": null,
  "social_age_h": null,
