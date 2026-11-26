@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-26T11:05:02-08:00",
+ "updated": "2026-11-26T12:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 104083,
-  "videos": 154,
+  "videos": 155,
   "recent": [
+   {
+    "title": "Season 6 Doubles Tournament: The Full Bracket \ud83c\udfc6 THUNDER & BOW Wins It All?",
+    "game": "other",
+    "published": "2026-11-26T20:00:30Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=HpBOuStk9-E"
+   },
    {
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
@@ -45,7 +54,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 1069,
+    "views": 1070,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
@@ -63,7 +72,7 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 364,
+    "views": 374,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
@@ -103,23 +112,9 @@
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=yBxxvssrJpk"
-   },
-   {
-    "title": "3 Algorithms Fight for the Board \ud83e\udde0 Pick One!",
-    "game": "algo_war",
-    "published": "2026-11-22T22:00:04Z",
-    "views": 1061,
-    "likes": 15,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-26T20:00:00Z",
-    "game": "other",
-    "title": "Season 6 Doubles Tournament: The Full Bracket \ud83c\udfc6 THUNDER & BOW Wins It All?"
-   },
    {
     "time": "2026-11-26T22:00:00Z",
     "game": "algo_war",
@@ -149,16 +144,16 @@
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5941,
+    "views": 5943,
     "likes": 41,
     "avg_views": 990
    },
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13822,
+    "views": 13823,
     "likes": 152,
-    "avg_views": 921
+    "avg_views": 922
    },
    {
     "game": "gravity_race",
@@ -198,7 +193,7 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24513,
+    "views": 24523,
     "likes": 208,
     "avg_views": 584
    },
@@ -349,9 +344,14 @@
     "date": "2026-11-23",
     "views": 1473,
     "subs": 2
+   },
+   {
+    "date": "2026-11-24",
+    "views": 2170,
+    "subs": 2
    }
   ],
-  "last_48h": 2335
+  "last_48h": 2336
  },
  "social": null,
  "social_age_h": null,
