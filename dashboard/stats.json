@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:05:02-08:00",
+ "updated": "2026-11-26T01:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 103845,
@@ -27,7 +27,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 106,
+    "views": 123,
     "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -54,8 +54,8 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 333,
-    "likes": 7,
+    "views": 336,
+    "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
    },
@@ -63,7 +63,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1016,
+    "views": 1018,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -126,7 +126,7 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11283,
+    "views": 11285,
     "likes": 72,
     "avg_views": 1026
    },
@@ -182,9 +182,9 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24415,
-    "likes": 208,
-    "avg_views": 581
+    "views": 24435,
+    "likes": 209,
+    "avg_views": 582
    },
    {
     "game": "brain_teaser",
@@ -335,7 +335,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2320
+  "last_48h": 2340
  },
  "social": null,
  "social_age_h": null,
