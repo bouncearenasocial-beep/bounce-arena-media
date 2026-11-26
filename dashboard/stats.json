@@ -1,10 +1,19 @@
 {
- "updated": "2026-11-26T09:05:03-08:00",
+ "updated": "2026-11-26T10:05:02-08:00",
  "youtube": {
   "subs": 72,
-  "views": 103845,
-  "videos": 153,
+  "views": 104083,
+  "videos": 154,
   "recent": [
+   {
+    "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
+    "game": "turf_war",
+    "published": "2026-11-26T18:00:10Z",
+    "views": 1,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
+   },
    {
     "title": "THUNDER vs BOMBER: Who Takes the Whole Board? \ud83c\udfa8",
     "game": "turf_war",
@@ -103,23 +112,9 @@
     "likes": 15,
     "comments": 0,
     "url": "https://youtube.com/watch?v=IZIqMgOjAwQ"
-   },
-   {
-    "title": "Bounce Arena Weekly #6: 19 Battles, Races & Showdowns \ud83c\udfc6",
-    "game": "weekly_compilation",
-    "published": "2026-11-22T20:00:04Z",
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=2CiBzkthqYg"
    }
   ],
   "upcoming": [
-   {
-    "time": "2026-11-26T18:00:00Z",
-    "game": "turf_war",
-    "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?"
-   },
    {
     "time": "2026-11-26T20:00:00Z",
     "game": "other",
@@ -203,7 +198,7 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24497,
+    "views": 24498,
     "likes": 208,
     "avg_views": 583
    },
@@ -215,18 +210,18 @@
     "avg_views": 471
    },
    {
-    "game": "turf_war",
-    "videos": 1,
-    "views": 5,
-    "likes": 1,
-    "avg_views": 5
-   },
-   {
     "game": "weekly_compilation",
     "videos": 6,
     "views": 29,
     "likes": 0,
     "avg_views": 5
+   },
+   {
+    "game": "turf_war",
+    "videos": 2,
+    "views": 6,
+    "likes": 1,
+    "avg_views": 3
    }
   ],
   "daily": [
@@ -347,7 +342,7 @@
    },
    {
     "date": "2026-11-22",
-    "views": 2340,
+    "views": 2320,
     "subs": 2
    },
    {
@@ -356,7 +351,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2658
+  "last_48h": 2295
  },
  "social": null,
  "social_age_h": null,
@@ -484,7 +479,7 @@
  "problems": [],
  "delta_24h": {
   "yt_subs": 0,
-  "yt_views": 2246,
+  "yt_views": 454,
   "tt_views": null,
   "ig_views": null
  }
