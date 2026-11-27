@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:05:03-08:00",
+ "updated": "2026-11-27T07:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 104399,
@@ -63,7 +63,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 243,
+    "views": 240,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -81,7 +81,7 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 1093,
+    "views": 1092,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
@@ -119,7 +119,7 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14656,
+    "views": 14655,
     "likes": 172,
     "avg_views": 1047
    },
@@ -182,14 +182,14 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24633,
+    "views": 24630,
     "likes": 210,
     "avg_views": 586
    },
    {
     "game": "brain_teaser",
     "videos": 10,
-    "views": 4744,
+    "views": 4745,
     "likes": 37,
     "avg_views": 474
    },
@@ -335,7 +335,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2391
+  "last_48h": 2388
  },
  "social": null,
  "social_age_h": null,
