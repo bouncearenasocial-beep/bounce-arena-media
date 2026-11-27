@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:05:02-08:00",
+ "updated": "2026-11-27T03:05:03-08:00",
  "youtube": {
   "subs": 76,
   "views": 104399,
@@ -36,7 +36,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 103,
+    "views": 105,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13841,
+    "views": 13840,
     "likes": 152,
     "avg_views": 923
    },
@@ -196,7 +196,7 @@
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 119,
+    "views": 121,
     "likes": 3,
     "avg_views": 60
    },
@@ -335,7 +335,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2347
+  "last_48h": 2349
  },
  "social": null,
  "social_age_h": null,
