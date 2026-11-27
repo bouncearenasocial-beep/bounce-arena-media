@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-26T21:05:02-08:00",
+ "updated": "2026-11-26T22:05:02-08:00",
  "youtube": {
-  "subs": 76,
+  "subs": 77,
   "views": 104399,
   "videos": 157,
   "recent": [
@@ -9,8 +9,8 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 284,
-    "likes": 4,
+    "views": 547,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
    },
@@ -36,7 +36,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 86,
+    "views": 83,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -63,8 +63,8 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 212,
-    "likes": 2,
+    "views": 219,
+    "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
    },
@@ -99,7 +99,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1043,
+    "views": 1049,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -119,28 +119,28 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14614,
+    "views": 14606,
     "likes": 171,
-    "avg_views": 1044
+    "avg_views": 1043
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11314,
+    "views": 11320,
     "likes": 72,
     "avg_views": 1029
    },
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5945,
+    "views": 5943,
     "likes": 42,
-    "avg_views": 991
+    "avg_views": 990
    },
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13837,
+    "views": 13833,
     "likes": 152,
     "avg_views": 922
    },
@@ -154,16 +154,16 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10833,
+    "views": 10834,
     "likes": 68,
     "avg_views": 833
    },
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 10286,
-    "likes": 113,
-    "avg_views": 791
+    "views": 10548,
+    "likes": 119,
+    "avg_views": 811
    },
    {
     "game": "ring_escape",
@@ -182,23 +182,23 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24589,
-    "likes": 209,
-    "avg_views": 585
+    "views": 24594,
+    "likes": 210,
+    "avg_views": 586
    },
    {
     "game": "brain_teaser",
     "videos": 10,
-    "views": 4744,
+    "views": 4735,
     "likes": 37,
     "avg_views": 474
    },
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 101,
+    "views": 98,
     "likes": 2,
-    "avg_views": 50
+    "avg_views": 49
    },
    {
     "game": "weekly_compilation",
@@ -340,7 +340,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 1599
+  "last_48h": 1866
  },
  "social": null,
  "social_age_h": null,
@@ -467,7 +467,7 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 4,
+  "yt_subs": 5,
   "yt_views": 770,
   "tt_views": null,
   "ig_views": null
