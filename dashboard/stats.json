@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-26T20:05:02-08:00",
+ "updated": "2026-11-26T21:05:02-08:00",
  "youtube": {
-  "subs": 74,
-  "views": 104083,
+  "subs": 76,
+  "views": 104399,
   "videos": 157,
   "recent": [
    {
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 65,
-    "likes": 1,
+    "views": 284,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
    },
@@ -18,7 +18,7 @@
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 981,
+    "views": 991,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
@@ -36,7 +36,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 83,
+    "views": 86,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -45,7 +45,7 @@
     "title": "THUNDER vs BOMBER: Who Takes the Whole Board? \ud83c\udfa8",
     "game": "turf_war",
     "published": "2026-11-26T03:00:24Z",
-    "views": 13,
+    "views": 15,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HeY4tklxVvg"
@@ -72,7 +72,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 1070,
+    "views": 1077,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
@@ -81,7 +81,7 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 1088,
+    "views": 1078,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
@@ -90,7 +90,7 @@
     "title": "Doubles Semifinal 2: GHOST & CLAWS vs LASER & HAMMER \u2694\ufe0f Who Advances?",
     "game": "tournament",
     "published": "2026-11-24T18:00:24Z",
-    "views": 374,
+    "views": 377,
     "likes": 8,
     "comments": 0,
     "url": "https://youtube.com/watch?v=3-zW1TaqvHM"
@@ -99,7 +99,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1045,
+    "views": 1043,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -119,28 +119,28 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14605,
+    "views": 14614,
     "likes": 171,
-    "avg_views": 1043
+    "avg_views": 1044
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11316,
+    "views": 11314,
     "likes": 72,
     "avg_views": 1029
    },
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5943,
-    "likes": 41,
-    "avg_views": 990
+    "views": 5945,
+    "likes": 42,
+    "avg_views": 991
    },
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13826,
+    "views": 13837,
     "likes": 152,
     "avg_views": 922
    },
@@ -155,15 +155,15 @@
     "game": "paint_war",
     "videos": 13,
     "views": 10833,
-    "likes": 67,
+    "likes": 68,
     "avg_views": 833
    },
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 10066,
-    "likes": 109,
-    "avg_views": 774
+    "views": 10286,
+    "likes": 113,
+    "avg_views": 791
    },
    {
     "game": "ring_escape",
@@ -175,30 +175,30 @@
    {
     "game": "maze_race",
     "videos": 5,
-    "views": 3162,
+    "views": 3164,
     "likes": 19,
-    "avg_views": 632
+    "avg_views": 633
    },
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24585,
+    "views": 24589,
     "likes": 209,
     "avg_views": 585
    },
    {
     "game": "brain_teaser",
     "videos": 10,
-    "views": 4735,
+    "views": 4744,
     "likes": 37,
     "avg_views": 474
    },
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 96,
+    "views": 101,
     "likes": 2,
-    "avg_views": 48
+    "avg_views": 50
    },
    {
     "game": "weekly_compilation",
@@ -340,7 +340,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 1365
+  "last_48h": 1599
  },
  "social": null,
  "social_age_h": null,
@@ -467,8 +467,8 @@
  },
  "problems": [],
  "delta_24h": {
-  "yt_subs": 2,
-  "yt_views": 454,
+  "yt_subs": 4,
+  "yt_views": 770,
   "tt_views": null,
   "ig_views": null
  }
