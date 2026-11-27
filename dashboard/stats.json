@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:05:02-08:00",
+ "updated": "2026-11-26T20:05:02-08:00",
  "youtube": {
   "subs": 74,
   "views": 104083,
@@ -9,8 +9,8 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 0,
-    "likes": 0,
+    "views": 65,
+    "likes": 1,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
    },
@@ -18,8 +18,8 @@
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 734,
-    "likes": 19,
+    "views": 981,
+    "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
    },
@@ -36,7 +36,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 50,
+    "views": 83,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -54,7 +54,7 @@
     "title": "Find the Odd One Out \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-25T22:00:10Z",
-    "views": 4,
+    "views": 11,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_99f-pBB_e0"
@@ -63,7 +63,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 192,
+    "views": 212,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -81,7 +81,7 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 1078,
+    "views": 1088,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
@@ -99,7 +99,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1039,
+    "views": 1045,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -117,18 +117,18 @@
   "upcoming": [],
   "by_game": [
    {
-    "game": "glass_break",
-    "videos": 11,
-    "views": 11310,
-    "likes": 72,
-    "avg_views": 1028
-   },
-   {
     "game": "algo_war",
     "videos": 14,
-    "views": 14346,
-    "likes": 173,
-    "avg_views": 1025
+    "views": 14605,
+    "likes": 171,
+    "avg_views": 1043
+   },
+   {
+    "game": "glass_break",
+    "videos": 11,
+    "views": 11316,
+    "likes": 72,
+    "avg_views": 1029
    },
    {
     "game": "squish_split",
@@ -161,16 +161,16 @@
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 10001,
-    "likes": 108,
-    "avg_views": 769
+    "views": 10066,
+    "likes": 109,
+    "avg_views": 774
    },
    {
     "game": "ring_escape",
     "videos": 5,
-    "views": 3367,
+    "views": 3368,
     "likes": 21,
-    "avg_views": 673
+    "avg_views": 674
    },
    {
     "game": "maze_race",
@@ -182,23 +182,23 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24563,
+    "views": 24585,
     "likes": 209,
     "avg_views": 585
    },
    {
     "game": "brain_teaser",
     "videos": 10,
-    "views": 4727,
+    "views": 4735,
     "likes": 37,
-    "avg_views": 473
+    "avg_views": 474
    },
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 63,
+    "views": 96,
     "likes": 2,
-    "avg_views": 32
+    "avg_views": 48
    },
    {
     "game": "weekly_compilation",
@@ -340,7 +340,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 993
+  "last_48h": 1365
  },
  "social": null,
  "social_age_h": null,
