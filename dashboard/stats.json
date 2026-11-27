@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:05:02-08:00",
+ "updated": "2026-11-27T15:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 106700,
@@ -18,8 +18,8 @@
     "title": "BOW vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-27T18:00:09Z",
-    "views": 550,
-    "likes": 11,
+    "views": 699,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=t_9YKXUOgGQ"
    },
@@ -90,7 +90,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 1080,
+    "views": 1077,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
@@ -132,9 +132,9 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11355,
+    "views": 11366,
     "likes": 72,
-    "avg_views": 1032
+    "avg_views": 1033
    },
    {
     "game": "squish_split",
@@ -146,7 +146,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13842,
+    "views": 13839,
     "likes": 152,
     "avg_views": 923
    },
@@ -202,9 +202,9 @@
    {
     "game": "turf_war",
     "videos": 3,
-    "views": 742,
-    "likes": 15,
-    "avg_views": 247
+    "views": 891,
+    "likes": 16,
+    "avg_views": 297
    },
    {
     "game": "weekly_compilation",
@@ -346,7 +346,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2750
+  "last_48h": 2899
  },
  "social": null,
  "social_age_h": null,
