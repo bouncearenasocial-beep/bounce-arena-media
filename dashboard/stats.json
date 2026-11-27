@@ -1,15 +1,24 @@
 {
- "updated": "2026-11-26T18:05:02-08:00",
+ "updated": "2026-11-26T19:05:02-08:00",
  "youtube": {
   "subs": 74,
   "views": 104083,
-  "videos": 156,
+  "videos": 157,
   "recent": [
+   {
+    "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
+    "game": "ball_battle",
+    "published": "2026-11-27T03:00:22Z",
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "url": "https://youtube.com/watch?v=r4susaVI1ek"
+   },
    {
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 733,
+    "views": 734,
     "likes": 19,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
@@ -36,7 +45,7 @@
     "title": "THUNDER vs BOMBER: Who Takes the Whole Board? \ud83c\udfa8",
     "game": "turf_war",
     "published": "2026-11-26T03:00:24Z",
-    "views": 8,
+    "views": 13,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=HeY4tklxVvg"
@@ -45,7 +54,7 @@
     "title": "Find the Odd One Out \ud83d\udc40 3 Levels",
     "game": "brain_teaser",
     "published": "2026-11-25T22:00:10Z",
-    "views": 8,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=_99f-pBB_e0"
@@ -90,7 +99,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1043,
+    "views": 1039,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -99,28 +108,13 @@
     "title": "Follow the Gold Ball \ud83d\udc40 Level 3 Is Brutal",
     "game": "brain_teaser",
     "published": "2026-11-23T22:00:07Z",
-    "views": 2,
+    "views": 4,
     "likes": 0,
     "comments": 0,
     "url": "https://youtube.com/watch?v=rGYc5U7SHlc"
-   },
-   {
-    "title": "Doubles Semifinal 1: CANNON & SHIELD vs THUNDER & BOW \u2694\ufe0f Who Advances?",
-    "game": "tournament",
-    "published": "2026-11-23T18:00:13Z",
-    "views": 48,
-    "likes": 0,
-    "comments": 0,
-    "url": "https://youtube.com/watch?v=w22Qr2cLAVs"
    }
   ],
-  "upcoming": [
-   {
-    "time": "2026-11-27T03:00:00Z",
-    "game": "ball_battle",
-    "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?"
-   }
-  ],
+  "upcoming": [],
   "by_game": [
    {
     "game": "glass_break",
@@ -132,9 +126,9 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14336,
+    "views": 14346,
     "likes": 173,
-    "avg_views": 1024
+    "avg_views": 1025
    },
    {
     "game": "squish_split",
@@ -146,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13823,
+    "views": 13826,
     "likes": 152,
     "avg_views": 922
    },
@@ -160,51 +154,51 @@
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10831,
+    "views": 10833,
     "likes": 67,
     "avg_views": 833
    },
    {
     "game": "ball_battle",
-    "videos": 12,
-    "views": 9998,
+    "videos": 13,
+    "views": 10001,
     "likes": 108,
-    "avg_views": 833
+    "avg_views": 769
    },
    {
     "game": "ring_escape",
     "videos": 5,
-    "views": 3366,
+    "views": 3367,
     "likes": 21,
     "avg_views": 673
    },
    {
     "game": "maze_race",
     "videos": 5,
-    "views": 3161,
+    "views": 3162,
     "likes": 19,
     "avg_views": 632
    },
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24546,
+    "views": 24563,
     "likes": 209,
-    "avg_views": 584
+    "avg_views": 585
    },
    {
     "game": "brain_teaser",
     "videos": 10,
-    "views": 4722,
+    "views": 4727,
     "likes": 37,
-    "avg_views": 472
+    "avg_views": 473
    },
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 58,
+    "views": 63,
     "likes": 2,
-    "avg_views": 29
+    "avg_views": 32
    },
    {
     "game": "weekly_compilation",
@@ -346,7 +340,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2061
+  "last_48h": 993
  },
  "social": null,
  "social_age_h": null,
