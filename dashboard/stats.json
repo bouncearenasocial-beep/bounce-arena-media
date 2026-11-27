@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:05:02-08:00",
+ "updated": "2026-11-27T05:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 104399,
@@ -9,7 +9,7 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 979,
+    "views": 987,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
@@ -18,7 +18,7 @@
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 1011,
+    "views": 1015,
     "likes": 17,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
@@ -36,7 +36,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 117,
+    "views": 118,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -63,7 +63,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 227,
+    "views": 243,
     "likes": 3,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -72,7 +72,7 @@
     "title": "Last Ball Standing Wins \ud83c\udfc6",
     "game": "ring_battle",
     "published": "2026-11-25T03:00:30Z",
-    "views": 1079,
+    "views": 1080,
     "likes": 8,
     "comments": 1,
     "url": "https://youtube.com/watch?v=VM-useVftVM"
@@ -81,7 +81,7 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 1089,
+    "views": 1092,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
@@ -99,7 +99,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1057,
+    "views": 1064,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -119,16 +119,16 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14647,
+    "views": 14654,
     "likes": 171,
-    "avg_views": 1046
+    "avg_views": 1047
    },
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11329,
+    "views": 11336,
     "likes": 72,
-    "avg_views": 1030
+    "avg_views": 1031
    },
    {
     "game": "squish_split",
@@ -140,7 +140,7 @@
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13841,
+    "views": 13842,
     "likes": 152,
     "avg_views": 923
    },
@@ -154,9 +154,9 @@
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 10984,
+    "views": 10992,
     "likes": 119,
-    "avg_views": 845
+    "avg_views": 846
    },
    {
     "game": "paint_war",
@@ -182,7 +182,7 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24617,
+    "views": 24633,
     "likes": 210,
     "avg_views": 586
    },
@@ -196,9 +196,9 @@
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 133,
+    "views": 134,
     "likes": 3,
-    "avg_views": 66
+    "avg_views": 67
    },
    {
     "game": "weekly_compilation",
@@ -335,7 +335,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2361
+  "last_48h": 2390
  },
  "social": null,
  "social_age_h": null,
