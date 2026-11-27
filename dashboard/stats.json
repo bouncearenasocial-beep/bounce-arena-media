@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:05:02-08:00",
+ "updated": "2026-11-27T13:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 106700,
@@ -9,8 +9,8 @@
     "title": "BOW vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-27T18:00:09Z",
-    "views": 198,
-    "likes": 5,
+    "views": 326,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=t_9YKXUOgGQ"
    },
@@ -18,7 +18,7 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 989,
+    "views": 984,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
@@ -45,8 +45,8 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 171,
-    "likes": 3,
+    "views": 174,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
    },
@@ -165,9 +165,9 @@
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 10994,
+    "views": 10989,
     "likes": 119,
-    "avg_views": 846
+    "avg_views": 845
    },
    {
     "game": "paint_war",
@@ -207,9 +207,9 @@
    {
     "game": "turf_war",
     "videos": 3,
-    "views": 385,
-    "likes": 8,
-    "avg_views": 128
+    "views": 516,
+    "likes": 10,
+    "avg_views": 172
    },
    {
     "game": "weekly_compilation",
@@ -351,7 +351,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2403
+  "last_48h": 2529
  },
  "social": null,
  "social_age_h": null,
