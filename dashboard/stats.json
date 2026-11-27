@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:05:02-08:00",
+ "updated": "2026-11-26T17:05:02-08:00",
  "youtube": {
   "subs": 72,
   "views": 104083,
@@ -9,8 +9,8 @@
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 14,
-    "likes": 0,
+    "views": 217,
+    "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
    },
@@ -27,8 +27,8 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 35,
-    "likes": 1,
+    "views": 50,
+    "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
    },
@@ -54,7 +54,7 @@
     "title": "THE DOUBLES FINAL: THUNDER & BOW vs LASER & HAMMER \ud83c\udfc6 Who Become Champions?",
     "game": "tournament",
     "published": "2026-11-25T18:00:09Z",
-    "views": 191,
+    "views": 192,
     "likes": 2,
     "comments": 0,
     "url": "https://youtube.com/watch?v=edQRyXU0oeQ"
@@ -90,7 +90,7 @@
     "title": "Every Hit Breaks the Ball... Can They Break It All? \ud83d\udca5",
     "game": "glass_break",
     "published": "2026-11-24T03:00:35Z",
-    "views": 1035,
+    "views": 1039,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=pEIZOFCw06w"
@@ -125,9 +125,9 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11302,
+    "views": 11306,
     "likes": 72,
-    "avg_views": 1027
+    "avg_views": 1028
    },
    {
     "game": "squish_split",
@@ -139,9 +139,9 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 13615,
-    "likes": 154,
-    "avg_views": 972
+    "views": 13818,
+    "likes": 158,
+    "avg_views": 987
    },
    {
     "game": "ring_battle",
@@ -188,7 +188,7 @@
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24545,
+    "views": 24546,
     "likes": 209,
     "avg_views": 584
    },
@@ -202,9 +202,9 @@
    {
     "game": "turf_war",
     "videos": 2,
-    "views": 42,
-    "likes": 1,
-    "avg_views": 21
+    "views": 57,
+    "likes": 2,
+    "avg_views": 28
    },
    {
     "game": "weekly_compilation",
@@ -346,7 +346,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 1317
+  "last_48h": 1536
  },
  "social": null,
  "social_age_h": null,
