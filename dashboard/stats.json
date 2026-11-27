@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:05:02-08:00",
+ "updated": "2026-11-27T01:05:03-08:00",
  "youtube": {
   "subs": 76,
   "views": 104399,
@@ -9,8 +9,8 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 832,
-    "likes": 11,
+    "views": 979,
+    "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
    },
@@ -126,44 +126,44 @@
    {
     "game": "glass_break",
     "videos": 11,
-    "views": 11320,
+    "views": 11321,
     "likes": 72,
     "avg_views": 1029
    },
    {
     "game": "squish_split",
     "videos": 6,
-    "views": 5945,
+    "views": 5947,
     "likes": 42,
     "avg_views": 991
    },
    {
     "game": "ring_battle",
     "videos": 15,
-    "views": 13837,
+    "views": 13839,
     "likes": 152,
-    "avg_views": 922
+    "avg_views": 923
    },
    {
     "game": "gravity_race",
     "videos": 2,
-    "views": 1816,
+    "views": 1818,
     "likes": 6,
-    "avg_views": 908
+    "avg_views": 909
    },
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 10834,
-    "likes": 120,
-    "avg_views": 833
+    "views": 10984,
+    "likes": 119,
+    "avg_views": 845
    },
    {
     "game": "paint_war",
     "videos": 13,
-    "views": 10835,
+    "views": 10838,
     "likes": 68,
-    "avg_views": 833
+    "avg_views": 834
    },
    {
     "game": "ring_escape",
@@ -175,14 +175,14 @@
    {
     "game": "maze_race",
     "videos": 5,
-    "views": 3164,
+    "views": 3165,
     "likes": 19,
     "avg_views": 633
    },
    {
     "game": "tournament",
     "videos": 42,
-    "views": 24607,
+    "views": 24608,
     "likes": 210,
     "avg_views": 586
    },
@@ -335,7 +335,7 @@
     "subs": 2
    }
   ],
-  "last_48h": 2180
+  "last_48h": 2327
  },
  "social": null,
  "social_age_h": null,
