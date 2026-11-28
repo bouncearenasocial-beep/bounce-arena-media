@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:05:02-08:00",
+ "updated": "2026-11-27T16:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 106700,
@@ -18,8 +18,8 @@
     "title": "BOW vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-27T18:00:09Z",
-    "views": 699,
-    "likes": 12,
+    "views": 810,
+    "likes": 11,
     "comments": 0,
     "url": "https://youtube.com/watch?v=t_9YKXUOgGQ"
    },
@@ -36,8 +36,8 @@
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 1021,
-    "likes": 19,
+    "views": 1024,
+    "likes": 18,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
    },
@@ -54,7 +54,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 176,
+    "views": 190,
     "likes": 4,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -125,8 +125,8 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14666,
-    "likes": 173,
+    "views": 14669,
+    "likes": 172,
     "avg_views": 1048
    },
    {
@@ -202,9 +202,9 @@
    {
     "game": "turf_war",
     "videos": 3,
-    "views": 891,
-    "likes": 16,
-    "avg_views": 297
+    "views": 1016,
+    "likes": 15,
+    "avg_views": 339
    },
    {
     "game": "weekly_compilation",
@@ -346,7 +346,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 2899
+  "last_48h": 3027
  },
  "social": null,
  "social_age_h": null,
