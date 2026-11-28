@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:05:02-08:00",
+ "updated": "2026-11-28T06:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 107615,
@@ -27,7 +27,7 @@
     "title": "BOW vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-27T18:00:09Z",
-    "views": 1000,
+    "views": 1016,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=t_9YKXUOgGQ"
@@ -193,18 +193,18 @@
     "avg_views": 587
    },
    {
+    "game": "turf_war",
+    "videos": 3,
+    "views": 1305,
+    "likes": 18,
+    "avg_views": 435
+   },
+   {
     "game": "brain_teaser",
     "videos": 11,
     "views": 4744,
     "likes": 37,
     "avg_views": 431
-   },
-   {
-    "game": "turf_war",
-    "videos": 3,
-    "views": 1289,
-    "likes": 18,
-    "avg_views": 430
    },
    {
     "game": "weekly_compilation",
@@ -341,7 +341,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4446
+  "last_48h": 4462
  },
  "social": null,
  "social_age_h": null,
