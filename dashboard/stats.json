@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:05:01-08:00",
+ "updated": "2026-11-28T01:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 107615,
@@ -27,7 +27,7 @@
     "title": "BOW vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-27T18:00:09Z",
-    "views": 986,
+    "views": 987,
     "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=t_9YKXUOgGQ"
@@ -45,8 +45,8 @@
     "title": "Algorithm Duel: GREEDY vs SPLITTER \ud83e\udde0 Pick One!",
     "game": "algo_war",
     "published": "2026-11-26T22:00:25Z",
-    "views": 1042,
-    "likes": 19,
+    "views": 1045,
+    "likes": 20,
     "comments": 0,
     "url": "https://youtube.com/watch?v=Fagh50K9E1M"
    },
@@ -63,7 +63,7 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 219,
+    "views": 235,
     "likes": 5,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
@@ -119,8 +119,8 @@
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14689,
-    "likes": 173,
+    "views": 14692,
+    "likes": 174,
     "avg_views": 1049
    },
    {
@@ -196,9 +196,9 @@
    {
     "game": "turf_war",
     "videos": 3,
-    "views": 1221,
+    "views": 1238,
     "likes": 17,
-    "avg_views": 407
+    "avg_views": 413
    },
    {
     "game": "weekly_compilation",
@@ -335,7 +335,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4119
+  "last_48h": 4139
  },
  "social": null,
  "social_age_h": null,
@@ -346,8 +346,8 @@
    "failures": 0
   },
   "sleep": {
-   "start": "2026-11-21 01:00:02",
-   "done": true,
+   "start": "2026-11-28 01:00:01",
+   "done": false,
    "failures": 0
   },
   "compilation": {
@@ -364,8 +364,8 @@
   },
   "Bounce Arena Weekly Sleep": {
    "next": "12/5/2026 12:00:00 AM",
-   "last": "11/21/2026 1:00:00 AM",
-   "result": "0"
+   "last": "11/28/2026 1:00:00 AM",
+   "result": "267009"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/29/2026 4:00:00 AM",
