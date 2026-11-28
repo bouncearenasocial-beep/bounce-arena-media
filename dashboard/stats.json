@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:05:02-08:00",
+ "updated": "2026-11-28T03:05:01-08:00",
  "youtube": {
   "subs": 76,
   "views": 107615,
@@ -9,7 +9,7 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe3 \ud83d\udfe0 \ud83d\udfe1 \ud83d\udfe2",
     "game": "ring_battle",
     "published": "2026-11-28T03:00:38Z",
-    "views": 868,
+    "views": 1101,
     "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=BpXtF4Q2AS8"
@@ -27,8 +27,8 @@
     "title": "BOW vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-27T18:00:09Z",
-    "views": 994,
-    "likes": 13,
+    "views": 1000,
+    "likes": 12,
     "comments": 0,
     "url": "https://youtube.com/watch?v=t_9YKXUOgGQ"
    },
@@ -36,7 +36,7 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 1004,
+    "views": 1007,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
@@ -63,8 +63,8 @@
     "title": "BOOMERANG vs FROST \ud83c\udfa8 Total Takeover or Photo Finish?",
     "game": "turf_war",
     "published": "2026-11-26T18:00:10Z",
-    "views": 235,
-    "likes": 5,
+    "views": 273,
+    "likes": 6,
     "comments": 0,
     "url": "https://youtube.com/watch?v=UoYEKk4p2ho"
    },
@@ -108,20 +108,26 @@
     "title": "RADAR + SCANNER vs SPIRAL + CHECKERS \ud83e\udde0 Which Team Wins?",
     "game": "algo_war",
     "published": "2026-11-24T22:00:23Z",
-    "views": 1099,
+    "views": 1100,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=pl_dBTakToQ"
    }
   ],
-  "upcoming": [],
+  "upcoming": [
+   {
+    "time": "2026-11-29T04:00:00Z",
+    "game": "other",
+    "title": "Drift Off \ud83c\udf19 2 Hours of Soft Glowing Lights & Ambient Music for Sleep"
+   }
+  ],
   "by_game": [
    {
     "game": "algo_war",
     "videos": 14,
-    "views": 14692,
+    "views": 14693,
     "likes": 174,
-    "avg_views": 1049
+    "avg_views": 1050
    },
    {
     "game": "glass_break",
@@ -139,9 +145,9 @@
    },
    {
     "game": "ring_battle",
-    "videos": 16,
-    "views": 14708,
-    "likes": 164,
+    "videos": 17,
+    "views": 15619,
+    "likes": 171,
     "avg_views": 919
    },
    {
@@ -154,16 +160,16 @@
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 11009,
+    "views": 11012,
     "likes": 119,
     "avg_views": 847
    },
    {
     "game": "paint_war",
-    "videos": 14,
-    "views": 10970,
+    "videos": 13,
+    "views": 10838,
     "likes": 68,
-    "avg_views": 784
+    "avg_views": 834
    },
    {
     "game": "ring_escape",
@@ -196,9 +202,9 @@
    {
     "game": "turf_war",
     "videos": 3,
-    "views": 1245,
+    "views": 1289,
     "likes": 18,
-    "avg_views": 415
+    "avg_views": 430
    },
    {
     "game": "weekly_compilation",
@@ -335,7 +341,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 4146
+  "last_48h": 4426
  },
  "social": null,
  "social_age_h": null,
@@ -347,7 +353,7 @@
   },
   "sleep": {
    "start": "2026-11-28 01:00:01",
-   "done": false,
+   "done": true,
    "failures": 0
   },
   "compilation": {
@@ -365,7 +371,7 @@
   "Bounce Arena Weekly Sleep": {
    "next": "12/5/2026 12:00:00 AM",
    "last": "11/28/2026 1:00:00 AM",
-   "result": "267009"
+   "result": "0"
   },
   "Bounce Arena Weekly Compilation": {
    "next": "11/29/2026 4:00:00 AM",
