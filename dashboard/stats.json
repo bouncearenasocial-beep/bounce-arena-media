@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:05:01-08:00",
+ "updated": "2026-11-27T23:05:02-08:00",
  "youtube": {
   "subs": 76,
   "views": 107615,
@@ -9,8 +9,8 @@
     "title": "Cross a Line, It Breaks... Who Survives? \ud83d\udfe3 \ud83d\udfe0 \ud83d\udfe1 \ud83d\udfe2",
     "game": "ring_battle",
     "published": "2026-11-28T03:00:38Z",
-    "views": 742,
-    "likes": 13,
+    "views": 868,
+    "likes": 12,
     "comments": 1,
     "url": "https://youtube.com/watch?v=BpXtF4Q2AS8"
    },
@@ -36,7 +36,7 @@
     "title": "CLAWS & DAGGER vs BOW & SPEAR \u2694\ufe0f Which Team Wins?",
     "game": "ball_battle",
     "published": "2026-11-27T03:00:22Z",
-    "views": 1002,
+    "views": 1004,
     "likes": 10,
     "comments": 0,
     "url": "https://youtube.com/watch?v=r4susaVI1ek"
@@ -140,9 +140,9 @@
    {
     "game": "ring_battle",
     "videos": 16,
-    "views": 14582,
-    "likes": 165,
-    "avg_views": 911
+    "views": 14708,
+    "likes": 164,
+    "avg_views": 919
    },
    {
     "game": "gravity_race",
@@ -154,7 +154,7 @@
    {
     "game": "ball_battle",
     "videos": 13,
-    "views": 11007,
+    "views": 11009,
     "likes": 119,
     "avg_views": 847
    },
@@ -183,7 +183,7 @@
     "game": "tournament",
     "videos": 42,
     "views": 24664,
-    "likes": 210,
+    "likes": 211,
     "avg_views": 587
    },
    {
@@ -340,7 +340,7 @@
     "subs": 0
    }
   ],
-  "last_48h": 3975
+  "last_48h": 4103
  },
  "social": null,
  "social_age_h": null,
